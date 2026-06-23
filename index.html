@@ -128,21 +128,14 @@ function toggle(el){el.classList.toggle('open')}
 function filterNums(q){
   const term=q.trim().toLowerCase();
   document.querySelectorAll('.pattern-block').forEach(block=>{
-    if(!term){
-      block.style.display='';
-      block.querySelectorAll('.num-chip,.state-group').forEach(el=>{el.style.display='';});
-      return;
-    }
+    if(!term){block.style.display='';block.querySelectorAll('.num-chip,.state-group').forEach(el=>{el.style.display='';});return;}
+    const code=(block.querySelector('.pattern-code')?.textContent||'').toLowerCase();
+    if(code.includes(term)){block.style.display='';block.querySelectorAll('.num-chip,.state-group').forEach(el=>{el.style.display='';});return;}
     let blockHit=false;
     block.querySelectorAll('.state-group').forEach(sg=>{
       let sgHit=false;
-      sg.querySelectorAll('.num-chip').forEach(chip=>{
-        const match=chip.textContent.toLowerCase().includes(term);
-        chip.style.display=match?'':'none';
-        if(match) sgHit=true;
-      });
-      sg.style.display=sgHit?'':'none';
-      if(sgHit) blockHit=true;
+      sg.querySelectorAll('.num-chip').forEach(chip=>{const match=chip.textContent.toLowerCase().includes(term);chip.style.display=match?'':'none';if(match)sgHit=true;});
+      sg.style.display=sgHit?'':'none';if(sgHit)blockHit=true;
     });
     block.style.display=blockHit?'':'none';
   });
