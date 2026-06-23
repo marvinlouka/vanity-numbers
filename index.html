@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>US Vanity Repeater Numbers — TossableDigits</title>
+<title>US Vanity Repeater Numbers</title>
 <style>
 :root{--bg:#0f1117;--surface:#1a1d27;--card:#1e2130;--border:#2e3347;--accent:#4f8ef7;--accent2:#7c3aed;--green:#22c55e;--yellow:#eab308;--text:#e2e8f0;--muted:#64748b;--tag-bg:#1e3a5f}
 *{box-sizing:border-box;margin:0;padding:0}
@@ -53,7 +53,7 @@ main{padding:20px 32px}
 <header>
   <div style="display:flex;align-items:center;flex-wrap:wrap;gap:8px">
     <h1>US Vanity <span>Repeater</span> Numbers</h1>
-    <span class="badge"><span class="dot"></span>Live from TossableDigits</span>
+    <span class="badge"><span class="dot"></span>Updated Daily</span>
   </div>
   <p class="subtitle">Repeating-digit phone numbers available in the US &mdash; updated daily</p>
 </header>
@@ -73,7 +73,7 @@ async function load(){
 }
 function tdLink(num){
   const digits=num.replace(/\D/g,'').slice(1);
-  return 'https://www.tossabledigits.com/findnumber.php?query='+digits+'&subftr=vanity&doSearch=Search';
+  return ''+digits+'&subftr=vanity&doSearch=Search';
 }
 function render(d){
   const s=d.summary;
@@ -106,9 +106,9 @@ function render(d){
   }
   html+='<div class="section-header" style="margin-top:28px"><h2>4-zeros (0000) &mdash; '+d.pattern_0000.total+' available across '+d.pattern_0000.state_count+' states</h2><hr></div>';
   html+='<div class="pattern-block open"><div class="pattern-header" onclick="toggle(this.parentElement)"><div style="display:flex;align-items:center;gap:10px"><span class="pattern-code">X-0000-X</span><span class="pattern-count"><em>'+d.pattern_0000.total+'</em> US results across '+d.pattern_0000.state_count+' states</span></div><span class="chevron">&#9660;</span></div><div class="pattern-body">';
-  html+='<div class="state-label" style="margin-bottom:8px">States available (click a number to search TossableDigits by state)</div><div class="num-grid" style="margin-bottom:12px">';
+  html+='<div class="state-label" style="margin-bottom:8px">States available (filter by state on request)</div><div class="num-grid" style="margin-bottom:12px">';
   for(const st of d.pattern_0000.states){
-    html+='<div class="num-chip" style="background:var(--surface)"><a href="https://www.tossabledigits.com/findnumber.php?query=0000&subftr=vanity&region='+encodeURIComponent(st.state)+'&doSearch=Search" target="_blank">'+st.state+'</a><br><span class="loc">'+st.count+' numbers</span></div>';
+    html+='<div class="num-chip" style="background:var(--surface)">'+st.state+'<br><span class="loc">'+st.count+' numbers</span></div>';
   }
   html+='</div><div class="state-label">Sample numbers</div><div class="num-grid">';
   for(const n of d.pattern_0000.sample){
@@ -119,7 +119,7 @@ function render(d){
   html+='<div style="color:var(--muted);font-size:.88rem;padding:8px 0">';
   for(const p of d.patterns_6){html+='<div style="margin-bottom:4px"><span style="font-family:monospace;color:var(--text)">'+p.pattern+'</span> &mdash; '+p.status+'</div>';}
   html+='</div>';
-  html+='<p style="margin-top:32px;color:var(--muted);font-size:.78rem">Last updated: '+d.date+' &nbsp;&bull;&nbsp; Source: <a href="https://www.tossabledigits.com" target="_blank" style="color:var(--accent)">TossableDigits.com</a> &nbsp;&bull;&nbsp; US numbers only, no toll-free</p>';
+  html+='<p style="margin-top:32px;color:var(--muted);font-size:.78rem">Last updated: '+d.date+' &nbsp;&bull;&nbsp; &nbsp;&bull;&nbsp; US numbers only, no toll-free</p>';
   document.getElementById('main').innerHTML=html;
   document.getElementById('loading').remove?.();
 }
