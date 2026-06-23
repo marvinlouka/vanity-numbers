@@ -89,7 +89,7 @@ function render(d){
     html+='<div class="pattern-block'+(hasResults?' open':'')+'" data-pattern="'+p.pattern+'">';
     html+='<div class="pattern-header" onclick="toggle(this.parentElement)">';
     html+='<div style="display:flex;align-items:center;gap:10px"><span class="pattern-code">'+p.pattern+'</span>';
-    html+='<span class="pattern-count"><em>'+p.count+'</em> US results</span></div>';
+    html+='<span class="pattern-count"><em>'+p.states.reduce((a,s)=>a+s.numbers.length,0)+'</em> US results</span></div>';
     html+='<span class="chevron">&#9660;</span></div>';
     html+='<div class="pattern-body">';
     if(!hasResults){html+='<p class="status-note">No US results currently available.</p>';}
