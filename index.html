@@ -106,15 +106,14 @@ function render(d){
   }
   html+='<div class="section-header" style="margin-top:28px"><h2>4-zeros (0000) &mdash; '+d.pattern_0000.total+' available across '+d.pattern_0000.state_count+' states</h2><hr></div>';
   html+='<div class="pattern-block open"><div class="pattern-header" onclick="toggle(this.parentElement)"><div style="display:flex;align-items:center;gap:10px"><span class="pattern-code">X-0000-X</span><span class="pattern-count"><em>'+d.pattern_0000.total+'</em> US results across '+d.pattern_0000.state_count+' states</span></div><span class="chevron">&#9660;</span></div><div class="pattern-body">';
-  html+='<div class="state-label" style="margin-bottom:8px">States available (filter by state on request)</div><div class="num-grid" style="margin-bottom:12px">';
   for(const st of d.pattern_0000.states){
-    html+='<div class="num-chip" style="background:var(--surface)">'+st.state+'<br><span class="loc">'+st.count+' numbers</span></div>';
+    html+='<div class="state-group"><span class="state-label">'+st.state+(st.note?' <span class="note">'+st.note+'</span>':'')+'</span>';
+    for(const n of st.numbers){
+      html+='<span class="num-chip">'+n.number+'</span>';
+    }
+    html+='</div>';
   }
-  html+='</div><div class="state-label">Sample numbers</div><div class="num-grid">';
-  for(const n of d.pattern_0000.sample){
-    html+='<div class="num-chip">'+n.number+'<br><span class="loc">'+n.location+'</span></div>';
-  }
-  html+='</div></div></div>';
+  html+='</div></div>';
   html+='<div class="section-header" style="margin-top:28px"><h2>6-in-a-row &mdash; no US results</h2><hr></div>';
   html+='<div style="color:var(--muted);font-size:.88rem;padding:8px 0">';
   for(const p of d.patterns_6){html+='<div style="margin-bottom:4px"><span style="font-family:monospace;color:var(--text)">'+p.pattern+'</span> &mdash; '+p.status+'</div>';}
