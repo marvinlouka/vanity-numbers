@@ -2,32 +2,141 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>US Vanity Repeater Numbers — TossableDigits</title>
 <style>
-:root{--bg:#0f1117;--surface:#1a1d27;--border:#2e3347;--accent:#4f8ef7;--text:#e2e8f0;--muted:#64748b;--green:#22c55e}
+:root{--bg:#0f1117;--surface:#1a1d27;--card:#1e2130;--border:#2e3347;--accent:#4f8ef7;--accent2:#7c3aed;--green:#22c55e;--yellow:#eab308;--text:#e2e8f0;--muted:#64748b;--tag-bg:#1e3a5f}
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center}
-.card{text-align:center;max-width:480px;padding:48px 32px;background:var(--surface);border:1px solid var(--border);border-radius:16px}
-h1{font-size:1.8rem;font-weight:700;margin-bottom:6px}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;min-height:100vh}
+header{background:linear-gradient(135deg,#1a1d27,#0f1117);border-bottom:1px solid var(--border);padding:24px 32px 16px}
+h1{font-size:1.5rem;font-weight:700}
 h1 span{color:var(--accent)}
-.subtitle{color:var(--muted);font-size:.9rem;margin-top:8px}
-.badge{display:inline-flex;align-items:center;gap:6px;background:var(--bg);border:1px solid var(--border);border-radius:20px;padding:5px 14px;font-size:.78rem;color:var(--muted);margin-top:20px}
+.badge{display:inline-flex;align-items:center;gap:6px;background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:4px 12px;font-size:.78rem;color:var(--muted);margin-left:12px}
 .dot{width:7px;height:7px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
-.note{margin-top:28px;color:var(--muted);font-size:.85rem;line-height:1.6}
-a{color:var(--accent);text-decoration:none}
+.subtitle{margin-top:4px;color:var(--muted);font-size:.88rem}
+.search-bar{margin:16px 32px 0;position:relative;max-width:480px}
+.search-bar input{width:100%;background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:10px 16px 10px 40px;color:var(--text);font-size:.95rem;outline:none;transition:border-color .2s}
+.search-bar input:focus{border-color:var(--accent)}
+.search-bar input::placeholder{color:var(--muted)}
+.search-icon{position:absolute;left:13px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:.9rem}
+.stats-bar{display:flex;gap:24px;padding:14px 32px;border-bottom:1px solid var(--border);flex-wrap:wrap}
+.stat{display:flex;flex-direction:column}
+.stat-val{font-size:1.3rem;font-weight:700;color:var(--accent)}
+.stat-label{font-size:.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+main{padding:20px 32px}
+.section-header{display:flex;align-items:center;gap:10px;margin:24px 0 12px;padding-bottom:8px;border-bottom:1px solid var(--border)}
+.section-header h2{font-size:.78rem;text-transform:uppercase;letter-spacing:1px;color:var(--muted)}
+.section-header hr{flex:1;border:none;border-top:1px solid var(--border)}
+.pattern-block{margin-bottom:8px;background:var(--card);border:1px solid var(--border);border-radius:10px;overflow:hidden}
+.pattern-header{display:flex;align-items:center;justify-content:space-between;padding:11px 15px;cursor:pointer;user-select:none;border-bottom:1px solid var(--border);transition:background .15s}
+.pattern-header:hover{background:var(--surface)}
+.pattern-code{font-family:'SF Mono','Fira Code',monospace;font-size:1rem;font-weight:700;color:var(--accent)}
+.pattern-count{font-size:.82rem;color:var(--muted)}
+.pattern-count em{color:var(--text);font-style:normal;font-weight:600}
+.chevron{color:var(--muted);font-size:.8rem;transition:transform .2s}
+.pattern-body{display:none;padding:12px 15px}
+.pattern-block.open .pattern-body{display:block}
+.pattern-block.open .chevron{transform:rotate(180deg)}
+.state-group{margin-bottom:10px}
+.state-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin-bottom:5px}
+.num-grid{display:flex;flex-wrap:wrap;gap:5px}
+.num-chip{background:var(--tag-bg);border:1px solid #2a4a7f;border-radius:6px;padding:4px 9px;font-size:.82rem;font-family:'SF Mono','Fira Code',monospace}
+.num-chip a{color:var(--accent);text-decoration:none}
+.num-chip .loc{color:var(--muted);font-size:.75rem;font-family:inherit}
+.status-note{color:var(--muted);font-size:.88rem;padding:8px 0}
+.hidden{display:none!important}
+#loading{padding:40px 32px;color:var(--muted)}
 </style>
 </head>
 <body>
-<div class="card">
-  <h1>US Vanity <span>Repeater</span> Numbers</h1>
-  <p class="subtitle">Repeating-digit phone numbers available on TossableDigits.com</p>
-  <div class="badge"><span class="dot"></span>Updating daily</div>
-  <p class="note">
-    Full data loading — this page auto-updates every day.<br>
-    Source: <a href="https://www.tossabledigits.com" target="_blank">TossableDigits.com</a>
-  </p>
-</div>
+<header>
+  <div style="display:flex;align-items:center;flex-wrap:wrap;gap:8px">
+    <h1>US Vanity <span>Repeater</span> Numbers</h1>
+    <span class="badge"><span class="dot"></span>Live from TossableDigits</span>
+  </div>
+  <p class="subtitle">Repeating-digit phone numbers available in the US &mdash; updated daily</p>
+</header>
+<div class="search-bar"><span class="search-icon">&#128269;</span><input type="text" id="search" placeholder="Search area code, city, state…" oninput="filterNums(this.value)"></div>
+<div class="stats-bar" id="stats"></div>
+<main id="main"><div id="loading">Loading data…</div></main>
+<script>
+let allData=null;
+async function load(){
+  try{
+    const r=await fetch('./data.json?_='+Date.now());
+    allData=await r.json();
+    render(allData);
+  }catch(e){
+    document.getElementById('loading').textContent='Could not load data. '+e.message;
+  }
+}
+function tdLink(num){
+  const digits=num.replace(/\D/g,'').slice(1);
+  return 'https://www.tossabledigits.com/findnumber.php?query='+digits+'&subftr=vanity&doSearch=Search';
+}
+function render(d){
+  const s=d.summary;
+  document.getElementById('stats').innerHTML=
+    stat(s.total_5_in_a_row,'5-in-a-row available')+
+    stat(s.patterns_with_results,'patterns with results')+
+    stat(s.total_0000,'4-zeros available')+
+    stat(s.state_count_0000,'states for 0000');
+  let html='';
+  html+='<div class="section-header"><h2>5-in-a-row repeaters</h2><hr></div>';
+  for(const p of d.patterns_5){
+    const hasResults=p.count>0;
+    html+='<div class="pattern-block'+(hasResults?' open':'')+'" data-pattern="'+p.pattern+'">';
+    html+='<div class="pattern-header" onclick="toggle(this.parentElement)">';
+    html+='<div style="display:flex;align-items:center;gap:10px"><span class="pattern-code">'+p.pattern+'</span>';
+    html+='<span class="pattern-count"><em>'+p.count+'</em> US results</span></div>';
+    html+='<span class="chevron">&#9660;</span></div>';
+    html+='<div class="pattern-body">';
+    if(!hasResults){html+='<p class="status-note">No US results currently available.</p>';}
+    else{
+      for(const st of p.states){
+        html+='<div class="state-group"><div class="state-label">'+st.state+' ('+st.count+')</div><div class="num-grid">';
+        for(const n of st.numbers){
+          html+='<div class="num-chip"><a href="'+tdLink(n.number)+'" target="_blank">'+n.number+'</a><br><span class="loc">'+n.location+'</span></div>';
+        }
+        html+='</div></div>';
+      }
+    }
+    html+='</div></div>';
+  }
+  html+='<div class="section-header" style="margin-top:28px"><h2>4-zeros (0000) &mdash; '+d.pattern_0000.total+' available across '+d.pattern_0000.state_count+' states</h2><hr></div>';
+  html+='<div class="pattern-block open"><div class="pattern-header" onclick="toggle(this.parentElement)"><div style="display:flex;align-items:center;gap:10px"><span class="pattern-code">X-0000-X</span><span class="pattern-count"><em>'+d.pattern_0000.total+'</em> US results across '+d.pattern_0000.state_count+' states</span></div><span class="chevron">&#9660;</span></div><div class="pattern-body">';
+  html+='<div class="state-label" style="margin-bottom:8px">States available (click a number to search TossableDigits by state)</div><div class="num-grid" style="margin-bottom:12px">';
+  for(const st of d.pattern_0000.states){
+    html+='<div class="num-chip" style="background:var(--surface)"><a href="https://www.tossabledigits.com/findnumber.php?query=0000&subftr=vanity&region='+encodeURIComponent(st.state)+'&doSearch=Search" target="_blank">'+st.state+'</a><br><span class="loc">'+st.count+' numbers</span></div>';
+  }
+  html+='</div><div class="state-label">Sample numbers</div><div class="num-grid">';
+  for(const n of d.pattern_0000.sample){
+    html+='<div class="num-chip"><a href="'+tdLink(n.number)+'" target="_blank">'+n.number+'</a><br><span class="loc">'+n.location+'</span></div>';
+  }
+  html+='</div></div></div>';
+  html+='<div class="section-header" style="margin-top:28px"><h2>6-in-a-row &mdash; no US results</h2><hr></div>';
+  html+='<div style="color:var(--muted);font-size:.88rem;padding:8px 0">';
+  for(const p of d.patterns_6){html+='<div style="margin-bottom:4px"><span style="font-family:monospace;color:var(--text)">'+p.pattern+'</span> &mdash; '+p.status+'</div>';}
+  html+='</div>';
+  html+='<p style="margin-top:32px;color:var(--muted);font-size:.78rem">Last updated: '+d.date+' &nbsp;&bull;&nbsp; Source: <a href="https://www.tossabledigits.com" target="_blank" style="color:var(--accent)">TossableDigits.com</a> &nbsp;&bull;&nbsp; US numbers only, no toll-free</p>';
+  document.getElementById('main').innerHTML=html;
+  document.getElementById('loading').remove?.();
+}
+function stat(v,l){return '<div class="stat"><div class="stat-val">'+v+'</div><div class="stat-label">'+l+'</div></div>';}
+function toggle(el){el.classList.toggle('open')}
+function filterNums(q){
+  if(!q){document.querySelectorAll('.num-chip,.state-group,.pattern-block').forEach(e=>e.classList.remove('hidden'));return;}
+  q=q.toLowerCase();
+  document.querySelectorAll('.num-chip').forEach(chip=>{
+    chip.classList.toggle('hidden',!chip.textContent.toLowerCase().includes(q));
+  });
+  document.querySelectorAll('.state-group').forEach(sg=>{
+    const visible=[...sg.querySelectorAll('.num-chip')].some(c=>!c.classList.contains('hidden'));
+    sg.classList.toggle('hidden',!visible);
+  });
+}
+load();
+</script>
 </body>
 </html>
