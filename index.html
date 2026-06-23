@@ -97,7 +97,7 @@ function render(d){
       for(const st of p.states){
         html+='<div class="state-group"><div class="state-label">'+st.state+' ('+st.count+')'+(st.note?'<span style="font-size:.72rem;color:#64748b;font-weight:400"> — '+st.note+'</span>':'')+  '</div><div class="num-grid">';
         for(const n of st.numbers){
-          html+='<div class="num-chip"><a href="'+tdLink(n.number)+'" target="_blank">'+n.number+'</a><br><span class="loc">'+n.location+'</span></div>';
+          html+='<div class="num-chip">'+n.number+'<br><span class="loc">'+n.location+'</span></div>';
         }
         html+='</div></div>';
       }
@@ -112,7 +112,7 @@ function render(d){
   }
   html+='</div><div class="state-label">Sample numbers</div><div class="num-grid">';
   for(const n of d.pattern_0000.sample){
-    html+='<div class="num-chip"><a href="'+tdLink(n.number)+'" target="_blank">'+n.number+'</a><br><span class="loc">'+n.location+'</span></div>';
+    html+='<div class="num-chip">'+n.number+'<br><span class="loc">'+n.location+'</span></div>';
   }
   html+='</div></div></div>';
   html+='<div class="section-header" style="margin-top:28px"><h2>6-in-a-row &mdash; no US results</h2><hr></div>';
@@ -126,14 +126,25 @@ function render(d){
 function stat(v,l){return '<div class="stat"><div class="stat-val">'+v+'</div><div class="stat-label">'+l+'</div></div>';}
 function toggle(el){el.classList.toggle('open')}
 function filterNums(q){
-  if(!q){document.querySelectorAll('.num-chip,.state-group,.pattern-block').forEach(e=>e.classList.remove('hidden'));return;}
-  q=q.toLowerCase();
-  document.querySelectorAll('.num-chip').forEach(chip=>{
-    chip.classList.toggle('hidden',!chip.textContent.toLowerCase().includes(q));
-  });
-  document.querySelectorAll('.state-group').forEach(sg=>{
-    const visible=[...sg.querySelectorAll('.num-chip')].some(c=>!c.classList.contains('hidden'));
-    sg.classList.toggle('hidden',!visible);
+  const term=q.trim().toLowerCase();
+  document.querySelectorAll('.pattern-block').forEach(block=>{
+    if(!term){
+      block.style.display='';
+      block.querySelectorAll('.num-chip,.state-group').forEach(el=>{el.style.display='';});
+      return;
+    }
+    let blockHit=false;
+    block.querySelectorAll('.state-group').forEach(sg=>{
+      let sgHit=false;
+      sg.querySelectorAll('.num-chip').forEach(chip=>{
+        const match=chip.textContent.toLowerCase().includes(term);
+        chip.style.display=match?'':'none';
+        if(match) sgHit=true;
+      });
+      sg.style.display=sgHit?'':'none';
+      if(sgHit) blockHit=true;
+    });
+    block.style.display=blockHit?'':'none';
   });
 }
 load();
