@@ -95,7 +95,7 @@ function render(d){
     if(!hasResults){html+='<p class="status-note">No US results currently available.</p>';}
     else{
       for(const st of p.states){
-        html+='<div class="state-group"><div class="state-label">'+st.state+' ('+st.count+')</div><div class="num-grid">';
+        html+='<div class="state-group"><div class="state-label">'+st.state+' ('+st.count+')'+(st.note?'<span style="font-size:.72rem;color:#64748b;font-weight:400"> — '+st.note+'</span>':'')+  '</div>'<div class="num-grid">';
         for(const n of st.numbers){
           html+='<div class="num-chip"><a href="'+tdLink(n.number)+'" target="_blank">'+n.number+'</a><br><span class="loc">'+n.location+'</span></div>';
         }
