@@ -19,7 +19,7 @@
   },
   {
    "pattern": "22222",
-   "count": 123,
+   "count": 125,
    "states": [
     {
      "state": "Alabama",
@@ -41,7 +41,7 @@
     },
     {
      "state": "Georgia",
-     "count": 99,
+     "count": 100,
      "numbers": [
       {
        "number": "+1 706 522 2226",
@@ -249,6 +249,10 @@
       },
       {
        "number": "+1 762 222 2336",
+       "location": "Augusta, GA"
+      },
+      {
+       "number": "+1 762 222 2339",
        "location": "Augusta, GA"
       },
       {
@@ -485,8 +489,12 @@
     },
     {
      "state": "New Jersey",
-     "count": 1,
+     "count": 2,
      "numbers": [
+      {
+       "number": "+1 856 322 2226",
+       "location": "Camden, NJ"
+      },
       {
        "number": "+1 856 322 2229",
        "location": "Camden, NJ"
@@ -4950,15 +4958,15 @@
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8726",
-       "location": "Atlanta, GA"
-      },
-      {
        "number": "+1 678 888 8727",
        "location": "Atlanta, GA"
       },
       {
        "number": "+1 678 888 8728",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8729",
        "location": "Atlanta, GA"
       },
       {
@@ -6509,7 +6517,7 @@
   },
   {
    "pattern": "99999",
-   "count": 288,
+   "count": 286,
    "states": [
     {
      "state": "Alabama",
@@ -7239,7 +7247,7 @@
     },
     {
      "state": "Colorado",
-     "count": 64,
+     "count": 62,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -7323,10 +7331,6 @@
       },
       {
        "number": "+1 719 999 9231",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9249",
        "location": "Colorado Springs, CO"
       },
       {
@@ -7439,10 +7443,6 @@
       },
       {
        "number": "+1 719 999 9658",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9686",
        "location": "Colorado Springs, CO"
       },
       {
@@ -7727,7 +7727,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 904,
+  "total": 907,
   "state_count": 44,
   "states": [
    {
@@ -7872,8 +7872,12 @@
    },
    {
     "state": "Arkansas",
-    "count": 13,
+    "count": 14,
     "numbers": [
+     {
+      "number": "+1 479 370 0009",
+      "location": "Alma, AR"
+     },
      {
       "number": "+1 479 410 0002",
       "location": "Van Buren, AR"
@@ -7930,7 +7934,7 @@
    },
    {
     "state": "California",
-    "count": 57,
+    "count": 58,
     "numbers": [
      {
       "number": "+1 350 200 0029",
@@ -8159,6 +8163,10 @@
      {
       "number": "+1 909 600 0072",
       "location": "Fontana, CA"
+     },
+     {
+      "number": "+1 916 800 0074",
+      "location": "Sacramento, CA"
      }
     ]
    },
@@ -8462,7 +8470,7 @@
    },
    {
     "state": "Florida",
-    "count": 82,
+    "count": 83,
     "numbers": [
      {
       "number": "+1 239 900 0049",
@@ -8478,6 +8486,10 @@
      },
      {
       "number": "+1 352 600 0053",
+      "location": "Brooksville, FL"
+     },
+     {
+      "number": "+1 352 600 0068",
       "location": "Brooksville, FL"
      },
      {
@@ -9074,12 +9086,8 @@
    },
    {
     "state": "Kansas",
-    "count": 11,
+    "count": 10,
     "numbers": [
-     {
-      "number": "+1 620 236 0000",
-      "location": "Chetopa, KS"
-     },
      {
       "number": "+1 785 335 0000",
       "location": "Scandia, KS"
@@ -9216,12 +9224,8 @@
    },
    {
     "state": "Maryland",
-    "count": 11,
+    "count": 10,
     "numbers": [
-     {
-      "number": "+1 227 240 0007",
-      "location": "Kensington, MD"
-     },
      {
       "number": "+1 443 920 0008",
       "location": "Sykesville, MD"
@@ -9628,10 +9632,14 @@
    },
    {
     "state": "Nebraska",
-    "count": 18,
+    "count": 19,
     "numbers": [
      {
       "number": "+1 402 500 0015",
+      "location": "Norfolk, NE"
+     },
+     {
+      "number": "+1 402 500 0016",
       "location": "Norfolk, NE"
      },
      {
@@ -9988,7 +9996,7 @@
    },
    {
     "state": "New York",
-    "count": 126,
+    "count": 125,
     "numbers": [
      {
       "number": "+1 315 710 0009",
@@ -10192,10 +10200,6 @@
      },
      {
       "number": "+1 631 900 0086",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0087",
       "location": "Northport, NY"
      },
      {
@@ -10996,11 +11000,19 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 7,
+    "count": 9,
     "numbers": [
+     {
+      "number": "+1 484 630 0009",
+      "location": "Ironton, PA"
+     },
      {
       "number": "+1 570 520 0008",
       "location": "Berwick, PA"
+     },
+     {
+      "number": "+1 582 210 0003",
+      "location": "Boalsburg, PA"
      },
      {
       "number": "+1 724 590 0004",
@@ -11657,7 +11669,7 @@
  "summary": {
   "total_5_in_a_row": 1772,
   "patterns_with_results": 9,
-  "total_0000": 904,
+  "total_0000": 907,
   "state_count_0000": 44
  }
 }

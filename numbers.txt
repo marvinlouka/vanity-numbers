@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
 Updated: 2026-08-04
-1772 five-in-a-row · 904 four-zeros across 44 states
+1772 five-in-a-row · 907 four-zeros across 44 states
 
 ====================================================
 5 IN A ROW
@@ -11,14 +11,14 @@ Updated: 2026-08-04
   OHIO (1)
     +1 567 621 1111   Ft Recovery, OH
 
---- 22222 — 123 numbers ---
+--- 22222 — 125 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
     +1 938 722 2226   Section, AL
     +1 938 722 2229   Section, AL
 
-  GEORGIA (99)
+  GEORGIA (100)
     +1 706 522 2226   Elberton, GA
     +1 762 222 2003   Augusta, GA
     +1 762 222 2004   Augusta, GA
@@ -71,6 +71,7 @@ Updated: 2026-08-04
     +1 762 222 2321   Augusta, GA
     +1 762 222 2325   Augusta, GA
     +1 762 222 2336   Augusta, GA
+    +1 762 222 2339   Augusta, GA
     +1 762 222 2341   Augusta, GA
     +1 762 222 2372   Augusta, GA
     +1 762 222 2379   Augusta, GA
@@ -131,7 +132,8 @@ Updated: 2026-08-04
   NEBRASKA (1)
     +1 308 422 2221   Wilsonville, NE
 
-  NEW JERSEY (1)
+  NEW JERSEY (2)
+    +1 856 322 2226   Camden, NJ
     +1 856 322 2229   Camden, NJ
 
   NEW YORK (2)
@@ -1286,9 +1288,9 @@ Updated: 2026-08-04
     +1 678 888 8723   Atlanta, GA
     +1 678 888 8724   Atlanta, GA
     +1 678 888 8725   Atlanta, GA
-    +1 678 888 8726   Atlanta, GA
     +1 678 888 8727   Atlanta, GA
     +1 678 888 8728   Atlanta, GA
+    +1 678 888 8729   Atlanta, GA
     +1 678 888 8901   Atlanta, GA
     +1 678 888 8906   Atlanta, GA
     +1 678 888 8911   Atlanta, GA
@@ -1680,7 +1682,7 @@ Updated: 2026-08-04
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 288 numbers ---
+--- 99999 — 286 numbers ---
 
   ALABAMA (180)
     +1 251 999 9913   Mobile, AL
@@ -1864,7 +1866,7 @@ Updated: 2026-08-04
     +1 659 999 9865   Winfield, AL
     +1 659 999 9875   Winfield, AL
 
-  COLORADO (64)
+  COLORADO (62)
     +1 719 999 9018   Colorado Springs, CO
     +1 719 999 9023   Colorado Springs, CO
     +1 719 999 9027   Colorado Springs, CO
@@ -1886,7 +1888,6 @@ Updated: 2026-08-04
     +1 719 999 9204   Colorado Springs, CO
     +1 719 999 9211   Colorado Springs, CO
     +1 719 999 9231   Colorado Springs, CO
-    +1 719 999 9249   Colorado Springs, CO
     +1 719 999 9284   Colorado Springs, CO
     +1 719 999 9289   Colorado Springs, CO
     +1 719 999 9296   Colorado Springs, CO
@@ -1915,7 +1916,6 @@ Updated: 2026-08-04
     +1 719 999 9650   Colorado Springs, CO
     +1 719 999 9656   Colorado Springs, CO
     +1 719 999 9658   Colorado Springs, CO
-    +1 719 999 9686   Colorado Springs, CO
     +1 719 999 9697   Colorado Springs, CO
     +1 719 999 9750   Colorado Springs, CO
     +1 719 999 9786   Colorado Springs, CO
@@ -1991,7 +1991,7 @@ Updated: 2026-08-04
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 904 numbers across 44 states
+4 ZEROS — 907 numbers across 44 states
 ====================================================
 
   ALABAMA (25)
@@ -2030,7 +2030,8 @@ Updated: 2026-08-04
     +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
-  ARKANSAS (13)
+  ARKANSAS (14)
+    +1 479 370 0009   Alma, AR
     +1 479 410 0002   Van Buren, AR
     +1 479 410 0003   Van Buren, AR
     +1 479 410 0004   Van Buren, AR
@@ -2045,7 +2046,7 @@ Updated: 2026-08-04
     +1 870 600 0079   Ashdown, AR
     +1 870 600 0084   Ashdown, AR
 
-  CALIFORNIA (57)
+  CALIFORNIA (58)
     +1 350 200 0029   Lodi, CA
     +1 350 200 0032   Lodi, CA
     +1 562 580 0004   Long Beach, CA
@@ -2103,6 +2104,7 @@ Updated: 2026-08-04
     +1 909 600 0054   Fontana, CA
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
+    +1 916 800 0074   Sacramento, CA
 
   COLORADO (5)
     +1 719 800 0034   Calhan, CO
@@ -2180,11 +2182,12 @@ Updated: 2026-08-04
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (82)
+  FLORIDA (83)
     +1 239 900 0049   Fort Myers, FL
     +1 352 570 0008   Yankeetown, FL
     +1 352 600 0052   Brooksville, FL
     +1 352 600 0053   Brooksville, FL
+    +1 352 600 0068   Brooksville, FL
     +1 352 780 0004   Belleview, FL
     +1 352 830 0002   Ocala, FL
     +1 352 830 0005   Ocala, FL
@@ -2336,8 +2339,7 @@ Updated: 2026-08-04
     +1 712 800 0070   Glenwood, IA
     +1 712 800 0081   Glenwood, IA
 
-  KANSAS (11)
-    +1 620 236 0000   Chetopa, KS
+  KANSAS (10)
     +1 785 335 0000   Scandia, KS
     +1 785 510 0002   Washington, KS
     +1 785 522 0000   Circleville, KS
@@ -2373,8 +2375,7 @@ Updated: 2026-08-04
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (11)
-    +1 227 240 0007   Kensington, MD
+  MARYLAND (10)
     +1 443 920 0008   Sykesville, MD
     +1 667 400 0016   Baltimore, MD
     +1 667 400 0024   Baltimore, MD
@@ -2479,8 +2480,9 @@ Updated: 2026-08-04
     +1 406 800 0021   Bridger, MT
     +1 406 800 0092   Bridger, MT
 
-  NEBRASKA (18)
+  NEBRASKA (19)
     +1 402 500 0015   Norfolk, NE
+    +1 402 500 0016   Norfolk, NE
     +1 531 300 0031   Creston, NE
     +1 531 300 0032   Creston, NE
     +1 531 300 0034   Creston, NE
@@ -2571,7 +2573,7 @@ Updated: 2026-08-04
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (126)
+  NEW YORK (125)
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
     +1 329 220 0008   Walden, NY
@@ -2623,7 +2625,6 @@ Updated: 2026-08-04
     +1 631 900 0084   Northport, NY
     +1 631 900 0085   Northport, NY
     +1 631 900 0086   Northport, NY
-    +1 631 900 0087   Northport, NY
     +1 631 900 0096   Northport, NY
     +1 680 230 0004   Utica, NY
     +1 680 230 0005   Utica, NY
@@ -2826,8 +2827,10 @@ Updated: 2026-08-04
     +1 971 800 0069   Mill City, OR
     +1 971 800 0071   Mill City, OR
 
-  PENNSYLVANIA (7)
+  PENNSYLVANIA (9)
+    +1 484 630 0009   Ironton, PA
     +1 570 520 0008   Berwick, PA
+    +1 582 210 0003   Boalsburg, PA
     +1 724 590 0004   Irwin, PA
     +1 814 850 0004   Harrison Valley, PA
     +1 814 850 0006   Harrison Valley, PA
