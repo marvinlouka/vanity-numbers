@@ -1,0 +1,47 @@
+name: Update vanity numbers data
+
+on:
+  schedule:
+    # 12:00 UTC daily (08:00 ET / 05:00 PT).
+    # GitHub queues cron jobs on shared runners, so the real start time can
+    # drift by 5-30 minutes. That is normal and does not need fixing.
+    - cron: "0 12 * * *"
+  workflow_dispatch:        # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write           # required so the job can commit the files back
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Scrape tossabledigits
+        run: node scripts/scrape.mjs
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- data.json numbers.txt; then
+            echo "No change - nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json numbers.txt
+          git commit -m "Update vanity numbers $(date -u +%Y-%m-%d)"
+          git push
+
+      # If the scrape or validation fails, the job fails loudly and both files
+      # are left untouched - the site keeps serving the last good data rather
+      # than an empty or half-scraped file.
