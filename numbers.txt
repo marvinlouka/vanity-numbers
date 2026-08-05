@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-04
-1772 five-in-a-row · 907 four-zeros across 44 states
+Updated: 2026-08-05
+1736 five-in-a-row · 893 four-zeros across 44 states
 
 ====================================================
 5 IN A ROW
@@ -11,45 +11,15 @@ Updated: 2026-08-04
   OHIO (1)
     +1 567 621 1111   Ft Recovery, OH
 
---- 22222 — 125 numbers ---
+--- 22222 — 105 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
     +1 938 722 2226   Section, AL
     +1 938 722 2229   Section, AL
 
-  GEORGIA (100)
+  GEORGIA (80)
     +1 706 522 2226   Elberton, GA
-    +1 762 222 2003   Augusta, GA
-    +1 762 222 2004   Augusta, GA
-    +1 762 222 2005   Augusta, GA
-    +1 762 222 2006   Augusta, GA
-    +1 762 222 2007   Augusta, GA
-    +1 762 222 2008   Augusta, GA
-    +1 762 222 2023   Augusta, GA
-    +1 762 222 2028   Augusta, GA
-    +1 762 222 2055   Augusta, GA
-    +1 762 222 2059   Augusta, GA
-    +1 762 222 2063   Augusta, GA
-    +1 762 222 2074   Augusta, GA
-    +1 762 222 2075   Augusta, GA
-    +1 762 222 2079   Augusta, GA
-    +1 762 222 2089   Augusta, GA
-    +1 762 222 2090   Augusta, GA
-    +1 762 222 2092   Augusta, GA
-    +1 762 222 2093   Augusta, GA
-    +1 762 222 2095   Augusta, GA
-    +1 762 222 2097   Augusta, GA
-    +1 762 222 2105   Augusta, GA
-    +1 762 222 2124   Augusta, GA
-    +1 762 222 2125   Augusta, GA
-    +1 762 222 2128   Augusta, GA
-    +1 762 222 2129   Augusta, GA
-    +1 762 222 2135   Augusta, GA
-    +1 762 222 2136   Augusta, GA
-    +1 762 222 2139   Augusta, GA
-    +1 762 222 2140   Augusta, GA
-    +1 762 222 2141   Augusta, GA
     +1 762 222 2146   Augusta, GA
     +1 762 222 2148   Augusta, GA
     +1 762 222 2151   Augusta, GA
@@ -61,9 +31,19 @@ Updated: 2026-08-04
     +1 762 222 2160   Augusta, GA
     +1 762 222 2163   Augusta, GA
     +1 762 222 2164   Augusta, GA
+    +1 762 222 2165   Augusta, GA
+    +1 762 222 2167   Augusta, GA
+    +1 762 222 2168   Augusta, GA
     +1 762 222 2170   Augusta, GA
+    +1 762 222 2174   Augusta, GA
+    +1 762 222 2179   Augusta, GA
     +1 762 222 2182   Augusta, GA
     +1 762 222 2183   Augusta, GA
+    +1 762 222 2185   Augusta, GA
+    +1 762 222 2186   Augusta, GA
+    +1 762 222 2190   Augusta, GA
+    +1 762 222 2191   Augusta, GA
+    +1 762 222 2192   Augusta, GA
     +1 762 222 2304   Augusta, GA
     +1 762 222 2309   Augusta, GA
     +1 762 222 2310   Augusta, GA
@@ -162,7 +142,7 @@ Updated: 2026-08-04
     +1 802 622 2228   Barre, VT
     +1 802 822 2227   Derby Line, VT
 
---- 33333 — 29 numbers ---
+--- 33333 — 28 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
@@ -186,9 +166,8 @@ Updated: 2026-08-04
     +1 551 333 3389   Cliffside Pk, NJ
     +1 551 333 3390   Cliffside Pk, NJ
 
-  NEW YORK (4)
+  NEW YORK (3)
     +1 716 733 3332   Angola, NY
-    +1 716 733 3334   Angola, NY
     +1 716 733 3335   Angola, NY
     +1 845 833 3339   Bloomingburg, NY
 
@@ -209,7 +188,7 @@ Updated: 2026-08-04
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 183 numbers ---
+--- 44444 — 173 numbers ---
 
   ALABAMA (16)
     +1 251 444 4402   Mobile, AL
@@ -229,95 +208,85 @@ Updated: 2026-08-04
     +1 938 444 4457   Decatur, AL
     +1 938 444 4487   Decatur, AL
 
-  CALIFORNIA (93)
+  CALIFORNIA (83)
     +1 424 444 4014   Compton, CA
-    +1 424 444 4019   Compton, CA
     +1 424 444 4021   Compton, CA
     +1 424 444 4030   Compton, CA
     +1 424 444 4031   Compton, CA
     +1 424 444 4038   Compton, CA
     +1 424 444 4039   Compton, CA
     +1 424 444 4099   Compton, CA
-    +1 424 444 4153   Compton, CA
     +1 424 444 4173   Compton, CA
-    +1 424 444 4181   Compton, CA
     +1 424 444 4187   Compton, CA
-    +1 424 444 4188   Compton, CA
     +1 424 444 4196   Compton, CA
     +1 424 444 4203   Compton, CA
-    +1 424 444 4206   Compton, CA
     +1 424 444 4213   Compton, CA
-    +1 424 444 4230   Compton, CA
     +1 424 444 4232   Compton, CA
     +1 424 444 4237   Compton, CA
     +1 424 444 4247   Compton, CA
-    +1 424 444 4252   Compton, CA
     +1 424 444 4254   Compton, CA
     +1 424 444 4601   Compton, CA
-    +1 424 444 4602   Compton, CA
-    +1 424 444 4607   Compton, CA
     +1 424 444 4612   Compton, CA
     +1 424 444 4613   Compton, CA
     +1 424 444 4619   Compton, CA
     +1 424 444 4622   Compton, CA
     +1 424 444 4630   Compton, CA
-    +1 424 444 4632   Compton, CA
     +1 424 444 4640   Compton, CA
-    +1 424 444 4641   Compton, CA
     +1 424 444 4642   Compton, CA
     +1 424 444 4643   Compton, CA
     +1 424 444 4645   Compton, CA
-    +1 424 444 4649   Compton, CA
     +1 424 444 4652   Compton, CA
     +1 424 444 4654   Compton, CA
     +1 424 444 4655   Compton, CA
     +1 424 444 4660   Compton, CA
     +1 424 444 4668   Compton, CA
+    +1 424 444 4671   Compton, CA
+    +1 424 444 4672   Compton, CA
+    +1 424 444 4674   Compton, CA
+    +1 424 444 4675   Compton, CA
+    +1 424 444 4679   Compton, CA
     +1 424 444 4703   Compton, CA
-    +1 424 444 4706   Compton, CA
-    +1 424 444 4707   Compton, CA
     +1 424 444 4708   Compton, CA
-    +1 424 444 4714   Compton, CA
-    +1 424 444 4715   Compton, CA
-    +1 424 444 4716   Compton, CA
-    +1 424 444 4717   Compton, CA
     +1 424 444 4718   Compton, CA
     +1 424 444 4721   Compton, CA
     +1 424 444 4725   Compton, CA
     +1 424 444 4728   Compton, CA
-    +1 424 444 4735   Compton, CA
-    +1 424 444 4737   Compton, CA
     +1 424 444 4740   Compton, CA
     +1 424 444 4742   Compton, CA
     +1 424 444 4743   Compton, CA
     +1 424 444 4753   Compton, CA
     +1 424 444 4755   Compton, CA
     +1 424 444 4757   Compton, CA
+    +1 424 444 4764   Compton, CA
+    +1 424 444 4768   Compton, CA
+    +1 424 444 4771   Compton, CA
+    +1 424 444 4772   Compton, CA
+    +1 424 444 4778   Compton, CA
+    +1 424 444 4784   Compton, CA
+    +1 424 444 4792   Compton, CA
+    +1 424 444 4793   Compton, CA
     +1 424 444 4803   Compton, CA
     +1 424 444 4804   Compton, CA
     +1 424 444 4807   Compton, CA
     +1 424 444 4808   Compton, CA
     +1 424 444 4810   Compton, CA
-    +1 424 444 4812   Compton, CA
     +1 424 444 4813   Compton, CA
     +1 424 444 4814   Compton, CA
     +1 424 444 4820   Compton, CA
     +1 424 444 4821   Compton, CA
-    +1 424 444 4824   Compton, CA
     +1 424 444 4830   Compton, CA
-    +1 424 444 4834   Compton, CA
     +1 424 444 4852   Compton, CA
     +1 424 444 4855   Compton, CA
     +1 424 444 4857   Compton, CA
     +1 424 444 4860   Compton, CA
     +1 424 444 4865   Compton, CA
     +1 424 444 4866   Compton, CA
-    +1 424 444 4870   Compton, CA
+    +1 424 444 4874   Compton, CA
+    +1 424 444 4891   Compton, CA
+    +1 424 444 4895   Compton, CA
     +1 424 444 4902   Compton, CA
     +1 424 444 4966   Compton, CA
     +1 424 444 4973   Compton, CA
-    +1 424 444 4975   Compton, CA
-    +1 424 444 4979   Compton, CA
     +1 424 444 4982   Compton, CA
     +1 424 444 4985   Compton, CA
     +1 424 444 4986   Compton, CA
@@ -591,7 +560,7 @@ Updated: 2026-08-04
     +1 385 666 6670   Provo, UT
     +1 385 666 6692   Provo, UT
 
---- 77777 — 278 numbers ---
+--- 77777 — 275 numbers ---
 
   CALIFORNIA (172)
     +1 657 777 7033   Buena Park, CA
@@ -767,12 +736,11 @@ Updated: 2026-08-04
     +1 657 777 7969   Buena Park, CA
     +1 657 777 7973   Buena Park, CA
 
-  CONNECTICUT (32)
+  CONNECTICUT (30)
     +1 959 777 7704   Hartford, CT
     +1 959 777 7705   Hartford, CT
     +1 959 777 7708   Hartford, CT
     +1 959 777 7709   Hartford, CT
-    +1 959 777 7713   Hartford, CT
     +1 959 777 7714   Hartford, CT
     +1 959 777 7715   Hartford, CT
     +1 959 777 7716   Hartford, CT
@@ -794,7 +762,6 @@ Updated: 2026-08-04
     +1 959 777 7764   Hartford, CT
     +1 959 777 7765   Hartford, CT
     +1 959 777 7785   Hartford, CT
-    +1 959 777 7786   Hartford, CT
     +1 959 777 7791   Hartford, CT
     +1 959 777 7792   Hartford, CT
     +1 959 777 7795   Hartford, CT
@@ -804,9 +771,6 @@ Updated: 2026-08-04
   FLORIDA (2)
     +1 386 777 7732   Holly Hill, FL
     +1 386 777 7782   Holly Hill, FL
-
-  IDAHO (1)
-    +1 208 977 7771   Garden City, ID
 
   IOWA (1)
     +1 563 277 7776   Decorah, IA
@@ -899,7 +863,7 @@ Updated: 2026-08-04
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 757 numbers ---
+--- 88888 — 756 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -1548,7 +1512,7 @@ Updated: 2026-08-04
   NEW YORK (1)
     +1 585 788 8882   Bloomfield, NY
 
-  OREGON (123)
+  OREGON (122)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -1589,7 +1553,6 @@ Updated: 2026-08-04
     +1 458 888 8406   Milton-Freewater, OR
     +1 458 888 8412   Milton-Freewater, OR
     +1 458 888 8422   Milton-Freewater, OR
-    +1 458 888 8425   Milton-Freewater, OR
     +1 458 888 8427   Milton-Freewater, OR
     +1 458 888 8480   Milton-Freewater, OR
     +1 458 888 8494   Milton-Freewater, OR
@@ -1682,7 +1645,7 @@ Updated: 2026-08-04
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 286 numbers ---
+--- 99999 — 285 numbers ---
 
   ALABAMA (180)
     +1 251 999 9913   Mobile, AL
@@ -1933,7 +1896,7 @@ Updated: 2026-08-04
   CONNECTICUT (1)
     +1 959 999 9868   Hartford, CT
 
-  FLORIDA (33)
+  FLORIDA (32)
     +1 239 999 9024   Fort Myers, FL
     +1 239 999 9120   Fort Myers, FL
     +1 239 999 9131   Fort Myers, FL
@@ -1944,7 +1907,6 @@ Updated: 2026-08-04
     +1 239 999 9572   Fort Myers, FL
     +1 239 999 9604   Fort Myers, FL
     +1 239 999 9733   Fort Myers, FL
-    +1 239 999 9847   Fort Myers, FL
     +1 239 999 9881   Fort Myers, FL
     +1 727 999 9903   New Port Richey, FL
     +1 727 999 9908   New Port Richey, FL
@@ -1991,7 +1953,7 @@ Updated: 2026-08-04
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 907 numbers across 44 states
+4 ZEROS — 893 numbers across 44 states
 ====================================================
 
   ALABAMA (25)
@@ -2030,8 +1992,7 @@ Updated: 2026-08-04
     +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
-  ARKANSAS (14)
-    +1 479 370 0009   Alma, AR
+  ARKANSAS (13)
     +1 479 410 0002   Van Buren, AR
     +1 479 410 0003   Van Buren, AR
     +1 479 410 0004   Van Buren, AR
@@ -2046,9 +2007,8 @@ Updated: 2026-08-04
     +1 870 600 0079   Ashdown, AR
     +1 870 600 0084   Ashdown, AR
 
-  CALIFORNIA (58)
+  CALIFORNIA (55)
     +1 350 200 0029   Lodi, CA
-    +1 350 200 0032   Lodi, CA
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0092   Whittier, CA
@@ -2097,14 +2057,12 @@ Updated: 2026-08-04
     +1 747 380 0007   Reseda, CA
     +1 747 380 0008   Reseda, CA
     +1 747 380 0009   Reseda, CA
-    +1 909 600 0018   Fontana, CA
     +1 909 600 0032   Fontana, CA
     +1 909 600 0042   Fontana, CA
     +1 909 600 0053   Fontana, CA
     +1 909 600 0054   Fontana, CA
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
-    +1 916 800 0074   Sacramento, CA
 
   COLORADO (5)
     +1 719 800 0034   Calhan, CO
@@ -2113,7 +2071,7 @@ Updated: 2026-08-04
     +1 720 780 0004   Edgewater, CO
     +1 720 780 0006   Edgewater, CO
 
-  CONNECTICUT (58)
+  CONNECTICUT (57)
     +1 475 600 0091   Ansonia, CT
     +1 860 600 0023   Litchfield, CT
     +1 860 600 0031   Litchfield, CT
@@ -2144,7 +2102,6 @@ Updated: 2026-08-04
     +1 959 400 0098   Torrington, CT
     +1 959 600 0012   Plainfield Village, CT
     +1 959 600 0013   Plainfield Village, CT
-    +1 959 600 0016   Plainfield Village, CT
     +1 959 600 0017   Plainfield Village, CT
     +1 959 600 0018   Plainfield Village, CT
     +1 959 600 0041   Plainfield Village, CT
@@ -2182,7 +2139,7 @@ Updated: 2026-08-04
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (83)
+  FLORIDA (82)
     +1 239 900 0049   Fort Myers, FL
     +1 352 570 0008   Yankeetown, FL
     +1 352 600 0052   Brooksville, FL
@@ -2211,7 +2168,6 @@ Updated: 2026-08-04
     +1 448 600 0067   Jay, FL
     +1 448 600 0076   Jay, FL
     +1 448 850 0006   Greenville, FL
-    +1 727 900 0021   Belleair, FL
     +1 727 900 0031   Belleair, FL
     +1 727 900 0041   Belleair, FL
     +1 727 900 0053   Belleair, FL
@@ -2267,14 +2223,13 @@ Updated: 2026-08-04
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (21)
+  GEORGIA (20)
     +1 470 560 0003   Cumming, GA
     +1 478 287 0000   Perry, GA
     +1 678 890 0006   Carrollton, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 360 0009   Thomaston, GA
     +1 762 400 0046   Athens, GA
-    +1 762 500 0054   Hiawassee, GA
     +1 762 600 0062   Monticello, GA
     +1 762 770 0008   Cleveland, GA
     +1 762 800 0041   Augusta, GA
@@ -2358,12 +2313,13 @@ Updated: 2026-08-04
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (15)
+  LOUISIANA (16)
     +1 225 380 0004   Denham Springs, LA
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
     +1 225 470 0009   White Castle, LA
     +1 225 500 0023   Albany, LA
+    +1 225 500 0024   Albany, LA
     +1 225 500 0026   Albany, LA
     +1 225 500 0031   Albany, LA
     +1 225 500 0042   Albany, LA
@@ -2375,8 +2331,7 @@ Updated: 2026-08-04
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (10)
-    +1 443 920 0008   Sykesville, MD
+  MARYLAND (9)
     +1 667 400 0016   Baltimore, MD
     +1 667 400 0024   Baltimore, MD
     +1 667 400 0027   Baltimore, MD
@@ -2501,8 +2456,7 @@ Updated: 2026-08-04
     +1 531 910 0007   Omaha, NE
     +1 531 910 0009   Omaha, NE
 
-  NEVADA (30)
-    +1 725 910 0002   Nellis Afb, NV
+  NEVADA (28)
     +1 775 600 0063   Carson City, NV
     +1 775 640 0002   Ely, NV
     +1 775 800 0024   Reno, NV
@@ -2520,7 +2474,6 @@ Updated: 2026-08-04
     +1 775 800 0075   Reno, NV
     +1 775 800 0076   Reno, NV
     +1 775 800 0078   Reno, NV
-    +1 775 800 0079   Reno, NV
     +1 775 800 0081   Reno, NV
     +1 775 800 0082   Reno, NV
     +1 775 800 0085   Reno, NV
@@ -2573,7 +2526,7 @@ Updated: 2026-08-04
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (125)
+  NEW YORK (123)
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
     +1 329 220 0008   Walden, NY
@@ -2650,7 +2603,6 @@ Updated: 2026-08-04
     +1 914 600 0021   Jefferson Valley-Yorktown, NY
     +1 914 600 0062   Jefferson Valley-Yorktown, NY
     +1 914 600 0071   Jefferson Valley-Yorktown, NY
-    +1 914 600 0072   Jefferson Valley-Yorktown, NY
     +1 914 600 0075   Jefferson Valley-Yorktown, NY
     +1 914 600 0079   Jefferson Valley-Yorktown, NY
     +1 914 600 0081   Jefferson Valley-Yorktown, NY
@@ -2696,7 +2648,6 @@ Updated: 2026-08-04
     +1 934 500 0052   North Bay Shore, NY
     +1 934 500 0054   North Bay Shore, NY
     +1 934 500 0056   North Bay Shore, NY
-    +1 934 500 0061   North Bay Shore, NY
     +1 934 500 0094   North Bay Shore, NY
     +1 934 500 0096   North Bay Shore, NY
 
@@ -2882,8 +2833,8 @@ Updated: 2026-08-04
     +1 931 820 0006   Clarksville, TN
 
   TEXAS (12)
+    +1 346 410 0006   Houston, TX
     +1 346 590 0006   Houston, TX
-    +1 409 240 0002   Beaumont, TX
     +1 409 240 0008   Beaumont, TX
     +1 409 240 0009   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
@@ -2895,7 +2846,7 @@ Updated: 2026-08-04
     +1 903 420 0008   Corsicana, TX
     +1 903 600 0092   Rice, TX
 
-  UTAH (40)
+  UTAH (39)
     +1 385 480 0002   Provo, UT
     +1 385 480 0003   Provo, UT
     +1 385 480 0005   Provo, UT
@@ -2908,7 +2859,6 @@ Updated: 2026-08-04
     +1 385 900 0018   West Jordan, UT
     +1 385 910 0003   Salt Lake City, UT
     +1 435 500 0013   Delta, UT
-    +1 435 500 0017   Delta, UT
     +1 435 500 0023   Delta, UT
     +1 435 500 0024   Delta, UT
     +1 435 500 0026   Delta, UT
@@ -2945,14 +2895,12 @@ Updated: 2026-08-04
     +1 540 260 0009   Christiansburg, VA
     +1 757 740 0003   Franklin, VA
 
-  WASHINGTON (20)
+  WASHINGTON (18)
     +1 253 660 0002   Tacoma, WA
     +1 253 660 0007   Tacoma, WA
-    +1 509 600 0012   Bridgeport, WA
     +1 509 600 0071   Bridgeport, WA
     +1 509 600 0076   Bridgeport, WA
     +1 509 600 0078   Bridgeport, WA
-    +1 509 600 0081   Bridgeport, WA
     +1 509 600 0082   Bridgeport, WA
     +1 509 600 0083   Bridgeport, WA
     +1 509 600 0085   Bridgeport, WA
