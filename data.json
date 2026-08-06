@@ -1,5 +1,5 @@
 {
- "date": "2026-08-05",
+ "date": "2026-08-06",
  "patterns_5": [
   {
    "pattern": "11111",
@@ -19,7 +19,7 @@
   },
   {
    "pattern": "22222",
-   "count": 105,
+   "count": 92,
    "states": [
     {
      "state": "Alabama",
@@ -41,75 +41,11 @@
     },
     {
      "state": "Georgia",
-     "count": 80,
+     "count": 67,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2146",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2148",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2151",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2152",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2153",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2155",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2157",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2159",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2160",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2163",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2164",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2165",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2167",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2168",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2170",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2174",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2179",
@@ -132,6 +68,10 @@
        "location": "Augusta, GA"
       },
       {
+       "number": "+1 762 222 2187",
+       "location": "Augusta, GA"
+      },
+      {
        "number": "+1 762 222 2190",
        "location": "Augusta, GA"
       },
@@ -141,6 +81,22 @@
       },
       {
        "number": "+1 762 222 2192",
+       "location": "Augusta, GA"
+      },
+      {
+       "number": "+1 762 222 2193",
+       "location": "Augusta, GA"
+      },
+      {
+       "number": "+1 762 222 2194",
+       "location": "Augusta, GA"
+      },
+      {
+       "number": "+1 762 222 2196",
+       "location": "Augusta, GA"
+      },
+      {
+       "number": "+1 762 222 2197",
        "location": "Augusta, GA"
       },
       {
@@ -296,10 +252,6 @@
        "location": "Augusta, GA"
       },
       {
-       "number": "+1 762 222 2582",
-       "location": "Augusta, GA"
-      },
-      {
        "number": "+1 762 222 2584",
        "location": "Augusta, GA"
       },
@@ -321,10 +273,6 @@
       },
       {
        "number": "+1 762 222 2656",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2677",
        "location": "Augusta, GA"
       },
       {
@@ -683,7 +631,7 @@
   },
   {
    "pattern": "44444",
-   "count": 173,
+   "count": 94,
    "states": [
     {
      "state": "Alabama",
@@ -757,274 +705,10 @@
     },
     {
      "state": "California",
-     "count": 83,
+     "count": 5,
      "numbers": [
       {
-       "number": "+1 424 444 4014",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4021",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4030",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4031",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4038",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4039",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4099",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4173",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4187",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4196",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4203",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4213",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4232",
-       "location": "Compton, CA"
-      },
-      {
        "number": "+1 424 444 4237",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4247",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4254",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4601",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4612",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4613",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4619",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4622",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4630",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4640",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4642",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4643",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4645",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4652",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4654",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4655",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4660",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4668",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4671",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4672",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4674",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4675",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4679",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4703",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4708",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4718",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4721",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4725",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4728",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4740",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4742",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4743",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4753",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4755",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4757",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4764",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4768",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4771",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4772",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4778",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4784",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4792",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4793",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4803",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4804",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4807",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4808",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4810",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4813",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4814",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4820",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4821",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4830",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4852",
        "location": "Compton, CA"
       },
       {
@@ -1032,39 +716,7 @@
        "location": "Compton, CA"
       },
       {
-       "number": "+1 424 444 4857",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4860",
-       "location": "Compton, CA"
-      },
-      {
        "number": "+1 424 444 4865",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4866",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4874",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4891",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4895",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4902",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4966",
        "location": "Compton, CA"
       },
       {
@@ -1072,23 +724,7 @@
        "location": "Compton, CA"
       },
       {
-       "number": "+1 424 444 4982",
-       "location": "Compton, CA"
-      },
-      {
        "number": "+1 424 444 4985",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4986",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4988",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4992",
        "location": "Compton, CA"
       }
      ]
@@ -1250,16 +886,6 @@
       {
        "number": "+1 765 344 4446",
        "location": "Rockville, IN"
-      }
-     ]
-    },
-    {
-     "state": "Michigan",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 313 744 4446",
-       "location": "Detroit, MI"
       }
      ]
     },
@@ -1583,7 +1209,7 @@
   },
   {
    "pattern": "66666",
-   "count": 94,
+   "count": 88,
    "states": [
     {
      "state": "Alabama",
@@ -1835,12 +1461,8 @@
     },
     {
      "state": "Maryland",
-     "count": 5,
+     "count": 4,
      "numbers": [
-      {
-       "number": "+1 443 266 6662",
-       "location": "Glenwood, MD"
-      },
       {
        "number": "+1 443 266 6664",
        "location": "Glenwood, MD"
@@ -1977,7 +1599,7 @@
     },
     {
      "state": "Oregon",
-     "count": 14,
+     "count": 9,
      "numbers": [
       {
        "number": "+1 541 566 6668",
@@ -2004,27 +1626,7 @@
        "location": "West Haven-Sylvan, OR"
       },
       {
-       "number": "+1 971 666 6670",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 666 6671",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 666 6674",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
        "number": "+1 971 666 6680",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 666 6685",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 666 6689",
        "location": "West Haven-Sylvan, OR"
       },
       {
@@ -3269,7 +2871,7 @@
   },
   {
    "pattern": "88888",
-   "count": 756,
+   "count": 746,
    "states": [
     {
      "state": "Alabama",
@@ -4396,15 +3998,15 @@
        "location": "Atlanta, GA"
       },
       {
+       "number": "+1 678 888 8239",
+       "location": "Atlanta, GA"
+      },
+      {
        "number": "+1 678 888 8241",
        "location": "Atlanta, GA"
       },
       {
        "number": "+1 678 888 8242",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8244",
        "location": "Atlanta, GA"
       },
       {
@@ -4911,7 +4513,7 @@
     },
     {
      "state": "Minnesota",
-     "count": 133,
+     "count": 132,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -5018,15 +4620,7 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8142",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8143",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8144",
        "location": "Bemidji, MN"
       },
       {
@@ -5034,19 +4628,27 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8146",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8149",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8151",
+       "number": "+1 218 888 8158",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8152",
+       "number": "+1 218 888 8159",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8162",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8163",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8164",
        "location": "Bemidji, MN"
       },
       {
@@ -5431,10 +5033,6 @@
       },
       {
        "number": "+1 218 888 8993",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8997",
        "location": "Bemidji, MN"
       },
       {
@@ -5845,7 +5443,7 @@
     },
     {
      "state": "Oregon",
-     "count": 122,
+     "count": 113,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -5869,10 +5467,6 @@
       },
       {
        "number": "+1 458 888 8196",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8199",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -5917,10 +5511,6 @@
       },
       {
        "number": "+1 458 888 8256",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8259",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -6088,19 +5678,11 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8618",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8626",
        "location": "Milton-Freewater, OR"
       },
       {
        "number": "+1 458 888 8627",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8633",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -6113,10 +5695,6 @@
       },
       {
        "number": "+1 458 888 8641",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8644",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -6160,6 +5738,10 @@
        "location": "Milton-Freewater, OR"
       },
       {
+       "number": "+1 458 888 8698",
+       "location": "Milton-Freewater, OR"
+      },
+      {
        "number": "+1 458 888 8705",
        "location": "Milton-Freewater, OR"
       },
@@ -6197,10 +5779,6 @@
       },
       {
        "number": "+1 458 888 8772",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8775",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -6316,23 +5894,7 @@
        "location": "West Haven-Sylvan, OR"
       },
       {
-       "number": "+1 971 888 8860",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 888 8864",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
        "number": "+1 971 888 8871",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 888 8892",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 888 8895",
        "location": "West Haven-Sylvan, OR"
       }
      ]
@@ -6371,7 +5933,7 @@
   },
   {
    "pattern": "99999",
-   "count": 285,
+   "count": 284,
    "states": [
     {
      "state": "Alabama",
@@ -6670,10 +6232,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9318",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9320",
        "location": "Winfield, AL"
       },
@@ -6727,6 +6285,10 @@
       },
       {
        "number": "+1 659 999 9374",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9380",
        "location": "Winfield, AL"
       },
       {
@@ -7540,16 +7102,6 @@
      ]
     },
     {
-     "state": "Ohio",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 614 999 9968",
-       "location": "Columbus, OH"
-      }
-     ]
-    },
-    {
      "state": "Oregon",
      "count": 1,
      "numbers": [
@@ -7577,7 +7129,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 893,
+  "total": 877,
   "state_count": 44,
   "states": [
    {
@@ -7688,7 +7240,7 @@
    },
    {
     "state": "Arizona",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 928 800 0056",
@@ -7704,10 +7256,6 @@
      },
      {
       "number": "+1 928 800 0079",
-      "location": "Prescott, AZ"
-     },
-     {
-      "number": "+1 928 800 0089",
       "location": "Prescott, AZ"
      },
      {
@@ -7780,12 +7328,8 @@
    },
    {
     "state": "California",
-    "count": 55,
+    "count": 52,
     "numbers": [
-     {
-      "number": "+1 350 200 0029",
-      "location": "Lodi, CA"
-     },
      {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
@@ -7937,14 +7481,6 @@
      {
       "number": "+1 707 400 0095",
       "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 500 0012",
-      "location": "Nice, CA"
-     },
-     {
-      "number": "+1 707 500 0051",
-      "location": "Nice, CA"
      },
      {
       "number": "+1 707 690 0009",
@@ -8300,7 +7836,7 @@
    },
    {
     "state": "Florida",
-    "count": 82,
+    "count": 80,
     "numbers": [
      {
       "number": "+1 239 900 0049",
@@ -8413,10 +7949,6 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
-     },
-     {
-      "number": "+1 727 900 0031",
-      "location": "Belleair, FL"
      },
      {
       "number": "+1 727 900 0041",
@@ -8591,10 +8123,6 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0067",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0068",
       "location": "Bradenton, FL"
      },
@@ -8634,12 +8162,8 @@
    },
    {
     "state": "Georgia",
-    "count": 20,
+    "count": 19,
     "numbers": [
-     {
-      "number": "+1 470 560 0003",
-      "location": "Cumming, GA"
-     },
      {
       "number": "+1 478 287 0000",
       "location": "Perry, GA"
@@ -8862,7 +8386,7 @@
    },
    {
     "state": "Iowa",
-    "count": 10,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 712 800 0016",
@@ -8874,10 +8398,6 @@
      },
      {
       "number": "+1 712 800 0039",
-      "location": "Glenwood, IA"
-     },
-     {
-      "number": "+1 712 800 0040",
       "location": "Glenwood, IA"
      },
      {
@@ -8894,10 +8414,6 @@
      },
      {
       "number": "+1 712 800 0059",
-      "location": "Glenwood, IA"
-     },
-     {
-      "number": "+1 712 800 0070",
       "location": "Glenwood, IA"
      },
      {
@@ -9092,15 +8608,11 @@
    },
    {
     "state": "Massachusetts",
-    "count": 3,
+    "count": 2,
     "numbers": [
      {
       "number": "+1 857 600 0058",
       "location": "Cambridge, MA"
-     },
-     {
-      "number": "+1 978 400 0049",
-      "location": "Fitchburg, MA"
      },
      {
       "number": "+1 978 680 0009",
@@ -9654,7 +9166,7 @@
    },
    {
     "state": "New Jersey",
-    "count": 22,
+    "count": 21,
     "numbers": [
      {
       "number": "+1 848 310 0006",
@@ -9671,10 +9183,6 @@
      {
       "number": "+1 856 300 0078",
       "location": "Millville, NJ"
-     },
-     {
-      "number": "+1 856 390 0005",
-      "location": "Woodstown, NJ"
      },
      {
       "number": "+1 908 628 0000",
@@ -9810,8 +9318,12 @@
    },
    {
     "state": "New York",
-    "count": 123,
+    "count": 121,
     "numbers": [
+     {
+      "number": "+1 315 710 0003",
+      "location": "Kirkville, NY"
+     },
      {
       "number": "+1 315 710 0009",
       "location": "Kirkville, NY"
@@ -9938,10 +9450,6 @@
      },
      {
       "number": "+1 631 900 0012",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0013",
       "location": "Northport, NY"
      },
      {
@@ -10101,10 +9609,6 @@
       "location": "Poughkeepsie, NY"
      },
      {
-      "number": "+1 914 440 0002",
-      "location": "Yorktown Heights, NY"
-     },
-     {
       "number": "+1 914 600 0021",
       "location": "Jefferson Valley-Yorktown, NY"
      },
@@ -10139,10 +9643,6 @@
      {
       "number": "+1 914 600 0092",
       "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 810 0002",
-      "location": "Croton On Hudson, NY"
      },
      {
       "number": "+1 934 400 0014",
@@ -10432,11 +9932,15 @@
    },
    {
     "state": "Ohio",
-    "count": 66,
+    "count": 67,
     "numbers": [
      {
       "number": "+1 234 720 0004",
       "location": "Atwater, OH"
+     },
+     {
+      "number": "+1 330 681 0000",
+      "location": "Dellroy, OH"
      },
      {
       "number": "+1 380 280 0004",
@@ -10976,11 +10480,15 @@
    },
    {
     "state": "Tennessee",
-    "count": 8,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 731 400 0068",
       "location": "Savannah, TN"
+     },
+     {
+      "number": "+1 731 470 0009",
+      "location": "Trenton, TN"
      },
      {
       "number": "+1 901 610 0003",
@@ -11014,16 +10522,8 @@
    },
    {
     "state": "Texas",
-    "count": 12,
+    "count": 9,
     "numbers": [
-     {
-      "number": "+1 346 410 0006",
-      "location": "Houston, TX"
-     },
-     {
-      "number": "+1 346 590 0006",
-      "location": "Houston, TX"
-     },
      {
       "number": "+1 409 240 0008",
       "location": "Beaumont, TX"
@@ -11059,10 +10559,6 @@
      {
       "number": "+1 903 420 0008",
       "location": "Corsicana, TX"
-     },
-     {
-      "number": "+1 903 600 0092",
-      "location": "Rice, TX"
      }
     ]
    },
@@ -11258,16 +10754,8 @@
    },
    {
     "state": "Washington",
-    "count": 18,
+    "count": 16,
     "numbers": [
-     {
-      "number": "+1 253 660 0002",
-      "location": "Tacoma, WA"
-     },
-     {
-      "number": "+1 253 660 0007",
-      "location": "Tacoma, WA"
-     },
      {
       "number": "+1 509 600 0071",
       "location": "Bridgeport, WA"
@@ -11461,9 +10949,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1736,
+  "total_5_in_a_row": 1627,
   "patterns_with_results": 9,
-  "total_0000": 893,
+  "total_0000": 877,
   "state_count_0000": 44
  }
 }
