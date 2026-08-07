@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-06
-1627 five-in-a-row · 877 four-zeros across 44 states
+Updated: 2026-08-07
+1618 five-in-a-row · 870 four-zeros across 44 states
 
 ====================================================
 5 IN A ROW
@@ -11,23 +11,15 @@ Updated: 2026-08-06
   OHIO (1)
     +1 567 621 1111   Ft Recovery, OH
 
---- 22222 — 92 numbers ---
+--- 22222 — 83 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
     +1 938 722 2226   Section, AL
     +1 938 722 2229   Section, AL
 
-  GEORGIA (67)
+  GEORGIA (59)
     +1 706 522 2226   Elberton, GA
-    +1 762 222 2179   Augusta, GA
-    +1 762 222 2182   Augusta, GA
-    +1 762 222 2183   Augusta, GA
-    +1 762 222 2185   Augusta, GA
-    +1 762 222 2186   Augusta, GA
-    +1 762 222 2187   Augusta, GA
-    +1 762 222 2190   Augusta, GA
-    +1 762 222 2191   Augusta, GA
     +1 762 222 2192   Augusta, GA
     +1 762 222 2193   Augusta, GA
     +1 762 222 2194   Augusta, GA
@@ -113,8 +105,7 @@ Updated: 2026-08-06
     +1 458 322 2226   Albany, OR
     +1 458 322 2229   Albany, OR
 
-  RHODE ISLAND (2)
-    +1 401 422 2221   Pawtucket, RI
+  RHODE ISLAND (1)
     +1 401 422 2225   Pawtucket, RI
 
   SOUTH CAROLINA (1)
@@ -129,7 +120,7 @@ Updated: 2026-08-06
     +1 802 622 2228   Barre, VT
     +1 802 822 2227   Derby Line, VT
 
---- 33333 — 28 numbers ---
+--- 33333 — 29 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
@@ -162,7 +153,8 @@ Updated: 2026-08-06
     +1 731 333 3310   Paris, TN
     +1 731 333 3319   Paris, TN
 
-  WISCONSIN (11)
+  WISCONSIN (12)
+    +1 414 533 3336   Milwaukee, WI
     +1 920 333 3301   Sturgeon Bay, WI
     +1 920 333 3304   Sturgeon Bay, WI
     +1 920 333 3319   Sturgeon Bay, WI
@@ -175,7 +167,7 @@ Updated: 2026-08-06
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 94 numbers ---
+--- 44444 — 95 numbers ---
 
   ALABAMA (16)
     +1 251 444 4402   Mobile, AL
@@ -195,10 +187,8 @@ Updated: 2026-08-06
     +1 938 444 4457   Decatur, AL
     +1 938 444 4487   Decatur, AL
 
-  CALIFORNIA (5)
+  CALIFORNIA (3)
     +1 424 444 4237   Compton, CA
-    +1 424 444 4855   Compton, CA
-    +1 424 444 4865   Compton, CA
     +1 424 444 4973   Compton, CA
     +1 424 444 4985   Compton, CA
 
@@ -251,6 +241,11 @@ Updated: 2026-08-06
     +1 218 644 4449   Cromwell, MN
     +1 320 844 4441   Avon, MN
     +1 320 844 4443   Avon, MN
+
+  TEXAS (3)
+    +1 936 444 4416   Conroe, TX
+    +1 936 444 4419   Conroe, TX
+    +1 936 444 4452   Conroe, TX
 
   UTAH (5)
     +1 385 544 4443   Kaysville, UT
@@ -1163,6 +1158,7 @@ Updated: 2026-08-06
     +1 678 888 8916   Atlanta, GA
     +1 678 888 8917   Atlanta, GA
     +1 678 888 8920   Atlanta, GA
+    +1 678 888 8921   Atlanta, GA
     +1 678 888 8922   Atlanta, GA
     +1 678 888 8923   Atlanta, GA
     +1 678 888 8924   Atlanta, GA
@@ -1174,7 +1170,6 @@ Updated: 2026-08-06
     +1 678 888 8934   Atlanta, GA
     +1 678 888 8935   Atlanta, GA
     +1 678 888 8936   Atlanta, GA
-    +1 678 888 8937   Atlanta, GA
 
   MINNESOTA (132)
     +1 218 888 8009   Bemidji, MN
@@ -1535,7 +1530,7 @@ Updated: 2026-08-06
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 284 numbers ---
+--- 99999 — 282 numbers ---
 
   ALABAMA (180)
     +1 251 999 9913   Mobile, AL
@@ -1719,7 +1714,7 @@ Updated: 2026-08-06
     +1 659 999 9865   Winfield, AL
     +1 659 999 9875   Winfield, AL
 
-  COLORADO (62)
+  COLORADO (60)
     +1 719 999 9018   Colorado Springs, CO
     +1 719 999 9023   Colorado Springs, CO
     +1 719 999 9027   Colorado Springs, CO
@@ -1742,10 +1737,8 @@ Updated: 2026-08-06
     +1 719 999 9211   Colorado Springs, CO
     +1 719 999 9231   Colorado Springs, CO
     +1 719 999 9284   Colorado Springs, CO
-    +1 719 999 9289   Colorado Springs, CO
     +1 719 999 9296   Colorado Springs, CO
     +1 719 999 9308   Colorado Springs, CO
-    +1 719 999 9315   Colorado Springs, CO
     +1 719 999 9320   Colorado Springs, CO
     +1 719 999 9335   Colorado Springs, CO
     +1 719 999 9372   Colorado Springs, CO
@@ -1840,7 +1833,7 @@ Updated: 2026-08-06
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 877 numbers across 44 states
+4 ZEROS — 870 numbers across 44 states
 ====================================================
 
   ALABAMA (25)
@@ -2125,10 +2118,9 @@ Updated: 2026-08-06
     +1 943 990 0004   Flowery Branch, GA
     +1 943 990 0006   Flowery Branch, GA
 
-  IDAHO (19)
+  IDAHO (18)
     +1 208 460 0008   Garden City, ID
     +1 208 600 0096   Garden City, ID
-    +1 208 730 0003   Garden City, ID
     +1 208 800 0047   Nampa, ID
     +1 208 800 0059   Nampa, ID
     +1 208 800 0061   Nampa, ID
@@ -2191,17 +2183,11 @@ Updated: 2026-08-06
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (16)
+  LOUISIANA (10)
     +1 225 380 0004   Denham Springs, LA
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
     +1 225 470 0009   White Castle, LA
-    +1 225 500 0023   Albany, LA
-    +1 225 500 0024   Albany, LA
-    +1 225 500 0026   Albany, LA
-    +1 225 500 0031   Albany, LA
-    +1 225 500 0042   Albany, LA
-    +1 225 500 0062   Albany, LA
     +1 318 610 0009   Keithville, LA
     +1 985 570 0003   Bogalusa, LA
     +1 985 570 0004   Bogalusa, LA
@@ -2333,13 +2319,9 @@ Updated: 2026-08-06
     +1 531 910 0007   Omaha, NE
     +1 531 910 0009   Omaha, NE
 
-  NEVADA (28)
+  NEVADA (24)
     +1 775 600 0063   Carson City, NV
     +1 775 640 0002   Ely, NV
-    +1 775 800 0024   Reno, NV
-    +1 775 800 0027   Reno, NV
-    +1 775 800 0029   Reno, NV
-    +1 775 800 0034   Reno, NV
     +1 775 800 0039   Reno, NV
     +1 775 800 0041   Reno, NV
     +1 775 800 0045   Reno, NV
@@ -2402,7 +2384,7 @@ Updated: 2026-08-06
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (121)
+  NEW YORK (120)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
@@ -2465,7 +2447,6 @@ Updated: 2026-08-06
     +1 716 400 0078   Buffalo, NY
     +1 716 750 0006   Buffalo, NY
     +1 716 910 0006   Buffalo, NY
-    +1 845 910 0002   Middletown, NY
     +1 845 910 0004   Middletown, NY
     +1 845 910 0007   Middletown, NY
     +1 845 910 0008   Middletown, NY
@@ -2557,9 +2538,8 @@ Updated: 2026-08-06
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (67)
+  OHIO (66)
     +1 234 720 0004   Atwater, OH
-    +1 330 681 0000   Dellroy, OH
     +1 380 280 0004   Groveport, OH
     +1 440 600 0072   Chagrin Falls, OH
     +1 440 600 0078   Chagrin Falls, OH
@@ -2664,7 +2644,7 @@ Updated: 2026-08-06
     +1 814 850 0008   Harrison Valley, PA
     +1 814 850 0009   Harrison Valley, PA
 
-  RHODE ISLAND (28)
+  RHODE ISLAND (27)
     +1 401 600 0043   Providence, RI
     +1 401 600 0059   Providence, RI
     +1 401 600 0065   Providence, RI
@@ -2680,7 +2660,6 @@ Updated: 2026-08-06
     +1 401 800 0019   Wakefield-Peacedale, RI
     +1 401 800 0025   Wakefield-Peacedale, RI
     +1 401 800 0028   Wakefield-Peacedale, RI
-    +1 401 800 0047   Wakefield-Peacedale, RI
     +1 401 800 0048   Wakefield-Peacedale, RI
     +1 401 800 0049   Wakefield-Peacedale, RI
     +1 401 800 0053   Wakefield-Peacedale, RI
@@ -2708,18 +2687,26 @@ Updated: 2026-08-06
     +1 931 820 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (9)
+  TEXAS (17)
+    +1 325 400 0018   Abilene, TX
+    +1 325 400 0027   Abilene, TX
+    +1 325 400 0039   Abilene, TX
+    +1 325 400 0064   Abilene, TX
+    +1 325 400 0091   Abilene, TX
+    +1 346 410 0002   Houston, TX
+    +1 346 440 0003   Houston, TX
     +1 409 240 0008   Beaumont, TX
     +1 409 240 0009   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
     +1 806 340 0002   Amarillo, TX
     +1 806 680 0004   Amarillo, TX
+    +1 806 680 0006   Amarillo, TX
     +1 903 270 0005   Mount Vernon, TX
     +1 903 270 0008   Mount Vernon, TX
     +1 903 420 0007   Corsicana, TX
     +1 903 420 0008   Corsicana, TX
 
-  UTAH (39)
+  UTAH (38)
     +1 385 480 0002   Provo, UT
     +1 385 480 0003   Provo, UT
     +1 385 480 0005   Provo, UT
@@ -2749,7 +2736,6 @@ Updated: 2026-08-06
     +1 435 500 0062   Delta, UT
     +1 435 500 0065   Delta, UT
     +1 435 500 0072   Delta, UT
-    +1 435 500 0074   Delta, UT
     +1 435 500 0076   Delta, UT
     +1 435 500 0078   Delta, UT
     +1 435 500 0079   Delta, UT
@@ -2822,7 +2808,7 @@ Updated: 2026-08-06
 
 --- 555555 — No results ---
 
---- 666666 — No US results — Canada only ---
+--- 666666 — No results ---
 
 --- 777777 — No results ---
 
