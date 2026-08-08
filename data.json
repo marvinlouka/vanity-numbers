@@ -1,5 +1,5 @@
 {
- "date": "2026-08-07",
+ "date": "2026-08-08",
  "patterns_5": [
   {
    "pattern": "11111",
@@ -19,7 +19,7 @@
   },
   {
    "pattern": "22222",
-   "count": 83,
+   "count": 82,
    "states": [
     {
      "state": "Alabama",
@@ -41,23 +41,11 @@
     },
     {
      "state": "Georgia",
-     "count": 59,
+     "count": 56,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2192",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2193",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2194",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2196",
@@ -283,8 +271,16 @@
     },
     {
      "state": "Massachusetts",
-     "count": 4,
+     "count": 6,
      "numbers": [
+      {
+       "number": "+1 508 722 2223",
+       "location": "Auburn, MA"
+      },
+      {
+       "number": "+1 508 722 2229",
+       "location": "Auburn, MA"
+      },
       {
        "number": "+1 978 822 2223",
        "location": "Shirley, MA"
@@ -429,7 +425,7 @@
   },
   {
    "pattern": "33333",
-   "count": 29,
+   "count": 28,
    "states": [
     {
      "state": "Alabama",
@@ -511,7 +507,7 @@
     },
     {
      "state": "New York",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 716 733 3332",
@@ -520,10 +516,6 @@
       {
        "number": "+1 716 733 3335",
        "location": "Angola, NY"
-      },
-      {
-       "number": "+1 845 833 3339",
-       "location": "Bloomingburg, NY"
       }
      ]
     },
@@ -599,7 +591,7 @@
   },
   {
    "pattern": "44444",
-   "count": 95,
+   "count": 93,
    "states": [
     {
      "state": "Alabama",
@@ -673,18 +665,10 @@
     },
     {
      "state": "California",
-     "count": 3,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 424 444 4237",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4973",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4985",
        "location": "Compton, CA"
       }
      ]
@@ -1665,7 +1649,7 @@
   },
   {
    "pattern": "77777",
-   "count": 275,
+   "count": 274,
    "states": [
     {
      "state": "California",
@@ -2767,7 +2751,7 @@
     },
     {
      "state": "Rhode Island",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 401 777 7709",
@@ -2783,10 +2767,6 @@
       },
       {
        "number": "+1 401 777 7765",
-       "location": "Newport East, RI"
-      },
-      {
-       "number": "+1 401 777 7793",
        "location": "Newport East, RI"
       },
       {
@@ -2849,7 +2829,7 @@
   },
   {
    "pattern": "88888",
-   "count": 746,
+   "count": 745,
    "states": [
     {
      "state": "Alabama",
@@ -5035,7 +5015,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 90,
+     "count": 89,
      "numbers": [
       {
        "number": "+1 308 888 8022",
@@ -5383,10 +5363,6 @@
       },
       {
        "number": "+1 308 888 8980",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8982",
        "location": "Chappell, NE"
       },
       {
@@ -5911,7 +5887,7 @@
   },
   {
    "pattern": "99999",
-   "count": 282,
+   "count": 281,
    "states": [
     {
      "state": "Alabama",
@@ -6641,7 +6617,7 @@
     },
     {
      "state": "Colorado",
-     "count": 60,
+     "count": 59,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -6865,10 +6841,6 @@
       },
       {
        "number": "+1 719 999 9830",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9861",
        "location": "Colorado Springs, CO"
       },
       {
@@ -7099,7 +7071,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 870,
+  "total": 861,
   "state_count": 44,
   "states": [
    {
@@ -7210,8 +7182,20 @@
    },
    {
     "state": "Arizona",
-    "count": 6,
+    "count": 9,
     "numbers": [
+     {
+      "number": "+1 520 540 0003",
+      "location": "Tucson, AZ"
+     },
+     {
+      "number": "+1 520 540 0006",
+      "location": "Tucson, AZ"
+     },
+     {
+      "number": "+1 520 540 0008",
+      "location": "Tucson, AZ"
+     },
      {
       "number": "+1 928 800 0056",
       "location": "Prescott, AZ"
@@ -8132,7 +8116,7 @@
    },
    {
     "state": "Georgia",
-    "count": 19,
+    "count": 18,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -8195,10 +8179,6 @@
       "location": "Thunderbolt, GA"
      },
      {
-      "number": "+1 912 940 0005",
-      "location": "Thunderbolt, GA"
-     },
-     {
       "number": "+1 912 940 0008",
       "location": "Thunderbolt, GA"
      },
@@ -8214,12 +8194,8 @@
    },
    {
     "state": "Idaho",
-    "count": 18,
+    "count": 17,
     "numbers": [
-     {
-      "number": "+1 208 460 0008",
-      "location": "Garden City, ID"
-     },
      {
       "number": "+1 208 600 0096",
       "location": "Garden City, ID"
@@ -8292,8 +8268,12 @@
    },
    {
     "state": "Illinois",
-    "count": 3,
+    "count": 4,
     "numbers": [
+     {
+      "number": "+1 224 880 0007",
+      "location": "Lake Forest, IL"
+     },
      {
       "number": "+1 224 970 0003",
       "location": "Bartlett, IL"
@@ -8310,22 +8290,14 @@
    },
    {
     "state": "Indiana",
-    "count": 9,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 260 300 0074",
       "location": "Woodburn, IN"
      },
      {
-      "number": "+1 765 400 0071",
-      "location": "Anderson, IN"
-     },
-     {
       "number": "+1 765 400 0093",
-      "location": "Anderson, IN"
-     },
-     {
-      "number": "+1 765 400 0096",
       "location": "Anderson, IN"
      },
      {
@@ -9092,8 +9064,12 @@
    },
    {
     "state": "New Jersey",
-    "count": 21,
+    "count": 22,
     "numbers": [
+     {
+      "number": "+1 609 250 0009",
+      "location": "Princeton, NJ"
+     },
      {
       "number": "+1 848 310 0006",
       "location": "South Bound Brook, NJ"
@@ -9182,7 +9158,7 @@
    },
    {
     "state": "New Mexico",
-    "count": 14,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 505 590 0008",
@@ -9199,14 +9175,6 @@
      {
       "number": "+1 575 250 0009",
       "location": "Cuba, NM"
-     },
-     {
-      "number": "+1 575 270 0008",
-      "location": "Las Cruces, NM"
-     },
-     {
-      "number": "+1 575 500 0079",
-      "location": "Roswell, NM"
      },
      {
       "number": "+1 575 500 0081",
@@ -9244,7 +9212,7 @@
    },
    {
     "state": "New York",
-    "count": 120,
+    "count": 116,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9275,8 +9243,8 @@
       "location": "Woodbury, NY"
      },
      {
-      "number": "+1 516 820 0006",
-      "location": "Floral Park, NY"
+      "number": "+1 516 400 0098",
+      "location": "Hewlett, NY"
      },
      {
       "number": "+1 516 930 0004",
@@ -9352,10 +9320,6 @@
      },
      {
       "number": "+1 607 900 0078",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 900 0079",
       "location": "Mcgraw, NY"
      },
      {
@@ -9473,18 +9437,6 @@
      {
       "number": "+1 680 780 0009",
       "location": "Central Square, NY"
-     },
-     {
-      "number": "+1 716 400 0027",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 400 0059",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 400 0078",
-      "location": "Buffalo, NY"
      },
      {
       "number": "+1 716 750 0006",
@@ -10270,7 +10222,7 @@
    },
    {
     "state": "Rhode Island",
-    "count": 27,
+    "count": 25,
     "numbers": [
      {
       "number": "+1 401 600 0043",
@@ -10349,10 +10301,6 @@
       "location": "Wakefield-Peacedale, RI"
      },
      {
-      "number": "+1 401 800 0071",
-      "location": "Wakefield-Peacedale, RI"
-     },
-     {
       "number": "+1 401 800 0072",
       "location": "Wakefield-Peacedale, RI"
      },
@@ -10366,10 +10314,6 @@
      },
      {
       "number": "+1 401 800 0086",
-      "location": "Wakefield-Peacedale, RI"
-     },
-     {
-      "number": "+1 401 800 0094",
       "location": "Wakefield-Peacedale, RI"
      },
      {
@@ -10678,16 +10622,8 @@
    },
    {
     "state": "Virginia",
-    "count": 3,
+    "count": 1,
     "numbers": [
-     {
-      "number": "+1 540 260 0008",
-      "location": "Christiansburg, VA"
-     },
-     {
-      "number": "+1 540 260 0009",
-      "location": "Christiansburg, VA"
-     },
      {
       "number": "+1 757 740 0003",
       "location": "Franklin, VA"
@@ -10891,9 +10827,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1618,
+  "total_5_in_a_row": 1611,
   "patterns_with_results": 9,
-  "total_0000": 870,
+  "total_0000": 861,
   "state_count_0000": 44
  }
 }
