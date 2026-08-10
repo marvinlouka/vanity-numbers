@@ -1,5 +1,5 @@
 {
- "date": "2026-08-09",
+ "date": "2026-08-10",
  "patterns_5": [
   {
    "pattern": "11111",
@@ -19,7 +19,7 @@
   },
   {
    "pattern": "22222",
-   "count": 92,
+   "count": 90,
    "states": [
     {
      "state": "Alabama",
@@ -41,12 +41,8 @@
     },
     {
      "state": "California",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 747 222 2268",
-       "location": "Agoura Hills, CA"
-      },
       {
        "number": "+1 909 922 2227",
        "location": "Etiwanda, CA"
@@ -474,22 +470,12 @@
        "location": "Derby Line, VT"
       }
      ]
-    },
-    {
-     "state": "Wyoming",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 307 222 2228",
-       "location": "Cheyenne, WY"
-      }
-     ]
     }
    ]
   },
   {
    "pattern": "33333",
-   "count": 29,
+   "count": 28,
    "states": [
     {
      "state": "Alabama",
@@ -534,16 +520,6 @@
       {
        "number": "+1 959 933 3338",
        "location": "New Hartford Center, CT"
-      }
-     ]
-    },
-    {
-     "state": "Louisiana",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 318 233 3332",
-       "location": "Georgetown, LA"
       }
      ]
     },
@@ -665,7 +641,7 @@
   },
   {
    "pattern": "44444",
-   "count": 96,
+   "count": 95,
    "states": [
     {
      "state": "Alabama",
@@ -763,7 +739,7 @@
     },
     {
      "state": "Florida",
-     "count": 4,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 448 444 4416",
@@ -776,10 +752,6 @@
       {
        "number": "+1 645 244 4445",
        "location": "Florida City, FL"
-      },
-      {
-       "number": "+1 813 344 4441",
-       "location": "Tampacen, FL"
       }
      ]
     },
@@ -1259,7 +1231,7 @@
   },
   {
    "pattern": "66666",
-   "count": 90,
+   "count": 89,
    "states": [
     {
      "state": "Alabama",
@@ -1659,7 +1631,7 @@
     },
     {
      "state": "Oregon",
-     "count": 9,
+     "count": 8,
      "numbers": [
       {
        "number": "+1 541 566 6668",
@@ -1683,10 +1655,6 @@
       },
       {
        "number": "+1 971 666 6614",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 666 6680",
        "location": "West Haven-Sylvan, OR"
       },
       {
@@ -6248,10 +6216,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9258",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9265",
        "location": "Winfield, AL"
       },
@@ -6273,6 +6237,10 @@
       },
       {
        "number": "+1 659 999 9293",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9297",
        "location": "Winfield, AL"
       },
       {
@@ -7177,7 +7145,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 899,
+  "total": 882,
   "state_count": 44,
   "states": [
    {
@@ -7326,7 +7294,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 14,
+    "count": 13,
     "numbers": [
      {
       "number": "+1 479 310 0008",
@@ -7361,10 +7329,6 @@
       "location": "Van Buren, AR"
      },
      {
-      "number": "+1 501 380 0005",
-      "location": "Searcy, AR"
-     },
-     {
       "number": "+1 870 600 0038",
       "location": "Ashdown, AR"
      },
@@ -7388,7 +7352,7 @@
    },
    {
     "state": "California",
-    "count": 60,
+    "count": 57,
     "numbers": [
      {
       "number": "+1 209 330 0008",
@@ -7401,10 +7365,6 @@
      {
       "number": "+1 341 210 0002",
       "location": "Oakland, CA"
-     },
-     {
-      "number": "+1 510 210 0003",
-      "location": "Richmond, CA"
      },
      {
       "number": "+1 562 580 0004",
@@ -7567,10 +7527,6 @@
       "location": "Benicia, CA"
      },
      {
-      "number": "+1 747 200 0009",
-      "location": "Burbank, CA"
-     },
-     {
       "number": "+1 747 380 0003",
       "location": "Reseda, CA"
      },
@@ -7597,10 +7553,6 @@
      {
       "number": "+1 747 380 0009",
       "location": "Reseda, CA"
-     },
-     {
-      "number": "+1 818 660 0008",
-      "location": "Glendale, CA"
      },
      {
       "number": "+1 909 600 0032",
@@ -7634,14 +7586,10 @@
    },
    {
     "state": "Colorado",
-    "count": 5,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 719 800 0034",
-      "location": "Calhan, CO"
-     },
-     {
-      "number": "+1 719 800 0037",
       "location": "Calhan, CO"
      },
      {
@@ -8242,7 +8190,7 @@
    },
    {
     "state": "Georgia",
-    "count": 19,
+    "count": 18,
     "numbers": [
      {
       "number": "+1 470 680 0007",
@@ -8251,10 +8199,6 @@
      {
       "number": "+1 478 287 0000",
       "location": "Perry, GA"
-     },
-     {
-      "number": "+1 678 890 0006",
-      "location": "Carrollton, GA"
      },
      {
       "number": "+1 762 270 0003",
@@ -8424,15 +8368,11 @@
    },
    {
     "state": "Indiana",
-    "count": 8,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 260 300 0074",
       "location": "Woodburn, IN"
-     },
-     {
-      "number": "+1 463 200 0035",
-      "location": "Indianapolis, IN"
      },
      {
       "number": "+1 765 400 0093",
@@ -8572,7 +8512,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 12,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 225 380 0004",
@@ -8597,10 +8537,6 @@
      {
       "number": "+1 318 610 0009",
       "location": "Keithville, LA"
-     },
-     {
-      "number": "+1 985 200 0090",
-      "location": "Madisonville, LA"
      },
      {
       "number": "+1 985 570 0003",
@@ -8682,7 +8618,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 70,
+    "count": 67,
     "numbers": [
      {
       "number": "+1 218 480 0003",
@@ -8749,10 +8685,6 @@
       "location": "Alvarado, MN"
      },
      {
-      "number": "+1 320 200 0073",
-      "location": "St Cloud, MN"
-     },
-     {
       "number": "+1 320 380 0002",
       "location": "Saint Cloud, MN"
      },
@@ -8786,10 +8718,6 @@
      },
      {
       "number": "+1 320 400 0029",
-      "location": "Olivia, MN"
-     },
-     {
-      "number": "+1 320 400 0035",
       "location": "Olivia, MN"
      },
      {
@@ -8851,10 +8779,6 @@
      {
       "number": "+1 320 910 0009",
       "location": "Sauk Rapids, MN"
-     },
-     {
-      "number": "+1 507 200 0059",
-      "location": "Owatonna, MN"
      },
      {
       "number": "+1 507 400 0024",
@@ -9018,7 +8942,7 @@
    },
    {
     "state": "Missouri",
-    "count": 5,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 573 500 0050",
@@ -9035,10 +8959,6 @@
      {
       "number": "+1 660 552 0000",
       "location": "King City, MO"
-     },
-     {
-      "number": "+1 816 200 0025",
-      "location": "Kansas City, MO"
      }
     ]
    },
@@ -9386,7 +9306,7 @@
    },
    {
     "state": "New York",
-    "count": 118,
+    "count": 116,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9427,10 +9347,6 @@
      {
       "number": "+1 518 290 0002",
       "location": "Saratoga Springs, NY"
-     },
-     {
-      "number": "+1 518 400 0070",
-      "location": "Round Lake, NY"
      },
      {
       "number": "+1 585 630 0006",
@@ -9695,10 +9611,6 @@
      {
       "number": "+1 914 600 0092",
       "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 929 650 0002",
-      "location": "New York, NY"
      },
      {
       "number": "+1 934 400 0014",
@@ -10000,11 +9912,15 @@
    },
    {
     "state": "Ohio",
-    "count": 72,
+    "count": 73,
     "numbers": [
      {
       "number": "+1 216 800 0015",
       "location": "Cleveland, OH"
+     },
+     {
+      "number": "+1 234 200 0037",
+      "location": "Akron, OH"
      },
      {
       "number": "+1 234 720 0004",
@@ -10294,7 +10210,7 @@
    },
    {
     "state": "Oklahoma",
-    "count": 12,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 405 480 0007",
@@ -10327,10 +10243,6 @@
      {
       "number": "+1 405 970 0008",
       "location": "Guthrie, OK"
-     },
-     {
-      "number": "+1 539 200 0098",
-      "location": "Barnsdall, OK"
      },
      {
       "number": "+1 539 280 0007",
@@ -10693,14 +10605,14 @@
       "location": "Corsicana, TX"
      },
      {
-      "number": "+1 945 260 0006",
-      "location": "Frisco, TX"
+      "number": "+1 940 290 0009",
+      "location": "Aubrey, TX"
      }
     ]
    },
    {
     "state": "Utah",
-    "count": 39,
+    "count": 38,
     "numbers": [
      {
       "number": "+1 385 430 0006",
@@ -10823,10 +10735,6 @@
       "location": "Delta, UT"
      },
      {
-      "number": "+1 435 500 0076",
-      "location": "Delta, UT"
-     },
-     {
       "number": "+1 435 500 0078",
       "location": "Delta, UT"
      },
@@ -10882,16 +10790,8 @@
    },
    {
     "state": "Washington",
-    "count": 18,
+    "count": 16,
     "numbers": [
-     {
-      "number": "+1 360 200 0041",
-      "location": "Longview, WA"
-     },
-     {
-      "number": "+1 360 200 0065",
-      "location": "Longview, WA"
-     },
      {
       "number": "+1 509 600 0071",
       "location": "Bridgeport, WA"
@@ -11049,19 +10949,7 @@
   },
   {
    "pattern": "222222",
-   "status": "1 US result",
-   "states": [
-    {
-     "state": "Wyoming",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 307 222 2228",
-       "location": "Cheyenne, WY"
-      }
-     ]
-    }
-   ]
+   "status": "No US results — Canada only"
   },
   {
    "pattern": "333333",
@@ -11109,9 +10997,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1627,
+  "total_5_in_a_row": 1622,
   "patterns_with_results": 9,
-  "total_0000": 899,
+  "total_0000": 882,
   "state_count_0000": 44
  }
 }
