@@ -1,17 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-10
-1622 five-in-a-row · 882 four-zeros across 44 states
+Updated: 2026-08-11
+1608 five-in-a-row · 865 four-zeros across 44 states
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 11111 — 1 numbers ---
-
-  OHIO (1)
-    +1 567 621 1111   Ft Recovery, OH
-
---- 22222 — 90 numbers ---
+--- 22222 — 82 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
@@ -21,13 +16,8 @@ Updated: 2026-08-10
   CALIFORNIA (1)
     +1 909 922 2227   Etiwanda, CA
 
-  GEORGIA (59)
+  GEORGIA (54)
     +1 706 522 2226   Elberton, GA
-    +1 762 222 2069   Augusta, GA
-    +1 762 222 2196   Augusta, GA
-    +1 762 222 2197   Augusta, GA
-    +1 762 222 2304   Augusta, GA
-    +1 762 222 2309   Augusta, GA
     +1 762 222 2310   Augusta, GA
     +1 762 222 2316   Augusta, GA
     +1 762 222 2321   Augusta, GA
@@ -83,7 +73,7 @@ Updated: 2026-08-10
     +1 762 222 2948   Augusta, GA
 
   LOUISIANA (1)
-    +1 504 222 2258   New Orleans, LA
+    +1 504 222 2238   New Orleans, LA
 
   MASSACHUSETTS (6)
     +1 508 722 2223   Auburn, MA
@@ -103,11 +93,9 @@ Updated: 2026-08-10
     +1 856 322 2226   Camden, NJ
     +1 856 322 2229   Camden, NJ
 
-  NEW YORK (4)
+  NEW YORK (2)
     +1 585 822 2220   East Rochester, NY
     +1 607 622 2221   Bath, NY
-    +1 716 222 2239   Holland, NY
-    +1 914 222 2201   Bronxville, NY
 
   OREGON (4)
     +1 458 322 2221   Albany, OR
@@ -124,9 +112,6 @@ Updated: 2026-08-10
   TENNESSEE (2)
     +1 931 922 2221   Columbia, TN
     +1 931 922 2228   Columbia, TN
-
-  TEXAS (1)
-    +1 940 222 2264   Denton, TX
 
   VERMONT (3)
     +1 802 622 2227   Barre, VT
@@ -179,7 +164,7 @@ Updated: 2026-08-10
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 95 numbers ---
+--- 44444 — 90 numbers ---
 
   ALABAMA (15)
     +1 251 444 4402   Mobile, AL
@@ -197,10 +182,6 @@ Updated: 2026-08-10
     +1 251 444 4498   Mobile, AL
     +1 938 444 4457   Decatur, AL
     +1 938 444 4487   Decatur, AL
-
-  CALIFORNIA (2)
-    +1 424 444 4237   Compton, CA
-    +1 424 444 4517   Compton, CA
 
   CONNECTICUT (2)
     +1 860 744 4446   Willimantic, CT
@@ -255,11 +236,6 @@ Updated: 2026-08-10
     +1 218 644 4449   Cromwell, MN
     +1 320 844 4441   Avon, MN
     +1 320 844 4443   Avon, MN
-
-  TEXAS (3)
-    +1 936 444 4416   Conroe, TX
-    +1 936 444 4419   Conroe, TX
-    +1 936 444 4452   Conroe, TX
 
   UTAH (5)
     +1 385 544 4443   Kaysville, UT
@@ -1117,7 +1093,6 @@ Updated: 2026-08-10
     +1 678 888 8517   Atlanta, GA
     +1 678 888 8520   Atlanta, GA
     +1 678 888 8521   Atlanta, GA
-    +1 678 888 8529   Atlanta, GA
     +1 678 888 8530   Atlanta, GA
     +1 678 888 8531   Atlanta, GA
     +1 678 888 8532   Atlanta, GA
@@ -1126,6 +1101,7 @@ Updated: 2026-08-10
     +1 678 888 8541   Atlanta, GA
     +1 678 888 8542   Atlanta, GA
     +1 678 888 8545   Atlanta, GA
+    +1 678 888 8548   Atlanta, GA
     +1 678 888 8601   Atlanta, GA
     +1 678 888 8602   Atlanta, GA
     +1 678 888 8603   Atlanta, GA
@@ -1137,6 +1113,7 @@ Updated: 2026-08-10
     +1 678 888 8615   Atlanta, GA
     +1 678 888 8616   Atlanta, GA
     +1 678 888 8618   Atlanta, GA
+    +1 678 888 8619   Atlanta, GA
     +1 678 888 8620   Atlanta, GA
     +1 678 888 8621   Atlanta, GA
     +1 678 888 8622   Atlanta, GA
@@ -1145,7 +1122,6 @@ Updated: 2026-08-10
     +1 678 888 8631   Atlanta, GA
     +1 678 888 8632   Atlanta, GA
     +1 678 888 8633   Atlanta, GA
-    +1 678 888 8634   Atlanta, GA
     +1 678 888 8702   Atlanta, GA
     +1 678 888 8703   Atlanta, GA
     +1 678 888 8704   Atlanta, GA
@@ -1847,7 +1823,7 @@ Updated: 2026-08-10
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 882 numbers across 44 states
+4 ZEROS — 865 numbers across 44 states
 ====================================================
 
   ALABAMA (25)
@@ -1877,9 +1853,7 @@ Updated: 2026-08-10
     +1 659 910 0003   Birmingham, AL
     +1 659 910 0008   Birmingham, AL
 
-  ARIZONA (8)
-    +1 520 540 0003   Tucson, AZ
-    +1 520 540 0006   Tucson, AZ
+  ARIZONA (6)
     +1 928 800 0056   Prescott, AZ
     +1 928 800 0059   Prescott, AZ
     +1 928 800 0067   Prescott, AZ
@@ -1902,14 +1876,10 @@ Updated: 2026-08-10
     +1 870 600 0079   Ashdown, AR
     +1 870 600 0084   Ashdown, AR
 
-  CALIFORNIA (57)
-    +1 209 330 0008   Waterford, CA
-    +1 323 990 0007   Los Angeles, CA
-    +1 341 210 0002   Oakland, CA
+  CALIFORNIA (53)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0092   Whittier, CA
-    +1 626 460 0003   Pasadena, CA
     +1 626 640 0003   La Puente, CA
     +1 626 640 0008   La Puente, CA
     +1 657 620 0008   Buena Park, CA
@@ -2030,14 +2000,13 @@ Updated: 2026-08-10
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (82)
-    +1 239 900 0049   Fort Myers, FL
+  FLORIDA (81)
     +1 352 570 0008   Yankeetown, FL
     +1 352 600 0052   Brooksville, FL
     +1 352 600 0053   Brooksville, FL
     +1 352 600 0068   Brooksville, FL
+    +1 352 600 0079   Brooksville, FL
     +1 352 780 0004   Belleview, FL
-    +1 352 830 0002   Ocala, FL
     +1 352 830 0005   Ocala, FL
     +1 352 830 0007   Ocala, FL
     +1 352 900 0068   Gainesville, FL
@@ -2114,8 +2083,7 @@ Updated: 2026-08-10
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (18)
-    +1 470 680 0007   Cumming, GA
+  GEORGIA (17)
     +1 478 287 0000   Perry, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 360 0009   Thomaston, GA
@@ -2226,7 +2194,7 @@ Updated: 2026-08-10
     +1 857 600 0058   Cambridge, MA
     +1 978 680 0009   Concord, MA
 
-  MINNESOTA (67)
+  MINNESOTA (66)
     +1 218 480 0003   Stephen, MN
     +1 218 480 0005   Stephen, MN
     +1 218 480 0006   Stephen, MN
@@ -2281,7 +2249,6 @@ Updated: 2026-08-10
     +1 507 580 0006   Elgin, MN
     +1 507 580 0009   Elgin, MN
     +1 507 800 0074   Jackson, MN
-    +1 507 850 0005   Northfield, MN
     +1 507 850 0006   Northfield, MN
     +1 507 850 0009   Northfield, MN
     +1 507 873 0000   Slayton, MN
@@ -2308,8 +2275,7 @@ Updated: 2026-08-10
     +1 769 240 0007   Forest, MS
     +1 769 240 0008   Forest, MS
 
-  MISSOURI (4)
-    +1 573 500 0050   Campbell, MO
+  MISSOURI (3)
     +1 660 268 0000   Brookfield, MO
     +1 660 269 0000   Moberly, MO
     +1 660 552 0000   King City, MO
@@ -2402,7 +2368,7 @@ Updated: 2026-08-10
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (116)
+  NEW YORK (115)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
@@ -2412,7 +2378,6 @@ Updated: 2026-08-10
     +1 329 230 0009   Woodbury, NY
     +1 516 930 0004   Manhasset, NY
     +1 516 930 0006   Manhasset, NY
-    +1 518 290 0002   Saratoga Springs, NY
     +1 585 630 0006   Batavia, NY
     +1 585 630 0009   Batavia, NY
     +1 585 650 0008   Delevan, NY
@@ -2520,13 +2485,11 @@ Updated: 2026-08-10
     +1 934 500 0094   North Bay Shore, NY
     +1 934 500 0096   North Bay Shore, NY
 
-  NORTH CAROLINA (30)
-    +1 252 380 0005   Moyock, NC
+  NORTH CAROLINA (28)
     +1 252 490 0002   Colerain, NC
     +1 252 740 0005   Rocky Mount, NC
     +1 252 740 0009   Rocky Mount, NC
     +1 336 850 0003   Browns Summit, NC
-    +1 704 750 0005   Kings Mtn, NC
     +1 828 680 0007   Mars Hill, NC
     +1 828 900 0059   Black Mountain, NC
     +1 828 900 0061   Black Mountain, NC
@@ -2555,12 +2518,12 @@ Updated: 2026-08-10
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (73)
-    +1 216 800 0015   Cleveland, OH
-    +1 234 200 0037   Akron, OH
+  OHIO (72)
     +1 234 720 0004   Atwater, OH
+    +1 330 800 0067   Akron, OH
     +1 330 800 0072   Akron, OH
     +1 380 280 0004   Groveport, OH
+    +1 380 390 0009   Columbus, OH
     +1 380 500 0017   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
     +1 440 600 0078   Chagrin Falls, OH
@@ -2597,7 +2560,6 @@ Updated: 2026-08-10
     +1 740 690 0009   Gambier, OH
     +1 740 760 0008   Marietta, OH
     +1 740 860 0007   Parkersburg, OH
-    +1 937 400 0029   Jackson Center, OH
     +1 937 400 0057   Jackson Center, OH
     +1 937 400 0058   Jackson Center, OH
     +1 937 400 0063   Jackson Center, OH
@@ -2643,8 +2605,7 @@ Updated: 2026-08-10
     +1 539 280 0008   Hominy, OK
     +1 580 430 0003   Alva, OK
 
-  OREGON (13)
-    +1 971 410 0006   Beaverton, OR
+  OREGON (12)
     +1 971 600 0012   Salem, OR
     +1 971 600 0026   Salem, OR
     +1 971 600 0028   Salem, OR
@@ -2700,9 +2661,7 @@ Updated: 2026-08-10
   SOUTH DAKOTA (1)
     +1 605 910 0005   Sioux Falls, SD
 
-  TENNESSEE (11)
-    +1 423 840 0009   Butler, TN
-    +1 731 400 0083   Savannah, TN
+  TENNESSEE (9)
     +1 731 400 0094   Savannah, TN
     +1 731 470 0009   Trenton, TN
     +1 901 610 0003   Collierville, TN
@@ -2734,8 +2693,7 @@ Updated: 2026-08-10
     +1 903 420 0008   Corsicana, TX
     +1 940 290 0009   Aubrey, TX
 
-  UTAH (38)
-    +1 385 430 0006   Clearfield, UT
+  UTAH (37)
     +1 385 480 0002   Provo, UT
     +1 385 480 0003   Provo, UT
     +1 385 480 0005   Provo, UT
@@ -2777,7 +2735,8 @@ Updated: 2026-08-10
   VERMONT (1)
     +1 802 520 0009   Alburg, VT
 
-  VIRGINIA (1)
+  VIRGINIA (2)
+    +1 540 260 0005   Christiansburg, VA
     +1 757 740 0003   Franklin, VA
 
   WASHINGTON (16)

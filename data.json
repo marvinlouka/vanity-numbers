@@ -1,25 +1,9 @@
 {
- "date": "2026-08-10",
+ "date": "2026-08-11",
  "patterns_5": [
   {
-   "pattern": "11111",
-   "count": 1,
-   "states": [
-    {
-     "state": "Ohio",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 567 621 1111",
-       "location": "Ft Recovery, OH"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "pattern": "22222",
-   "count": 90,
+   "count": 82,
    "states": [
     {
      "state": "Alabama",
@@ -51,31 +35,11 @@
     },
     {
      "state": "Georgia",
-     "count": 59,
+     "count": 54,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2069",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2196",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2197",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2304",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2309",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2310",
@@ -296,7 +260,7 @@
      "count": 1,
      "numbers": [
       {
-       "number": "+1 504 222 2258",
+       "number": "+1 504 222 2238",
        "location": "New Orleans, LA"
       }
      ]
@@ -367,7 +331,7 @@
     },
     {
      "state": "New York",
-     "count": 4,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 585 822 2220",
@@ -376,14 +340,6 @@
       {
        "number": "+1 607 622 2221",
        "location": "Bath, NY"
-      },
-      {
-       "number": "+1 716 222 2239",
-       "location": "Holland, NY"
-      },
-      {
-       "number": "+1 914 222 2201",
-       "location": "Bronxville, NY"
       }
      ]
     },
@@ -440,16 +396,6 @@
       {
        "number": "+1 931 922 2228",
        "location": "Columbia, TN"
-      }
-     ]
-    },
-    {
-     "state": "Texas",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 940 222 2264",
-       "location": "Denton, TX"
       }
      ]
     },
@@ -641,7 +587,7 @@
   },
   {
    "pattern": "44444",
-   "count": 95,
+   "count": 90,
    "states": [
     {
      "state": "Alabama",
@@ -706,20 +652,6 @@
       {
        "number": "+1 938 444 4487",
        "location": "Decatur, AL"
-      }
-     ]
-    },
-    {
-     "state": "California",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 424 444 4237",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4517",
-       "location": "Compton, CA"
       }
      ]
     },
@@ -924,24 +856,6 @@
       {
        "number": "+1 320 844 4443",
        "location": "Avon, MN"
-      }
-     ]
-    },
-    {
-     "state": "Texas",
-     "count": 3,
-     "numbers": [
-      {
-       "number": "+1 936 444 4416",
-       "location": "Conroe, TX"
-      },
-      {
-       "number": "+1 936 444 4419",
-       "location": "Conroe, TX"
-      },
-      {
-       "number": "+1 936 444 4452",
-       "location": "Conroe, TX"
       }
      ]
     },
@@ -4266,10 +4180,6 @@
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8529",
-       "location": "Atlanta, GA"
-      },
-      {
        "number": "+1 678 888 8530",
        "location": "Atlanta, GA"
       },
@@ -4299,6 +4209,10 @@
       },
       {
        "number": "+1 678 888 8545",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8548",
        "location": "Atlanta, GA"
       },
       {
@@ -4346,6 +4260,10 @@
        "location": "Atlanta, GA"
       },
       {
+       "number": "+1 678 888 8619",
+       "location": "Atlanta, GA"
+      },
+      {
        "number": "+1 678 888 8620",
        "location": "Atlanta, GA"
       },
@@ -4375,10 +4293,6 @@
       },
       {
        "number": "+1 678 888 8633",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8634",
        "location": "Atlanta, GA"
       },
       {
@@ -7145,7 +7059,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 882,
+  "total": 865,
   "state_count": 44,
   "states": [
    {
@@ -7256,16 +7170,8 @@
    },
    {
     "state": "Arizona",
-    "count": 8,
+    "count": 6,
     "numbers": [
-     {
-      "number": "+1 520 540 0003",
-      "location": "Tucson, AZ"
-     },
-     {
-      "number": "+1 520 540 0006",
-      "location": "Tucson, AZ"
-     },
      {
       "number": "+1 928 800 0056",
       "location": "Prescott, AZ"
@@ -7352,20 +7258,8 @@
    },
    {
     "state": "California",
-    "count": 57,
+    "count": 53,
     "numbers": [
-     {
-      "number": "+1 209 330 0008",
-      "location": "Waterford, CA"
-     },
-     {
-      "number": "+1 323 990 0007",
-      "location": "Los Angeles, CA"
-     },
-     {
-      "number": "+1 341 210 0002",
-      "location": "Oakland, CA"
-     },
      {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
@@ -7377,10 +7271,6 @@
      {
       "number": "+1 562 600 0092",
       "location": "Whittier, CA"
-     },
-     {
-      "number": "+1 626 460 0003",
-      "location": "Pasadena, CA"
      },
      {
       "number": "+1 626 640 0003",
@@ -7856,12 +7746,8 @@
    },
    {
     "state": "Florida",
-    "count": 82,
+    "count": 81,
     "numbers": [
-     {
-      "number": "+1 239 900 0049",
-      "location": "Fort Myers, FL"
-     },
      {
       "number": "+1 352 570 0008",
       "location": "Yankeetown, FL"
@@ -7879,12 +7765,12 @@
       "location": "Brooksville, FL"
      },
      {
-      "number": "+1 352 780 0004",
-      "location": "Belleview, FL"
+      "number": "+1 352 600 0079",
+      "location": "Brooksville, FL"
      },
      {
-      "number": "+1 352 830 0002",
-      "location": "Ocala, FL"
+      "number": "+1 352 780 0004",
+      "location": "Belleview, FL"
      },
      {
       "number": "+1 352 830 0005",
@@ -8190,12 +8076,8 @@
    },
    {
     "state": "Georgia",
-    "count": 18,
+    "count": 17,
     "numbers": [
-     {
-      "number": "+1 470 680 0007",
-      "location": "Cumming, GA"
-     },
      {
       "number": "+1 478 287 0000",
       "location": "Perry, GA"
@@ -8618,7 +8500,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 67,
+    "count": 66,
     "numbers": [
      {
       "number": "+1 218 480 0003",
@@ -8837,10 +8719,6 @@
       "location": "Jackson, MN"
      },
      {
-      "number": "+1 507 850 0005",
-      "location": "Northfield, MN"
-     },
-     {
       "number": "+1 507 850 0006",
       "location": "Northfield, MN"
      },
@@ -8942,12 +8820,8 @@
    },
    {
     "state": "Missouri",
-    "count": 4,
+    "count": 3,
     "numbers": [
-     {
-      "number": "+1 573 500 0050",
-      "location": "Campbell, MO"
-     },
      {
       "number": "+1 660 268 0000",
       "location": "Brookfield, MO"
@@ -9306,7 +9180,7 @@
    },
    {
     "state": "New York",
-    "count": 116,
+    "count": 115,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9343,10 +9217,6 @@
      {
       "number": "+1 516 930 0006",
       "location": "Manhasset, NY"
-     },
-     {
-      "number": "+1 518 290 0002",
-      "location": "Saratoga Springs, NY"
      },
      {
       "number": "+1 585 630 0006",
@@ -9776,12 +9646,8 @@
    },
    {
     "state": "North Carolina",
-    "count": 30,
+    "count": 28,
     "numbers": [
-     {
-      "number": "+1 252 380 0005",
-      "location": "Moyock, NC"
-     },
      {
       "number": "+1 252 490 0002",
       "location": "Colerain, NC"
@@ -9797,10 +9663,6 @@
      {
       "number": "+1 336 850 0003",
       "location": "Browns Summit, NC"
-     },
-     {
-      "number": "+1 704 750 0005",
-      "location": "Kings Mtn, NC"
      },
      {
       "number": "+1 828 680 0007",
@@ -9912,19 +9774,15 @@
    },
    {
     "state": "Ohio",
-    "count": 73,
+    "count": 72,
     "numbers": [
-     {
-      "number": "+1 216 800 0015",
-      "location": "Cleveland, OH"
-     },
-     {
-      "number": "+1 234 200 0037",
-      "location": "Akron, OH"
-     },
      {
       "number": "+1 234 720 0004",
       "location": "Atwater, OH"
+     },
+     {
+      "number": "+1 330 800 0067",
+      "location": "Akron, OH"
      },
      {
       "number": "+1 330 800 0072",
@@ -9933,6 +9791,10 @@
      {
       "number": "+1 380 280 0004",
       "location": "Groveport, OH"
+     },
+     {
+      "number": "+1 380 390 0009",
+      "location": "Columbus, OH"
      },
      {
       "number": "+1 380 500 0017",
@@ -10077,10 +9939,6 @@
      {
       "number": "+1 740 860 0007",
       "location": "Parkersburg, OH"
-     },
-     {
-      "number": "+1 937 400 0029",
-      "location": "Jackson Center, OH"
      },
      {
       "number": "+1 937 400 0057",
@@ -10260,12 +10118,8 @@
    },
    {
     "state": "Oregon",
-    "count": 13,
+    "count": 12,
     "numbers": [
-     {
-      "number": "+1 971 410 0006",
-      "location": "Beaverton, OR"
-     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -10480,16 +10334,8 @@
    },
    {
     "state": "Tennessee",
-    "count": 11,
+    "count": 9,
     "numbers": [
-     {
-      "number": "+1 423 840 0009",
-      "location": "Butler, TN"
-     },
-     {
-      "number": "+1 731 400 0083",
-      "location": "Savannah, TN"
-     },
      {
       "number": "+1 731 400 0094",
       "location": "Savannah, TN"
@@ -10612,12 +10458,8 @@
    },
    {
     "state": "Utah",
-    "count": 38,
+    "count": 37,
     "numbers": [
-     {
-      "number": "+1 385 430 0006",
-      "location": "Clearfield, UT"
-     },
      {
       "number": "+1 385 480 0002",
       "location": "Provo, UT"
@@ -10780,8 +10622,12 @@
    },
    {
     "state": "Virginia",
-    "count": 1,
+    "count": 2,
     "numbers": [
+     {
+      "number": "+1 540 260 0005",
+      "location": "Christiansburg, VA"
+     },
      {
       "number": "+1 757 740 0003",
       "location": "Franklin, VA"
@@ -10997,9 +10843,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1622,
-  "patterns_with_results": 9,
-  "total_0000": 882,
+  "total_5_in_a_row": 1608,
+  "patterns_with_results": 8,
+  "total_0000": 865,
   "state_count_0000": 44
  }
 }
