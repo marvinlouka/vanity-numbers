@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-11
-1608 five-in-a-row · 865 four-zeros across 44 states
+Updated: 2026-08-12
+1357 five-in-a-row · 862 four-zeros across 44 states
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 82 numbers ---
+--- 22222 — 53 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
@@ -16,43 +16,19 @@ Updated: 2026-08-11
   CALIFORNIA (1)
     +1 909 922 2227   Etiwanda, CA
 
-  GEORGIA (54)
+  GEORGIA (26)
     +1 706 522 2226   Elberton, GA
-    +1 762 222 2310   Augusta, GA
-    +1 762 222 2316   Augusta, GA
-    +1 762 222 2321   Augusta, GA
-    +1 762 222 2325   Augusta, GA
-    +1 762 222 2336   Augusta, GA
-    +1 762 222 2339   Augusta, GA
-    +1 762 222 2341   Augusta, GA
-    +1 762 222 2357   Augusta, GA
-    +1 762 222 2372   Augusta, GA
-    +1 762 222 2379   Augusta, GA
     +1 762 222 2380   Augusta, GA
     +1 762 222 2381   Augusta, GA
-    +1 762 222 2385   Augusta, GA
     +1 762 222 2408   Augusta, GA
-    +1 762 222 2439   Augusta, GA
-    +1 762 222 2463   Augusta, GA
-    +1 762 222 2464   Augusta, GA
-    +1 762 222 2466   Augusta, GA
     +1 762 222 2469   Augusta, GA
     +1 762 222 2470   Augusta, GA
     +1 762 222 2473   Augusta, GA
     +1 762 222 2479   Augusta, GA
-    +1 762 222 2488   Augusta, GA
     +1 762 222 2493   Augusta, GA
     +1 762 222 2507   Augusta, GA
     +1 762 222 2518   Augusta, GA
     +1 762 222 2520   Augusta, GA
-    +1 762 222 2530   Augusta, GA
-    +1 762 222 2531   Augusta, GA
-    +1 762 222 2543   Augusta, GA
-    +1 762 222 2547   Augusta, GA
-    +1 762 222 2556   Augusta, GA
-    +1 762 222 2557   Augusta, GA
-    +1 762 222 2566   Augusta, GA
-    +1 762 222 2568   Augusta, GA
     +1 762 222 2570   Augusta, GA
     +1 762 222 2573   Augusta, GA
     +1 762 222 2581   Augusta, GA
@@ -61,19 +37,12 @@ Updated: 2026-08-11
     +1 762 222 2604   Augusta, GA
     +1 762 222 2606   Augusta, GA
     +1 762 222 2611   Augusta, GA
-    +1 762 222 2656   Augusta, GA
     +1 762 222 2711   Augusta, GA
     +1 762 222 2713   Augusta, GA
-    +1 762 222 2729   Augusta, GA
     +1 762 222 2815   Augusta, GA
     +1 762 222 2853   Augusta, GA
     +1 762 222 2941   Augusta, GA
-    +1 762 222 2943   Augusta, GA
-    +1 762 222 2945   Augusta, GA
     +1 762 222 2948   Augusta, GA
-
-  LOUISIANA (1)
-    +1 504 222 2238   New Orleans, LA
 
   MASSACHUSETTS (6)
     +1 508 722 2223   Auburn, MA
@@ -164,7 +133,7 @@ Updated: 2026-08-11
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 90 numbers ---
+--- 44444 — 89 numbers ---
 
   ALABAMA (15)
     +1 251 444 4402   Mobile, AL
@@ -226,9 +195,6 @@ Updated: 2026-08-11
   INDIANA (1)
     +1 765 344 4446   Rockville, IN
 
-  KENTUCKY (1)
-    +1 859 444 4430   Covington, KY
-
   MINNESOTA (6)
     +1 218 644 4441   Cromwell, MN
     +1 218 644 4442   Cromwell, MN
@@ -276,7 +242,7 @@ Updated: 2026-08-11
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 18 numbers ---
+--- 55555 — 16 numbers ---
 
   FLORIDA (5)
     +1 754 755 5553   Fort Lauderdale, FL
@@ -284,10 +250,6 @@ Updated: 2026-08-11
     +1 863 855 5553   Lake Wales, FL
     +1 863 855 5554   Lake Wales, FL
     +1 863 855 5559   Lake Wales, FL
-
-  ILLINOIS (2)
-    +1 630 755 5552   Lemont, IL
-    +1 630 755 5558   Lemont, IL
 
   MICHIGAN (1)
     +1 231 655 5552   Manistee, MI
@@ -314,16 +276,15 @@ Updated: 2026-08-11
     +1 425 955 5552   Clyde Hill, WA
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 89 numbers ---
+--- 66666 — 87 numbers ---
 
-  ALABAMA (10)
+  ALABAMA (9)
     +1 334 666 6605   Wetumpka, AL
     +1 334 666 6627   Wetumpka, AL
     +1 334 666 6690   Wetumpka, AL
     +1 334 766 6661   Daleville, AL
     +1 334 766 6665   Daleville, AL
     +1 334 766 6668   Daleville, AL
-    +1 659 266 6661   Wilton, AL
     +1 659 266 6665   Wilton, AL
     +1 659 266 6669   Wilton, AL
     +1 938 666 6670   Huntsville, AL
@@ -357,8 +318,7 @@ Updated: 2026-08-11
     +1 986 266 6665   Nampa, ID
     +1 986 266 6668   Nampa, ID
 
-  ILLINOIS (2)
-    +1 630 866 6664   Glen Ellyn, IL
+  ILLINOIS (1)
     +1 708 566 6664   Harvey, IL
 
   INDIANA (12)
@@ -447,9 +407,9 @@ Updated: 2026-08-11
     +1 385 666 6670   Provo, UT
     +1 385 666 6692   Provo, UT
 
---- 77777 — 275 numbers ---
+--- 77777 — 272 numbers ---
 
-  CALIFORNIA (172)
+  CALIFORNIA (169)
     +1 657 777 7033   Buena Park, CA
     +1 657 777 7038   Buena Park, CA
     +1 657 777 7039   Buena Park, CA
@@ -493,7 +453,6 @@ Updated: 2026-08-11
     +1 657 777 7217   Buena Park, CA
     +1 657 777 7218   Buena Park, CA
     +1 657 777 7237   Buena Park, CA
-    +1 657 777 7238   Buena Park, CA
     +1 657 777 7239   Buena Park, CA
     +1 657 777 7242   Buena Park, CA
     +1 657 777 7244   Buena Park, CA
@@ -512,7 +471,6 @@ Updated: 2026-08-11
     +1 657 777 7315   Buena Park, CA
     +1 657 777 7318   Buena Park, CA
     +1 657 777 7327   Buena Park, CA
-    +1 657 777 7336   Buena Park, CA
     +1 657 777 7339   Buena Park, CA
     +1 657 777 7346   Buena Park, CA
     +1 657 777 7348   Buena Park, CA
@@ -541,11 +499,11 @@ Updated: 2026-08-11
     +1 657 777 7454   Buena Park, CA
     +1 657 777 7455   Buena Park, CA
     +1 657 777 7461   Buena Park, CA
-    +1 657 777 7463   Buena Park, CA
     +1 657 777 7471   Buena Park, CA
     +1 657 777 7478   Buena Park, CA
     +1 657 777 7479   Buena Park, CA
     +1 657 777 7480   Buena Park, CA
+    +1 657 777 7482   Buena Park, CA
     +1 657 777 7502   Buena Park, CA
     +1 657 777 7504   Buena Park, CA
     +1 657 777 7509   Buena Park, CA
@@ -574,7 +532,6 @@ Updated: 2026-08-11
     +1 657 777 7629   Buena Park, CA
     +1 657 777 7635   Buena Park, CA
     +1 657 777 7636   Buena Park, CA
-    +1 657 777 7638   Buena Park, CA
     +1 657 777 7642   Buena Park, CA
     +1 657 777 7651   Buena Park, CA
     +1 657 777 7655   Buena Park, CA
@@ -750,7 +707,7 @@ Updated: 2026-08-11
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 745 numbers ---
+--- 88888 — 532 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -780,94 +737,84 @@ Updated: 2026-08-11
     +1 334 888 8843   Clayton, AL
     +1 938 888 8440   Killen, AL
 
-  CALIFORNIA (187)
+  CALIFORNIA (117)
     +1 858 888 8012   San Diego, CA
     +1 858 888 8013   San Diego, CA
     +1 858 888 8015   San Diego, CA
     +1 858 888 8016   San Diego, CA
     +1 858 888 8017   San Diego, CA
+    +1 858 888 8019   San Diego, CA
     +1 858 888 8021   San Diego, CA
     +1 858 888 8022   San Diego, CA
     +1 858 888 8023   San Diego, CA
     +1 858 888 8024   San Diego, CA
     +1 858 888 8025   San Diego, CA
     +1 858 888 8027   San Diego, CA
-    +1 858 888 8028   San Diego, CA
     +1 858 888 8029   San Diego, CA
     +1 858 888 8030   San Diego, CA
     +1 858 888 8032   San Diego, CA
     +1 858 888 8033   San Diego, CA
     +1 858 888 8034   San Diego, CA
     +1 858 888 8036   San Diego, CA
-    +1 858 888 8038   San Diego, CA
-    +1 858 888 8041   San Diego, CA
+    +1 858 888 8037   San Diego, CA
+    +1 858 888 8045   San Diego, CA
+    +1 858 888 8051   San Diego, CA
+    +1 858 888 8053   San Diego, CA
+    +1 858 888 8082   San Diego, CA
+    +1 858 888 8091   San Diego, CA
+    +1 858 888 8092   San Diego, CA
     +1 858 888 8102   San Diego, CA
     +1 858 888 8103   San Diego, CA
+    +1 858 888 8104   San Diego, CA
     +1 858 888 8106   San Diego, CA
-    +1 858 888 8107   San Diego, CA
-    +1 858 888 8116   San Diego, CA
-    +1 858 888 8119   San Diego, CA
-    +1 858 888 8120   San Diego, CA
-    +1 858 888 8121   San Diego, CA
-    +1 858 888 8122   San Diego, CA
-    +1 858 888 8126   San Diego, CA
-    +1 858 888 8130   San Diego, CA
-    +1 858 888 8131   San Diego, CA
-    +1 858 888 8132   San Diego, CA
-    +1 858 888 8133   San Diego, CA
+    +1 858 888 8109   San Diego, CA
+    +1 858 888 8114   San Diego, CA
     +1 858 888 8134   San Diego, CA
-    +1 858 888 8135   San Diego, CA
-    +1 858 888 8138   San Diego, CA
-    +1 858 888 8139   San Diego, CA
     +1 858 888 8141   San Diego, CA
     +1 858 888 8143   San Diego, CA
+    +1 858 888 8147   San Diego, CA
+    +1 858 888 8149   San Diego, CA
+    +1 858 888 8154   San Diego, CA
     +1 858 888 8160   San Diego, CA
     +1 858 888 8170   San Diego, CA
-    +1 858 888 8180   San Diego, CA
+    +1 858 888 8174   San Diego, CA
     +1 858 888 8190   San Diego, CA
+    +1 858 888 8194   San Diego, CA
     +1 858 888 8201   San Diego, CA
     +1 858 888 8202   San Diego, CA
     +1 858 888 8203   San Diego, CA
     +1 858 888 8206   San Diego, CA
+    +1 858 888 8209   San Diego, CA
     +1 858 888 8210   San Diego, CA
-    +1 858 888 8211   San Diego, CA
-    +1 858 888 8212   San Diego, CA
-    +1 858 888 8213   San Diego, CA
-    +1 858 888 8216   San Diego, CA
-    +1 858 888 8221   San Diego, CA
-    +1 858 888 8223   San Diego, CA
-    +1 858 888 8224   San Diego, CA
-    +1 858 888 8225   San Diego, CA
-    +1 858 888 8229   San Diego, CA
     +1 858 888 8230   San Diego, CA
-    +1 858 888 8231   San Diego, CA
-    +1 858 888 8232   San Diego, CA
-    +1 858 888 8237   San Diego, CA
     +1 858 888 8239   San Diego, CA
     +1 858 888 8240   San Diego, CA
     +1 858 888 8241   San Diego, CA
-    +1 858 888 8270   San Diego, CA
-    +1 858 888 8280   San Diego, CA
+    +1 858 888 8242   San Diego, CA
+    +1 858 888 8244   San Diego, CA
+    +1 858 888 8245   San Diego, CA
+    +1 858 888 8246   San Diego, CA
+    +1 858 888 8251   San Diego, CA
+    +1 858 888 8253   San Diego, CA
+    +1 858 888 8254   San Diego, CA
+    +1 858 888 8256   San Diego, CA
+    +1 858 888 8261   San Diego, CA
+    +1 858 888 8263   San Diego, CA
     +1 858 888 8301   San Diego, CA
     +1 858 888 8302   San Diego, CA
-    +1 858 888 8303   San Diego, CA
     +1 858 888 8305   San Diego, CA
     +1 858 888 8306   San Diego, CA
-    +1 858 888 8308   San Diego, CA
     +1 858 888 8309   San Diego, CA
     +1 858 888 8310   San Diego, CA
-    +1 858 888 8311   San Diego, CA
-    +1 858 888 8312   San Diego, CA
-    +1 858 888 8313   San Diego, CA
-    +1 858 888 8315   San Diego, CA
-    +1 858 888 8316   San Diego, CA
+    +1 858 888 8314   San Diego, CA
     +1 858 888 8320   San Diego, CA
-    +1 858 888 8321   San Diego, CA
-    +1 858 888 8322   San Diego, CA
-    +1 858 888 8323   San Diego, CA
-    +1 858 888 8325   San Diego, CA
-    +1 858 888 8326   San Diego, CA
-    +1 858 888 8328   San Diego, CA
+    +1 858 888 8340   San Diego, CA
+    +1 858 888 8341   San Diego, CA
+    +1 858 888 8343   San Diego, CA
+    +1 858 888 8347   San Diego, CA
+    +1 858 888 8348   San Diego, CA
+    +1 858 888 8370   San Diego, CA
+    +1 858 888 8374   San Diego, CA
     +1 858 888 8401   San Diego, CA
     +1 858 888 8402   San Diego, CA
     +1 858 888 8403   San Diego, CA
@@ -881,289 +828,88 @@ Updated: 2026-08-11
     +1 858 888 8415   San Diego, CA
     +1 858 888 8416   San Diego, CA
     +1 858 888 8417   San Diego, CA
+    +1 858 888 8418   San Diego, CA
     +1 858 888 8420   San Diego, CA
     +1 858 888 8421   San Diego, CA
     +1 858 888 8423   San Diego, CA
-    +1 858 888 8424   San Diego, CA
     +1 858 888 8425   San Diego, CA
-    +1 858 888 8426   San Diego, CA
+    +1 858 888 8429   San Diego, CA
     +1 858 888 8430   San Diego, CA
-    +1 858 888 8501   San Diego, CA
-    +1 858 888 8502   San Diego, CA
-    +1 858 888 8504   San Diego, CA
-    +1 858 888 8505   San Diego, CA
-    +1 858 888 8507   San Diego, CA
-    +1 858 888 8510   San Diego, CA
-    +1 858 888 8511   San Diego, CA
-    +1 858 888 8512   San Diego, CA
-    +1 858 888 8513   San Diego, CA
-    +1 858 888 8516   San Diego, CA
-    +1 858 888 8518   San Diego, CA
-    +1 858 888 8520   San Diego, CA
-    +1 858 888 8522   San Diego, CA
-    +1 858 888 8524   San Diego, CA
-    +1 858 888 8526   San Diego, CA
-    +1 858 888 8530   San Diego, CA
-    +1 858 888 8531   San Diego, CA
-    +1 858 888 8536   San Diego, CA
-    +1 858 888 8537   San Diego, CA
-    +1 858 888 8540   San Diego, CA
     +1 858 888 8601   San Diego, CA
     +1 858 888 8602   San Diego, CA
     +1 858 888 8605   San Diego, CA
-    +1 858 888 8606   San Diego, CA
     +1 858 888 8607   San Diego, CA
-    +1 858 888 8608   San Diego, CA
     +1 858 888 8609   San Diego, CA
     +1 858 888 8610   San Diego, CA
-    +1 858 888 8612   San Diego, CA
-    +1 858 888 8613   San Diego, CA
     +1 858 888 8614   San Diego, CA
-    +1 858 888 8615   San Diego, CA
-    +1 858 888 8616   San Diego, CA
-    +1 858 888 8617   San Diego, CA
     +1 858 888 8620   San Diego, CA
-    +1 858 888 8621   San Diego, CA
-    +1 858 888 8622   San Diego, CA
-    +1 858 888 8624   San Diego, CA
-    +1 858 888 8627   San Diego, CA
     +1 858 888 8628   San Diego, CA
-    +1 858 888 8702   San Diego, CA
-    +1 858 888 8703   San Diego, CA
-    +1 858 888 8704   San Diego, CA
-    +1 858 888 8705   San Diego, CA
-    +1 858 888 8706   San Diego, CA
-    +1 858 888 8707   San Diego, CA
-    +1 858 888 8708   San Diego, CA
-    +1 858 888 8709   San Diego, CA
-    +1 858 888 8710   San Diego, CA
-    +1 858 888 8712   San Diego, CA
-    +1 858 888 8714   San Diego, CA
-    +1 858 888 8715   San Diego, CA
-    +1 858 888 8717   San Diego, CA
-    +1 858 888 8721   San Diego, CA
-    +1 858 888 8722   San Diego, CA
-    +1 858 888 8723   San Diego, CA
-    +1 858 888 8724   San Diego, CA
-    +1 858 888 8725   San Diego, CA
-    +1 858 888 8727   San Diego, CA
-    +1 858 888 8728   San Diego, CA
-    +1 858 888 8901   San Diego, CA
-    +1 858 888 8904   San Diego, CA
-    +1 858 888 8906   San Diego, CA
-    +1 858 888 8907   San Diego, CA
-    +1 858 888 8908   San Diego, CA
-    +1 858 888 8909   San Diego, CA
-    +1 858 888 8911   San Diego, CA
-    +1 858 888 8912   San Diego, CA
-    +1 858 888 8913   San Diego, CA
-    +1 858 888 8914   San Diego, CA
-    +1 858 888 8916   San Diego, CA
-    +1 858 888 8917   San Diego, CA
-    +1 858 888 8922   San Diego, CA
-    +1 858 888 8923   San Diego, CA
-    +1 858 888 8924   San Diego, CA
-    +1 858 888 8928   San Diego, CA
-    +1 858 888 8930   San Diego, CA
-    +1 858 888 8931   San Diego, CA
-    +1 858 888 8933   San Diego, CA
-    +1 858 888 8935   San Diego, CA
+    +1 858 888 8629   San Diego, CA
+    +1 858 888 8630   San Diego, CA
+    +1 858 888 8634   San Diego, CA
+    +1 858 888 8638   San Diego, CA
+    +1 858 888 8640   San Diego, CA
+    +1 858 888 8641   San Diego, CA
+    +1 858 888 8645   San Diego, CA
+    +1 858 888 8646   San Diego, CA
+    +1 858 888 8650   San Diego, CA
+    +1 858 888 8662   San Diego, CA
+    +1 858 888 8663   San Diego, CA
 
-  GEORGIA (192)
-    +1 678 888 8003   Atlanta, GA
-    +1 678 888 8010   Atlanta, GA
-    +1 678 888 8011   Atlanta, GA
-    +1 678 888 8012   Atlanta, GA
-    +1 678 888 8017   Atlanta, GA
-    +1 678 888 8018   Atlanta, GA
-    +1 678 888 8020   Atlanta, GA
-    +1 678 888 8022   Atlanta, GA
-    +1 678 888 8023   Atlanta, GA
-    +1 678 888 8026   Atlanta, GA
-    +1 678 888 8028   Atlanta, GA
-    +1 678 888 8030   Atlanta, GA
-    +1 678 888 8031   Atlanta, GA
-    +1 678 888 8032   Atlanta, GA
-    +1 678 888 8033   Atlanta, GA
-    +1 678 888 8034   Atlanta, GA
-    +1 678 888 8035   Atlanta, GA
-    +1 678 888 8037   Atlanta, GA
-    +1 678 888 8040   Atlanta, GA
+  GEORGIA (51)
     +1 678 888 8041   Atlanta, GA
-    +1 678 888 8050   Atlanta, GA
-    +1 678 888 8090   Atlanta, GA
-    +1 678 888 8101   Atlanta, GA
-    +1 678 888 8102   Atlanta, GA
-    +1 678 888 8103   Atlanta, GA
-    +1 678 888 8105   Atlanta, GA
-    +1 678 888 8106   Atlanta, GA
-    +1 678 888 8112   Atlanta, GA
-    +1 678 888 8113   Atlanta, GA
-    +1 678 888 8114   Atlanta, GA
-    +1 678 888 8115   Atlanta, GA
-    +1 678 888 8116   Atlanta, GA
-    +1 678 888 8117   Atlanta, GA
-    +1 678 888 8119   Atlanta, GA
-    +1 678 888 8120   Atlanta, GA
-    +1 678 888 8122   Atlanta, GA
-    +1 678 888 8124   Atlanta, GA
-    +1 678 888 8126   Atlanta, GA
-    +1 678 888 8127   Atlanta, GA
-    +1 678 888 8130   Atlanta, GA
-    +1 678 888 8133   Atlanta, GA
-    +1 678 888 8134   Atlanta, GA
-    +1 678 888 8140   Atlanta, GA
-    +1 678 888 8150   Atlanta, GA
-    +1 678 888 8160   Atlanta, GA
-    +1 678 888 8170   Atlanta, GA
-    +1 678 888 8190   Atlanta, GA
-    +1 678 888 8201   Atlanta, GA
-    +1 678 888 8205   Atlanta, GA
-    +1 678 888 8209   Atlanta, GA
-    +1 678 888 8213   Atlanta, GA
-    +1 678 888 8216   Atlanta, GA
-    +1 678 888 8219   Atlanta, GA
-    +1 678 888 8220   Atlanta, GA
-    +1 678 888 8223   Atlanta, GA
-    +1 678 888 8224   Atlanta, GA
-    +1 678 888 8225   Atlanta, GA
-    +1 678 888 8226   Atlanta, GA
-    +1 678 888 8231   Atlanta, GA
-    +1 678 888 8232   Atlanta, GA
-    +1 678 888 8234   Atlanta, GA
-    +1 678 888 8236   Atlanta, GA
-    +1 678 888 8237   Atlanta, GA
+    +1 678 888 8059   Atlanta, GA
+    +1 678 888 8061   Atlanta, GA
+    +1 678 888 8067   Atlanta, GA
+    +1 678 888 8069   Atlanta, GA
+    +1 678 888 8075   Atlanta, GA
+    +1 678 888 8076   Atlanta, GA
+    +1 678 888 8078   Atlanta, GA
+    +1 678 888 8082   Atlanta, GA
+    +1 678 888 8085   Atlanta, GA
+    +1 678 888 8087   Atlanta, GA
+    +1 678 888 8093   Atlanta, GA
     +1 678 888 8238   Atlanta, GA
     +1 678 888 8239   Atlanta, GA
-    +1 678 888 8241   Atlanta, GA
+    +1 678 888 8240   Atlanta, GA
     +1 678 888 8242   Atlanta, GA
+    +1 678 888 8244   Atlanta, GA
+    +1 678 888 8245   Atlanta, GA
+    +1 678 888 8246   Atlanta, GA
+    +1 678 888 8247   Atlanta, GA
+    +1 678 888 8249   Atlanta, GA
     +1 678 888 8250   Atlanta, GA
-    +1 678 888 8260   Atlanta, GA
-    +1 678 888 8270   Atlanta, GA
-    +1 678 888 8280   Atlanta, GA
-    +1 678 888 8290   Atlanta, GA
-    +1 678 888 8301   Atlanta, GA
-    +1 678 888 8302   Atlanta, GA
-    +1 678 888 8305   Atlanta, GA
-    +1 678 888 8306   Atlanta, GA
-    +1 678 888 8307   Atlanta, GA
-    +1 678 888 8309   Atlanta, GA
-    +1 678 888 8310   Atlanta, GA
-    +1 678 888 8315   Atlanta, GA
-    +1 678 888 8318   Atlanta, GA
-    +1 678 888 8321   Atlanta, GA
-    +1 678 888 8325   Atlanta, GA
-    +1 678 888 8326   Atlanta, GA
-    +1 678 888 8328   Atlanta, GA
-    +1 678 888 8329   Atlanta, GA
-    +1 678 888 8331   Atlanta, GA
-    +1 678 888 8332   Atlanta, GA
-    +1 678 888 8336   Atlanta, GA
-    +1 678 888 8339   Atlanta, GA
-    +1 678 888 8340   Atlanta, GA
-    +1 678 888 8341   Atlanta, GA
-    +1 678 888 8450   Atlanta, GA
-    +1 678 888 8457   Atlanta, GA
-    +1 678 888 8458   Atlanta, GA
+    +1 678 888 8251   Atlanta, GA
+    +1 678 888 8253   Atlanta, GA
+    +1 678 888 8254   Atlanta, GA
+    +1 678 888 8256   Atlanta, GA
+    +1 678 888 8259   Atlanta, GA
+    +1 678 888 8262   Atlanta, GA
+    +1 678 888 8263   Atlanta, GA
+    +1 678 888 8264   Atlanta, GA
+    +1 678 888 8267   Atlanta, GA
+    +1 678 888 8269   Atlanta, GA
     +1 678 888 8459   Atlanta, GA
-    +1 678 888 8460   Atlanta, GA
     +1 678 888 8461   Atlanta, GA
-    +1 678 888 8462   Atlanta, GA
-    +1 678 888 8463   Atlanta, GA
-    +1 678 888 8464   Atlanta, GA
-    +1 678 888 8465   Atlanta, GA
-    +1 678 888 8466   Atlanta, GA
     +1 678 888 8467   Atlanta, GA
-    +1 678 888 8469   Atlanta, GA
     +1 678 888 8470   Atlanta, GA
-    +1 678 888 8472   Atlanta, GA
-    +1 678 888 8474   Atlanta, GA
-    +1 678 888 8475   Atlanta, GA
-    +1 678 888 8476   Atlanta, GA
-    +1 678 888 8477   Atlanta, GA
-    +1 678 888 8478   Atlanta, GA
-    +1 678 888 8501   Atlanta, GA
-    +1 678 888 8502   Atlanta, GA
-    +1 678 888 8506   Atlanta, GA
-    +1 678 888 8508   Atlanta, GA
-    +1 678 888 8509   Atlanta, GA
-    +1 678 888 8511   Atlanta, GA
-    +1 678 888 8512   Atlanta, GA
-    +1 678 888 8514   Atlanta, GA
-    +1 678 888 8517   Atlanta, GA
-    +1 678 888 8520   Atlanta, GA
-    +1 678 888 8521   Atlanta, GA
-    +1 678 888 8530   Atlanta, GA
-    +1 678 888 8531   Atlanta, GA
-    +1 678 888 8532   Atlanta, GA
-    +1 678 888 8536   Atlanta, GA
-    +1 678 888 8537   Atlanta, GA
-    +1 678 888 8541   Atlanta, GA
-    +1 678 888 8542   Atlanta, GA
-    +1 678 888 8545   Atlanta, GA
-    +1 678 888 8548   Atlanta, GA
-    +1 678 888 8601   Atlanta, GA
-    +1 678 888 8602   Atlanta, GA
-    +1 678 888 8603   Atlanta, GA
-    +1 678 888 8604   Atlanta, GA
-    +1 678 888 8606   Atlanta, GA
-    +1 678 888 8607   Atlanta, GA
-    +1 678 888 8609   Atlanta, GA
-    +1 678 888 8614   Atlanta, GA
-    +1 678 888 8615   Atlanta, GA
-    +1 678 888 8616   Atlanta, GA
-    +1 678 888 8618   Atlanta, GA
-    +1 678 888 8619   Atlanta, GA
-    +1 678 888 8620   Atlanta, GA
-    +1 678 888 8621   Atlanta, GA
-    +1 678 888 8622   Atlanta, GA
-    +1 678 888 8625   Atlanta, GA
+    +1 678 888 8628   Atlanta, GA
     +1 678 888 8630   Atlanta, GA
-    +1 678 888 8631   Atlanta, GA
-    +1 678 888 8632   Atlanta, GA
-    +1 678 888 8633   Atlanta, GA
-    +1 678 888 8702   Atlanta, GA
-    +1 678 888 8703   Atlanta, GA
-    +1 678 888 8704   Atlanta, GA
-    +1 678 888 8707   Atlanta, GA
-    +1 678 888 8708   Atlanta, GA
-    +1 678 888 8710   Atlanta, GA
-    +1 678 888 8711   Atlanta, GA
-    +1 678 888 8712   Atlanta, GA
-    +1 678 888 8714   Atlanta, GA
-    +1 678 888 8715   Atlanta, GA
-    +1 678 888 8717   Atlanta, GA
-    +1 678 888 8718   Atlanta, GA
-    +1 678 888 8719   Atlanta, GA
-    +1 678 888 8720   Atlanta, GA
-    +1 678 888 8723   Atlanta, GA
-    +1 678 888 8724   Atlanta, GA
-    +1 678 888 8725   Atlanta, GA
-    +1 678 888 8727   Atlanta, GA
-    +1 678 888 8728   Atlanta, GA
-    +1 678 888 8729   Atlanta, GA
-    +1 678 888 8901   Atlanta, GA
-    +1 678 888 8906   Atlanta, GA
-    +1 678 888 8911   Atlanta, GA
-    +1 678 888 8912   Atlanta, GA
-    +1 678 888 8915   Atlanta, GA
-    +1 678 888 8916   Atlanta, GA
-    +1 678 888 8917   Atlanta, GA
-    +1 678 888 8920   Atlanta, GA
-    +1 678 888 8921   Atlanta, GA
-    +1 678 888 8922   Atlanta, GA
-    +1 678 888 8923   Atlanta, GA
-    +1 678 888 8924   Atlanta, GA
-    +1 678 888 8925   Atlanta, GA
-    +1 678 888 8926   Atlanta, GA
-    +1 678 888 8929   Atlanta, GA
-    +1 678 888 8932   Atlanta, GA
-    +1 678 888 8933   Atlanta, GA
-    +1 678 888 8934   Atlanta, GA
-    +1 678 888 8935   Atlanta, GA
-    +1 678 888 8936   Atlanta, GA
+    +1 678 888 8634   Atlanta, GA
+    +1 678 888 8638   Atlanta, GA
+    +1 678 888 8640   Atlanta, GA
+    +1 678 888 8644   Atlanta, GA
+    +1 678 888 8650   Atlanta, GA
+    +1 678 888 8653   Atlanta, GA
+    +1 678 888 8656   Atlanta, GA
+    +1 678 888 8659   Atlanta, GA
+    +1 678 888 8661   Atlanta, GA
+    +1 678 888 8662   Atlanta, GA
+    +1 678 888 8663   Atlanta, GA
+    +1 678 888 8669   Atlanta, GA
+    +1 678 888 8671   Atlanta, GA
 
-  MINNESOTA (132)
+  MINNESOTA (130)
     +1 218 888 8009   Bemidji, MN
     +1 218 888 8010   Bemidji, MN
     +1 218 888 8015   Bemidji, MN
@@ -1249,7 +995,6 @@ Updated: 2026-08-11
     +1 218 888 8432   Bemidji, MN
     +1 218 888 8458   Bemidji, MN
     +1 218 888 8470   Bemidji, MN
-    +1 218 888 8475   Bemidji, MN
     +1 218 888 8504   Bemidji, MN
     +1 218 888 8509   Bemidji, MN
     +1 218 888 8515   Bemidji, MN
@@ -1259,7 +1004,6 @@ Updated: 2026-08-11
     +1 218 888 8580   Bemidji, MN
     +1 218 888 8594   Bemidji, MN
     +1 218 888 8608   Bemidji, MN
-    +1 218 888 8610   Bemidji, MN
     +1 218 888 8612   Bemidji, MN
     +1 218 888 8613   Bemidji, MN
     +1 218 888 8628   Bemidji, MN
@@ -1521,7 +1265,7 @@ Updated: 2026-08-11
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 281 numbers ---
+--- 99999 — 280 numbers ---
 
   ALABAMA (180)
     +1 251 999 9913   Mobile, AL
@@ -1595,7 +1339,6 @@ Updated: 2026-08-11
     +1 659 999 9297   Winfield, AL
     +1 659 999 9304   Winfield, AL
     +1 659 999 9305   Winfield, AL
-    +1 659 999 9306   Winfield, AL
     +1 659 999 9315   Winfield, AL
     +1 659 999 9320   Winfield, AL
     +1 659 999 9332   Winfield, AL
@@ -1612,6 +1355,7 @@ Updated: 2026-08-11
     +1 659 999 9366   Winfield, AL
     +1 659 999 9374   Winfield, AL
     +1 659 999 9380   Winfield, AL
+    +1 659 999 9386   Winfield, AL
     +1 659 999 9401   Winfield, AL
     +1 659 999 9402   Winfield, AL
     +1 659 999 9404   Winfield, AL
@@ -1705,7 +1449,7 @@ Updated: 2026-08-11
     +1 659 999 9865   Winfield, AL
     +1 659 999 9875   Winfield, AL
 
-  COLORADO (59)
+  COLORADO (58)
     +1 719 999 9018   Colorado Springs, CO
     +1 719 999 9023   Colorado Springs, CO
     +1 719 999 9027   Colorado Springs, CO
@@ -1723,7 +1467,6 @@ Updated: 2026-08-11
     +1 719 999 9153   Colorado Springs, CO
     +1 719 999 9190   Colorado Springs, CO
     +1 719 999 9196   Colorado Springs, CO
-    +1 719 999 9201   Colorado Springs, CO
     +1 719 999 9204   Colorado Springs, CO
     +1 719 999 9211   Colorado Springs, CO
     +1 719 999 9231   Colorado Springs, CO
@@ -1823,7 +1566,7 @@ Updated: 2026-08-11
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 865 numbers across 44 states
+4 ZEROS — 862 numbers across 44 states
 ====================================================
 
   ALABAMA (25)
@@ -1861,8 +1604,7 @@ Updated: 2026-08-11
     +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
-  ARKANSAS (13)
-    +1 479 310 0008   Fort Smith, AR
+  ARKANSAS (11)
     +1 479 410 0002   Van Buren, AR
     +1 479 410 0003   Van Buren, AR
     +1 479 410 0004   Van Buren, AR
@@ -1870,13 +1612,12 @@ Updated: 2026-08-11
     +1 479 410 0006   Van Buren, AR
     +1 479 410 0008   Van Buren, AR
     +1 479 410 0009   Van Buren, AR
-    +1 870 600 0038   Ashdown, AR
     +1 870 600 0042   Ashdown, AR
     +1 870 600 0059   Ashdown, AR
     +1 870 600 0079   Ashdown, AR
     +1 870 600 0084   Ashdown, AR
 
-  CALIFORNIA (53)
+  CALIFORNIA (54)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0092   Whittier, CA
@@ -1911,6 +1652,7 @@ Updated: 2026-08-11
     +1 669 500 0098   Gilroy, CA
     +1 707 390 0002   Scotia, CA
     +1 707 400 0031   Benicia, CA
+    +1 707 400 0036   Benicia, CA
     +1 707 400 0039   Benicia, CA
     +1 707 400 0068   Benicia, CA
     +1 707 400 0083   Benicia, CA
@@ -1937,7 +1679,7 @@ Updated: 2026-08-11
     +1 720 780 0004   Edgewater, CO
     +1 720 780 0006   Edgewater, CO
 
-  CONNECTICUT (52)
+  CONNECTICUT (50)
     +1 475 600 0091   Ansonia, CT
     +1 860 600 0023   Litchfield, CT
     +1 860 600 0031   Litchfield, CT
@@ -1949,7 +1691,6 @@ Updated: 2026-08-11
     +1 860 600 0075   Litchfield, CT
     +1 959 400 0038   Torrington, CT
     +1 959 400 0045   Torrington, CT
-    +1 959 400 0046   Torrington, CT
     +1 959 400 0047   Torrington, CT
     +1 959 400 0057   Torrington, CT
     +1 959 400 0065   Torrington, CT
@@ -1970,7 +1711,6 @@ Updated: 2026-08-11
     +1 959 600 0071   Plainfield Village, CT
     +1 959 600 0073   Plainfield Village, CT
     +1 959 600 0074   Plainfield Village, CT
-    +1 959 600 0075   Plainfield Village, CT
     +1 959 600 0076   Plainfield Village, CT
     +1 959 800 0013   Bethlehem Village, CT
     +1 959 800 0023   Bethlehem Village, CT
@@ -2002,7 +1742,6 @@ Updated: 2026-08-11
 
   FLORIDA (81)
     +1 352 570 0008   Yankeetown, FL
-    +1 352 600 0052   Brooksville, FL
     +1 352 600 0053   Brooksville, FL
     +1 352 600 0068   Brooksville, FL
     +1 352 600 0079   Brooksville, FL
@@ -2034,6 +1773,7 @@ Updated: 2026-08-11
     +1 727 900 0079   Belleair, FL
     +1 727 900 0093   Belleair, FL
     +1 727 900 0095   Belleair, FL
+    +1 850 307 0000   Defuniak Springs, FL
     +1 850 930 0005   Navarre Beach, FL
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0007   Ponce De Leon, FL
@@ -2083,7 +1823,8 @@ Updated: 2026-08-11
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (17)
+  GEORGIA (19)
+    +1 229 600 0068   Colquitt, GA
     +1 478 287 0000   Perry, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 360 0009   Thomaston, GA
@@ -2099,6 +1840,7 @@ Updated: 2026-08-11
     +1 762 930 0009   Augusta, GA
     +1 912 940 0003   Thunderbolt, GA
     +1 912 940 0008   Thunderbolt, GA
+    +1 943 200 0023   Atlanta, GA
     +1 943 990 0004   Flowery Branch, GA
     +1 943 990 0006   Flowery Branch, GA
 
@@ -2147,7 +1889,8 @@ Updated: 2026-08-11
     +1 712 800 0059   Glenwood, IA
     +1 712 800 0081   Glenwood, IA
 
-  KANSAS (10)
+  KANSAS (11)
+    +1 785 222 0000   La Crosse, KS
     +1 785 335 0000   Scandia, KS
     +1 785 510 0002   Washington, KS
     +1 785 522 0000   Circleville, KS
@@ -2179,7 +1922,10 @@ Updated: 2026-08-11
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (9)
+  MARYLAND (12)
+    +1 240 600 0017   Bowie, MD
+    +1 240 600 0018   Bowie, MD
+    +1 240 600 0019   Bowie, MD
     +1 667 400 0016   Baltimore, MD
     +1 667 400 0024   Baltimore, MD
     +1 667 400 0027   Baltimore, MD
@@ -2194,7 +1940,7 @@ Updated: 2026-08-11
     +1 857 600 0058   Cambridge, MA
     +1 978 680 0009   Concord, MA
 
-  MINNESOTA (66)
+  MINNESOTA (65)
     +1 218 480 0003   Stephen, MN
     +1 218 480 0005   Stephen, MN
     +1 218 480 0006   Stephen, MN
@@ -2255,7 +2001,6 @@ Updated: 2026-08-11
     +1 507 910 0002   Rochester, MN
     +1 507 910 0007   Rochester, MN
     +1 507 910 0009   Rochester, MN
-    +1 651 300 0057   Ramsey, MN
     +1 651 300 0065   Ramsey, MN
     +1 651 560 0003   Wabasha, MN
     +1 763 910 0006   Hilltop, MN
@@ -2368,12 +2113,11 @@ Updated: 2026-08-11
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (115)
+  NEW YORK (112)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
     +1 329 220 0008   Walden, NY
-    +1 329 230 0005   Woodbury, NY
     +1 329 230 0007   Woodbury, NY
     +1 329 230 0009   Woodbury, NY
     +1 516 930 0004   Manhasset, NY
@@ -2432,7 +2176,6 @@ Updated: 2026-08-11
     +1 845 930 0002   Walden, NY
     +1 845 930 0005   Walden, NY
     +1 845 930 0008   Walden, NY
-    +1 845 930 0009   Walden, NY
     +1 845 960 0002   Poughkeepsie, NY
     +1 845 960 0003   Poughkeepsie, NY
     +1 914 600 0021   Jefferson Valley-Yorktown, NY
@@ -2474,7 +2217,6 @@ Updated: 2026-08-11
     +1 934 500 0016   North Bay Shore, NY
     +1 934 500 0018   North Bay Shore, NY
     +1 934 500 0024   North Bay Shore, NY
-    +1 934 500 0035   North Bay Shore, NY
     +1 934 500 0041   North Bay Shore, NY
     +1 934 500 0046   North Bay Shore, NY
     +1 934 500 0047   North Bay Shore, NY
@@ -2485,12 +2227,13 @@ Updated: 2026-08-11
     +1 934 500 0094   North Bay Shore, NY
     +1 934 500 0096   North Bay Shore, NY
 
-  NORTH CAROLINA (28)
+  NORTH CAROLINA (29)
     +1 252 490 0002   Colerain, NC
     +1 252 740 0005   Rocky Mount, NC
     +1 252 740 0009   Rocky Mount, NC
     +1 336 850 0003   Browns Summit, NC
     +1 828 680 0007   Mars Hill, NC
+    +1 828 900 0054   Black Mountain, NC
     +1 828 900 0059   Black Mountain, NC
     +1 828 900 0061   Black Mountain, NC
     +1 828 900 0062   Black Mountain, NC
@@ -2661,8 +2404,7 @@ Updated: 2026-08-11
   SOUTH DAKOTA (1)
     +1 605 910 0005   Sioux Falls, SD
 
-  TENNESSEE (9)
-    +1 731 400 0094   Savannah, TN
+  TENNESSEE (8)
     +1 731 470 0009   Trenton, TN
     +1 901 610 0003   Collierville, TN
     +1 901 660 0003   Grand Junction, TN
@@ -2693,7 +2435,7 @@ Updated: 2026-08-11
     +1 903 420 0008   Corsicana, TX
     +1 940 290 0009   Aubrey, TX
 
-  UTAH (37)
+  UTAH (36)
     +1 385 480 0002   Provo, UT
     +1 385 480 0003   Provo, UT
     +1 385 480 0005   Provo, UT
@@ -2711,7 +2453,6 @@ Updated: 2026-08-11
     +1 435 500 0026   Delta, UT
     +1 435 500 0028   Delta, UT
     +1 435 500 0031   Delta, UT
-    +1 435 500 0035   Delta, UT
     +1 435 500 0036   Delta, UT
     +1 435 500 0038   Delta, UT
     +1 435 500 0039   Delta, UT
@@ -2735,8 +2476,7 @@ Updated: 2026-08-11
   VERMONT (1)
     +1 802 520 0009   Alburg, VT
 
-  VIRGINIA (2)
-    +1 540 260 0005   Christiansburg, VA
+  VIRGINIA (1)
     +1 757 740 0003   Franklin, VA
 
   WASHINGTON (16)

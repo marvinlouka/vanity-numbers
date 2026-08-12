@@ -1,9 +1,9 @@
 {
- "date": "2026-08-11",
+ "date": "2026-08-12",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 82,
+   "count": 53,
    "states": [
     {
      "state": "Alabama",
@@ -35,51 +35,11 @@
     },
     {
      "state": "Georgia",
-     "count": 54,
+     "count": 26,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2310",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2316",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2321",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2325",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2336",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2339",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2341",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2357",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2372",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2379",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2380",
@@ -90,27 +50,7 @@
        "location": "Augusta, GA"
       },
       {
-       "number": "+1 762 222 2385",
-       "location": "Augusta, GA"
-      },
-      {
        "number": "+1 762 222 2408",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2439",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2463",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2464",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2466",
        "location": "Augusta, GA"
       },
       {
@@ -130,10 +70,6 @@
        "location": "Augusta, GA"
       },
       {
-       "number": "+1 762 222 2488",
-       "location": "Augusta, GA"
-      },
-      {
        "number": "+1 762 222 2493",
        "location": "Augusta, GA"
       },
@@ -147,38 +83,6 @@
       },
       {
        "number": "+1 762 222 2520",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2530",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2531",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2543",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2547",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2556",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2557",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2566",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2568",
        "location": "Augusta, GA"
       },
       {
@@ -214,19 +118,11 @@
        "location": "Augusta, GA"
       },
       {
-       "number": "+1 762 222 2656",
-       "location": "Augusta, GA"
-      },
-      {
        "number": "+1 762 222 2711",
        "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2713",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2729",
        "location": "Augusta, GA"
       },
       {
@@ -242,26 +138,8 @@
        "location": "Augusta, GA"
       },
       {
-       "number": "+1 762 222 2943",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2945",
-       "location": "Augusta, GA"
-      },
-      {
        "number": "+1 762 222 2948",
        "location": "Augusta, GA"
-      }
-     ]
-    },
-    {
-     "state": "Louisiana",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 504 222 2238",
-       "location": "New Orleans, LA"
       }
      ]
     },
@@ -587,7 +465,7 @@
   },
   {
    "pattern": "44444",
-   "count": 90,
+   "count": 89,
    "states": [
     {
      "state": "Alabama",
@@ -820,16 +698,6 @@
      ]
     },
     {
-     "state": "Kentucky",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 859 444 4430",
-       "location": "Covington, KY"
-      }
-     ]
-    },
-    {
      "state": "Minnesota",
      "count": 6,
      "numbers": [
@@ -1013,7 +881,7 @@
   },
   {
    "pattern": "55555",
-   "count": 18,
+   "count": 16,
    "states": [
     {
      "state": "Florida",
@@ -1038,20 +906,6 @@
       {
        "number": "+1 863 855 5559",
        "location": "Lake Wales, FL"
-      }
-     ]
-    },
-    {
-     "state": "Illinois",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 630 755 5552",
-       "location": "Lemont, IL"
-      },
-      {
-       "number": "+1 630 755 5558",
-       "location": "Lemont, IL"
       }
      ]
     },
@@ -1145,11 +999,11 @@
   },
   {
    "pattern": "66666",
-   "count": 89,
+   "count": 87,
    "states": [
     {
      "state": "Alabama",
-     "count": 10,
+     "count": 9,
      "numbers": [
       {
        "number": "+1 334 666 6605",
@@ -1174,10 +1028,6 @@
       {
        "number": "+1 334 766 6668",
        "location": "Daleville, AL"
-      },
-      {
-       "number": "+1 659 266 6661",
-       "location": "Wilton, AL"
       },
       {
        "number": "+1 659 266 6665",
@@ -1299,12 +1149,8 @@
     },
     {
      "state": "Illinois",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 630 866 6664",
-       "location": "Glen Ellyn, IL"
-      },
       {
        "number": "+1 708 566 6664",
        "location": "Harvey, IL"
@@ -1633,11 +1479,11 @@
   },
   {
    "pattern": "77777",
-   "count": 275,
+   "count": 272,
    "states": [
     {
      "state": "California",
-     "count": 172,
+     "count": 169,
      "numbers": [
       {
        "number": "+1 657 777 7033",
@@ -1812,10 +1658,6 @@
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7238",
-       "location": "Buena Park, CA"
-      },
-      {
        "number": "+1 657 777 7239",
        "location": "Buena Park, CA"
       },
@@ -1885,10 +1727,6 @@
       },
       {
        "number": "+1 657 777 7327",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7336",
        "location": "Buena Park, CA"
       },
       {
@@ -2004,10 +1842,6 @@
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7463",
-       "location": "Buena Park, CA"
-      },
-      {
        "number": "+1 657 777 7471",
        "location": "Buena Park, CA"
       },
@@ -2021,6 +1855,10 @@
       },
       {
        "number": "+1 657 777 7480",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7482",
        "location": "Buena Park, CA"
       },
       {
@@ -2133,10 +1971,6 @@
       },
       {
        "number": "+1 657 777 7636",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7638",
        "location": "Buena Park, CA"
       },
       {
@@ -2817,7 +2651,7 @@
   },
   {
    "pattern": "88888",
-   "count": 745,
+   "count": 532,
    "states": [
     {
      "state": "Alabama",
@@ -2931,7 +2765,7 @@
     },
     {
      "state": "California",
-     "count": 187,
+     "count": 117,
      "numbers": [
       {
        "number": "+1 858 888 8012",
@@ -2951,6 +2785,10 @@
       },
       {
        "number": "+1 858 888 8017",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8019",
        "location": "San Diego, CA"
       },
       {
@@ -2978,10 +2816,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8028",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8029",
        "location": "San Diego, CA"
       },
@@ -3006,11 +2840,31 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8038",
+       "number": "+1 858 888 8037",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8041",
+       "number": "+1 858 888 8045",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8051",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8053",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8082",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8091",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8092",
        "location": "San Diego, CA"
       },
       {
@@ -3022,67 +2876,23 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8104",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8106",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8107",
+       "number": "+1 858 888 8109",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8116",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8119",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8120",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8121",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8122",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8126",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8130",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8131",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8132",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8133",
+       "number": "+1 858 888 8114",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8134",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8135",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8138",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8139",
        "location": "San Diego, CA"
       },
       {
@@ -3094,6 +2904,18 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8147",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8149",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8154",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8160",
        "location": "San Diego, CA"
       },
@@ -3102,11 +2924,15 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8180",
+       "number": "+1 858 888 8174",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8190",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8194",
        "location": "San Diego, CA"
       },
       {
@@ -3126,59 +2952,15 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8209",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8210",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8211",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8212",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8213",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8216",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8221",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8223",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8224",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8225",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8229",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8230",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8231",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8232",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8237",
        "location": "San Diego, CA"
       },
       {
@@ -3194,11 +2976,43 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8270",
+       "number": "+1 858 888 8242",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8280",
+       "number": "+1 858 888 8244",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8245",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8246",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8251",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8253",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8254",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8256",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8261",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8263",
        "location": "San Diego, CA"
       },
       {
@@ -3210,19 +3024,11 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8303",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8305",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8306",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8308",
        "location": "San Diego, CA"
       },
       {
@@ -3234,23 +3040,7 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8311",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8312",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8313",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8315",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8316",
+       "number": "+1 858 888 8314",
        "location": "San Diego, CA"
       },
       {
@@ -3258,27 +3048,31 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8321",
+       "number": "+1 858 888 8340",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8322",
+       "number": "+1 858 888 8341",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8323",
+       "number": "+1 858 888 8343",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8325",
+       "number": "+1 858 888 8347",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8326",
+       "number": "+1 858 888 8348",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8328",
+       "number": "+1 858 888 8370",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8374",
        "location": "San Diego, CA"
       },
       {
@@ -3334,6 +3128,10 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8418",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8420",
        "location": "San Diego, CA"
       },
@@ -3346,99 +3144,15 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8424",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8425",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8426",
+       "number": "+1 858 888 8429",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8430",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8501",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8502",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8504",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8505",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8507",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8510",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8511",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8512",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8513",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8516",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8518",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8520",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8522",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8524",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8526",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8530",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8531",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8536",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8537",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8540",
        "location": "San Diego, CA"
       },
       {
@@ -3454,15 +3168,7 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8606",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8607",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8608",
        "location": "San Diego, CA"
       },
       {
@@ -3474,27 +3180,7 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8612",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8613",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8614",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8615",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8616",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8617",
        "location": "San Diego, CA"
       },
       {
@@ -3502,441 +3188,105 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8621",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8622",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8624",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8627",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8628",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8702",
+       "number": "+1 858 888 8629",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8703",
+       "number": "+1 858 888 8630",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8704",
+       "number": "+1 858 888 8634",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8705",
+       "number": "+1 858 888 8638",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8706",
+       "number": "+1 858 888 8640",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8707",
+       "number": "+1 858 888 8641",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8708",
+       "number": "+1 858 888 8645",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8709",
+       "number": "+1 858 888 8646",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8710",
+       "number": "+1 858 888 8650",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8712",
+       "number": "+1 858 888 8662",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8714",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8715",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8717",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8721",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8722",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8723",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8724",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8725",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8727",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8728",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8901",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8904",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8906",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8907",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8908",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8909",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8911",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8912",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8913",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8914",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8916",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8917",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8922",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8923",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8924",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8928",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8930",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8931",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8933",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8935",
+       "number": "+1 858 888 8663",
        "location": "San Diego, CA"
       }
      ]
     },
     {
      "state": "Georgia",
-     "count": 192,
+     "count": 51,
      "numbers": [
-      {
-       "number": "+1 678 888 8003",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8010",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8011",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8012",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8017",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8018",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8020",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8022",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8023",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8026",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8028",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8030",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8031",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8032",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8033",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8034",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8035",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8037",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8040",
-       "location": "Atlanta, GA"
-      },
       {
        "number": "+1 678 888 8041",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8050",
+       "number": "+1 678 888 8059",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8090",
+       "number": "+1 678 888 8061",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8101",
+       "number": "+1 678 888 8067",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8102",
+       "number": "+1 678 888 8069",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8103",
+       "number": "+1 678 888 8075",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8105",
+       "number": "+1 678 888 8076",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8106",
+       "number": "+1 678 888 8078",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8112",
+       "number": "+1 678 888 8082",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8113",
+       "number": "+1 678 888 8085",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8114",
+       "number": "+1 678 888 8087",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8115",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8116",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8117",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8119",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8120",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8122",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8124",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8126",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8127",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8130",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8133",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8134",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8140",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8150",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8160",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8170",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8190",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8201",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8205",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8209",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8213",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8216",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8219",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8220",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8223",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8224",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8225",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8226",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8231",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8232",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8234",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8236",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8237",
+       "number": "+1 678 888 8093",
        "location": "Atlanta, GA"
       },
       {
@@ -3948,7 +3298,7 @@
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8241",
+       "number": "+1 678 888 8240",
        "location": "Atlanta, GA"
       },
       {
@@ -3956,115 +3306,67 @@
        "location": "Atlanta, GA"
       },
       {
+       "number": "+1 678 888 8244",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8245",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8246",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8247",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8249",
+       "location": "Atlanta, GA"
+      },
+      {
        "number": "+1 678 888 8250",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8260",
+       "number": "+1 678 888 8251",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8270",
+       "number": "+1 678 888 8253",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8280",
+       "number": "+1 678 888 8254",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8290",
+       "number": "+1 678 888 8256",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8301",
+       "number": "+1 678 888 8259",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8302",
+       "number": "+1 678 888 8262",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8305",
+       "number": "+1 678 888 8263",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8306",
+       "number": "+1 678 888 8264",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8307",
+       "number": "+1 678 888 8267",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8309",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8310",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8315",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8318",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8321",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8325",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8326",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8328",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8329",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8331",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8332",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8336",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8339",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8340",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8341",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8450",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8457",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8458",
+       "number": "+1 678 888 8269",
        "location": "Atlanta, GA"
       },
       {
@@ -4072,31 +3374,7 @@
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8460",
-       "location": "Atlanta, GA"
-      },
-      {
        "number": "+1 678 888 8461",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8462",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8463",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8464",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8465",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8466",
        "location": "Atlanta, GA"
       },
       {
@@ -4104,179 +3382,11 @@
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8469",
-       "location": "Atlanta, GA"
-      },
-      {
        "number": "+1 678 888 8470",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8472",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8474",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8475",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8476",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8477",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8478",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8501",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8502",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8506",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8508",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8509",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8511",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8512",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8514",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8517",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8520",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8521",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8530",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8531",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8532",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8536",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8537",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8541",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8542",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8545",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8548",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8601",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8602",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8603",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8604",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8606",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8607",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8609",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8614",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8615",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8616",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8618",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8619",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8620",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8621",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8622",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8625",
+       "number": "+1 678 888 8628",
        "location": "Atlanta, GA"
       },
       {
@@ -4284,182 +3394,62 @@
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8631",
+       "number": "+1 678 888 8634",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8632",
+       "number": "+1 678 888 8638",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8633",
+       "number": "+1 678 888 8640",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8702",
+       "number": "+1 678 888 8644",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8703",
+       "number": "+1 678 888 8650",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8704",
+       "number": "+1 678 888 8653",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8707",
+       "number": "+1 678 888 8656",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8708",
+       "number": "+1 678 888 8659",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8710",
+       "number": "+1 678 888 8661",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8711",
+       "number": "+1 678 888 8662",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8712",
+       "number": "+1 678 888 8663",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8714",
+       "number": "+1 678 888 8669",
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8715",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8717",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8718",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8719",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8720",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8723",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8724",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8725",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8727",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8728",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8729",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8901",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8906",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8911",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8912",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8915",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8916",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8917",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8920",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8921",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8922",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8923",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8924",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8925",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8926",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8929",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8932",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8933",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8934",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8935",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8936",
+       "number": "+1 678 888 8671",
        "location": "Atlanta, GA"
       }
      ]
     },
     {
      "state": "Minnesota",
-     "count": 132,
+     "count": 130,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -4802,10 +3792,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8475",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8504",
        "location": "Bemidji, MN"
       },
@@ -4839,10 +3825,6 @@
       },
       {
        "number": "+1 218 888 8608",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8610",
        "location": "Bemidji, MN"
       },
       {
@@ -5875,7 +4857,7 @@
   },
   {
    "pattern": "99999",
-   "count": 281,
+   "count": 280,
    "states": [
     {
      "state": "Alabama",
@@ -6166,10 +5148,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9306",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9315",
        "location": "Winfield, AL"
       },
@@ -6231,6 +5209,10 @@
       },
       {
        "number": "+1 659 999 9380",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9386",
        "location": "Winfield, AL"
       },
       {
@@ -6605,7 +5587,7 @@
     },
     {
      "state": "Colorado",
-     "count": 59,
+     "count": 58,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -6673,10 +5655,6 @@
       },
       {
        "number": "+1 719 999 9196",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9201",
        "location": "Colorado Springs, CO"
       },
       {
@@ -7059,7 +6037,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 865,
+  "total": 862,
   "state_count": 44,
   "states": [
    {
@@ -7200,12 +6178,8 @@
    },
    {
     "state": "Arkansas",
-    "count": 13,
+    "count": 11,
     "numbers": [
-     {
-      "number": "+1 479 310 0008",
-      "location": "Fort Smith, AR"
-     },
      {
       "number": "+1 479 410 0002",
       "location": "Van Buren, AR"
@@ -7235,10 +6209,6 @@
       "location": "Van Buren, AR"
      },
      {
-      "number": "+1 870 600 0038",
-      "location": "Ashdown, AR"
-     },
-     {
       "number": "+1 870 600 0042",
       "location": "Ashdown, AR"
      },
@@ -7258,7 +6228,7 @@
    },
    {
     "state": "California",
-    "count": 53,
+    "count": 54,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -7397,6 +6367,10 @@
       "location": "Benicia, CA"
      },
      {
+      "number": "+1 707 400 0036",
+      "location": "Benicia, CA"
+     },
+     {
       "number": "+1 707 400 0039",
       "location": "Benicia, CA"
      },
@@ -7498,7 +6472,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 52,
+    "count": 50,
     "numbers": [
      {
       "number": "+1 475 600 0091",
@@ -7542,10 +6516,6 @@
      },
      {
       "number": "+1 959 400 0045",
-      "location": "Torrington, CT"
-     },
-     {
-      "number": "+1 959 400 0046",
       "location": "Torrington, CT"
      },
      {
@@ -7626,10 +6596,6 @@
      },
      {
       "number": "+1 959 600 0074",
-      "location": "Plainfield Village, CT"
-     },
-     {
-      "number": "+1 959 600 0075",
       "location": "Plainfield Village, CT"
      },
      {
@@ -7751,10 +6717,6 @@
      {
       "number": "+1 352 570 0008",
       "location": "Yankeetown, FL"
-     },
-     {
-      "number": "+1 352 600 0052",
-      "location": "Brooksville, FL"
      },
      {
       "number": "+1 352 600 0053",
@@ -7879,6 +6841,10 @@
      {
       "number": "+1 727 900 0095",
       "location": "Belleair, FL"
+     },
+     {
+      "number": "+1 850 307 0000",
+      "location": "Defuniak Springs, FL"
      },
      {
       "number": "+1 850 930 0005",
@@ -8076,8 +7042,12 @@
    },
    {
     "state": "Georgia",
-    "count": 17,
+    "count": 19,
     "numbers": [
+     {
+      "number": "+1 229 600 0068",
+      "location": "Colquitt, GA"
+     },
      {
       "number": "+1 478 287 0000",
       "location": "Perry, GA"
@@ -8137,6 +7107,10 @@
      {
       "number": "+1 912 940 0008",
       "location": "Thunderbolt, GA"
+     },
+     {
+      "number": "+1 943 200 0023",
+      "location": "Atlanta, GA"
      },
      {
       "number": "+1 943 990 0004",
@@ -8322,8 +7296,12 @@
    },
    {
     "state": "Kansas",
-    "count": 10,
+    "count": 11,
     "numbers": [
+     {
+      "number": "+1 785 222 0000",
+      "location": "La Crosse, KS"
+     },
      {
       "number": "+1 785 335 0000",
       "location": "Scandia, KS"
@@ -8444,8 +7422,20 @@
    },
    {
     "state": "Maryland",
-    "count": 9,
+    "count": 12,
     "numbers": [
+     {
+      "number": "+1 240 600 0017",
+      "location": "Bowie, MD"
+     },
+     {
+      "number": "+1 240 600 0018",
+      "location": "Bowie, MD"
+     },
+     {
+      "number": "+1 240 600 0019",
+      "location": "Bowie, MD"
+     },
      {
       "number": "+1 667 400 0016",
       "location": "Baltimore, MD"
@@ -8500,7 +7490,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 66,
+    "count": 65,
     "numbers": [
      {
       "number": "+1 218 480 0003",
@@ -8741,10 +7731,6 @@
      {
       "number": "+1 507 910 0009",
       "location": "Rochester, MN"
-     },
-     {
-      "number": "+1 651 300 0057",
-      "location": "Ramsey, MN"
      },
      {
       "number": "+1 651 300 0065",
@@ -9180,7 +8166,7 @@
    },
    {
     "state": "New York",
-    "count": 115,
+    "count": 112,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9197,10 +8183,6 @@
      {
       "number": "+1 329 220 0008",
       "location": "Walden, NY"
-     },
-     {
-      "number": "+1 329 230 0005",
-      "location": "Woodbury, NY"
      },
      {
       "number": "+1 329 230 0007",
@@ -9435,10 +8417,6 @@
       "location": "Walden, NY"
      },
      {
-      "number": "+1 845 930 0009",
-      "location": "Walden, NY"
-     },
-     {
       "number": "+1 845 960 0002",
       "location": "Poughkeepsie, NY"
      },
@@ -9603,10 +8581,6 @@
       "location": "North Bay Shore, NY"
      },
      {
-      "number": "+1 934 500 0035",
-      "location": "North Bay Shore, NY"
-     },
-     {
       "number": "+1 934 500 0041",
       "location": "North Bay Shore, NY"
      },
@@ -9646,7 +8620,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 28,
+    "count": 29,
     "numbers": [
      {
       "number": "+1 252 490 0002",
@@ -9667,6 +8641,10 @@
      {
       "number": "+1 828 680 0007",
       "location": "Mars Hill, NC"
+     },
+     {
+      "number": "+1 828 900 0054",
+      "location": "Black Mountain, NC"
      },
      {
       "number": "+1 828 900 0059",
@@ -10334,12 +9312,8 @@
    },
    {
     "state": "Tennessee",
-    "count": 9,
+    "count": 8,
     "numbers": [
-     {
-      "number": "+1 731 400 0094",
-      "location": "Savannah, TN"
-     },
      {
       "number": "+1 731 470 0009",
       "location": "Trenton, TN"
@@ -10458,7 +9432,7 @@
    },
    {
     "state": "Utah",
-    "count": 37,
+    "count": 36,
     "numbers": [
      {
       "number": "+1 385 480 0002",
@@ -10526,10 +9500,6 @@
      },
      {
       "number": "+1 435 500 0031",
-      "location": "Delta, UT"
-     },
-     {
-      "number": "+1 435 500 0035",
       "location": "Delta, UT"
      },
      {
@@ -10622,12 +9592,8 @@
    },
    {
     "state": "Virginia",
-    "count": 2,
+    "count": 1,
     "numbers": [
-     {
-      "number": "+1 540 260 0005",
-      "location": "Christiansburg, VA"
-     },
      {
       "number": "+1 757 740 0003",
       "location": "Franklin, VA"
@@ -10843,9 +9809,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1608,
+  "total_5_in_a_row": 1357,
   "patterns_with_results": 8,
-  "total_0000": 865,
+  "total_0000": 862,
   "state_count_0000": 44
  }
 }
