@@ -1,9 +1,9 @@
 {
- "date": "2026-08-12",
+ "date": "2026-08-13",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 53,
+   "count": 48,
    "states": [
     {
      "state": "Alabama",
@@ -35,27 +35,11 @@
     },
     {
      "state": "Georgia",
-     "count": 26,
+     "count": 21,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2380",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2381",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2408",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2469",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2470",
@@ -83,10 +67,6 @@
       },
       {
        "number": "+1 762 222 2520",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2570",
        "location": "Augusta, GA"
       },
       {
@@ -881,7 +861,7 @@
   },
   {
    "pattern": "55555",
-   "count": 16,
+   "count": 15,
    "states": [
     {
      "state": "Florida",
@@ -930,16 +910,6 @@
       {
        "number": "+1 218 955 5558",
        "location": "Breckenridge, MN"
-      }
-     ]
-    },
-    {
-     "state": "Ohio",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 513 855 5557",
-       "location": "Waynesville, OH"
       }
      ]
     },
@@ -999,7 +969,7 @@
   },
   {
    "pattern": "66666",
-   "count": 87,
+   "count": 83,
    "states": [
     {
      "state": "Alabama",
@@ -1429,7 +1399,7 @@
     },
     {
      "state": "Texas",
-     "count": 4,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 817 766 6663",
@@ -1442,16 +1412,12 @@
       {
        "number": "+1 817 766 6665",
        "location": "Fort Worth, TX"
-      },
-      {
-       "number": "+1 936 666 6657",
-       "location": "Conroe, TX"
       }
      ]
     },
     {
      "state": "Utah",
-     "count": 5,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 385 666 6603",
@@ -1460,18 +1426,6 @@
       {
        "number": "+1 385 666 6612",
        "location": "Provo, UT"
-      },
-      {
-       "number": "+1 385 666 6623",
-       "location": "Provo, UT"
-      },
-      {
-       "number": "+1 385 666 6670",
-       "location": "Provo, UT"
-      },
-      {
-       "number": "+1 385 666 6692",
-       "location": "Provo, UT"
       }
      ]
     }
@@ -1479,7 +1433,7 @@
   },
   {
    "pattern": "77777",
-   "count": 272,
+   "count": 238,
    "states": [
     {
      "state": "California",
@@ -2423,150 +2377,14 @@
     },
     {
      "state": "Pennsylvania",
-     "count": 36,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 267 777 7208",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7476",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7692",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7804",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7814",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7824",
-       "location": "Philadelphia, PA"
-      },
       {
        "number": "+1 267 777 7845",
        "location": "Philadelphia, PA"
       },
       {
-       "number": "+1 267 777 7850",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7853",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7857",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7871",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7884",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7889",
-       "location": "Philadelphia, PA"
-      },
-      {
        "number": "+1 267 777 7891",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7894",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7898",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7906",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7912",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7914",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7918",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7919",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7924",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7932",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7933",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7934",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7936",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7941",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7943",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7947",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7948",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7969",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7980",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7983",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7984",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7989",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7992",
        "location": "Philadelphia, PA"
       }
      ]
@@ -2651,7 +2469,7 @@
   },
   {
    "pattern": "88888",
-   "count": 532,
+   "count": 530,
    "states": [
     {
      "state": "Alabama",
@@ -4367,7 +4185,7 @@
     },
     {
      "state": "Oregon",
-     "count": 113,
+     "count": 112,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -4575,10 +4393,6 @@
       },
       {
        "number": "+1 458 888 8543",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8548",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -4824,16 +4638,6 @@
      ]
     },
     {
-     "state": "Pennsylvania",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 267 888 8896",
-       "location": "Philadelphia, PA"
-      }
-     ]
-    },
-    {
      "state": "Vermont",
      "count": 1,
      "numbers": [
@@ -4857,7 +4661,7 @@
   },
   {
    "pattern": "99999",
-   "count": 280,
+   "count": 279,
    "states": [
     {
      "state": "Alabama",
@@ -6021,12 +5825,8 @@
     },
     {
      "state": "Pennsylvania",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 267 999 9981",
-       "location": "Quakertown, PA"
-      },
       {
        "number": "+1 267 999 9982",
        "location": "Quakertown, PA"
@@ -6037,7 +5837,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 862,
+  "total": 847,
   "state_count": 44,
   "states": [
    {
@@ -6178,7 +5978,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 11,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -6209,10 +6009,6 @@
       "location": "Van Buren, AR"
      },
      {
-      "number": "+1 870 600 0042",
-      "location": "Ashdown, AR"
-     },
-     {
       "number": "+1 870 600 0059",
       "location": "Ashdown, AR"
      },
@@ -6228,7 +6024,7 @@
    },
    {
     "state": "California",
-    "count": 54,
+    "count": 53,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -6441,10 +6237,6 @@
      {
       "number": "+1 909 600 0072",
       "location": "Fontana, CA"
-     },
-     {
-      "number": "+1 916 800 0038",
-      "location": "Sacramento, CA"
      }
     ]
    },
@@ -6712,11 +6504,15 @@
    },
    {
     "state": "Florida",
-    "count": 81,
+    "count": 82,
     "numbers": [
      {
       "number": "+1 352 570 0008",
       "location": "Yankeetown, FL"
+     },
+     {
+      "number": "+1 352 600 0034",
+      "location": "Brooksville, FL"
      },
      {
       "number": "+1 352 600 0053",
@@ -6843,10 +6639,6 @@
       "location": "Belleair, FL"
      },
      {
-      "number": "+1 850 307 0000",
-      "location": "Defuniak Springs, FL"
-     },
-     {
       "number": "+1 850 930 0005",
       "location": "Navarre Beach, FL"
      },
@@ -6921,6 +6713,10 @@
      {
       "number": "+1 904 900 0081",
       "location": "Jacksonville, FL"
+     },
+     {
+      "number": "+1 941 200 0081",
+      "location": "North Port, FL"
      },
      {
       "number": "+1 941 900 0021",
@@ -7042,12 +6838,8 @@
    },
    {
     "state": "Georgia",
-    "count": 19,
+    "count": 17,
     "numbers": [
-     {
-      "number": "+1 229 600 0068",
-      "location": "Colquitt, GA"
-     },
      {
       "number": "+1 478 287 0000",
       "location": "Perry, GA"
@@ -7107,10 +6899,6 @@
      {
       "number": "+1 912 940 0008",
       "location": "Thunderbolt, GA"
-     },
-     {
-      "number": "+1 943 200 0023",
-      "location": "Atlanta, GA"
      },
      {
       "number": "+1 943 990 0004",
@@ -7198,7 +6986,7 @@
    },
    {
     "state": "Illinois",
-    "count": 5,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 224 880 0007",
@@ -7215,10 +7003,6 @@
      {
       "number": "+1 618 820 0006",
       "location": "Bunker Hill, IL"
-     },
-     {
-      "number": "+1 773 800 0025",
-      "location": "Chicago, IL"
      }
     ]
    },
@@ -7296,12 +7080,8 @@
    },
    {
     "state": "Kansas",
-    "count": 11,
+    "count": 10,
     "numbers": [
-     {
-      "number": "+1 785 222 0000",
-      "location": "La Crosse, KS"
-     },
      {
       "number": "+1 785 335 0000",
       "location": "Scandia, KS"
@@ -7422,20 +7202,8 @@
    },
    {
     "state": "Maryland",
-    "count": 12,
+    "count": 9,
     "numbers": [
-     {
-      "number": "+1 240 600 0017",
-      "location": "Bowie, MD"
-     },
-     {
-      "number": "+1 240 600 0018",
-      "location": "Bowie, MD"
-     },
-     {
-      "number": "+1 240 600 0019",
-      "location": "Bowie, MD"
-     },
      {
       "number": "+1 667 400 0016",
       "location": "Baltimore, MD"
@@ -7490,7 +7258,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 65,
+    "count": 64,
     "numbers": [
      {
       "number": "+1 218 480 0003",
@@ -7731,10 +7499,6 @@
      {
       "number": "+1 507 910 0009",
       "location": "Rochester, MN"
-     },
-     {
-      "number": "+1 651 300 0065",
-      "location": "Ramsey, MN"
      },
      {
       "number": "+1 651 560 0003",
@@ -8752,27 +8516,15 @@
    },
    {
     "state": "Ohio",
-    "count": 72,
+    "count": 68,
     "numbers": [
      {
       "number": "+1 234 720 0004",
       "location": "Atwater, OH"
      },
      {
-      "number": "+1 330 800 0067",
-      "location": "Akron, OH"
-     },
-     {
-      "number": "+1 330 800 0072",
-      "location": "Akron, OH"
-     },
-     {
       "number": "+1 380 280 0004",
       "location": "Groveport, OH"
-     },
-     {
-      "number": "+1 380 390 0009",
-      "location": "Columbus, OH"
      },
      {
       "number": "+1 380 500 0017",
@@ -8800,10 +8552,6 @@
      },
      {
       "number": "+1 513 800 0047",
-      "location": "Cincinnati, OH"
-     },
-     {
-      "number": "+1 513 930 0009",
       "location": "Cincinnati, OH"
      },
      {
@@ -9350,7 +9098,7 @@
    },
    {
     "state": "Texas",
-    "count": 19,
+    "count": 17,
     "numbers": [
      {
       "number": "+1 325 400 0018",
@@ -9358,10 +9106,6 @@
      },
      {
       "number": "+1 325 400 0027",
-      "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 325 400 0030",
       "location": "Abilene, TX"
      },
      {
@@ -9423,10 +9167,6 @@
      {
       "number": "+1 903 420 0008",
       "location": "Corsicana, TX"
-     },
-     {
-      "number": "+1 940 290 0009",
-      "location": "Aubrey, TX"
      }
     ]
    },
@@ -9777,19 +9517,7 @@
   },
   {
    "pattern": "666666",
-   "status": "1 US result",
-   "states": [
-    {
-     "state": "Texas",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 936 666 6657",
-       "location": "Conroe, TX"
-      }
-     ]
-    }
-   ]
+   "status": "No results"
   },
   {
    "pattern": "777777",
@@ -9809,9 +9537,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1357,
+  "total_5_in_a_row": 1310,
   "patterns_with_results": 8,
-  "total_0000": 862,
+  "total_0000": 847,
   "state_count_0000": 44
  }
 }
