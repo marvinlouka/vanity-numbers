@@ -1,9 +1,9 @@
 {
- "date": "2026-08-13",
+ "date": "2026-08-14",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 48,
+   "count": 39,
    "states": [
     {
      "state": "Alabama",
@@ -35,43 +35,11 @@
     },
     {
      "state": "Georgia",
-     "count": 21,
+     "count": 12,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2470",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2473",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2479",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2493",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2507",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2518",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2520",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2573",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2581",
@@ -115,10 +83,6 @@
       },
       {
        "number": "+1 762 222 2941",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2948",
        "location": "Augusta, GA"
       }
      ]
@@ -969,11 +933,11 @@
   },
   {
    "pattern": "66666",
-   "count": 83,
+   "count": 81,
    "states": [
     {
      "state": "Alabama",
-     "count": 9,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 334 666 6605",
@@ -998,14 +962,6 @@
       {
        "number": "+1 334 766 6668",
        "location": "Daleville, AL"
-      },
-      {
-       "number": "+1 659 266 6665",
-       "location": "Wilton, AL"
-      },
-      {
-       "number": "+1 659 266 6669",
-       "location": "Wilton, AL"
       },
       {
        "number": "+1 938 666 6670",
@@ -1433,16 +1389,12 @@
   },
   {
    "pattern": "77777",
-   "count": 238,
+   "count": 236,
    "states": [
     {
      "state": "California",
-     "count": 169,
+     "count": 168,
      "numbers": [
-      {
-       "number": "+1 657 777 7033",
-       "location": "Buena Park, CA"
-      },
       {
        "number": "+1 657 777 7038",
        "location": "Buena Park, CA"
@@ -2431,14 +2383,10 @@
     },
     {
      "state": "Texas",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 832 777 7730",
-       "location": "Humble, TX"
-      },
-      {
-       "number": "+1 832 777 7754",
        "location": "Humble, TX"
       }
      ]
@@ -2469,7 +2417,7 @@
   },
   {
    "pattern": "88888",
-   "count": 530,
+   "count": 527,
    "states": [
     {
      "state": "Alabama",
@@ -2583,7 +2531,7 @@
     },
     {
      "state": "California",
-     "count": 117,
+     "count": 116,
      "numbers": [
       {
        "number": "+1 858 888 8012",
@@ -2671,10 +2619,6 @@
       },
       {
        "number": "+1 858 888 8053",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8082",
        "location": "San Diego, CA"
       },
       {
@@ -3057,7 +3001,7 @@
     },
     {
      "state": "Georgia",
-     "count": 51,
+     "count": 50,
      "numbers": [
       {
        "number": "+1 678 888 8041",
@@ -3233,10 +3177,6 @@
       },
       {
        "number": "+1 678 888 8653",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8656",
        "location": "Atlanta, GA"
       },
       {
@@ -3803,7 +3743,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 89,
+     "count": 88,
      "numbers": [
       {
        "number": "+1 308 888 8022",
@@ -4147,10 +4087,6 @@
       },
       {
        "number": "+1 308 888 8972",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8980",
        "location": "Chappell, NE"
       },
       {
@@ -4661,7 +4597,7 @@
   },
   {
    "pattern": "99999",
-   "count": 279,
+   "count": 276,
    "states": [
     {
      "state": "Alabama",
@@ -4924,10 +4860,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9277",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9284",
        "location": "Winfield, AL"
       },
@@ -4941,6 +4873,10 @@
       },
       {
        "number": "+1 659 999 9297",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9298",
        "location": "Winfield, AL"
       },
       {
@@ -5228,10 +5164,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9638",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9639",
        "location": "Winfield, AL"
       },
@@ -5245,6 +5177,10 @@
       },
       {
        "number": "+1 659 999 9653",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9657",
        "location": "Winfield, AL"
       },
       {
@@ -5628,25 +5564,11 @@
      ]
     },
     {
-     "state": "Connecticut",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 959 999 9868",
-       "location": "Hartford, CT"
-      }
-     ]
-    },
-    {
      "state": "Florida",
-     "count": 32,
+     "count": 30,
      "numbers": [
       {
        "number": "+1 239 999 9024",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9120",
        "location": "Fort Myers, FL"
       },
       {
@@ -5667,10 +5589,6 @@
       },
       {
        "number": "+1 239 999 9470",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9572",
        "location": "Fort Myers, FL"
       },
       {
@@ -5837,7 +5755,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 847,
+  "total": 846,
   "state_count": 44,
   "states": [
    {
@@ -6504,7 +6422,7 @@
    },
    {
     "state": "Florida",
-    "count": 82,
+    "count": 81,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -6713,10 +6631,6 @@
      {
       "number": "+1 904 900 0081",
       "location": "Jacksonville, FL"
-     },
-     {
-      "number": "+1 941 200 0081",
-      "location": "North Port, FL"
      },
      {
       "number": "+1 941 900 0021",
@@ -7152,7 +7066,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 11,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 225 380 0004",
@@ -7165,10 +7079,6 @@
      {
       "number": "+1 225 430 0007",
       "location": "Donaldsonville, LA"
-     },
-     {
-      "number": "+1 225 470 0009",
-      "location": "White Castle, LA"
      },
      {
       "number": "+1 318 480 0003",
@@ -7570,7 +7480,7 @@
    },
    {
     "state": "Missouri",
-    "count": 3,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 660 268 0000",
@@ -7583,6 +7493,10 @@
      {
       "number": "+1 660 552 0000",
       "location": "King City, MO"
+     },
+     {
+      "number": "+1 816 600 0064",
+      "location": "Lees Summit, MO"
      }
     ]
    },
@@ -9537,9 +9451,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1310,
+  "total_5_in_a_row": 1291,
   "patterns_with_results": 8,
-  "total_0000": 847,
+  "total_0000": 846,
   "state_count_0000": 44
  }
 }

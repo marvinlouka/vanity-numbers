@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-13
-1310 five-in-a-row · 847 four-zeros across 44 states
+Updated: 2026-08-14
+1291 five-in-a-row · 846 four-zeros across 44 states
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 48 numbers ---
+--- 22222 — 39 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
@@ -16,16 +16,8 @@ Updated: 2026-08-13
   CALIFORNIA (1)
     +1 909 922 2227   Etiwanda, CA
 
-  GEORGIA (21)
+  GEORGIA (12)
     +1 706 522 2226   Elberton, GA
-    +1 762 222 2470   Augusta, GA
-    +1 762 222 2473   Augusta, GA
-    +1 762 222 2479   Augusta, GA
-    +1 762 222 2493   Augusta, GA
-    +1 762 222 2507   Augusta, GA
-    +1 762 222 2518   Augusta, GA
-    +1 762 222 2520   Augusta, GA
-    +1 762 222 2573   Augusta, GA
     +1 762 222 2581   Augusta, GA
     +1 762 222 2584   Augusta, GA
     +1 762 222 2588   Augusta, GA
@@ -37,7 +29,6 @@ Updated: 2026-08-13
     +1 762 222 2815   Augusta, GA
     +1 762 222 2853   Augusta, GA
     +1 762 222 2941   Augusta, GA
-    +1 762 222 2948   Augusta, GA
 
   MASSACHUSETTS (6)
     +1 508 722 2223   Auburn, MA
@@ -268,17 +259,15 @@ Updated: 2026-08-13
     +1 425 955 5552   Clyde Hill, WA
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 83 numbers ---
+--- 66666 — 81 numbers ---
 
-  ALABAMA (9)
+  ALABAMA (7)
     +1 334 666 6605   Wetumpka, AL
     +1 334 666 6627   Wetumpka, AL
     +1 334 666 6690   Wetumpka, AL
     +1 334 766 6661   Daleville, AL
     +1 334 766 6665   Daleville, AL
     +1 334 766 6668   Daleville, AL
-    +1 659 266 6665   Wilton, AL
-    +1 659 266 6669   Wilton, AL
     +1 938 666 6670   Huntsville, AL
 
   CALIFORNIA (2)
@@ -395,10 +384,9 @@ Updated: 2026-08-13
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 238 numbers ---
+--- 77777 — 236 numbers ---
 
-  CALIFORNIA (169)
-    +1 657 777 7033   Buena Park, CA
+  CALIFORNIA (168)
     +1 657 777 7038   Buena Park, CA
     +1 657 777 7039   Buena Park, CA
     +1 657 777 7043   Buena Park, CA
@@ -651,9 +639,8 @@ Updated: 2026-08-13
   SOUTH DAKOTA (1)
     +1 605 277 7776   Aberdeen, SD
 
-  TEXAS (2)
+  TEXAS (1)
     +1 832 777 7730   Humble, TX
-    +1 832 777 7754   Humble, TX
 
   UTAH (4)
     +1 435 677 7773   Brian Head, UT
@@ -661,7 +648,7 @@ Updated: 2026-08-13
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 530 numbers ---
+--- 88888 — 527 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -691,7 +678,7 @@ Updated: 2026-08-13
     +1 334 888 8843   Clayton, AL
     +1 938 888 8440   Killen, AL
 
-  CALIFORNIA (117)
+  CALIFORNIA (116)
     +1 858 888 8012   San Diego, CA
     +1 858 888 8013   San Diego, CA
     +1 858 888 8015   San Diego, CA
@@ -714,7 +701,6 @@ Updated: 2026-08-13
     +1 858 888 8045   San Diego, CA
     +1 858 888 8051   San Diego, CA
     +1 858 888 8053   San Diego, CA
-    +1 858 888 8082   San Diego, CA
     +1 858 888 8091   San Diego, CA
     +1 858 888 8092   San Diego, CA
     +1 858 888 8102   San Diego, CA
@@ -810,7 +796,7 @@ Updated: 2026-08-13
     +1 858 888 8662   San Diego, CA
     +1 858 888 8663   San Diego, CA
 
-  GEORGIA (51)
+  GEORGIA (50)
     +1 678 888 8041   Atlanta, GA
     +1 678 888 8059   Atlanta, GA
     +1 678 888 8061   Atlanta, GA
@@ -855,7 +841,6 @@ Updated: 2026-08-13
     +1 678 888 8644   Atlanta, GA
     +1 678 888 8650   Atlanta, GA
     +1 678 888 8653   Atlanta, GA
-    +1 678 888 8656   Atlanta, GA
     +1 678 888 8659   Atlanta, GA
     +1 678 888 8661   Atlanta, GA
     +1 678 888 8662   Atlanta, GA
@@ -998,7 +983,7 @@ Updated: 2026-08-13
   MONTANA (1)
     +1 406 888 8895   Columbia Falls, MT
 
-  NEBRASKA (89)
+  NEBRASKA (88)
     +1 308 888 8022   Chappell, NE
     +1 308 888 8023   Chappell, NE
     +1 308 888 8028   Chappell, NE
@@ -1085,7 +1070,6 @@ Updated: 2026-08-13
     +1 308 888 8970   Chappell, NE
     +1 308 888 8971   Chappell, NE
     +1 308 888 8972   Chappell, NE
-    +1 308 888 8980   Chappell, NE
     +1 308 888 8985   Chappell, NE
     +1 308 888 8993   Chappell, NE
 
@@ -1215,7 +1199,7 @@ Updated: 2026-08-13
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 279 numbers ---
+--- 99999 — 276 numbers ---
 
   ALABAMA (180)
     +1 251 999 9913   Mobile, AL
@@ -1282,11 +1266,11 @@ Updated: 2026-08-13
     +1 659 999 9257   Winfield, AL
     +1 659 999 9265   Winfield, AL
     +1 659 999 9270   Winfield, AL
-    +1 659 999 9277   Winfield, AL
     +1 659 999 9284   Winfield, AL
     +1 659 999 9287   Winfield, AL
     +1 659 999 9293   Winfield, AL
     +1 659 999 9297   Winfield, AL
+    +1 659 999 9298   Winfield, AL
     +1 659 999 9304   Winfield, AL
     +1 659 999 9305   Winfield, AL
     +1 659 999 9315   Winfield, AL
@@ -1358,11 +1342,11 @@ Updated: 2026-08-13
     +1 659 999 9626   Winfield, AL
     +1 659 999 9629   Winfield, AL
     +1 659 999 9632   Winfield, AL
-    +1 659 999 9638   Winfield, AL
     +1 659 999 9639   Winfield, AL
     +1 659 999 9641   Winfield, AL
     +1 659 999 9644   Winfield, AL
     +1 659 999 9653   Winfield, AL
+    +1 659 999 9657   Winfield, AL
     +1 659 999 9702   Winfield, AL
     +1 659 999 9704   Winfield, AL
     +1 659 999 9706   Winfield, AL
@@ -1459,18 +1443,13 @@ Updated: 2026-08-13
     +1 719 999 9890   Colorado Springs, CO
     +1 720 999 9941   Edgewater, CO
 
-  CONNECTICUT (1)
-    +1 959 999 9868   Hartford, CT
-
-  FLORIDA (32)
+  FLORIDA (30)
     +1 239 999 9024   Fort Myers, FL
-    +1 239 999 9120   Fort Myers, FL
     +1 239 999 9131   Fort Myers, FL
     +1 239 999 9237   Fort Myers, FL
     +1 239 999 9268   Fort Myers, FL
     +1 239 999 9295   Fort Myers, FL
     +1 239 999 9470   Fort Myers, FL
-    +1 239 999 9572   Fort Myers, FL
     +1 239 999 9604   Fort Myers, FL
     +1 239 999 9733   Fort Myers, FL
     +1 239 999 9881   Fort Myers, FL
@@ -1515,7 +1494,7 @@ Updated: 2026-08-13
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 847 numbers across 44 states
+4 ZEROS — 846 numbers across 44 states
 ====================================================
 
   ALABAMA (25)
@@ -1687,7 +1666,7 @@ Updated: 2026-08-13
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (82)
+  FLORIDA (81)
     +1 352 570 0008   Yankeetown, FL
     +1 352 600 0034   Brooksville, FL
     +1 352 600 0053   Brooksville, FL
@@ -1740,7 +1719,6 @@ Updated: 2026-08-13
     +1 904 900 0073   Jacksonville, FL
     +1 904 900 0074   Jacksonville, FL
     +1 904 900 0081   Jacksonville, FL
-    +1 941 200 0081   North Port, FL
     +1 941 900 0021   Bradenton, FL
     +1 941 900 0028   Bradenton, FL
     +1 941 900 0031   Bradenton, FL
@@ -1853,11 +1831,10 @@ Updated: 2026-08-13
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (11)
+  LOUISIANA (10)
     +1 225 380 0004   Denham Springs, LA
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
-    +1 225 470 0009   White Castle, LA
     +1 318 480 0003   Jonesboro, LA
     +1 318 610 0009   Keithville, LA
     +1 985 570 0003   Bogalusa, LA
@@ -1960,10 +1937,11 @@ Updated: 2026-08-13
     +1 769 240 0007   Forest, MS
     +1 769 240 0008   Forest, MS
 
-  MISSOURI (3)
+  MISSOURI (4)
     +1 660 268 0000   Brookfield, MO
     +1 660 269 0000   Moberly, MO
     +1 660 552 0000   King City, MO
+    +1 816 600 0064   Lees Summit, MO
 
   MONTANA (2)
     +1 406 800 0021   Bridger, MT
