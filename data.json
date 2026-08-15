@@ -1,9 +1,9 @@
 {
- "date": "2026-08-14",
+ "date": "2026-08-15",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 39,
+   "count": 36,
    "states": [
     {
      "state": "Alabama",
@@ -35,23 +35,11 @@
     },
     {
      "state": "Georgia",
-     "count": 12,
+     "count": 9,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2581",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2584",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2588",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2604",
@@ -409,18 +397,14 @@
   },
   {
    "pattern": "44444",
-   "count": 89,
+   "count": 88,
    "states": [
     {
      "state": "Alabama",
-     "count": 15,
+     "count": 14,
      "numbers": [
       {
        "number": "+1 251 444 4402",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 444 4403",
        "location": "Mobile, AL"
       },
       {
@@ -1389,7 +1373,7 @@
   },
   {
    "pattern": "77777",
-   "count": 236,
+   "count": 237,
    "states": [
     {
      "state": "California",
@@ -2238,6 +2222,16 @@
      ]
     },
     {
+     "state": "Michigan",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 616 777 7748",
+       "location": "Hudsonville, MI"
+      }
+     ]
+    },
+    {
      "state": "Nebraska",
      "count": 15,
      "numbers": [
@@ -2417,7 +2411,7 @@
   },
   {
    "pattern": "88888",
-   "count": 527,
+   "count": 526,
    "states": [
     {
      "state": "Alabama",
@@ -3001,7 +2995,7 @@
     },
     {
      "state": "Georgia",
-     "count": 50,
+     "count": 49,
      "numbers": [
       {
        "number": "+1 678 888 8041",
@@ -3052,14 +3046,6 @@
        "location": "Atlanta, GA"
       },
       {
-       "number": "+1 678 888 8238",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8239",
-       "location": "Atlanta, GA"
-      },
-      {
        "number": "+1 678 888 8240",
        "location": "Atlanta, GA"
       },
@@ -3085,10 +3071,6 @@
       },
       {
        "number": "+1 678 888 8249",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8250",
        "location": "Atlanta, GA"
       },
       {
@@ -3129,6 +3111,18 @@
       },
       {
        "number": "+1 678 888 8269",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8270",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8273",
+       "location": "Atlanta, GA"
+      },
+      {
+       "number": "+1 678 888 8274",
        "location": "Atlanta, GA"
       },
       {
@@ -3197,10 +3191,6 @@
       },
       {
        "number": "+1 678 888 8669",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8671",
        "location": "Atlanta, GA"
       }
      ]
@@ -3350,10 +3340,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8203",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8205",
        "location": "Bemidji, MN"
       },
@@ -3363,10 +3349,6 @@
       },
       {
        "number": "+1 218 888 8210",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8213",
        "location": "Bemidji, MN"
       },
       {
@@ -3423,6 +3405,14 @@
       },
       {
        "number": "+1 218 888 8251",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8253",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8254",
        "location": "Bemidji, MN"
       },
       {
@@ -4496,10 +4486,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8917",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8918",
        "location": "Milton-Freewater, OR"
       },
@@ -4556,6 +4542,10 @@
        "location": "Milton-Freewater, OR"
       },
       {
+       "number": "+1 458 888 8945",
+       "location": "Milton-Freewater, OR"
+      },
+      {
        "number": "+1 971 888 8812",
        "location": "West Haven-Sylvan, OR"
       },
@@ -4601,7 +4591,7 @@
    "states": [
     {
      "state": "Alabama",
-     "count": 180,
+     "count": 179,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -4820,10 +4810,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9224",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9233",
        "location": "Winfield, AL"
       },
@@ -4896,14 +4882,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9332",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9336",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9337",
        "location": "Winfield, AL"
       },
@@ -4956,6 +4934,14 @@
        "location": "Winfield, AL"
       },
       {
+       "number": "+1 659 999 9388",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9390",
+       "location": "Winfield, AL"
+      },
+      {
        "number": "+1 659 999 9401",
        "location": "Winfield, AL"
       },
@@ -4989,10 +4975,6 @@
       },
       {
        "number": "+1 659 999 9425",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9426",
        "location": "Winfield, AL"
       },
       {
@@ -5033,6 +5015,10 @@
       },
       {
        "number": "+1 659 999 9446",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9447",
        "location": "Winfield, AL"
       },
       {
@@ -5244,15 +5230,15 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9739",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9740",
        "location": "Winfield, AL"
       },
       {
        "number": "+1 659 999 9742",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9746",
        "location": "Winfield, AL"
       },
       {
@@ -5280,10 +5266,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9826",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9835",
        "location": "Winfield, AL"
       },
@@ -5297,10 +5279,6 @@
       },
       {
        "number": "+1 659 999 9844",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9847",
        "location": "Winfield, AL"
       },
       {
@@ -5322,12 +5300,20 @@
       {
        "number": "+1 659 999 9875",
        "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9878",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9887",
+       "location": "Winfield, AL"
       }
      ]
     },
     {
      "state": "Colorado",
-     "count": 58,
+     "count": 57,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -5478,10 +5464,6 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9562",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9585",
        "location": "Colorado Springs, CO"
       },
@@ -5565,7 +5547,7 @@
     },
     {
      "state": "Florida",
-     "count": 30,
+     "count": 28,
      "numbers": [
       {
        "number": "+1 239 999 9024",
@@ -5632,10 +5614,6 @@
        "location": "New Port Richey, FL"
       },
       {
-       "number": "+1 727 999 9928",
-       "location": "New Port Richey, FL"
-      },
-      {
        "number": "+1 727 999 9930",
        "location": "New Port Richey, FL"
       },
@@ -5645,10 +5623,6 @@
       },
       {
        "number": "+1 727 999 9935",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9952",
        "location": "New Port Richey, FL"
       },
       {
@@ -5708,6 +5682,28 @@
      ]
     },
     {
+     "state": "Missouri",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 314 399 9991",
+       "location": "St. Louis, MO"
+      },
+      {
+       "number": "+1 314 399 9992",
+       "location": "St. Louis, MO"
+      },
+      {
+       "number": "+1 314 399 9993",
+       "location": "St. Louis, MO"
+      },
+      {
+       "number": "+1 314 399 9996",
+       "location": "St. Louis, MO"
+      }
+     ]
+    },
+    {
      "state": "Nevada",
      "count": 2,
      "numbers": [
@@ -5755,12 +5751,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 846,
-  "state_count": 44,
+  "total": 856,
+  "state_count": 45,
   "states": [
    {
     "state": "Alabama",
-    "count": 25,
+    "count": 34,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -5785,6 +5781,10 @@
      {
       "number": "+1 251 810 0005",
       "location": "Bayou La Batre, AL"
+     },
+     {
+      "number": "+1 334 310 0005",
+      "location": "Prattville, AL"
      },
      {
       "number": "+1 334 910 0006",
@@ -5861,6 +5861,38 @@
      {
       "number": "+1 659 910 0008",
       "location": "Birmingham, AL"
+     },
+     {
+      "number": "+1 938 320 0002",
+      "location": "Cullman, AL"
+     },
+     {
+      "number": "+1 938 320 0003",
+      "location": "Cullman, AL"
+     },
+     {
+      "number": "+1 938 320 0004",
+      "location": "Cullman, AL"
+     },
+     {
+      "number": "+1 938 320 0005",
+      "location": "Cullman, AL"
+     },
+     {
+      "number": "+1 938 320 0006",
+      "location": "Cullman, AL"
+     },
+     {
+      "number": "+1 938 320 0007",
+      "location": "Cullman, AL"
+     },
+     {
+      "number": "+1 938 320 0008",
+      "location": "Cullman, AL"
+     },
+     {
+      "number": "+1 938 320 0009",
+      "location": "Cullman, AL"
      }
     ]
    },
@@ -5942,7 +5974,7 @@
    },
    {
     "state": "California",
-    "count": 53,
+    "count": 55,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -6073,10 +6105,6 @@
       "location": "Gilroy, CA"
      },
      {
-      "number": "+1 707 390 0002",
-      "location": "Scotia, CA"
-     },
-     {
       "number": "+1 707 400 0031",
       "location": "Benicia, CA"
      },
@@ -6103,6 +6131,10 @@
      {
       "number": "+1 707 400 0095",
       "location": "Benicia, CA"
+     },
+     {
+      "number": "+1 747 200 0093",
+      "location": "Burbank, CA"
      },
      {
       "number": "+1 747 380 0003",
@@ -6149,6 +6181,14 @@
       "location": "Fontana, CA"
      },
      {
+      "number": "+1 909 600 0058",
+      "location": "Fontana, CA"
+     },
+     {
+      "number": "+1 909 600 0067",
+      "location": "Fontana, CA"
+     },
+     {
       "number": "+1 909 600 0068",
       "location": "Fontana, CA"
      },
@@ -6160,12 +6200,8 @@
    },
    {
     "state": "Colorado",
-    "count": 4,
+    "count": 3,
     "numbers": [
-     {
-      "number": "+1 719 800 0034",
-      "location": "Calhan, CO"
-     },
      {
       "number": "+1 719 960 0009",
       "location": "Colorado Springs, CO"
@@ -6422,19 +6458,11 @@
    },
    {
     "state": "Florida",
-    "count": 81,
+    "count": 80,
     "numbers": [
      {
       "number": "+1 352 570 0008",
       "location": "Yankeetown, FL"
-     },
-     {
-      "number": "+1 352 600 0034",
-      "location": "Brooksville, FL"
-     },
-     {
-      "number": "+1 352 600 0053",
-      "location": "Brooksville, FL"
      },
      {
       "number": "+1 352 600 0068",
@@ -6531,6 +6559,10 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
+     },
+     {
+      "number": "+1 561 600 0036",
+      "location": "Boynton Beach, FL"
      },
      {
       "number": "+1 727 900 0041",
@@ -7480,7 +7512,7 @@
    },
    {
     "state": "Missouri",
-    "count": 4,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 660 268 0000",
@@ -7493,10 +7525,6 @@
      {
       "number": "+1 660 552 0000",
       "location": "King City, MO"
-     },
-     {
-      "number": "+1 816 600 0064",
-      "location": "Lees Summit, MO"
      }
     ]
    },
@@ -8430,11 +8458,23 @@
    },
    {
     "state": "Ohio",
-    "count": 68,
+    "count": 71,
     "numbers": [
+     {
+      "number": "+1 216 400 0052",
+      "location": "Cleveland, OH"
+     },
+     {
+      "number": "+1 216 400 0089",
+      "location": "Cleveland, OH"
+     },
      {
       "number": "+1 234 720 0004",
       "location": "Atwater, OH"
+     },
+     {
+      "number": "+1 330 800 0085",
+      "location": "Akron, OH"
      },
      {
       "number": "+1 380 280 0004",
@@ -8708,7 +8748,7 @@
    },
    {
     "state": "Oklahoma",
-    "count": 11,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 405 480 0007",
@@ -8725,10 +8765,6 @@
      {
       "number": "+1 405 860 0008",
       "location": "Paden, OK"
-     },
-     {
-      "number": "+1 405 970 0003",
-      "location": "Guthrie, OK"
      },
      {
       "number": "+1 405 970 0004",
@@ -8963,6 +8999,16 @@
     ]
    },
    {
+    "state": "South Carolina",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 854 200 0075",
+      "location": "Charleston, SC"
+     }
+    ]
+   },
+   {
     "state": "South Dakota",
     "count": 1,
     "numbers": [
@@ -9015,6 +9061,10 @@
     "count": 17,
     "numbers": [
      {
+      "number": "+1 325 400 0015",
+      "location": "Abilene, TX"
+     },
+     {
       "number": "+1 325 400 0018",
       "location": "Abilene, TX"
      },
@@ -9036,10 +9086,6 @@
      },
      {
       "number": "+1 346 410 0002",
-      "location": "Houston, TX"
-     },
-     {
-      "number": "+1 346 440 0003",
       "location": "Houston, TX"
      },
      {
@@ -9256,14 +9302,10 @@
    },
    {
     "state": "Washington",
-    "count": 16,
+    "count": 15,
     "numbers": [
      {
       "number": "+1 509 600 0071",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0076",
       "location": "Bridgeport, WA"
      },
      {
@@ -9451,9 +9493,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1291,
+  "total_5_in_a_row": 1287,
   "patterns_with_results": 8,
-  "total_0000": 846,
-  "state_count_0000": 44
+  "total_0000": 856,
+  "state_count_0000": 45
  }
 }

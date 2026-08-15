@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-14
-1291 five-in-a-row · 846 four-zeros across 44 states
+Updated: 2026-08-15
+1287 five-in-a-row · 856 four-zeros across 45 states
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 39 numbers ---
+--- 22222 — 36 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
@@ -16,11 +16,8 @@ Updated: 2026-08-14
   CALIFORNIA (1)
     +1 909 922 2227   Etiwanda, CA
 
-  GEORGIA (12)
+  GEORGIA (9)
     +1 706 522 2226   Elberton, GA
-    +1 762 222 2581   Augusta, GA
-    +1 762 222 2584   Augusta, GA
-    +1 762 222 2588   Augusta, GA
     +1 762 222 2604   Augusta, GA
     +1 762 222 2606   Augusta, GA
     +1 762 222 2611   Augusta, GA
@@ -119,11 +116,10 @@ Updated: 2026-08-14
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 89 numbers ---
+--- 44444 — 88 numbers ---
 
-  ALABAMA (15)
+  ALABAMA (14)
     +1 251 444 4402   Mobile, AL
-    +1 251 444 4403   Mobile, AL
     +1 251 444 4407   Mobile, AL
     +1 251 444 4413   Mobile, AL
     +1 251 444 4417   Mobile, AL
@@ -384,7 +380,7 @@ Updated: 2026-08-14
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 236 numbers ---
+--- 77777 — 237 numbers ---
 
   CALIFORNIA (168)
     +1 657 777 7038   Buena Park, CA
@@ -600,6 +596,9 @@ Updated: 2026-08-14
     +1 240 977 7776   Forest Heights, MD
     +1 667 677 7774   Baltimore, MD
 
+  MICHIGAN (1)
+    +1 616 777 7748   Hudsonville, MI
+
   NEBRASKA (15)
     +1 531 777 7705   Omaha, NE
     +1 531 777 7706   Omaha, NE
@@ -648,7 +647,7 @@ Updated: 2026-08-14
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 527 numbers ---
+--- 88888 — 526 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -796,7 +795,7 @@ Updated: 2026-08-14
     +1 858 888 8662   San Diego, CA
     +1 858 888 8663   San Diego, CA
 
-  GEORGIA (50)
+  GEORGIA (49)
     +1 678 888 8041   Atlanta, GA
     +1 678 888 8059   Atlanta, GA
     +1 678 888 8061   Atlanta, GA
@@ -809,8 +808,6 @@ Updated: 2026-08-14
     +1 678 888 8085   Atlanta, GA
     +1 678 888 8087   Atlanta, GA
     +1 678 888 8093   Atlanta, GA
-    +1 678 888 8238   Atlanta, GA
-    +1 678 888 8239   Atlanta, GA
     +1 678 888 8240   Atlanta, GA
     +1 678 888 8242   Atlanta, GA
     +1 678 888 8244   Atlanta, GA
@@ -818,7 +815,6 @@ Updated: 2026-08-14
     +1 678 888 8246   Atlanta, GA
     +1 678 888 8247   Atlanta, GA
     +1 678 888 8249   Atlanta, GA
-    +1 678 888 8250   Atlanta, GA
     +1 678 888 8251   Atlanta, GA
     +1 678 888 8253   Atlanta, GA
     +1 678 888 8254   Atlanta, GA
@@ -829,6 +825,9 @@ Updated: 2026-08-14
     +1 678 888 8264   Atlanta, GA
     +1 678 888 8267   Atlanta, GA
     +1 678 888 8269   Atlanta, GA
+    +1 678 888 8270   Atlanta, GA
+    +1 678 888 8273   Atlanta, GA
+    +1 678 888 8274   Atlanta, GA
     +1 678 888 8459   Atlanta, GA
     +1 678 888 8461   Atlanta, GA
     +1 678 888 8467   Atlanta, GA
@@ -846,7 +845,6 @@ Updated: 2026-08-14
     +1 678 888 8662   Atlanta, GA
     +1 678 888 8663   Atlanta, GA
     +1 678 888 8669   Atlanta, GA
-    +1 678 888 8671   Atlanta, GA
 
   MINNESOTA (130)
     +1 218 888 8009   Bemidji, MN
@@ -884,11 +882,9 @@ Updated: 2026-08-14
     +1 218 888 8163   Bemidji, MN
     +1 218 888 8164   Bemidji, MN
     +1 218 888 8201   Bemidji, MN
-    +1 218 888 8203   Bemidji, MN
     +1 218 888 8205   Bemidji, MN
     +1 218 888 8207   Bemidji, MN
     +1 218 888 8210   Bemidji, MN
-    +1 218 888 8213   Bemidji, MN
     +1 218 888 8215   Bemidji, MN
     +1 218 888 8217   Bemidji, MN
     +1 218 888 8225   Bemidji, MN
@@ -903,6 +899,8 @@ Updated: 2026-08-14
     +1 218 888 8245   Bemidji, MN
     +1 218 888 8247   Bemidji, MN
     +1 218 888 8251   Bemidji, MN
+    +1 218 888 8253   Bemidji, MN
+    +1 218 888 8254   Bemidji, MN
     +1 218 888 8301   Bemidji, MN
     +1 218 888 8303   Bemidji, MN
     +1 218 888 8304   Bemidji, MN
@@ -1173,7 +1171,6 @@ Updated: 2026-08-14
     +1 458 888 8913   Milton-Freewater, OR
     +1 458 888 8914   Milton-Freewater, OR
     +1 458 888 8916   Milton-Freewater, OR
-    +1 458 888 8917   Milton-Freewater, OR
     +1 458 888 8918   Milton-Freewater, OR
     +1 458 888 8919   Milton-Freewater, OR
     +1 458 888 8923   Milton-Freewater, OR
@@ -1188,6 +1185,7 @@ Updated: 2026-08-14
     +1 458 888 8940   Milton-Freewater, OR
     +1 458 888 8941   Milton-Freewater, OR
     +1 458 888 8944   Milton-Freewater, OR
+    +1 458 888 8945   Milton-Freewater, OR
     +1 971 888 8812   West Haven-Sylvan, OR
     +1 971 888 8823   West Haven-Sylvan, OR
     +1 971 888 8832   West Haven-Sylvan, OR
@@ -1201,7 +1199,7 @@ Updated: 2026-08-14
 
 --- 99999 — 276 numbers ---
 
-  ALABAMA (180)
+  ALABAMA (179)
     +1 251 999 9913   Mobile, AL
     +1 251 999 9917   Mobile, AL
     +1 251 999 9963   Mobile, AL
@@ -1256,7 +1254,6 @@ Updated: 2026-08-14
     +1 659 999 9210   Winfield, AL
     +1 659 999 9219   Winfield, AL
     +1 659 999 9220   Winfield, AL
-    +1 659 999 9224   Winfield, AL
     +1 659 999 9233   Winfield, AL
     +1 659 999 9240   Winfield, AL
     +1 659 999 9241   Winfield, AL
@@ -1275,8 +1272,6 @@ Updated: 2026-08-14
     +1 659 999 9305   Winfield, AL
     +1 659 999 9315   Winfield, AL
     +1 659 999 9320   Winfield, AL
-    +1 659 999 9332   Winfield, AL
-    +1 659 999 9336   Winfield, AL
     +1 659 999 9337   Winfield, AL
     +1 659 999 9340   Winfield, AL
     +1 659 999 9342   Winfield, AL
@@ -1290,6 +1285,8 @@ Updated: 2026-08-14
     +1 659 999 9374   Winfield, AL
     +1 659 999 9380   Winfield, AL
     +1 659 999 9386   Winfield, AL
+    +1 659 999 9388   Winfield, AL
+    +1 659 999 9390   Winfield, AL
     +1 659 999 9401   Winfield, AL
     +1 659 999 9402   Winfield, AL
     +1 659 999 9404   Winfield, AL
@@ -1299,7 +1296,6 @@ Updated: 2026-08-14
     +1 659 999 9412   Winfield, AL
     +1 659 999 9420   Winfield, AL
     +1 659 999 9425   Winfield, AL
-    +1 659 999 9426   Winfield, AL
     +1 659 999 9427   Winfield, AL
     +1 659 999 9429   Winfield, AL
     +1 659 999 9431   Winfield, AL
@@ -1310,6 +1306,7 @@ Updated: 2026-08-14
     +1 659 999 9441   Winfield, AL
     +1 659 999 9445   Winfield, AL
     +1 659 999 9446   Winfield, AL
+    +1 659 999 9447   Winfield, AL
     +1 659 999 9501   Winfield, AL
     +1 659 999 9502   Winfield, AL
     +1 659 999 9503   Winfield, AL
@@ -1362,28 +1359,28 @@ Updated: 2026-08-14
     +1 659 999 9735   Winfield, AL
     +1 659 999 9737   Winfield, AL
     +1 659 999 9738   Winfield, AL
-    +1 659 999 9739   Winfield, AL
     +1 659 999 9740   Winfield, AL
     +1 659 999 9742   Winfield, AL
+    +1 659 999 9746   Winfield, AL
     +1 659 999 9802   Winfield, AL
     +1 659 999 9810   Winfield, AL
     +1 659 999 9812   Winfield, AL
     +1 659 999 9813   Winfield, AL
     +1 659 999 9822   Winfield, AL
     +1 659 999 9825   Winfield, AL
-    +1 659 999 9826   Winfield, AL
     +1 659 999 9835   Winfield, AL
     +1 659 999 9839   Winfield, AL
     +1 659 999 9840   Winfield, AL
     +1 659 999 9844   Winfield, AL
-    +1 659 999 9847   Winfield, AL
     +1 659 999 9853   Winfield, AL
     +1 659 999 9860   Winfield, AL
     +1 659 999 9861   Winfield, AL
     +1 659 999 9865   Winfield, AL
     +1 659 999 9875   Winfield, AL
+    +1 659 999 9878   Winfield, AL
+    +1 659 999 9887   Winfield, AL
 
-  COLORADO (58)
+  COLORADO (57)
     +1 719 999 9018   Colorado Springs, CO
     +1 719 999 9023   Colorado Springs, CO
     +1 719 999 9027   Colorado Springs, CO
@@ -1421,7 +1418,6 @@ Updated: 2026-08-14
     +1 719 999 9544   Colorado Springs, CO
     +1 719 999 9552   Colorado Springs, CO
     +1 719 999 9557   Colorado Springs, CO
-    +1 719 999 9562   Colorado Springs, CO
     +1 719 999 9585   Colorado Springs, CO
     +1 719 999 9589   Colorado Springs, CO
     +1 719 999 9590   Colorado Springs, CO
@@ -1443,7 +1439,7 @@ Updated: 2026-08-14
     +1 719 999 9890   Colorado Springs, CO
     +1 720 999 9941   Edgewater, CO
 
-  FLORIDA (30)
+  FLORIDA (28)
     +1 239 999 9024   Fort Myers, FL
     +1 239 999 9131   Fort Myers, FL
     +1 239 999 9237   Fort Myers, FL
@@ -1460,11 +1456,9 @@ Updated: 2026-08-14
     +1 727 999 9920   New Port Richey, FL
     +1 727 999 9923   New Port Richey, FL
     +1 727 999 9926   New Port Richey, FL
-    +1 727 999 9928   New Port Richey, FL
     +1 727 999 9930   New Port Richey, FL
     +1 727 999 9934   New Port Richey, FL
     +1 727 999 9935   New Port Richey, FL
-    +1 727 999 9952   New Port Richey, FL
     +1 727 999 9953   New Port Richey, FL
     +1 727 999 9965   New Port Richey, FL
     +1 727 999 9971   New Port Richey, FL
@@ -1480,6 +1474,12 @@ Updated: 2026-08-14
     +1 774 399 9995   Westborough, MA
     +1 774 399 9996   Westborough, MA
 
+  MISSOURI (4)
+    +1 314 399 9991   St. Louis, MO
+    +1 314 399 9992   St. Louis, MO
+    +1 314 399 9993   St. Louis, MO
+    +1 314 399 9996   St. Louis, MO
+
   NEVADA (2)
     +1 775 499 9995   Reno, NV
     +1 775 499 9998   Reno, NV
@@ -1494,16 +1494,17 @@ Updated: 2026-08-14
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 846 numbers across 44 states
+4 ZEROS — 856 numbers across 45 states
 ====================================================
 
-  ALABAMA (25)
+  ALABAMA (34)
     +1 251 530 0002   Pine Apple, AL
     +1 251 800 0016   Mobile, AL
     +1 251 800 0034   Mobile, AL
     +1 251 800 0085   Mobile, AL
     +1 251 800 0096   Mobile, AL
     +1 251 810 0005   Bayou La Batre, AL
+    +1 334 310 0005   Prattville, AL
     +1 334 910 0006   Montgomery, AL
     +1 659 800 0035   Vernon, AL
     +1 659 800 0058   Vernon, AL
@@ -1523,6 +1524,14 @@ Updated: 2026-08-14
     +1 659 910 0002   Birmingham, AL
     +1 659 910 0003   Birmingham, AL
     +1 659 910 0008   Birmingham, AL
+    +1 938 320 0002   Cullman, AL
+    +1 938 320 0003   Cullman, AL
+    +1 938 320 0004   Cullman, AL
+    +1 938 320 0005   Cullman, AL
+    +1 938 320 0006   Cullman, AL
+    +1 938 320 0007   Cullman, AL
+    +1 938 320 0008   Cullman, AL
+    +1 938 320 0009   Cullman, AL
 
   ARIZONA (6)
     +1 928 800 0056   Prescott, AZ
@@ -1544,7 +1553,7 @@ Updated: 2026-08-14
     +1 870 600 0079   Ashdown, AR
     +1 870 600 0084   Ashdown, AR
 
-  CALIFORNIA (53)
+  CALIFORNIA (55)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0092   Whittier, CA
@@ -1577,7 +1586,6 @@ Updated: 2026-08-14
     +1 669 500 0094   Gilroy, CA
     +1 669 500 0097   Gilroy, CA
     +1 669 500 0098   Gilroy, CA
-    +1 707 390 0002   Scotia, CA
     +1 707 400 0031   Benicia, CA
     +1 707 400 0036   Benicia, CA
     +1 707 400 0039   Benicia, CA
@@ -1585,6 +1593,7 @@ Updated: 2026-08-14
     +1 707 400 0083   Benicia, CA
     +1 707 400 0092   Benicia, CA
     +1 707 400 0095   Benicia, CA
+    +1 747 200 0093   Burbank, CA
     +1 747 380 0003   Reseda, CA
     +1 747 380 0004   Reseda, CA
     +1 747 380 0005   Reseda, CA
@@ -1596,11 +1605,12 @@ Updated: 2026-08-14
     +1 909 600 0042   Fontana, CA
     +1 909 600 0053   Fontana, CA
     +1 909 600 0054   Fontana, CA
+    +1 909 600 0058   Fontana, CA
+    +1 909 600 0067   Fontana, CA
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
 
-  COLORADO (4)
-    +1 719 800 0034   Calhan, CO
+  COLORADO (3)
     +1 719 960 0009   Colorado Springs, CO
     +1 720 780 0004   Edgewater, CO
     +1 720 780 0006   Edgewater, CO
@@ -1666,10 +1676,8 @@ Updated: 2026-08-14
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (81)
+  FLORIDA (80)
     +1 352 570 0008   Yankeetown, FL
-    +1 352 600 0034   Brooksville, FL
-    +1 352 600 0053   Brooksville, FL
     +1 352 600 0068   Brooksville, FL
     +1 352 600 0079   Brooksville, FL
     +1 352 780 0004   Belleview, FL
@@ -1694,6 +1702,7 @@ Updated: 2026-08-14
     +1 448 600 0067   Jay, FL
     +1 448 600 0076   Jay, FL
     +1 448 850 0006   Greenville, FL
+    +1 561 600 0036   Boynton Beach, FL
     +1 727 900 0041   Belleair, FL
     +1 727 900 0053   Belleair, FL
     +1 727 900 0057   Belleair, FL
@@ -1937,11 +1946,10 @@ Updated: 2026-08-14
     +1 769 240 0007   Forest, MS
     +1 769 240 0008   Forest, MS
 
-  MISSOURI (4)
+  MISSOURI (3)
     +1 660 268 0000   Brookfield, MO
     +1 660 269 0000   Moberly, MO
     +1 660 552 0000   King City, MO
-    +1 816 600 0064   Lees Summit, MO
 
   MONTANA (2)
     +1 406 800 0021   Bridger, MT
@@ -2179,8 +2187,11 @@ Updated: 2026-08-14
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (68)
+  OHIO (71)
+    +1 216 400 0052   Cleveland, OH
+    +1 216 400 0089   Cleveland, OH
     +1 234 720 0004   Atwater, OH
+    +1 330 800 0085   Akron, OH
     +1 380 280 0004   Groveport, OH
     +1 380 500 0017   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
@@ -2249,12 +2260,11 @@ Updated: 2026-08-14
     +1 937 880 0003   Raymond, OH
     +1 937 880 0005   Raymond, OH
 
-  OKLAHOMA (11)
+  OKLAHOMA (10)
     +1 405 480 0007   Anadarko, OK
     +1 405 860 0005   Paden, OK
     +1 405 860 0006   Paden, OK
     +1 405 860 0008   Paden, OK
-    +1 405 970 0003   Guthrie, OK
     +1 405 970 0004   Guthrie, OK
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
@@ -2315,6 +2325,9 @@ Updated: 2026-08-14
     +1 401 830 0006   North Providence, RI
     +1 401 910 0003   Providence, RI
 
+  SOUTH CAROLINA (1)
+    +1 854 200 0075   Charleston, SC
+
   SOUTH DAKOTA (1)
     +1 605 910 0005   Sioux Falls, SD
 
@@ -2329,13 +2342,13 @@ Updated: 2026-08-14
     +1 931 820 0006   Clarksville, TN
 
   TEXAS (17)
+    +1 325 400 0015   Abilene, TX
     +1 325 400 0018   Abilene, TX
     +1 325 400 0027   Abilene, TX
     +1 325 400 0039   Abilene, TX
     +1 325 400 0064   Abilene, TX
     +1 325 400 0091   Abilene, TX
     +1 346 410 0002   Houston, TX
-    +1 346 440 0003   Houston, TX
     +1 409 240 0008   Beaumont, TX
     +1 409 240 0009   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
@@ -2391,9 +2404,8 @@ Updated: 2026-08-14
   VIRGINIA (1)
     +1 757 740 0003   Franklin, VA
 
-  WASHINGTON (16)
+  WASHINGTON (15)
     +1 509 600 0071   Bridgeport, WA
-    +1 509 600 0076   Bridgeport, WA
     +1 509 600 0078   Bridgeport, WA
     +1 509 600 0082   Bridgeport, WA
     +1 509 600 0083   Bridgeport, WA
