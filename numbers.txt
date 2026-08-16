@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-15
-1287 five-in-a-row · 856 four-zeros across 45 states
+Updated: 2026-08-16
+1285 five-in-a-row · 851 four-zeros across 44 states
 
 ====================================================
 5 IN A ROW
@@ -70,7 +70,7 @@ Updated: 2026-08-15
     +1 802 622 2228   Barre, VT
     +1 802 822 2227   Derby Line, VT
 
---- 33333 — 28 numbers ---
+--- 33333 — 27 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
@@ -102,8 +102,7 @@ Updated: 2026-08-15
     +1 731 333 3310   Paris, TN
     +1 731 333 3319   Paris, TN
 
-  WISCONSIN (12)
-    +1 414 533 3336   Milwaukee, WI
+  WISCONSIN (11)
     +1 920 333 3301   Sturgeon Bay, WI
     +1 920 333 3304   Sturgeon Bay, WI
     +1 920 333 3319   Sturgeon Bay, WI
@@ -1197,7 +1196,7 @@ Updated: 2026-08-15
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 276 numbers ---
+--- 99999 — 275 numbers ---
 
   ALABAMA (179)
     +1 251 999 9913   Mobile, AL
@@ -1474,8 +1473,7 @@ Updated: 2026-08-15
     +1 774 399 9995   Westborough, MA
     +1 774 399 9996   Westborough, MA
 
-  MISSOURI (4)
-    +1 314 399 9991   St. Louis, MO
+  MISSOURI (3)
     +1 314 399 9992   St. Louis, MO
     +1 314 399 9993   St. Louis, MO
     +1 314 399 9996   St. Louis, MO
@@ -1494,17 +1492,16 @@ Updated: 2026-08-15
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 856 numbers across 45 states
+4 ZEROS — 851 numbers across 44 states
 ====================================================
 
-  ALABAMA (34)
+  ALABAMA (33)
     +1 251 530 0002   Pine Apple, AL
     +1 251 800 0016   Mobile, AL
     +1 251 800 0034   Mobile, AL
     +1 251 800 0085   Mobile, AL
     +1 251 800 0096   Mobile, AL
     +1 251 810 0005   Bayou La Batre, AL
-    +1 334 310 0005   Prattville, AL
     +1 334 910 0006   Montgomery, AL
     +1 659 800 0035   Vernon, AL
     +1 659 800 0058   Vernon, AL
@@ -1553,7 +1550,7 @@ Updated: 2026-08-15
     +1 870 600 0079   Ashdown, AR
     +1 870 600 0084   Ashdown, AR
 
-  CALIFORNIA (55)
+  CALIFORNIA (54)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0092   Whittier, CA
@@ -1593,7 +1590,6 @@ Updated: 2026-08-15
     +1 707 400 0083   Benicia, CA
     +1 707 400 0092   Benicia, CA
     +1 707 400 0095   Benicia, CA
-    +1 747 200 0093   Burbank, CA
     +1 747 380 0003   Reseda, CA
     +1 747 380 0004   Reseda, CA
     +1 747 380 0005   Reseda, CA
@@ -1610,8 +1606,7 @@ Updated: 2026-08-15
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
 
-  COLORADO (3)
-    +1 719 960 0009   Colorado Springs, CO
+  COLORADO (2)
     +1 720 780 0004   Edgewater, CO
     +1 720 780 0006   Edgewater, CO
 
@@ -1676,7 +1671,7 @@ Updated: 2026-08-15
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (80)
+  FLORIDA (79)
     +1 352 570 0008   Yankeetown, FL
     +1 352 600 0068   Brooksville, FL
     +1 352 600 0079   Brooksville, FL
@@ -1702,7 +1697,6 @@ Updated: 2026-08-15
     +1 448 600 0067   Jay, FL
     +1 448 600 0076   Jay, FL
     +1 448 850 0006   Greenville, FL
-    +1 561 600 0036   Boynton Beach, FL
     +1 727 900 0041   Belleair, FL
     +1 727 900 0053   Belleair, FL
     +1 727 900 0057   Belleair, FL
@@ -1802,8 +1796,9 @@ Updated: 2026-08-15
     +1 618 330 0007   Villa Ridge, IL
     +1 618 820 0006   Bunker Hill, IL
 
-  INDIANA (7)
+  INDIANA (8)
     +1 260 300 0074   Woodburn, IN
+    +1 463 200 0081   Indianapolis, IN
     +1 765 400 0093   Anderson, IN
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
@@ -1867,7 +1862,7 @@ Updated: 2026-08-15
     +1 857 600 0058   Cambridge, MA
     +1 978 680 0009   Concord, MA
 
-  MINNESOTA (64)
+  MINNESOTA (63)
     +1 218 480 0003   Stephen, MN
     +1 218 480 0005   Stephen, MN
     +1 218 480 0006   Stephen, MN
@@ -1927,7 +1922,6 @@ Updated: 2026-08-15
     +1 507 873 0000   Slayton, MN
     +1 507 910 0002   Rochester, MN
     +1 507 910 0007   Rochester, MN
-    +1 507 910 0009   Rochester, MN
     +1 651 560 0003   Wabasha, MN
     +1 763 910 0006   Hilltop, MN
     +1 763 910 0008   Hilltop, MN
@@ -2187,9 +2181,7 @@ Updated: 2026-08-15
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (71)
-    +1 216 400 0052   Cleveland, OH
-    +1 216 400 0089   Cleveland, OH
+  OHIO (69)
     +1 234 720 0004   Atwater, OH
     +1 330 800 0085   Akron, OH
     +1 380 280 0004   Groveport, OH
@@ -2325,18 +2317,16 @@ Updated: 2026-08-15
     +1 401 830 0006   North Providence, RI
     +1 401 910 0003   Providence, RI
 
-  SOUTH CAROLINA (1)
-    +1 854 200 0075   Charleston, SC
-
   SOUTH DAKOTA (1)
     +1 605 910 0005   Sioux Falls, SD
 
-  TENNESSEE (8)
+  TENNESSEE (9)
     +1 731 470 0009   Trenton, TN
     +1 901 610 0003   Collierville, TN
     +1 901 660 0003   Grand Junction, TN
     +1 901 660 0004   Grand Junction, TN
     +1 901 660 0007   Grand Junction, TN
+    +1 931 230 0002   Hohenwald, TN
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
@@ -2404,7 +2394,8 @@ Updated: 2026-08-15
   VIRGINIA (1)
     +1 757 740 0003   Franklin, VA
 
-  WASHINGTON (15)
+  WASHINGTON (16)
+    +1 360 200 0028   Longview, WA
     +1 509 600 0071   Bridgeport, WA
     +1 509 600 0078   Bridgeport, WA
     +1 509 600 0082   Bridgeport, WA

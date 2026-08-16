@@ -1,5 +1,5 @@
 {
- "date": "2026-08-15",
+ "date": "2026-08-16",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -231,7 +231,7 @@
   },
   {
    "pattern": "33333",
-   "count": 28,
+   "count": 27,
    "states": [
     {
      "state": "Alabama",
@@ -341,12 +341,8 @@
     },
     {
      "state": "Wisconsin",
-     "count": 12,
+     "count": 11,
      "numbers": [
-      {
-       "number": "+1 414 533 3336",
-       "location": "Milwaukee, WI"
-      },
       {
        "number": "+1 920 333 3301",
        "location": "Sturgeon Bay, WI"
@@ -4587,7 +4583,7 @@
   },
   {
    "pattern": "99999",
-   "count": 276,
+   "count": 275,
    "states": [
     {
      "state": "Alabama",
@@ -5683,12 +5679,8 @@
     },
     {
      "state": "Missouri",
-     "count": 4,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 314 399 9991",
-       "location": "St. Louis, MO"
-      },
       {
        "number": "+1 314 399 9992",
        "location": "St. Louis, MO"
@@ -5751,12 +5743,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 856,
-  "state_count": 45,
+  "total": 851,
+  "state_count": 44,
   "states": [
    {
     "state": "Alabama",
-    "count": 34,
+    "count": 33,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -5781,10 +5773,6 @@
      {
       "number": "+1 251 810 0005",
       "location": "Bayou La Batre, AL"
-     },
-     {
-      "number": "+1 334 310 0005",
-      "location": "Prattville, AL"
      },
      {
       "number": "+1 334 910 0006",
@@ -5974,7 +5962,7 @@
    },
    {
     "state": "California",
-    "count": 55,
+    "count": 54,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -6133,10 +6121,6 @@
       "location": "Benicia, CA"
      },
      {
-      "number": "+1 747 200 0093",
-      "location": "Burbank, CA"
-     },
-     {
       "number": "+1 747 380 0003",
       "location": "Reseda, CA"
      },
@@ -6200,12 +6184,8 @@
    },
    {
     "state": "Colorado",
-    "count": 3,
+    "count": 2,
     "numbers": [
-     {
-      "number": "+1 719 960 0009",
-      "location": "Colorado Springs, CO"
-     },
      {
       "number": "+1 720 780 0004",
       "location": "Edgewater, CO"
@@ -6458,7 +6438,7 @@
    },
    {
     "state": "Florida",
-    "count": 80,
+    "count": 79,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -6559,10 +6539,6 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
-     },
-     {
-      "number": "+1 561 600 0036",
-      "location": "Boynton Beach, FL"
      },
      {
       "number": "+1 727 900 0041",
@@ -6954,11 +6930,15 @@
    },
    {
     "state": "Indiana",
-    "count": 7,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 260 300 0074",
       "location": "Woodburn, IN"
+     },
+     {
+      "number": "+1 463 200 0081",
+      "location": "Indianapolis, IN"
      },
      {
       "number": "+1 765 400 0093",
@@ -7200,7 +7180,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 64,
+    "count": 63,
     "numbers": [
      {
       "number": "+1 218 480 0003",
@@ -7436,10 +7416,6 @@
      },
      {
       "number": "+1 507 910 0007",
-      "location": "Rochester, MN"
-     },
-     {
-      "number": "+1 507 910 0009",
       "location": "Rochester, MN"
      },
      {
@@ -8458,16 +8434,8 @@
    },
    {
     "state": "Ohio",
-    "count": 71,
+    "count": 69,
     "numbers": [
-     {
-      "number": "+1 216 400 0052",
-      "location": "Cleveland, OH"
-     },
-     {
-      "number": "+1 216 400 0089",
-      "location": "Cleveland, OH"
-     },
      {
       "number": "+1 234 720 0004",
       "location": "Atwater, OH"
@@ -8999,16 +8967,6 @@
     ]
    },
    {
-    "state": "South Carolina",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 854 200 0075",
-      "location": "Charleston, SC"
-     }
-    ]
-   },
-   {
     "state": "South Dakota",
     "count": 1,
     "numbers": [
@@ -9020,7 +8978,7 @@
    },
    {
     "state": "Tennessee",
-    "count": 8,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 731 470 0009",
@@ -9041,6 +8999,10 @@
      {
       "number": "+1 901 660 0007",
       "location": "Grand Junction, TN"
+     },
+     {
+      "number": "+1 931 230 0002",
+      "location": "Hohenwald, TN"
      },
      {
       "number": "+1 931 410 0002",
@@ -9302,8 +9264,12 @@
    },
    {
     "state": "Washington",
-    "count": 15,
+    "count": 16,
     "numbers": [
+     {
+      "number": "+1 360 200 0028",
+      "location": "Longview, WA"
+     },
      {
       "number": "+1 509 600 0071",
       "location": "Bridgeport, WA"
@@ -9493,9 +9459,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1287,
+  "total_5_in_a_row": 1285,
   "patterns_with_results": 8,
-  "total_0000": 856,
-  "state_count_0000": 45
+  "total_0000": 851,
+  "state_count_0000": 44
  }
 }
