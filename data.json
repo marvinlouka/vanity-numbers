@@ -1,9 +1,9 @@
 {
- "date": "2026-08-16",
+ "date": "2026-08-17",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 36,
+   "count": 30,
    "states": [
     {
      "state": "Alabama",
@@ -35,35 +35,11 @@
     },
     {
      "state": "Georgia",
-     "count": 9,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 706 522 2226",
        "location": "Elberton, GA"
-      },
-      {
-       "number": "+1 762 222 2604",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2606",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2611",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2711",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2713",
-       "location": "Augusta, GA"
-      },
-      {
-       "number": "+1 762 222 2815",
-       "location": "Augusta, GA"
       },
       {
        "number": "+1 762 222 2853",
@@ -2407,7 +2383,7 @@
   },
   {
    "pattern": "88888",
-   "count": 526,
+   "count": 474,
    "states": [
     {
      "state": "Alabama",
@@ -2990,208 +2966,6 @@
      ]
     },
     {
-     "state": "Georgia",
-     "count": 49,
-     "numbers": [
-      {
-       "number": "+1 678 888 8041",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8059",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8061",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8067",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8069",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8075",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8076",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8078",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8082",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8085",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8087",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8093",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8240",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8242",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8244",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8245",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8246",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8247",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8249",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8251",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8253",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8254",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8256",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8259",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8262",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8263",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8264",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8267",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8269",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8270",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8273",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8274",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8459",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8461",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8467",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8470",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8628",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8630",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8634",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8638",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8640",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8644",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8650",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8653",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8659",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8661",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8662",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8663",
-       "location": "Atlanta, GA"
-      },
-      {
-       "number": "+1 678 888 8669",
-       "location": "Atlanta, GA"
-      }
-     ]
-    },
-    {
      "state": "Minnesota",
      "count": 130,
      "numbers": [
@@ -3718,16 +3492,6 @@
      ]
     },
     {
-     "state": "Montana",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 406 888 8895",
-       "location": "Columbia Falls, MT"
-      }
-     ]
-    },
-    {
      "state": "Nebraska",
      "count": 88,
      "numbers": [
@@ -4107,7 +3871,7 @@
     },
     {
      "state": "Oregon",
-     "count": 112,
+     "count": 110,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -4194,10 +3958,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8277",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8279",
        "location": "Milton-Freewater, OR"
       },
@@ -4271,10 +4031,6 @@
       },
       {
        "number": "+1 458 888 8494",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8502",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -4583,11 +4339,11 @@
   },
   {
    "pattern": "99999",
-   "count": 275,
+   "count": 163,
    "states": [
     {
      "state": "Alabama",
-     "count": 179,
+     "count": 96,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -4638,14 +4394,6 @@
        "location": "Pinson, AL"
       },
       {
-       "number": "+1 659 999 9003",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9010",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9011",
        "location": "Winfield, AL"
       },
@@ -4667,10 +4415,6 @@
       },
       {
        "number": "+1 659 999 9049",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9055",
        "location": "Winfield, AL"
       },
       {
@@ -4710,11 +4454,19 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9088",
+       "number": "+1 659 999 9089",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9089",
+       "number": "+1 659 999 9092",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9094",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9097",
        "location": "Winfield, AL"
       },
       {
@@ -4734,10 +4486,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9114",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9129",
        "location": "Winfield, AL"
       },
@@ -4750,23 +4498,7 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9133",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9136",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9151",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9156",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9158",
        "location": "Winfield, AL"
       },
       {
@@ -4786,79 +4518,15 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9203",
+       "number": "+1 659 999 9187",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9206",
+       "number": "+1 659 999 9193",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9210",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9219",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9220",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9233",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9240",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9241",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9245",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9248",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9249",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9257",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9265",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9270",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9284",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9287",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9293",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9297",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9298",
+       "number": "+1 659 999 9195",
        "location": "Winfield, AL"
       },
       {
@@ -4870,31 +4538,11 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9315",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9320",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9337",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9340",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9342",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9346",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9347",
        "location": "Winfield, AL"
       },
       {
@@ -4906,31 +4554,7 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9356",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9364",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9366",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9374",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9380",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9386",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9388",
        "location": "Winfield, AL"
       },
       {
@@ -4974,27 +4598,7 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9427",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9429",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9431",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9432",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9434",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9435",
        "location": "Winfield, AL"
       },
       {
@@ -5006,19 +4610,31 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9445",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9446",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9447",
+       "number": "+1 659 999 9452",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9501",
+       "number": "+1 659 999 9460",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9470",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9475",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9485",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9486",
        "location": "Winfield, AL"
       },
       {
@@ -5034,87 +4650,7 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9512",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9514",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9519",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9521",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9524",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9525",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9527",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9532",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9534",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9535",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9536",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9538",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9539",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9543",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9544",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9602",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9603",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9607",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9609",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9611",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9613",
        "location": "Winfield, AL"
       },
       {
@@ -5122,55 +4658,11 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9615",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9617",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9625",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9626",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9629",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9632",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9639",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9641",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9644",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9653",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9657",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9702",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9704",
+       "number": "+1 659 999 9680",
        "location": "Winfield, AL"
       },
       {
@@ -5194,51 +4686,15 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9716",
+       "number": "+1 659 999 9750",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9723",
+       "number": "+1 659 999 9790",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9727",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9732",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9733",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9735",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9737",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9738",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9740",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9742",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9746",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9802",
+       "number": "+1 659 999 9791",
        "location": "Winfield, AL"
       },
       {
@@ -5254,31 +4710,11 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9822",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9825",
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9835",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9839",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9840",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9844",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9853",
        "location": "Winfield, AL"
       },
       {
@@ -5292,24 +4728,12 @@
       {
        "number": "+1 659 999 9865",
        "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9875",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9878",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9887",
-       "location": "Winfield, AL"
       }
      ]
     },
     {
      "state": "Colorado",
-     "count": 57,
+     "count": 56,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -5534,117 +4958,13 @@
       {
        "number": "+1 719 999 9890",
        "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 720 999 9941",
-       "location": "Edgewater, CO"
       }
      ]
     },
     {
      "state": "Florida",
-     "count": 28,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 239 999 9024",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9131",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9237",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9268",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9295",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9470",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9604",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9733",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9881",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 727 999 9903",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9908",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9910",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9916",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9920",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9923",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9926",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9930",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9934",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9935",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9953",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9965",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9971",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9973",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9985",
-       "location": "New Port Richey, FL"
-      },
-      {
-       "number": "+1 727 999 9987",
-       "location": "New Port Richey, FL"
-      },
       {
        "number": "+1 863 999 9932",
        "location": "Lakeland, FL"
@@ -5674,24 +4994,6 @@
       {
        "number": "+1 774 399 9996",
        "location": "Westborough, MA"
-      }
-     ]
-    },
-    {
-     "state": "Missouri",
-     "count": 3,
-     "numbers": [
-      {
-       "number": "+1 314 399 9992",
-       "location": "St. Louis, MO"
-      },
-      {
-       "number": "+1 314 399 9993",
-       "location": "St. Louis, MO"
-      },
-      {
-       "number": "+1 314 399 9996",
-       "location": "St. Louis, MO"
       }
      ]
     },
@@ -5743,7 +5045,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 851,
+  "total": 836,
   "state_count": 44,
   "states": [
    {
@@ -5962,7 +5264,7 @@
    },
    {
     "state": "California",
-    "count": 54,
+    "count": 53,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -5983,10 +5285,6 @@
      {
       "number": "+1 626 640 0008",
       "location": "La Puente, CA"
-     },
-     {
-      "number": "+1 657 620 0008",
-      "location": "Buena Park, CA"
      },
      {
       "number": "+1 657 650 0005",
@@ -6438,7 +5736,7 @@
    },
    {
     "state": "Florida",
-    "count": 79,
+    "count": 73,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -6539,30 +5837,6 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
-     },
-     {
-      "number": "+1 727 900 0041",
-      "location": "Belleair, FL"
-     },
-     {
-      "number": "+1 727 900 0053",
-      "location": "Belleair, FL"
-     },
-     {
-      "number": "+1 727 900 0057",
-      "location": "Belleair, FL"
-     },
-     {
-      "number": "+1 727 900 0079",
-      "location": "Belleair, FL"
-     },
-     {
-      "number": "+1 727 900 0093",
-      "location": "Belleair, FL"
-     },
-     {
-      "number": "+1 727 900 0095",
-      "location": "Belleair, FL"
      },
      {
       "number": "+1 850 930 0005",
@@ -6908,7 +6182,7 @@
    },
    {
     "state": "Illinois",
-    "count": 4,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 224 880 0007",
@@ -6925,6 +6199,10 @@
      {
       "number": "+1 618 820 0006",
       "location": "Bunker Hill, IL"
+     },
+     {
+      "number": "+1 872 250 0005",
+      "location": "Chicago, IL"
      }
     ]
    },
@@ -7505,31 +6783,9 @@
     ]
    },
    {
-    "state": "Montana",
-    "count": 2,
-    "numbers": [
-     {
-      "number": "+1 406 800 0021",
-      "location": "Bridger, MT"
-     },
-     {
-      "number": "+1 406 800 0092",
-      "location": "Bridger, MT"
-     }
-    ]
-   },
-   {
     "state": "Nebraska",
-    "count": 19,
+    "count": 17,
     "numbers": [
-     {
-      "number": "+1 402 500 0015",
-      "location": "Norfolk, NE"
-     },
-     {
-      "number": "+1 402 500 0016",
-      "location": "Norfolk, NE"
-     },
      {
       "number": "+1 531 300 0031",
       "location": "Creston, NE"
@@ -8434,15 +7690,11 @@
    },
    {
     "state": "Ohio",
-    "count": 69,
+    "count": 67,
     "numbers": [
      {
       "number": "+1 234 720 0004",
       "location": "Atwater, OH"
-     },
-     {
-      "number": "+1 330 800 0085",
-      "location": "Akron, OH"
      },
      {
       "number": "+1 380 280 0004",
@@ -8471,10 +7723,6 @@
      {
       "number": "+1 440 600 0097",
       "location": "Chagrin Falls, OH"
-     },
-     {
-      "number": "+1 513 800 0047",
-      "location": "Cincinnati, OH"
      },
      {
       "number": "+1 513 940 0003",
@@ -8967,6 +8215,16 @@
     ]
    },
    {
+    "state": "South Carolina",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 864 300 0005",
+      "location": "Gaffney, SC"
+     }
+    ]
+   },
+   {
     "state": "South Dakota",
     "count": 1,
     "numbers": [
@@ -8978,12 +8236,8 @@
    },
    {
     "state": "Tennessee",
-    "count": 9,
+    "count": 7,
     "numbers": [
-     {
-      "number": "+1 731 470 0009",
-      "location": "Trenton, TN"
-     },
      {
       "number": "+1 901 610 0003",
       "location": "Collierville, TN"
@@ -9001,10 +8255,6 @@
       "location": "Grand Junction, TN"
      },
      {
-      "number": "+1 931 230 0002",
-      "location": "Hohenwald, TN"
-     },
-     {
       "number": "+1 931 410 0002",
       "location": "Clarksville, TN"
      },
@@ -9020,7 +8270,7 @@
    },
    {
     "state": "Texas",
-    "count": 17,
+    "count": 16,
     "numbers": [
      {
       "number": "+1 325 400 0015",
@@ -9045,10 +8295,6 @@
      {
       "number": "+1 325 400 0091",
       "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 346 410 0002",
-      "location": "Houston, TX"
      },
      {
       "number": "+1 409 240 0008",
@@ -9264,12 +8510,8 @@
    },
    {
     "state": "Washington",
-    "count": 16,
+    "count": 15,
     "numbers": [
-     {
-      "number": "+1 360 200 0028",
-      "location": "Longview, WA"
-     },
      {
       "number": "+1 509 600 0071",
       "location": "Bridgeport, WA"
@@ -9459,9 +8701,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1285,
+  "total_5_in_a_row": 1115,
   "patterns_with_results": 8,
-  "total_0000": 851,
+  "total_0000": 836,
   "state_count_0000": 44
  }
 }
