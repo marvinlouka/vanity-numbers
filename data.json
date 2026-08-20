@@ -1,5 +1,5 @@
 {
- "date": "2026-08-19",
+ "date": "2026-08-20",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -357,7 +357,7 @@
   },
   {
    "pattern": "44444",
-   "count": 90,
+   "count": 89,
    "states": [
     {
      "state": "Alabama",
@@ -617,14 +617,10 @@
     },
     {
      "state": "Texas",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 936 444 4431",
-       "location": "Conroe, TX"
-      },
-      {
-       "number": "+1 936 444 4437",
        "location": "Conroe, TX"
       }
      ]
@@ -887,7 +883,7 @@
   },
   {
    "pattern": "66666",
-   "count": 80,
+   "count": 78,
    "states": [
     {
      "state": "Alabama",
@@ -1248,20 +1244,6 @@
       {
        "number": "+1 910 766 6669",
        "location": "Kenansville, NC"
-      }
-     ]
-    },
-    {
-     "state": "North Dakota",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 701 666 6648",
-       "location": "Minto, ND"
-      },
-      {
-       "number": "+1 701 666 6672",
-       "location": "Minto, ND"
       }
      ]
     },
@@ -2363,7 +2345,7 @@
   },
   {
    "pattern": "88888",
-   "count": 472,
+   "count": 477,
    "states": [
     {
      "state": "Alabama",
@@ -2477,8 +2459,40 @@
     },
     {
      "state": "California",
-     "count": 116,
+     "count": 121,
      "numbers": [
+      {
+       "number": "+1 279 288 8881",
+       "location": "Sacramento:main Da, CA"
+      },
+      {
+       "number": "+1 279 288 8882",
+       "location": "Sacramento:main Da, CA"
+      },
+      {
+       "number": "+1 279 288 8883",
+       "location": "Sacramento:main Da, CA"
+      },
+      {
+       "number": "+1 279 288 8884",
+       "location": "Sacramento:main Da, CA"
+      },
+      {
+       "number": "+1 279 288 8885",
+       "location": "Sacramento:main Da, CA"
+      },
+      {
+       "number": "+1 279 288 8886",
+       "location": "Sacramento:main Da, CA"
+      },
+      {
+       "number": "+1 279 288 8887",
+       "location": "Sacramento:main Da, CA"
+      },
+      {
+       "number": "+1 279 288 8889",
+       "location": "Sacramento:main Da, CA"
+      },
       {
        "number": "+1 858 888 8012",
        "location": "San Diego, CA"
@@ -2720,10 +2734,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8263",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8301",
        "location": "San Diego, CA"
       },
@@ -2860,10 +2870,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8430",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8601",
        "location": "San Diego, CA"
       },
@@ -2937,10 +2943,6 @@
       },
       {
        "number": "+1 858 888 8662",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8663",
        "location": "San Diego, CA"
       }
      ]
@@ -3154,15 +3156,15 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8259",
+       "number": "+1 218 888 8263",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8260",
+       "number": "+1 218 888 8265",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8262",
+       "number": "+1 218 888 8267",
        "location": "Bemidji, MN"
       },
       {
@@ -4311,11 +4313,11 @@
   },
   {
    "pattern": "99999",
-   "count": 162,
+   "count": 161,
    "states": [
     {
      "state": "Alabama",
-     "count": 95,
+     "count": 94,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -4367,10 +4369,6 @@
       },
       {
        "number": "+1 659 999 9017",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9019",
        "location": "Winfield, AL"
       },
       {
@@ -5013,12 +5011,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 785,
-  "state_count": 44,
+  "total": 758,
+  "state_count": 42,
   "states": [
    {
     "state": "Alabama",
-    "count": 20,
+    "count": 18,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -5053,15 +5051,7 @@
       "location": "Vernon, AL"
      },
      {
-      "number": "+1 659 800 0082",
-      "location": "Vernon, AL"
-     },
-     {
       "number": "+1 659 800 0091",
-      "location": "Vernon, AL"
-     },
-     {
-      "number": "+1 659 800 0093",
       "location": "Vernon, AL"
      },
      {
@@ -5104,28 +5094,8 @@
    },
    {
     "state": "Arizona",
-    "count": 12,
+    "count": 7,
     "numbers": [
-     {
-      "number": "+1 480 500 0032",
-      "location": "Phoenix, AZ"
-     },
-     {
-      "number": "+1 480 500 0071",
-      "location": "Phoenix, AZ"
-     },
-     {
-      "number": "+1 480 500 0092",
-      "location": "Phoenix, AZ"
-     },
-     {
-      "number": "+1 480 900 0037",
-      "location": "Phoenix, AZ"
-     },
-     {
-      "number": "+1 480 900 0043",
-      "location": "Phoenix, AZ"
-     },
      {
       "number": "+1 623 900 0035",
       "location": "Phoenix, AZ"
@@ -5158,7 +5128,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 8,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -5189,6 +5159,10 @@
       "location": "Van Buren, AR"
      },
      {
+      "number": "+1 501 400 0047",
+      "location": "Little Rock, AR"
+     },
+     {
       "number": "+1 870 600 0084",
       "location": "Ashdown, AR"
      }
@@ -5196,7 +5170,7 @@
    },
    {
     "state": "California",
-    "count": 54,
+    "count": 55,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -5387,6 +5361,10 @@
       "location": "Fontana, CA"
      },
      {
+      "number": "+1 909 600 0037",
+      "location": "Fontana, CA"
+     },
+     {
       "number": "+1 909 600 0042",
       "location": "Fontana, CA"
      },
@@ -5413,20 +5391,6 @@
      {
       "number": "+1 909 600 0072",
       "location": "Fontana, CA"
-     }
-    ]
-   },
-   {
-    "state": "Colorado",
-    "count": 2,
-    "numbers": [
-     {
-      "number": "+1 720 780 0004",
-      "location": "Edgewater, CO"
-     },
-     {
-      "number": "+1 720 780 0006",
-      "location": "Edgewater, CO"
      }
     ]
    },
@@ -5664,7 +5628,7 @@
    },
    {
     "state": "Florida",
-    "count": 57,
+    "count": 51,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -5695,27 +5659,7 @@
       "location": "Crescent City, FL"
      },
      {
-      "number": "+1 386 800 0027",
-      "location": "Crescent City, FL"
-     },
-     {
-      "number": "+1 386 800 0071",
-      "location": "Crescent City, FL"
-     },
-     {
       "number": "+1 386 800 0075",
-      "location": "Crescent City, FL"
-     },
-     {
-      "number": "+1 386 800 0079",
-      "location": "Crescent City, FL"
-     },
-     {
-      "number": "+1 386 800 0081",
-      "location": "Crescent City, FL"
-     },
-     {
-      "number": "+1 386 800 0082",
       "location": "Crescent City, FL"
      },
      {
@@ -5753,10 +5697,6 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
-     },
-     {
-      "number": "+1 561 600 0075",
-      "location": "Boynton Beach, FL"
      },
      {
       "number": "+1 850 930 0005",
@@ -5898,7 +5838,7 @@
    },
    {
     "state": "Georgia",
-    "count": 18,
+    "count": 17,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -5951,10 +5891,6 @@
      {
       "number": "+1 762 930 0009",
       "location": "Augusta, GA"
-     },
-     {
-      "number": "+1 770 400 0035",
-      "location": "Newnan, GA"
      },
      {
       "number": "+1 912 940 0003",
@@ -6046,7 +5982,7 @@
    },
    {
     "state": "Illinois",
-    "count": 4,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 224 880 0007",
@@ -6059,23 +5995,15 @@
      {
       "number": "+1 618 820 0006",
       "location": "Bunker Hill, IL"
-     },
-     {
-      "number": "+1 773 800 0057",
-      "location": "Chicago, IL"
      }
     ]
    },
    {
     "state": "Indiana",
-    "count": 7,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 765 400 0085",
-      "location": "Anderson, IN"
-     },
-     {
-      "number": "+1 765 400 0093",
       "location": "Anderson, IN"
      },
      {
@@ -6093,10 +6021,6 @@
      {
       "number": "+1 765 710 0005",
       "location": "Eaton, IN"
-     },
-     {
-      "number": "+1 812 200 0084",
-      "location": "Nashville, IN"
      }
     ]
    },
@@ -6132,7 +6056,7 @@
    },
    {
     "state": "Kansas",
-    "count": 11,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 785 335 0000",
@@ -6165,10 +6089,6 @@
      {
       "number": "+1 785 693 0000",
       "location": "Norcatur, KS"
-     },
-     {
-      "number": "+1 785 734 0000",
-      "location": "Bird City, KS"
      },
      {
       "number": "+1 785 772 0000",
@@ -6306,7 +6226,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 62,
+    "count": 58,
     "numbers": [
      {
       "number": "+1 218 480 0003",
@@ -6374,10 +6294,6 @@
      },
      {
       "number": "+1 320 380 0002",
-      "location": "Saint Cloud, MN"
-     },
-     {
-      "number": "+1 320 380 0003",
       "location": "Saint Cloud, MN"
      },
      {
@@ -6543,18 +6459,6 @@
      {
       "number": "+1 651 560 0003",
       "location": "Wabasha, MN"
-     },
-     {
-      "number": "+1 763 910 0006",
-      "location": "Hilltop, MN"
-     },
-     {
-      "number": "+1 763 910 0008",
-      "location": "Hilltop, MN"
-     },
-     {
-      "number": "+1 763 910 0009",
-      "location": "Hilltop, MN"
      }
     ]
    },
@@ -6606,8 +6510,40 @@
    },
    {
     "state": "Missouri",
-    "count": 3,
+    "count": 11,
     "numbers": [
+     {
+      "number": "+1 235 220 0002",
+      "location": "Birch Tree, MO"
+     },
+     {
+      "number": "+1 235 220 0003",
+      "location": "Birch Tree, MO"
+     },
+     {
+      "number": "+1 235 220 0004",
+      "location": "Birch Tree, MO"
+     },
+     {
+      "number": "+1 235 220 0005",
+      "location": "Birch Tree, MO"
+     },
+     {
+      "number": "+1 235 220 0006",
+      "location": "Birch Tree, MO"
+     },
+     {
+      "number": "+1 235 220 0007",
+      "location": "Birch Tree, MO"
+     },
+     {
+      "number": "+1 235 220 0008",
+      "location": "Birch Tree, MO"
+     },
+     {
+      "number": "+1 235 220 0009",
+      "location": "Birch Tree, MO"
+     },
      {
       "number": "+1 660 268 0000",
       "location": "Brookfield, MO"
@@ -6886,23 +6822,11 @@
    },
    {
     "state": "New Mexico",
-    "count": 11,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 505 590 0008",
       "location": "Aztec, NM"
-     },
-     {
-      "number": "+1 575 250 0002",
-      "location": "Cuba, NM"
-     },
-     {
-      "number": "+1 575 250 0003",
-      "location": "Cuba, NM"
-     },
-     {
-      "number": "+1 575 250 0009",
-      "location": "Cuba, NM"
      },
      {
       "number": "+1 575 500 0081",
@@ -6936,7 +6860,7 @@
    },
    {
     "state": "New York",
-    "count": 118,
+    "count": 109,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -7187,42 +7111,6 @@
       "location": "Jefferson Valley-Yorktown, NY"
      },
      {
-      "number": "+1 914 600 0023",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0024",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0025",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0026",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0027",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0028",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0039",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0042",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0043",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
       "number": "+1 914 600 0062",
       "location": "Jefferson Valley-Yorktown, NY"
      },
@@ -7414,7 +7302,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 29,
+    "count": 28,
     "numbers": [
      {
       "number": "+1 252 740 0005",
@@ -7431,10 +7319,6 @@
      {
       "number": "+1 828 680 0007",
       "location": "Mars Hill, NC"
-     },
-     {
-      "number": "+1 828 690 0006",
-      "location": "Andrews, NC"
      },
      {
       "number": "+1 828 900 0054",
@@ -7796,7 +7680,7 @@
    },
    {
     "state": "Oklahoma",
-    "count": 6,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 405 480 0007",
@@ -7817,6 +7701,10 @@
      {
       "number": "+1 405 970 0008",
       "location": "Guthrie, OK"
+     },
+     {
+      "number": "+1 539 200 0070",
+      "location": "Barnsdall, OK"
      },
      {
       "number": "+1 580 430 0003",
@@ -8015,16 +7903,6 @@
      {
       "number": "+1 401 910 0003",
       "location": "Providence, RI"
-     }
-    ]
-   },
-   {
-    "state": "South Carolina",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 843 480 0007",
-      "location": "Charleston, SC"
      }
     ]
    },
@@ -8465,9 +8343,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1107,
+  "total_5_in_a_row": 1108,
   "patterns_with_results": 8,
-  "total_0000": 785,
-  "state_count_0000": 44
+  "total_0000": 758,
+  "state_count_0000": 42
  }
 }
