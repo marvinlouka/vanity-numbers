@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-20
-1108 five-in-a-row · 758 four-zeros across 42 states
+Updated: 2026-08-21
+1094 five-in-a-row · 758 four-zeros across 42 states
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 27 numbers ---
+--- 22222 — 26 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
@@ -15,6 +15,9 @@ Updated: 2026-08-20
 
   CALIFORNIA (1)
     +1 909 922 2227   Etiwanda, CA
+
+  FLORIDA (1)
+    +1 386 222 2212   Palatka, FL
 
   GEORGIA (1)
     +1 706 522 2226   Elberton, GA
@@ -33,16 +36,12 @@ Updated: 2026-08-20
   NEBRASKA (1)
     +1 308 422 2221   Wilsonville, NE
 
-  NEW JERSEY (1)
-    +1 856 322 2226   Camden, NJ
-
   NEW YORK (2)
     +1 585 822 2220   East Rochester, NY
     +1 607 622 2221   Bath, NY
 
-  OREGON (4)
+  OREGON (3)
     +1 458 322 2221   Albany, OR
-    +1 458 322 2224   Albany, OR
     +1 458 322 2226   Albany, OR
     +1 458 322 2229   Albany, OR
 
@@ -106,7 +105,7 @@ Updated: 2026-08-20
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 89 numbers ---
+--- 44444 — 88 numbers ---
 
   ALABAMA (14)
     +1 251 444 4402   Mobile, AL
@@ -175,9 +174,6 @@ Updated: 2026-08-20
     +1 320 844 4441   Avon, MN
     +1 320 844 4443   Avon, MN
 
-  TEXAS (1)
-    +1 936 444 4431   Conroe, TX
-
   UTAH (5)
     +1 385 544 4443   Kaysville, UT
     +1 385 544 4446   Kaysville, UT
@@ -217,7 +213,7 @@ Updated: 2026-08-20
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 14 numbers ---
+--- 55555 — 13 numbers ---
 
   FLORIDA (4)
     +1 863 855 5551   Lake Wales, FL
@@ -243,11 +239,10 @@ Updated: 2026-08-20
   VERMONT (1)
     +1 802 855 5553   Rutland, VT
 
-  WASHINGTON (2)
-    +1 425 955 5552   Clyde Hill, WA
+  WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 78 numbers ---
+--- 66666 — 77 numbers ---
 
   ALABAMA (7)
     +1 334 666 6605   Wetumpka, AL
@@ -324,11 +319,10 @@ Updated: 2026-08-20
   MONTANA (1)
     +1 406 966 6664   Shelby, MT
 
-  NEBRASKA (5)
+  NEBRASKA (4)
     +1 402 266 6661   Exeter, NE
     +1 402 266 6665   Exeter, NE
     +1 402 266 6668   Exeter, NE
-    +1 402 266 6669   Exeter, NE
     +1 531 366 6669   Omaha, NE
 
   NEW JERSEY (7)
@@ -367,7 +361,7 @@ Updated: 2026-08-20
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 235 numbers ---
+--- 77777 — 234 numbers ---
 
   CALIFORNIA (167)
     +1 657 777 7038   Buena Park, CA
@@ -538,9 +532,8 @@ Updated: 2026-08-20
     +1 657 777 7969   Buena Park, CA
     +1 657 777 7973   Buena Park, CA
 
-  CONNECTICUT (30)
+  CONNECTICUT (29)
     +1 959 777 7704   Hartford, CT
-    +1 959 777 7705   Hartford, CT
     +1 959 777 7708   Hartford, CT
     +1 959 777 7709   Hartford, CT
     +1 959 777 7714   Hartford, CT
@@ -606,7 +599,8 @@ Updated: 2026-08-20
     +1 458 777 7745   Jefferson, OR
     +1 458 777 7759   Jefferson, OR
 
-  PENNSYLVANIA (2)
+  PENNSYLVANIA (3)
+    +1 267 777 7756   Philadelphia, PA
     +1 267 777 7845   Philadelphia, PA
     +1 267 777 7891   Philadelphia, PA
 
@@ -621,16 +615,13 @@ Updated: 2026-08-20
   SOUTH DAKOTA (1)
     +1 605 277 7776   Aberdeen, SD
 
-  TEXAS (1)
-    +1 832 777 7730   Humble, TX
-
   UTAH (4)
     +1 435 677 7773   Brian Head, UT
     +1 435 677 7774   Brian Head, UT
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 477 numbers ---
+--- 88888 — 471 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -660,15 +651,8 @@ Updated: 2026-08-20
     +1 334 888 8843   Clayton, AL
     +1 938 888 8440   Killen, AL
 
-  CALIFORNIA (121)
-    +1 279 288 8881   Sacramento:main Da, CA
-    +1 279 288 8882   Sacramento:main Da, CA
-    +1 279 288 8883   Sacramento:main Da, CA
-    +1 279 288 8884   Sacramento:main Da, CA
-    +1 279 288 8885   Sacramento:main Da, CA
+  CALIFORNIA (116)
     +1 279 288 8886   Sacramento:main Da, CA
-    +1 279 288 8887   Sacramento:main Da, CA
-    +1 279 288 8889   Sacramento:main Da, CA
     +1 858 888 8012   San Diego, CA
     +1 858 888 8013   San Diego, CA
     +1 858 888 8015   San Diego, CA
@@ -729,6 +713,7 @@ Updated: 2026-08-20
     +1 858 888 8254   San Diego, CA
     +1 858 888 8256   San Diego, CA
     +1 858 888 8261   San Diego, CA
+    +1 858 888 8263   San Diego, CA
     +1 858 888 8301   San Diego, CA
     +1 858 888 8302   San Diego, CA
     +1 858 888 8305   San Diego, CA
@@ -763,6 +748,7 @@ Updated: 2026-08-20
     +1 858 888 8423   San Diego, CA
     +1 858 888 8425   San Diego, CA
     +1 858 888 8429   San Diego, CA
+    +1 858 888 8430   San Diego, CA
     +1 858 888 8601   San Diego, CA
     +1 858 888 8602   San Diego, CA
     +1 858 888 8605   San Diego, CA
@@ -1010,7 +996,7 @@ Updated: 2026-08-20
   NEW YORK (1)
     +1 585 788 8882   Bloomfield, NY
 
-  OREGON (109)
+  OREGON (108)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -1092,7 +1078,6 @@ Updated: 2026-08-20
     +1 458 888 8770   Milton-Freewater, OR
     +1 458 888 8771   Milton-Freewater, OR
     +1 458 888 8772   Milton-Freewater, OR
-    +1 458 888 8789   Milton-Freewater, OR
     +1 458 888 8794   Milton-Freewater, OR
     +1 458 888 8795   Milton-Freewater, OR
     +1 458 888 8798   Milton-Freewater, OR
@@ -1127,7 +1112,7 @@ Updated: 2026-08-20
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 161 numbers ---
+--- 99999 — 158 numbers ---
 
   ALABAMA (94)
     +1 251 999 9913   Mobile, AL
@@ -1225,7 +1210,7 @@ Updated: 2026-08-20
     +1 659 999 9861   Winfield, AL
     +1 659 999 9865   Winfield, AL
 
-  COLORADO (56)
+  COLORADO (53)
     +1 719 999 9018   Colorado Springs, CO
     +1 719 999 9023   Colorado Springs, CO
     +1 719 999 9027   Colorado Springs, CO
@@ -1255,7 +1240,6 @@ Updated: 2026-08-20
     +1 719 999 9397   Colorado Springs, CO
     +1 719 999 9398   Colorado Springs, CO
     +1 719 999 9425   Colorado Springs, CO
-    +1 719 999 9433   Colorado Springs, CO
     +1 719 999 9474   Colorado Springs, CO
     +1 719 999 9485   Colorado Springs, CO
     +1 719 999 9489   Colorado Springs, CO
@@ -1272,7 +1256,6 @@ Updated: 2026-08-20
     +1 719 999 9656   Colorado Springs, CO
     +1 719 999 9658   Colorado Springs, CO
     +1 719 999 9697   Colorado Springs, CO
-    +1 719 999 9750   Colorado Springs, CO
     +1 719 999 9786   Colorado Springs, CO
     +1 719 999 9812   Colorado Springs, CO
     +1 719 999 9813   Colorado Springs, CO
@@ -1281,7 +1264,6 @@ Updated: 2026-08-20
     +1 719 999 9823   Colorado Springs, CO
     +1 719 999 9830   Colorado Springs, CO
     +1 719 999 9887   Colorado Springs, CO
-    +1 719 999 9890   Colorado Springs, CO
 
   FLORIDA (3)
     +1 863 999 9932   Lakeland, FL
@@ -1339,7 +1321,7 @@ Updated: 2026-08-20
     +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
-  ARKANSAS (9)
+  ARKANSAS (7)
     +1 479 410 0002   Van Buren, AR
     +1 479 410 0003   Van Buren, AR
     +1 479 410 0004   Van Buren, AR
@@ -1347,10 +1329,8 @@ Updated: 2026-08-20
     +1 479 410 0006   Van Buren, AR
     +1 479 410 0008   Van Buren, AR
     +1 479 410 0009   Van Buren, AR
-    +1 501 400 0047   Little Rock, AR
-    +1 870 600 0084   Ashdown, AR
 
-  CALIFORNIA (55)
+  CALIFORNIA (56)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0092   Whittier, CA
@@ -1390,6 +1370,7 @@ Updated: 2026-08-20
     +1 707 400 0083   Benicia, CA
     +1 707 400 0092   Benicia, CA
     +1 707 400 0095   Benicia, CA
+    +1 747 200 0094   Burbank, CA
     +1 747 380 0003   Reseda, CA
     +1 747 380 0004   Reseda, CA
     +1 747 380 0005   Reseda, CA
@@ -1561,12 +1542,13 @@ Updated: 2026-08-20
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
 
-  INDIANA (5)
+  INDIANA (6)
     +1 765 400 0085   Anderson, IN
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
+    +1 812 200 0096   Nashville, IN
 
   IOWA (6)
     +1 712 800 0039   Glenwood, IA
@@ -1576,7 +1558,7 @@ Updated: 2026-08-20
     +1 712 800 0059   Glenwood, IA
     +1 712 800 0081   Glenwood, IA
 
-  KANSAS (10)
+  KANSAS (11)
     +1 785 335 0000   Scandia, KS
     +1 785 510 0002   Washington, KS
     +1 785 522 0000   Circleville, KS
@@ -1585,6 +1567,7 @@ Updated: 2026-08-20
     +1 785 669 0000   Almena, KS
     +1 785 675 0000   Hoxie, KS
     +1 785 693 0000   Norcatur, KS
+    +1 785 734 0000   Bird City, KS
     +1 785 772 0000   St Francis, KS
     +1 785 877 0000   Norton, KS
 
@@ -1927,7 +1910,7 @@ Updated: 2026-08-20
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (61)
+  OHIO (62)
     +1 330 681 0000   Dellroy, OH
     +1 330 800 0012   Akron, OH
     +1 380 500 0017   Worthington, OH
@@ -1942,6 +1925,7 @@ Updated: 2026-08-20
     +1 567 260 0004   Tiffin, OH
     +1 567 260 0008   Tiffin, OH
     +1 567 280 0005   Fremont, OH
+    +1 567 400 0018   Genoa, OH
     +1 567 400 0028   Genoa, OH
     +1 567 400 0038   Genoa, OH
     +1 567 400 0041   Genoa, OH
@@ -1990,13 +1974,12 @@ Updated: 2026-08-20
     +1 937 820 0006   Hillsboro, OH
     +1 937 820 0009   Hillsboro, OH
 
-  OKLAHOMA (7)
+  OKLAHOMA (6)
     +1 405 480 0007   Anadarko, OK
     +1 405 860 0008   Paden, OK
     +1 405 970 0004   Guthrie, OK
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
-    +1 539 200 0070   Barnsdall, OK
     +1 580 430 0003   Alva, OK
 
   OREGON (11)
@@ -2012,8 +1995,7 @@ Updated: 2026-08-20
     +1 971 600 0091   Salem, OR
     +1 971 770 0009   Beaverton, OR
 
-  PENNSYLVANIA (9)
-    +1 484 630 0009   Ironton, PA
+  PENNSYLVANIA (8)
     +1 570 520 0008   Berwick, PA
     +1 570 580 0002   Mount Pocono, PA
     +1 724 590 0004   Irwin, PA
@@ -2168,7 +2150,8 @@ Updated: 2026-08-20
 
 --- 666666 — No results ---
 
---- 777777 — No results ---
+--- 777777 — 1 US result ---
+    +1 267 777 7756   Philadelphia, PA
 
 --- 888888 — No results ---
 

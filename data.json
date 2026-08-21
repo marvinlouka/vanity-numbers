@@ -1,9 +1,9 @@
 {
- "date": "2026-08-20",
+ "date": "2026-08-21",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 27,
+   "count": 26,
    "states": [
     {
      "state": "Alabama",
@@ -30,6 +30,16 @@
       {
        "number": "+1 909 922 2227",
        "location": "Etiwanda, CA"
+      }
+     ]
+    },
+    {
+     "state": "Florida",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 386 222 2212",
+       "location": "Palatka, FL"
       }
      ]
     },
@@ -94,16 +104,6 @@
      ]
     },
     {
-     "state": "New Jersey",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 856 322 2226",
-       "location": "Camden, NJ"
-      }
-     ]
-    },
-    {
      "state": "New York",
      "count": 2,
      "numbers": [
@@ -119,14 +119,10 @@
     },
     {
      "state": "Oregon",
-     "count": 4,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 458 322 2221",
-       "location": "Albany, OR"
-      },
-      {
-       "number": "+1 458 322 2224",
        "location": "Albany, OR"
       },
       {
@@ -357,7 +353,7 @@
   },
   {
    "pattern": "44444",
-   "count": 89,
+   "count": 88,
    "states": [
     {
      "state": "Alabama",
@@ -616,16 +612,6 @@
      ]
     },
     {
-     "state": "Texas",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 936 444 4431",
-       "location": "Conroe, TX"
-      }
-     ]
-    },
-    {
      "state": "Utah",
      "count": 5,
      "numbers": [
@@ -779,7 +765,7 @@
   },
   {
    "pattern": "55555",
-   "count": 14,
+   "count": 13,
    "states": [
     {
      "state": "Florida",
@@ -867,12 +853,8 @@
     },
     {
      "state": "Washington",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 425 955 5552",
-       "location": "Clyde Hill, WA"
-      },
       {
        "number": "+1 509 955 5557",
        "location": "Yakima, WA"
@@ -883,7 +865,7 @@
   },
   {
    "pattern": "66666",
-   "count": 78,
+   "count": 77,
    "states": [
     {
      "state": "Alabama",
@@ -1161,7 +1143,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 5,
+     "count": 4,
      "numbers": [
       {
        "number": "+1 402 266 6661",
@@ -1173,10 +1155,6 @@
       },
       {
        "number": "+1 402 266 6668",
-       "location": "Exeter, NE"
-      },
-      {
-       "number": "+1 402 266 6669",
        "location": "Exeter, NE"
       },
       {
@@ -1321,7 +1299,7 @@
   },
   {
    "pattern": "77777",
-   "count": 235,
+   "count": 234,
    "states": [
     {
      "state": "California",
@@ -1999,14 +1977,10 @@
     },
     {
      "state": "Connecticut",
-     "count": 30,
+     "count": 29,
      "numbers": [
       {
        "number": "+1 959 777 7704",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7705",
        "location": "Hartford, CT"
       },
       {
@@ -2257,8 +2231,12 @@
     },
     {
      "state": "Pennsylvania",
-     "count": 2,
+     "count": 3,
      "numbers": [
+      {
+       "number": "+1 267 777 7756",
+       "location": "Philadelphia, PA"
+      },
       {
        "number": "+1 267 777 7845",
        "location": "Philadelphia, PA"
@@ -2310,16 +2288,6 @@
      ]
     },
     {
-     "state": "Texas",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 832 777 7730",
-       "location": "Humble, TX"
-      }
-     ]
-    },
-    {
      "state": "Utah",
      "count": 4,
      "numbers": [
@@ -2345,7 +2313,7 @@
   },
   {
    "pattern": "88888",
-   "count": 477,
+   "count": 471,
    "states": [
     {
      "state": "Alabama",
@@ -2459,38 +2427,10 @@
     },
     {
      "state": "California",
-     "count": 121,
+     "count": 116,
      "numbers": [
       {
-       "number": "+1 279 288 8881",
-       "location": "Sacramento:main Da, CA"
-      },
-      {
-       "number": "+1 279 288 8882",
-       "location": "Sacramento:main Da, CA"
-      },
-      {
-       "number": "+1 279 288 8883",
-       "location": "Sacramento:main Da, CA"
-      },
-      {
-       "number": "+1 279 288 8884",
-       "location": "Sacramento:main Da, CA"
-      },
-      {
-       "number": "+1 279 288 8885",
-       "location": "Sacramento:main Da, CA"
-      },
-      {
        "number": "+1 279 288 8886",
-       "location": "Sacramento:main Da, CA"
-      },
-      {
-       "number": "+1 279 288 8887",
-       "location": "Sacramento:main Da, CA"
-      },
-      {
-       "number": "+1 279 288 8889",
        "location": "Sacramento:main Da, CA"
       },
       {
@@ -2734,6 +2674,10 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8263",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8301",
        "location": "San Diego, CA"
       },
@@ -2867,6 +2811,10 @@
       },
       {
        "number": "+1 858 888 8429",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8430",
        "location": "San Diego, CA"
       },
       {
@@ -3849,7 +3797,7 @@
     },
     {
      "state": "Oregon",
-     "count": 109,
+     "count": 108,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -4176,10 +4124,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8789",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8794",
        "location": "Milton-Freewater, OR"
       },
@@ -4313,7 +4257,7 @@
   },
   {
    "pattern": "99999",
-   "count": 161,
+   "count": 158,
    "states": [
     {
      "state": "Alabama",
@@ -4699,7 +4643,7 @@
     },
     {
      "state": "Colorado",
-     "count": 56,
+     "count": 53,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -4818,10 +4762,6 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9433",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9474",
        "location": "Colorado Springs, CO"
       },
@@ -4886,10 +4826,6 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9750",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9786",
        "location": "Colorado Springs, CO"
       },
@@ -4919,10 +4855,6 @@
       },
       {
        "number": "+1 719 999 9887",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9890",
        "location": "Colorado Springs, CO"
       }
      ]
@@ -5128,7 +5060,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 9,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -5157,20 +5089,12 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
-     },
-     {
-      "number": "+1 501 400 0047",
-      "location": "Little Rock, AR"
-     },
-     {
-      "number": "+1 870 600 0084",
-      "location": "Ashdown, AR"
      }
     ]
    },
    {
     "state": "California",
-    "count": 55,
+    "count": 56,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -5327,6 +5251,10 @@
      {
       "number": "+1 707 400 0095",
       "location": "Benicia, CA"
+     },
+     {
+      "number": "+1 747 200 0094",
+      "location": "Burbank, CA"
      },
      {
       "number": "+1 747 380 0003",
@@ -6000,7 +5928,7 @@
    },
    {
     "state": "Indiana",
-    "count": 5,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 765 400 0085",
@@ -6021,6 +5949,10 @@
      {
       "number": "+1 765 710 0005",
       "location": "Eaton, IN"
+     },
+     {
+      "number": "+1 812 200 0096",
+      "location": "Nashville, IN"
      }
     ]
    },
@@ -6056,7 +5988,7 @@
    },
    {
     "state": "Kansas",
-    "count": 10,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 785 335 0000",
@@ -6089,6 +6021,10 @@
      {
       "number": "+1 785 693 0000",
       "location": "Norcatur, KS"
+     },
+     {
+      "number": "+1 785 734 0000",
+      "location": "Bird City, KS"
      },
      {
       "number": "+1 785 772 0000",
@@ -7430,7 +7366,7 @@
    },
    {
     "state": "Ohio",
-    "count": 61,
+    "count": 62,
     "numbers": [
      {
       "number": "+1 330 681 0000",
@@ -7487,6 +7423,10 @@
      {
       "number": "+1 567 280 0005",
       "location": "Fremont, OH"
+     },
+     {
+      "number": "+1 567 400 0018",
+      "location": "Genoa, OH"
      },
      {
       "number": "+1 567 400 0028",
@@ -7680,7 +7620,7 @@
    },
    {
     "state": "Oklahoma",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 405 480 0007",
@@ -7701,10 +7641,6 @@
      {
       "number": "+1 405 970 0008",
       "location": "Guthrie, OK"
-     },
-     {
-      "number": "+1 539 200 0070",
-      "location": "Barnsdall, OK"
      },
      {
       "number": "+1 580 430 0003",
@@ -7764,12 +7700,8 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 9,
+    "count": 8,
     "numbers": [
-     {
-      "number": "+1 484 630 0009",
-      "location": "Ironton, PA"
-     },
      {
       "number": "+1 570 520 0008",
       "location": "Berwick, PA"
@@ -8327,7 +8259,19 @@
   },
   {
    "pattern": "777777",
-   "status": "No results"
+   "status": "1 US result",
+   "states": [
+    {
+     "state": "Pennsylvania",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 267 777 7756",
+       "location": "Philadelphia, PA"
+      }
+     ]
+    }
+   ]
   },
   {
    "pattern": "888888",
@@ -8343,7 +8287,7 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1108,
+  "total_5_in_a_row": 1094,
   "patterns_with_results": 8,
   "total_0000": 758,
   "state_count_0000": 42
