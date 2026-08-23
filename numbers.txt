@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
 Updated: 2026-08-23
-1075 five-in-a-row · 745 four-zeros across 42 states · 48 AAA-BBBB across 14 of 90 combinations
+1075 five-in-a-row · 746 four-zeros across 43 states · 49 AAA-BBBB across 15 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -601,7 +601,7 @@ Updated: 2026-08-23
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 470 numbers ---
+--- 88888 — 468 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -975,7 +975,7 @@ Updated: 2026-08-23
   NEW YORK (1)
     +1 585 788 8882   Bloomfield, NY
 
-  OREGON (108)
+  OREGON (106)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -1007,7 +1007,6 @@ Updated: 2026-08-23
     +1 458 888 8335   Milton-Freewater, OR
     +1 458 888 8344   Milton-Freewater, OR
     +1 458 888 8357   Milton-Freewater, OR
-    +1 458 888 8360   Milton-Freewater, OR
     +1 458 888 8365   Milton-Freewater, OR
     +1 458 888 8398   Milton-Freewater, OR
     +1 458 888 8406   Milton-Freewater, OR
@@ -1033,7 +1032,6 @@ Updated: 2026-08-23
     +1 458 888 8605   Milton-Freewater, OR
     +1 458 888 8626   Milton-Freewater, OR
     +1 458 888 8627   Milton-Freewater, OR
-    +1 458 888 8635   Milton-Freewater, OR
     +1 458 888 8637   Milton-Freewater, OR
     +1 458 888 8641   Milton-Freewater, OR
     +1 458 888 8646   Milton-Freewater, OR
@@ -1075,11 +1073,11 @@ Updated: 2026-08-23
     +1 458 888 8933   Milton-Freewater, OR
     +1 458 888 8934   Milton-Freewater, OR
     +1 458 888 8935   Milton-Freewater, OR
-    +1 458 888 8939   Milton-Freewater, OR
     +1 458 888 8940   Milton-Freewater, OR
     +1 458 888 8941   Milton-Freewater, OR
     +1 458 888 8944   Milton-Freewater, OR
     +1 458 888 8945   Milton-Freewater, OR
+    +1 458 888 8946   Milton-Freewater, OR
     +1 971 888 8812   West Haven-Sylvan, OR
     +1 971 888 8823   West Haven-Sylvan, OR
     +1 971 888 8832   West Haven-Sylvan, OR
@@ -1091,7 +1089,7 @@ Updated: 2026-08-23
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 158 numbers ---
+--- 99999 — 160 numbers ---
 
   ALABAMA (94)
     +1 251 999 9913   Mobile, AL
@@ -1249,6 +1247,10 @@ Updated: 2026-08-23
     +1 863 999 9940   Lakeland, FL
     +1 863 999 9970   Lakeland, FL
 
+  MARYLAND (2)
+    +1 443 599 9992   Baltimore, MD
+    +1 443 599 9997   Baltimore, MD
+
   MASSACHUSETTS (3)
     +1 774 399 9994   Westborough, MA
     +1 774 399 9995   Westborough, MA
@@ -1268,7 +1270,7 @@ Updated: 2026-08-23
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 745 numbers across 42 states
+4 ZEROS — 746 numbers across 43 states
 ====================================================
 
   ALABAMA (18)
@@ -1574,6 +1576,9 @@ Updated: 2026-08-23
     +1 667 400 0064   Baltimore, MD
     +1 667 400 0065   Baltimore, MD
 
+  MICHIGAN (1)
+    +1 231 320 0006   Muskegon, MI
+
   MINNESOTA (57)
     +1 218 480 0003   Stephen, MN
     +1 218 480 0005   Stephen, MN
@@ -1734,7 +1739,7 @@ Updated: 2026-08-23
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (109)
+  NEW YORK (108)
     +1 315 260 0006   Syracuse, NY
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
@@ -1746,7 +1751,6 @@ Updated: 2026-08-23
     +1 516 930 0006   Manhasset, NY
     +1 585 630 0006   Batavia, NY
     +1 585 630 0009   Batavia, NY
-    +1 585 650 0008   Delevan, NY
     +1 585 910 0008   Rochester, NY
     +1 607 800 0021   Freeville, NY
     +1 607 800 0032   Freeville, NY
@@ -1878,7 +1882,8 @@ Updated: 2026-08-23
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (60)
+  OHIO (61)
+    +1 234 200 0065   Akron, OH
     +1 330 681 0000   Dellroy, OH
     +1 380 500 0017   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
@@ -2125,8 +2130,13 @@ Updated: 2026-08-23
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 48 numbers across 14 patterns
+AAA-BBBB — 49 numbers across 15 patterns
 ====================================================
+
+--- 222-9999 — 1 numbers ---
+
+  OKLAHOMA (1)
+    +1 572 229 9993   Norman, OK
 
 --- 555-0000 — 1 numbers ---
 

@@ -2235,7 +2235,7 @@
   },
   {
    "pattern": "88888",
-   "count": 470,
+   "count": 468,
    "states": [
     {
      "state": "Alabama",
@@ -3715,7 +3715,7 @@
     },
     {
      "state": "Oregon",
-     "count": 108,
+     "count": 106,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3842,10 +3842,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8360",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8365",
        "location": "Milton-Freewater, OR"
       },
@@ -3943,10 +3939,6 @@
       },
       {
        "number": "+1 458 888 8627",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8635",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -4114,10 +4106,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8939",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8940",
        "location": "Milton-Freewater, OR"
       },
@@ -4131,6 +4119,10 @@
       },
       {
        "number": "+1 458 888 8945",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8946",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -4175,7 +4167,7 @@
   },
   {
    "pattern": "99999",
-   "count": 158,
+   "count": 160,
    "states": [
     {
      "state": "Alabama",
@@ -4796,6 +4788,20 @@
      ]
     },
     {
+     "state": "Maryland",
+     "count": 2,
+     "numbers": [
+      {
+       "number": "+1 443 599 9992",
+       "location": "Baltimore, MD"
+      },
+      {
+       "number": "+1 443 599 9997",
+       "location": "Baltimore, MD"
+      }
+     ]
+    },
+    {
      "state": "Massachusetts",
      "count": 3,
      "numbers": [
@@ -4861,8 +4867,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 745,
-  "state_count": 42,
+  "total": 746,
+  "state_count": 43,
   "states": [
    {
     "state": "Alabama",
@@ -6045,6 +6051,16 @@
     ]
    },
    {
+    "state": "Michigan",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 231 320 0006",
+      "location": "Muskegon, MI"
+     }
+    ]
+   },
+   {
     "state": "Minnesota",
     "count": 57,
     "numbers": [
@@ -6672,7 +6688,7 @@
    },
    {
     "state": "New York",
-    "count": 109,
+    "count": 108,
     "numbers": [
      {
       "number": "+1 315 260 0006",
@@ -6717,10 +6733,6 @@
      {
       "number": "+1 585 630 0009",
       "location": "Batavia, NY"
-     },
-     {
-      "number": "+1 585 650 0008",
-      "location": "Delevan, NY"
      },
      {
       "number": "+1 585 910 0008",
@@ -7242,8 +7254,12 @@
    },
    {
     "state": "Ohio",
-    "count": 60,
+    "count": 61,
     "numbers": [
+     {
+      "number": "+1 234 200 0065",
+      "location": "Akron, OH"
+     },
      {
       "number": "+1 330 681 0000",
       "location": "Dellroy, OH"
@@ -8142,6 +8158,22 @@
  ],
  "patterns_ab": [
   {
+   "pattern": "2229999",
+   "count": 1,
+   "states": [
+    {
+     "state": "Oklahoma",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 572 229 9993",
+       "location": "Norman, OK"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "pattern": "5550000",
    "count": 1,
    "states": [
@@ -8557,10 +8589,10 @@
  "summary": {
   "total_5_in_a_row": 1075,
   "patterns_with_results": 8,
-  "total_0000": 745,
-  "state_count_0000": 42,
-  "total_aaa_bbbb": 48,
+  "total_0000": 746,
+  "state_count_0000": 43,
+  "total_aaa_bbbb": 49,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 14
+  "aaa_bbbb_patterns_with_results": 15
  }
 }
