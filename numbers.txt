@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-22
-1079 five-in-a-row · 749 four-zeros across 42 states
+Updated: 2026-08-23
+1075 five-in-a-row · 745 four-zeros across 42 states · 48 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -344,11 +344,7 @@ Updated: 2026-08-22
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 235 numbers ---
-
-  ALABAMA (2)
-    +1 256 277 7773   Russellville, AL
-    +1 256 277 7775   Russellville, AL
+--- 77777 — 231 numbers ---
 
   CALIFORNIA (166)
     +1 657 777 7038   Buena Park, CA
@@ -556,10 +552,9 @@ Updated: 2026-08-22
   IOWA (1)
     +1 563 277 7776   Decorah, IA
 
-  MARYLAND (3)
+  MARYLAND (2)
     +1 240 977 7773   Forest Heights, MD
     +1 240 977 7776   Forest Heights, MD
-    +1 667 677 7774   Baltimore, MD
 
   NEBRASKA (15)
     +1 531 777 7705   Omaha, NE
@@ -585,8 +580,7 @@ Updated: 2026-08-22
     +1 458 777 7745   Jefferson, OR
     +1 458 777 7759   Jefferson, OR
 
-  PENNSYLVANIA (3)
-    +1 267 777 7756   Philadelphia, PA
+  PENNSYLVANIA (2)
     +1 267 777 7845   Philadelphia, PA
     +1 267 777 7891   Philadelphia, PA
 
@@ -638,7 +632,6 @@ Updated: 2026-08-22
     +1 938 888 8440   Killen, AL
 
   CALIFORNIA (116)
-    +1 279 288 8886   Sacramento:main Da, CA
     +1 858 888 8012   San Diego, CA
     +1 858 888 8013   San Diego, CA
     +1 858 888 8015   San Diego, CA
@@ -754,6 +747,7 @@ Updated: 2026-08-22
     +1 858 888 8646   San Diego, CA
     +1 858 888 8650   San Diego, CA
     +1 858 888 8662   San Diego, CA
+    +1 858 888 8663   San Diego, CA
 
   MINNESOTA (128)
     +1 218 888 8009   Bemidji, MN
@@ -1274,7 +1268,7 @@ Updated: 2026-08-22
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 749 numbers across 42 states
+4 ZEROS — 745 numbers across 42 states
 ====================================================
 
   ALABAMA (18)
@@ -1430,7 +1424,7 @@ Updated: 2026-08-22
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (53)
+  FLORIDA (51)
     +1 352 570 0008   Yankeetown, FL
     +1 352 780 0004   Belleview, FL
     +1 352 830 0005   Ocala, FL
@@ -1453,8 +1447,6 @@ Updated: 2026-08-22
     +1 850 940 0007   Ponce De Leon, FL
     +1 850 940 0008   Ponce De Leon, FL
     +1 904 830 0002   Jacksonville, FL
-    +1 904 920 0008   Jacksonville, FL
-    +1 904 920 0009   Jacksonville, FL
     +1 941 900 0021   Bradenton, FL
     +1 941 900 0028   Bradenton, FL
     +1 941 900 0031   Bradenton, FL
@@ -1742,7 +1734,7 @@ Updated: 2026-08-22
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (110)
+  NEW YORK (109)
     +1 315 260 0006   Syracuse, NY
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
@@ -1804,7 +1796,6 @@ Updated: 2026-08-22
     +1 845 930 0008   Walden, NY
     +1 845 960 0002   Poughkeepsie, NY
     +1 845 960 0003   Poughkeepsie, NY
-    +1 914 570 0005   Sleepy Hollow, NY
     +1 914 600 0021   Jefferson Valley-Yorktown, NY
     +1 914 600 0062   Jefferson Valley-Yorktown, NY
     +1 914 600 0071   Jefferson Valley-Yorktown, NY
@@ -1957,7 +1948,7 @@ Updated: 2026-08-22
     +1 405 970 0008   Guthrie, OK
     +1 580 430 0003   Alva, OK
 
-  OREGON (11)
+  OREGON (10)
     +1 971 600 0012   Salem, OR
     +1 971 600 0026   Salem, OR
     +1 971 600 0028   Salem, OR
@@ -1968,7 +1959,6 @@ Updated: 2026-08-22
     +1 971 600 0073   Salem, OR
     +1 971 600 0083   Salem, OR
     +1 971 600 0091   Salem, OR
-    +1 971 770 0009   Beaverton, OR
 
   PENNSYLVANIA (7)
     +1 570 520 0008   Berwick, PA
@@ -2126,11 +2116,142 @@ Updated: 2026-08-22
 
 --- 666666 — No results ---
 
---- 777777 — 1 US result ---
-    +1 267 777 7756   Philadelphia, PA
+--- 777777 — No results ---
 
 --- 888888 — No results ---
 
 --- 999999 — No US results — Canada only ---
 
 --- 000000 — No results ---
+
+====================================================
+AAA-BBBB — 48 numbers across 14 patterns
+====================================================
+
+--- 555-0000 — 1 numbers ---
+
+  UTAH (1)
+    +1 385 550 0006   Bountiful, UT
+
+--- 555-2222 — 3 numbers ---
+
+  UTAH (3)
+    +1 385 552 2223   Kaysville, UT
+    +1 385 552 2225   Kaysville, UT
+    +1 385 552 2229   Kaysville, UT
+
+--- 555-7777 — 1 numbers ---
+
+  UTAH (1)
+    +1 385 557 7770   West Jordan, UT
+
+--- 555-8888 — 4 numbers ---
+
+  UTAH (4)
+    +1 435 558 8881   Richfield, UT
+    +1 435 558 8885   Richfield, UT
+    +1 435 558 8887   Richfield, UT
+    +1 435 558 8889   Richfield, UT
+
+--- 666-7777 — 4 numbers ---
+
+  FLORIDA (4)
+    +1 386 667 7771   Jennings, FL
+    +1 386 667 7772   Jennings, FL
+    +1 386 667 7773   Jennings, FL
+    +1 386 667 7774   Jennings, FL
+
+--- 666-8888 — 5 numbers ---
+
+  IDAHO (5)
+    +1 986 668 8881   Hayden Lake, ID
+    +1 986 668 8882   Hayden Lake, ID
+    +1 986 668 8883   Hayden Lake, ID
+    +1 986 668 8884   Hayden Lake, ID
+    +1 986 668 8887   Hayden Lake, ID
+
+--- 666-9999 — 4 numbers ---
+
+  NEW YORK (4)
+    +1 716 669 9991   Akron, NY
+    +1 716 669 9994   Akron, NY
+    +1 716 669 9995   Akron, NY
+    +1 716 669 9997   Akron, NY
+
+--- 777-2222 — 8 numbers ---
+
+  MARYLAND (8)
+    +1 227 772 2221   North Brentwood, MD
+    +1 227 772 2224   North Brentwood, MD
+    +1 227 772 2226   North Brentwood, MD
+    +1 667 772 2221   Hampstead, MD
+    +1 667 772 2224   Hampstead, MD
+    +1 667 772 2227   Hampstead, MD
+    +1 667 772 2228   Hampstead, MD
+    +1 667 772 2229   Hampstead, MD
+
+--- 777-6666 — 4 numbers ---
+
+  WYOMING (4)
+    +1 307 776 6662   Casper, WY
+    +1 307 776 6663   Casper, WY
+    +1 307 776 6668   Casper, WY
+    +1 307 776 6669   Casper, WY
+
+--- 888-2222 — 3 numbers ---
+
+  MINNESOTA (3)
+    +1 218 882 2227   Carlton, MN
+    +1 218 882 2228   Carlton, MN
+    +1 218 882 2229   Carlton, MN
+
+--- 888-5555 — 5 numbers ---
+
+  MINNESOTA (5)
+    +1 218 885 5550   Nashwauk, MN
+    +1 218 885 5552   Nashwauk, MN
+    +1 218 885 5553   Nashwauk, MN
+    +1 218 885 5554   Nashwauk, MN
+    +1 218 885 5556   Nashwauk, MN
+
+--- 888-9999 — 4 numbers ---
+
+  ARIZONA (4)
+    +1 928 889 9992   Lake Havasu City, AZ
+    +1 928 889 9993   Lake Havasu City, AZ
+    +1 928 889 9996   Lake Havasu City, AZ
+    +1 928 889 9997   Lake Havasu City, AZ
+
+--- 999-1111 — 1 numbers ---
+
+  CONNECTICUT (1)
+    +1 959 991 1117   Madison Center, CT
+
+--- 999-3333 — 1 numbers ---
+
+  MICHIGAN (1)
+    +1 269 993 3337   Kalamazoo, MI
+
+====================================================
+7 IN A ROW
+====================================================
+
+--- 000-0000 — No results ---
+
+--- 111-1111 — No results ---
+
+--- 222-2222 — No results ---
+
+--- 333-3333 — No results ---
+
+--- 444-4444 — No results ---
+
+--- 555-5555 — No results ---
+
+--- 666-6666 — No results ---
+
+--- 777-7777 — No results ---
+
+--- 888-8888 — No results ---
+
+--- 999-9999 — No results ---

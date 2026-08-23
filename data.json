@@ -1,5 +1,5 @@
 {
- "date": "2026-08-22",
+ "date": "2026-08-23",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -1233,22 +1233,8 @@
   },
   {
    "pattern": "77777",
-   "count": 235,
+   "count": 231,
    "states": [
-    {
-     "state": "Alabama",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 256 277 7773",
-       "location": "Russellville, AL"
-      },
-      {
-       "number": "+1 256 277 7775",
-       "location": "Russellville, AL"
-      }
-     ]
-    },
     {
      "state": "California",
      "count": 166,
@@ -2067,7 +2053,7 @@
     },
     {
      "state": "Maryland",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 240 977 7773",
@@ -2076,10 +2062,6 @@
       {
        "number": "+1 240 977 7776",
        "location": "Forest Heights, MD"
-      },
-      {
-       "number": "+1 667 677 7774",
-       "location": "Baltimore, MD"
       }
      ]
     },
@@ -2175,12 +2157,8 @@
     },
     {
      "state": "Pennsylvania",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 267 777 7756",
-       "location": "Philadelphia, PA"
-      },
       {
        "number": "+1 267 777 7845",
        "location": "Philadelphia, PA"
@@ -2373,10 +2351,6 @@
      "state": "California",
      "count": 116,
      "numbers": [
-      {
-       "number": "+1 279 288 8886",
-       "location": "Sacramento:main Da, CA"
-      },
       {
        "number": "+1 858 888 8012",
        "location": "San Diego, CA"
@@ -2835,6 +2809,10 @@
       },
       {
        "number": "+1 858 888 8662",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8663",
        "location": "San Diego, CA"
       }
      ]
@@ -4883,7 +4861,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 749,
+  "total": 745,
   "state_count": 42,
   "states": [
    {
@@ -5488,7 +5466,7 @@
    },
    {
     "state": "Florida",
-    "count": 53,
+    "count": 51,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -5576,14 +5554,6 @@
      },
      {
       "number": "+1 904 830 0002",
-      "location": "Jacksonville, FL"
-     },
-     {
-      "number": "+1 904 920 0008",
-      "location": "Jacksonville, FL"
-     },
-     {
-      "number": "+1 904 920 0009",
       "location": "Jacksonville, FL"
      },
      {
@@ -6702,7 +6672,7 @@
    },
    {
     "state": "New York",
-    "count": 110,
+    "count": 109,
     "numbers": [
      {
       "number": "+1 315 260 0006",
@@ -6947,10 +6917,6 @@
      {
       "number": "+1 845 960 0003",
       "location": "Poughkeepsie, NY"
-     },
-     {
-      "number": "+1 914 570 0005",
-      "location": "Sleepy Hollow, NY"
      },
      {
       "number": "+1 914 600 0021",
@@ -7552,7 +7518,7 @@
    },
    {
     "state": "Oregon",
-    "count": 11,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 971 600 0012",
@@ -7593,10 +7559,6 @@
      {
       "number": "+1 971 600 0091",
       "location": "Salem, OR"
-     },
-     {
-      "number": "+1 971 770 0009",
-      "location": "Beaverton, OR"
      }
     ]
    },
@@ -8163,19 +8125,7 @@
   },
   {
    "pattern": "777777",
-   "status": "1 US result",
-   "states": [
-    {
-     "state": "Pennsylvania",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 267 777 7756",
-       "location": "Philadelphia, PA"
-      }
-     ]
-    }
-   ]
+   "status": "No results"
   },
   {
    "pattern": "888888",
@@ -8190,10 +8140,427 @@
    "status": "No results"
   }
  ],
+ "patterns_ab": [
+  {
+   "pattern": "5550000",
+   "count": 1,
+   "states": [
+    {
+     "state": "Utah",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 385 550 0006",
+       "location": "Bountiful, UT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "5552222",
+   "count": 3,
+   "states": [
+    {
+     "state": "Utah",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 385 552 2223",
+       "location": "Kaysville, UT"
+      },
+      {
+       "number": "+1 385 552 2225",
+       "location": "Kaysville, UT"
+      },
+      {
+       "number": "+1 385 552 2229",
+       "location": "Kaysville, UT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "5557777",
+   "count": 1,
+   "states": [
+    {
+     "state": "Utah",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 385 557 7770",
+       "location": "West Jordan, UT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "5558888",
+   "count": 4,
+   "states": [
+    {
+     "state": "Utah",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 435 558 8881",
+       "location": "Richfield, UT"
+      },
+      {
+       "number": "+1 435 558 8885",
+       "location": "Richfield, UT"
+      },
+      {
+       "number": "+1 435 558 8887",
+       "location": "Richfield, UT"
+      },
+      {
+       "number": "+1 435 558 8889",
+       "location": "Richfield, UT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "6667777",
+   "count": 4,
+   "states": [
+    {
+     "state": "Florida",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 386 667 7771",
+       "location": "Jennings, FL"
+      },
+      {
+       "number": "+1 386 667 7772",
+       "location": "Jennings, FL"
+      },
+      {
+       "number": "+1 386 667 7773",
+       "location": "Jennings, FL"
+      },
+      {
+       "number": "+1 386 667 7774",
+       "location": "Jennings, FL"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "6668888",
+   "count": 5,
+   "states": [
+    {
+     "state": "Idaho",
+     "count": 5,
+     "numbers": [
+      {
+       "number": "+1 986 668 8881",
+       "location": "Hayden Lake, ID"
+      },
+      {
+       "number": "+1 986 668 8882",
+       "location": "Hayden Lake, ID"
+      },
+      {
+       "number": "+1 986 668 8883",
+       "location": "Hayden Lake, ID"
+      },
+      {
+       "number": "+1 986 668 8884",
+       "location": "Hayden Lake, ID"
+      },
+      {
+       "number": "+1 986 668 8887",
+       "location": "Hayden Lake, ID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "6669999",
+   "count": 4,
+   "states": [
+    {
+     "state": "New York",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 716 669 9991",
+       "location": "Akron, NY"
+      },
+      {
+       "number": "+1 716 669 9994",
+       "location": "Akron, NY"
+      },
+      {
+       "number": "+1 716 669 9995",
+       "location": "Akron, NY"
+      },
+      {
+       "number": "+1 716 669 9997",
+       "location": "Akron, NY"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "7772222",
+   "count": 8,
+   "states": [
+    {
+     "state": "Maryland",
+     "count": 8,
+     "numbers": [
+      {
+       "number": "+1 227 772 2221",
+       "location": "North Brentwood, MD"
+      },
+      {
+       "number": "+1 227 772 2224",
+       "location": "North Brentwood, MD"
+      },
+      {
+       "number": "+1 227 772 2226",
+       "location": "North Brentwood, MD"
+      },
+      {
+       "number": "+1 667 772 2221",
+       "location": "Hampstead, MD"
+      },
+      {
+       "number": "+1 667 772 2224",
+       "location": "Hampstead, MD"
+      },
+      {
+       "number": "+1 667 772 2227",
+       "location": "Hampstead, MD"
+      },
+      {
+       "number": "+1 667 772 2228",
+       "location": "Hampstead, MD"
+      },
+      {
+       "number": "+1 667 772 2229",
+       "location": "Hampstead, MD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "7776666",
+   "count": 4,
+   "states": [
+    {
+     "state": "Wyoming",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 307 776 6662",
+       "location": "Casper, WY"
+      },
+      {
+       "number": "+1 307 776 6663",
+       "location": "Casper, WY"
+      },
+      {
+       "number": "+1 307 776 6668",
+       "location": "Casper, WY"
+      },
+      {
+       "number": "+1 307 776 6669",
+       "location": "Casper, WY"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "8882222",
+   "count": 3,
+   "states": [
+    {
+     "state": "Minnesota",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 218 882 2227",
+       "location": "Carlton, MN"
+      },
+      {
+       "number": "+1 218 882 2228",
+       "location": "Carlton, MN"
+      },
+      {
+       "number": "+1 218 882 2229",
+       "location": "Carlton, MN"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "8885555",
+   "count": 5,
+   "states": [
+    {
+     "state": "Minnesota",
+     "count": 5,
+     "numbers": [
+      {
+       "number": "+1 218 885 5550",
+       "location": "Nashwauk, MN"
+      },
+      {
+       "number": "+1 218 885 5552",
+       "location": "Nashwauk, MN"
+      },
+      {
+       "number": "+1 218 885 5553",
+       "location": "Nashwauk, MN"
+      },
+      {
+       "number": "+1 218 885 5554",
+       "location": "Nashwauk, MN"
+      },
+      {
+       "number": "+1 218 885 5556",
+       "location": "Nashwauk, MN"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "8889999",
+   "count": 4,
+   "states": [
+    {
+     "state": "Arizona",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 928 889 9992",
+       "location": "Lake Havasu City, AZ"
+      },
+      {
+       "number": "+1 928 889 9993",
+       "location": "Lake Havasu City, AZ"
+      },
+      {
+       "number": "+1 928 889 9996",
+       "location": "Lake Havasu City, AZ"
+      },
+      {
+       "number": "+1 928 889 9997",
+       "location": "Lake Havasu City, AZ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "9991111",
+   "count": 1,
+   "states": [
+    {
+     "state": "Connecticut",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 959 991 1117",
+       "location": "Madison Center, CT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "9993333",
+   "count": 1,
+   "states": [
+    {
+     "state": "Michigan",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 269 993 3337",
+       "location": "Kalamazoo, MI"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "patterns_7": [
+  {
+   "pattern": "0000000",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "1111111",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "2222222",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "3333333",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "4444444",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "5555555",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "6666666",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "7777777",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "8888888",
+   "status": "No results",
+   "count": 0
+  },
+  {
+   "pattern": "9999999",
+   "status": "No results",
+   "count": 0
+  }
+ ],
  "summary": {
-  "total_5_in_a_row": 1079,
+  "total_5_in_a_row": 1075,
   "patterns_with_results": 8,
-  "total_0000": 749,
-  "state_count_0000": 42
+  "total_0000": 745,
+  "state_count_0000": 42,
+  "total_aaa_bbbb": 48,
+  "aaa_bbbb_patterns_searched": 90,
+  "aaa_bbbb_patterns_with_results": 14
  }
 }
