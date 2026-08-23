@@ -20,6 +20,12 @@
    4. Because of the 20-row cap, coverage is widened by re-running each
       pattern with a leading and trailing digit ("088888", "888880", ...)
       and de-duplicating by phone number.
+
+   WHAT IT SEARCHES
+   5-in-a-row (9), 6-in-a-row (10), four-zeros (1), AAA-BBBB (90) and
+   7-in-a-row (10). AAA-BBBB is by far the largest set but also the cheapest:
+   ~74 of the 90 return nothing, and a miss costs exactly one request because
+   there are no region hints to follow up on.
    ===================================================================== */
 
 import { writeFile } from "node:fs/promises";
@@ -41,6 +47,27 @@ const US = new Set(Object.keys(NAME));
 
 const PATTERNS_5 = ["11111","22222","33333","44444","55555","66666","77777","88888","99999"];
 const PATTERNS_6 = ["111111","222222","333333","444444","555555","666666","777777","888888","999999","000000"];
+
+/* AAA-BBBB — three of one digit followed by four of another, e.g. 888-5555.
+   Every ordered pair of DISTINCT digits: 90 patterns. The A === B case is
+   seven-in-a-row, which is covered by PATTERNS_7 below so the two sets stay
+   disjoint and nothing is double-counted.
+
+   Most of these return nothing — 0xx and 1xx can't be a NANP exchange, so
+   the entire 000-* and 111-* families are dead. They're queried anyway
+   because a cheap empty response is better than an assumption that silently
+   goes stale if the site's inventory shifts. */
+const PATTERNS_AB = [];
+for (let a = 0; a <= 9; a++) {
+  for (let b = 0; b <= 9; b++) {
+    if (a !== b) PATTERNS_AB.push(String(a).repeat(3) + String(b).repeat(4));
+  }
+}
+
+const PATTERNS_7 = Array.from({ length: 10 }, (_, d) => String(d).repeat(7));
+
+/* 8885555 -> "888-5555". Only for display; queries always use raw digits. */
+const dash = p => (p.length === 7 ? `${p.slice(0, 3)}-${p.slice(3)}` : p);
 
 const CONCURRENCY = 3;
 const TIMEOUT_MS  = 20000;
@@ -192,11 +219,21 @@ function validate(data) {
 
   for (const p of data.patterns_5) checkStates(p.states, p.pattern, p.pattern);
   checkStates(data.pattern_0000.states, "0000", "0000");
+  for (const p of data.patterns_ab) checkStates(p.states, p.pattern, dash(p.pattern));
+  for (const p of data.patterns_7) if (p.states) checkStates(p.states, p.pattern, dash(p.pattern));
 
-  const sum5 = data.patterns_5.reduce((a, p) => a + p.count, 0);
-  const sum0 = data.pattern_0000.states.reduce((a, s) => a + s.count, 0);
-  if (data.summary.total_5_in_a_row !== sum5) problems.push("summary.total_5_in_a_row mismatch");
-  if (data.pattern_0000.total !== sum0)       problems.push("pattern_0000.total mismatch");
+  const sum5  = data.patterns_5.reduce((a, p) => a + p.count, 0);
+  const sum0  = data.pattern_0000.states.reduce((a, s) => a + s.count, 0);
+  const sumAB = data.patterns_ab.reduce((a, p) => a + p.count, 0);
+  if (data.summary.total_5_in_a_row !== sum5)  problems.push("summary.total_5_in_a_row mismatch");
+  if (data.pattern_0000.total !== sum0)        problems.push("pattern_0000.total mismatch");
+  if (data.summary.total_aaa_bbbb !== sumAB)   problems.push("summary.total_aaa_bbbb mismatch");
+
+  /* AAA-BBBB is allowed to be empty — the inventory really can dry up — but
+     the pattern list itself must be complete, or a partial run could quietly
+     publish a shrunken set. */
+  if (data.summary.aaa_bbbb_patterns_searched !== 90)
+    problems.push(`expected 90 AAA-BBBB patterns searched, got ${data.summary.aaa_bbbb_patterns_searched}`);
 
   // A scrape that finds nothing is far more likely to be a broken scrape
   // than a genuinely empty inventory. Never publish it over good data.
@@ -211,7 +248,7 @@ function buildText(data) {
   const out = [];
   out.push("VANITY NUMBERS — US ONLY, NO TOLL FREE");
   out.push("Updated: " + data.date);
-  out.push(`${data.summary.total_5_in_a_row} five-in-a-row · ${data.summary.total_0000} four-zeros across ${data.summary.state_count_0000} states`);
+  out.push(`${data.summary.total_5_in_a_row} five-in-a-row · ${data.summary.total_0000} four-zeros across ${data.summary.state_count_0000} states · ${data.summary.total_aaa_bbbb} AAA-BBBB across ${data.summary.aaa_bbbb_patterns_with_results} of ${data.summary.aaa_bbbb_patterns_searched} combinations`);
   out.push("");
 
   out.push("=".repeat(52));
@@ -250,6 +287,36 @@ function buildText(data) {
   }
 
   out.push("");
+  out.push("=".repeat(52));
+  out.push(`AAA-BBBB — ${data.summary.total_aaa_bbbb} numbers across ${data.patterns_ab.length} patterns`);
+  out.push("=".repeat(52));
+  if (!data.patterns_ab.length) {
+    out.push("");
+    out.push("  No results in any of the 90 combinations.");
+  }
+  for (const p of data.patterns_ab) {
+    out.push("");
+    out.push(`--- ${dash(p.pattern)} — ${p.count} numbers ---`);
+    for (const s of p.states) {
+      out.push("");
+      out.push(`  ${s.state.toUpperCase()} (${s.count})`);
+      for (const r of s.numbers) out.push(`    ${r.number}   ${r.location}`);
+    }
+  }
+
+  out.push("");
+  out.push("=".repeat(52));
+  out.push("7 IN A ROW");
+  out.push("=".repeat(52));
+  for (const p of data.patterns_7) {
+    out.push("");
+    out.push(`--- ${dash(p.pattern)} — ${p.status} ---`);
+    for (const s of p.states || []) {
+      for (const r of s.numbers) out.push(`    ${r.number}   ${r.location}`);
+    }
+  }
+
+  out.push("");
   return out.join("\n");
 }
 
@@ -281,6 +348,36 @@ async function main() {
     console.log(`  ${p}: ${patterns_6.at(-1).status}`);
   }
 
+  /* AAA-BBBB. 90 patterns, and the overwhelming majority come back empty, so
+     only the ones with US hits are kept in the output — an array of 74 "No
+     results" entries would bloat data.json and the page for no benefit. The
+     count of patterns searched is recorded in the summary so a partial run is
+     still detectable. */
+  const patterns_ab = [];
+  for (const p of PATTERNS_AB) {
+    const states = groupByRealState(await collect(p), p);
+    const count = states.reduce((a, s) => a + s.count, 0);
+    if (count > 0) {
+      patterns_ab.push({ pattern: p, count, states });
+      console.log(`  ${dash(p)}: ${count} numbers across ${states.length} states`);
+    }
+  }
+  const totalAB = patterns_ab.reduce((a, p) => a + p.count, 0);
+  console.log(`  AAA-BBBB: ${totalAB} numbers across ${patterns_ab.length} of 90 patterns`);
+
+  const patterns_7 = [];
+  for (const p of PATTERNS_7) {
+    const states = groupByRealState(await collect(p), p);
+    const usCount = states.reduce((a, s) => a + s.count, 0);
+    if (usCount > 0) {
+      patterns_7.push({ pattern: p, status: `${usCount} US result${usCount === 1 ? "" : "s"}`, count: usCount, states });
+    } else {
+      const anywhere = parseRows(await getHtml(p)).length > 0;
+      patterns_7.push({ pattern: p, status: anywhere ? "No US results — Canada only" : "No results", count: 0 });
+    }
+    console.log(`  ${dash(p)}: ${patterns_7.at(-1).status}`);
+  }
+
   const now = new Date();
   const pad = n => String(n).padStart(2, "0");
   const total5 = patterns_5.reduce((a, p) => a + p.count, 0);
@@ -290,11 +387,16 @@ async function main() {
     patterns_5,
     pattern_0000: { total: total0, state_count: zeroStates.length, states: zeroStates },
     patterns_6,
+    patterns_ab,
+    patterns_7,
     summary: {
       total_5_in_a_row: total5,
       patterns_with_results: patterns_5.length,
       total_0000: total0,
-      state_count_0000: zeroStates.length
+      state_count_0000: zeroStates.length,
+      total_aaa_bbbb: totalAB,
+      aaa_bbbb_patterns_searched: PATTERNS_AB.length,
+      aaa_bbbb_patterns_with_results: patterns_ab.length
     }
   };
 
@@ -309,7 +411,7 @@ async function main() {
   await writeFile("numbers.txt", buildText(data));
 
   console.log(
-    `\nOK  ${total5} five-in-a-row + ${total0} four-zeros` +
+    `\nOK  ${total5} five-in-a-row + ${total0} four-zeros + ${totalAB} AAA-BBBB` +
     `  |  ${fetched} requests, ${failed} failed` +
     `  |  ${Math.round((Date.now() - started) / 1000)}s`
   );
