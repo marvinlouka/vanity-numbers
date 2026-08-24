@@ -1,5 +1,5 @@
 {
- "date": "2026-08-23",
+ "date": "2026-08-24",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -343,7 +343,7 @@
   },
   {
    "pattern": "44444",
-   "count": 76,
+   "count": 75,
    "states": [
     {
      "state": "Alabama",
@@ -433,12 +433,8 @@
     },
     {
      "state": "Idaho",
-     "count": 19,
+     "count": 18,
      "numbers": [
-      {
-       "number": "+1 208 444 4421",
-       "location": "Coeur D'alene, ID"
-      },
       {
        "number": "+1 208 444 4426",
        "location": "Coeur D'alene, ID"
@@ -1233,7 +1229,7 @@
   },
   {
    "pattern": "77777",
-   "count": 231,
+   "count": 229,
    "states": [
     {
      "state": "California",
@@ -2067,7 +2063,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 15,
+     "count": 13,
      "numbers": [
       {
        "number": "+1 531 777 7705",
@@ -2075,14 +2071,6 @@
       },
       {
        "number": "+1 531 777 7706",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7716",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7721",
        "location": "Omaha, NE"
       },
       {
@@ -4167,7 +4155,7 @@
   },
   {
    "pattern": "99999",
-   "count": 160,
+   "count": 159,
    "states": [
     {
      "state": "Alabama",
@@ -4789,14 +4777,10 @@
     },
     {
      "state": "Maryland",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 443 599 9992",
-       "location": "Baltimore, MD"
-      },
-      {
-       "number": "+1 443 599 9997",
        "location": "Baltimore, MD"
       }
      ]
@@ -4867,7 +4851,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 746,
+  "total": 740,
   "state_count": 43,
   "states": [
    {
@@ -5472,7 +5456,7 @@
    },
    {
     "state": "Florida",
-    "count": 51,
+    "count": 53,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -5561,6 +5545,14 @@
      {
       "number": "+1 904 830 0002",
       "location": "Jacksonville, FL"
+     },
+     {
+      "number": "+1 941 280 0003",
+      "location": "Englewood, FL"
+     },
+     {
+      "number": "+1 941 280 0006",
+      "location": "Englewood, FL"
      },
      {
       "number": "+1 941 900 0021",
@@ -5682,7 +5674,7 @@
    },
    {
     "state": "Georgia",
-    "count": 17,
+    "count": 16,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -5695,10 +5687,6 @@
      {
       "number": "+1 762 360 0009",
       "location": "Thomaston, GA"
-     },
-     {
-      "number": "+1 762 400 0046",
-      "location": "Athens, GA"
      },
      {
       "number": "+1 762 600 0062",
@@ -5968,12 +5956,8 @@
    },
    {
     "state": "Louisiana",
-    "count": 9,
+    "count": 8,
     "numbers": [
-     {
-      "number": "+1 225 380 0004",
-      "location": "Denham Springs, LA"
-     },
      {
       "number": "+1 225 430 0005",
       "location": "Donaldsonville, LA"
@@ -6342,36 +6326,8 @@
    },
    {
     "state": "Missouri",
-    "count": 10,
+    "count": 3,
     "numbers": [
-     {
-      "number": "+1 235 220 0003",
-      "location": "Birch Tree, MO"
-     },
-     {
-      "number": "+1 235 220 0004",
-      "location": "Birch Tree, MO"
-     },
-     {
-      "number": "+1 235 220 0005",
-      "location": "Birch Tree, MO"
-     },
-     {
-      "number": "+1 235 220 0006",
-      "location": "Birch Tree, MO"
-     },
-     {
-      "number": "+1 235 220 0007",
-      "location": "Birch Tree, MO"
-     },
-     {
-      "number": "+1 235 220 0008",
-      "location": "Birch Tree, MO"
-     },
-     {
-      "number": "+1 235 220 0009",
-      "location": "Birch Tree, MO"
-     },
      {
       "number": "+1 660 268 0000",
       "location": "Brookfield, MO"
@@ -7580,7 +7536,7 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 570 520 0008",
@@ -7589,10 +7545,6 @@
      {
       "number": "+1 570 580 0002",
       "location": "Mount Pocono, PA"
-     },
-     {
-      "number": "+1 814 509 0000",
-      "location": "Windber, PA"
      },
      {
       "number": "+1 814 754 0000",
@@ -7716,10 +7668,18 @@
    },
    {
     "state": "South Carolina",
-    "count": 1,
+    "count": 3,
     "numbers": [
      {
+      "number": "+1 854 200 0073",
+      "location": "Charleston, SC"
+     },
+     {
       "number": "+1 854 240 0004",
+      "location": "Beaufort, SC"
+     },
+     {
+      "number": "+1 854 240 0009",
       "location": "Beaufort, SC"
      }
     ]
@@ -8158,22 +8118,6 @@
  ],
  "patterns_ab": [
   {
-   "pattern": "2229999",
-   "count": 1,
-   "states": [
-    {
-     "state": "Oklahoma",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 572 229 9993",
-       "location": "Norman, OK"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "pattern": "5550000",
    "count": 1,
    "states": [
@@ -8587,12 +8531,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1075,
+  "total_5_in_a_row": 1071,
   "patterns_with_results": 8,
-  "total_0000": 746,
+  "total_0000": 740,
   "state_count_0000": 43,
-  "total_aaa_bbbb": 49,
+  "total_aaa_bbbb": 48,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 15
+  "aaa_bbbb_patterns_with_results": 14
  }
 }
