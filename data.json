@@ -1,5 +1,5 @@
 {
- "date": "2026-08-24",
+ "date": "2026-08-25",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -1229,11 +1229,11 @@
   },
   {
    "pattern": "77777",
-   "count": 229,
+   "count": 227,
    "states": [
     {
      "state": "California",
-     "count": 166,
+     "count": 165,
      "numbers": [
       {
        "number": "+1 657 777 7038",
@@ -1894,10 +1894,6 @@
       {
        "number": "+1 657 777 7964",
        "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7969",
-       "location": "Buena Park, CA"
       }
      ]
     },
@@ -2188,16 +2184,6 @@
      ]
     },
     {
-     "state": "South Dakota",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 605 277 7776",
-       "location": "Aberdeen, SD"
-      }
-     ]
-    },
-    {
      "state": "Utah",
      "count": 4,
      "numbers": [
@@ -2223,7 +2209,7 @@
   },
   {
    "pattern": "88888",
-   "count": 468,
+   "count": 469,
    "states": [
     {
      "state": "Alabama",
@@ -2802,6 +2788,16 @@
       {
        "number": "+1 858 888 8663",
        "location": "San Diego, CA"
+      }
+     ]
+    },
+    {
+     "state": "Louisiana",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 318 588 8885",
+       "location": "Shreveport, LA"
       }
      ]
     },
@@ -4155,7 +4151,7 @@
   },
   {
    "pattern": "99999",
-   "count": 159,
+   "count": 156,
    "states": [
     {
      "state": "Alabama",
@@ -4541,7 +4537,7 @@
     },
     {
      "state": "Colorado",
-     "count": 53,
+     "count": 50,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -4580,10 +4576,6 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9097",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9102",
        "location": "Colorado Springs, CO"
       },
@@ -4609,10 +4601,6 @@
       },
       {
        "number": "+1 719 999 9196",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9204",
        "location": "Colorado Springs, CO"
       },
       {
@@ -4717,10 +4705,6 @@
       },
       {
        "number": "+1 719 999 9658",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9697",
        "location": "Colorado Springs, CO"
       },
       {
@@ -4851,8 +4835,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 740,
-  "state_count": 43,
+  "total": 744,
+  "state_count": 42,
   "states": [
    {
     "state": "Alabama",
@@ -5456,7 +5440,7 @@
    },
    {
     "state": "Florida",
-    "count": 53,
+    "count": 49,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -5487,10 +5471,6 @@
       "location": "Crescent City, FL"
      },
      {
-      "number": "+1 386 800 0075",
-      "location": "Crescent City, FL"
-     },
-     {
       "number": "+1 386 800 0087",
       "location": "Crescent City, FL"
      },
@@ -5507,24 +5487,12 @@
       "location": "Crescent City, FL"
      },
      {
-      "number": "+1 448 600 0041",
-      "location": "Jay, FL"
-     },
-     {
-      "number": "+1 448 600 0043",
-      "location": "Jay, FL"
-     },
-     {
-      "number": "+1 448 600 0067",
-      "location": "Jay, FL"
-     },
-     {
-      "number": "+1 448 600 0076",
-      "location": "Jay, FL"
-     },
-     {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
+     },
+     {
+      "number": "+1 786 600 0038",
+      "location": "Miami, FL"
      },
      {
       "number": "+1 850 930 0005",
@@ -5674,7 +5642,7 @@
    },
    {
     "state": "Georgia",
-    "count": 16,
+    "count": 23,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -5731,6 +5699,34 @@
      {
       "number": "+1 912 940 0008",
       "location": "Thunderbolt, GA"
+     },
+     {
+      "number": "+1 943 770 0002",
+      "location": "Statham, GA"
+     },
+     {
+      "number": "+1 943 770 0003",
+      "location": "Statham, GA"
+     },
+     {
+      "number": "+1 943 770 0004",
+      "location": "Statham, GA"
+     },
+     {
+      "number": "+1 943 770 0005",
+      "location": "Statham, GA"
+     },
+     {
+      "number": "+1 943 770 0006",
+      "location": "Statham, GA"
+     },
+     {
+      "number": "+1 943 770 0008",
+      "location": "Statham, GA"
+     },
+     {
+      "number": "+1 943 770 0009",
+      "location": "Statham, GA"
      },
      {
       "number": "+1 943 990 0004",
@@ -5828,8 +5824,12 @@
    },
    {
     "state": "Indiana",
-    "count": 5,
+    "count": 6,
     "numbers": [
+     {
+      "number": "+1 574 200 0026",
+      "location": "Winamac, IN"
+     },
      {
       "number": "+1 765 400 0085",
       "location": "Anderson, IN"
@@ -6520,7 +6520,7 @@
    },
    {
     "state": "New Jersey",
-    "count": 20,
+    "count": 21,
     "numbers": [
      {
       "number": "+1 848 310 0006",
@@ -6552,6 +6552,10 @@
      },
      {
       "number": "+1 908 800 0034",
+      "location": "Somerville, NJ"
+     },
+     {
+      "number": "+1 908 800 0036",
       "location": "Somerville, NJ"
      },
      {
@@ -7210,16 +7214,8 @@
    },
    {
     "state": "Ohio",
-    "count": 61,
+    "count": 60,
     "numbers": [
-     {
-      "number": "+1 234 200 0065",
-      "location": "Akron, OH"
-     },
-     {
-      "number": "+1 330 681 0000",
-      "location": "Dellroy, OH"
-     },
      {
       "number": "+1 380 500 0017",
       "location": "Worthington, OH"
@@ -7353,6 +7349,10 @@
       "location": "Parkersburg, OH"
      },
      {
+      "number": "+1 937 400 0035",
+      "location": "Jackson Center, OH"
+     },
+     {
       "number": "+1 937 400 0064",
       "location": "Jackson Center, OH"
      },
@@ -7463,6 +7463,10 @@
     "count": 6,
     "numbers": [
      {
+      "number": "+1 405 300 0038",
+      "location": "Moore, OK"
+     },
+     {
       "number": "+1 405 480 0007",
       "location": "Anadarko, OK"
      },
@@ -7481,10 +7485,6 @@
      {
       "number": "+1 405 970 0008",
       "location": "Guthrie, OK"
-     },
-     {
-      "number": "+1 580 430 0003",
-      "location": "Alva, OK"
      }
     ]
    },
@@ -7566,8 +7566,12 @@
    },
    {
     "state": "Rhode Island",
-    "count": 24,
+    "count": 25,
     "numbers": [
+     {
+      "number": "+1 401 250 0009",
+      "location": "West Warwick, RI"
+     },
      {
       "number": "+1 401 600 0059",
       "location": "Providence, RI"
@@ -7668,12 +7672,8 @@
    },
    {
     "state": "South Carolina",
-    "count": 3,
+    "count": 2,
     "numbers": [
-     {
-      "number": "+1 854 200 0073",
-      "location": "Charleston, SC"
-     },
      {
       "number": "+1 854 240 0004",
       "location": "Beaufort, SC"
@@ -7685,19 +7685,13 @@
     ]
    },
    {
-    "state": "South Dakota",
-    "count": 1,
+    "state": "Tennessee",
+    "count": 7,
     "numbers": [
      {
-      "number": "+1 605 910 0005",
-      "location": "Sioux Falls, SD"
-     }
-    ]
-   },
-   {
-    "state": "Tennessee",
-    "count": 6,
-    "numbers": [
+      "number": "+1 865 260 0005",
+      "location": "Maryville, TN"
+     },
      {
       "number": "+1 901 610 0003",
       "location": "Collierville, TN"
@@ -8291,11 +8285,11 @@
   },
   {
    "pattern": "7772222",
-   "count": 8,
+   "count": 7,
    "states": [
     {
      "state": "Maryland",
-     "count": 8,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 227 772 2221",
@@ -8303,10 +8297,6 @@
       },
       {
        "number": "+1 227 772 2224",
-       "location": "North Brentwood, MD"
-      },
-      {
-       "number": "+1 227 772 2226",
        "location": "North Brentwood, MD"
       },
       {
@@ -8531,11 +8521,11 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1071,
+  "total_5_in_a_row": 1067,
   "patterns_with_results": 8,
-  "total_0000": 740,
-  "state_count_0000": 43,
-  "total_aaa_bbbb": 48,
+  "total_0000": 744,
+  "state_count_0000": 42,
+  "total_aaa_bbbb": 47,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 14
  }

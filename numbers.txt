@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-24
-1071 five-in-a-row · 740 four-zeros across 43 states · 48 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-08-25
+1067 five-in-a-row · 744 four-zeros across 42 states · 47 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -343,9 +343,9 @@ Updated: 2026-08-24
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 229 numbers ---
+--- 77777 — 227 numbers ---
 
-  CALIFORNIA (166)
+  CALIFORNIA (165)
     +1 657 777 7038   Buena Park, CA
     +1 657 777 7039   Buena Park, CA
     +1 657 777 7043   Buena Park, CA
@@ -511,7 +511,6 @@ Updated: 2026-08-24
     +1 657 777 7958   Buena Park, CA
     +1 657 777 7959   Buena Park, CA
     +1 657 777 7964   Buena Park, CA
-    +1 657 777 7969   Buena Park, CA
 
   CONNECTICUT (29)
     +1 959 777 7704   Hartford, CT
@@ -589,16 +588,13 @@ Updated: 2026-08-24
     +1 401 777 7794   Newport East, RI
     +1 401 777 7795   Newport East, RI
 
-  SOUTH DAKOTA (1)
-    +1 605 277 7776   Aberdeen, SD
-
   UTAH (4)
     +1 435 677 7773   Brian Head, UT
     +1 435 677 7774   Brian Head, UT
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 468 numbers ---
+--- 88888 — 469 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -745,6 +741,9 @@ Updated: 2026-08-24
     +1 858 888 8650   San Diego, CA
     +1 858 888 8662   San Diego, CA
     +1 858 888 8663   San Diego, CA
+
+  LOUISIANA (1)
+    +1 318 588 8885   Shreveport, LA
 
   MINNESOTA (128)
     +1 218 888 8009   Bemidji, MN
@@ -1086,7 +1085,7 @@ Updated: 2026-08-24
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 159 numbers ---
+--- 99999 — 156 numbers ---
 
   ALABAMA (94)
     +1 251 999 9913   Mobile, AL
@@ -1184,7 +1183,7 @@ Updated: 2026-08-24
     +1 659 999 9861   Winfield, AL
     +1 659 999 9865   Winfield, AL
 
-  COLORADO (53)
+  COLORADO (50)
     +1 719 999 9018   Colorado Springs, CO
     +1 719 999 9023   Colorado Springs, CO
     +1 719 999 9027   Colorado Springs, CO
@@ -1194,7 +1193,6 @@ Updated: 2026-08-24
     +1 719 999 9089   Colorado Springs, CO
     +1 719 999 9091   Colorado Springs, CO
     +1 719 999 9094   Colorado Springs, CO
-    +1 719 999 9097   Colorado Springs, CO
     +1 719 999 9102   Colorado Springs, CO
     +1 719 999 9126   Colorado Springs, CO
     +1 719 999 9129   Colorado Springs, CO
@@ -1202,7 +1200,6 @@ Updated: 2026-08-24
     +1 719 999 9153   Colorado Springs, CO
     +1 719 999 9190   Colorado Springs, CO
     +1 719 999 9196   Colorado Springs, CO
-    +1 719 999 9204   Colorado Springs, CO
     +1 719 999 9211   Colorado Springs, CO
     +1 719 999 9231   Colorado Springs, CO
     +1 719 999 9284   Colorado Springs, CO
@@ -1229,7 +1226,6 @@ Updated: 2026-08-24
     +1 719 999 9650   Colorado Springs, CO
     +1 719 999 9656   Colorado Springs, CO
     +1 719 999 9658   Colorado Springs, CO
-    +1 719 999 9697   Colorado Springs, CO
     +1 719 999 9786   Colorado Springs, CO
     +1 719 999 9812   Colorado Springs, CO
     +1 719 999 9813   Colorado Springs, CO
@@ -1266,7 +1262,7 @@ Updated: 2026-08-24
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 740 numbers across 43 states
+4 ZEROS — 744 numbers across 42 states
 ====================================================
 
   ALABAMA (18)
@@ -1422,7 +1418,7 @@ Updated: 2026-08-24
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (53)
+  FLORIDA (49)
     +1 352 570 0008   Yankeetown, FL
     +1 352 780 0004   Belleview, FL
     +1 352 830 0005   Ocala, FL
@@ -1430,16 +1426,12 @@ Updated: 2026-08-24
     +1 352 900 0068   Gainesville, FL
     +1 386 800 0023   Crescent City, FL
     +1 386 800 0024   Crescent City, FL
-    +1 386 800 0075   Crescent City, FL
     +1 386 800 0087   Crescent City, FL
     +1 386 800 0091   Crescent City, FL
     +1 386 800 0093   Crescent City, FL
     +1 386 800 0096   Crescent City, FL
-    +1 448 600 0041   Jay, FL
-    +1 448 600 0043   Jay, FL
-    +1 448 600 0067   Jay, FL
-    +1 448 600 0076   Jay, FL
     +1 448 850 0006   Greenville, FL
+    +1 786 600 0038   Miami, FL
     +1 850 930 0005   Navarre Beach, FL
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0007   Ponce De Leon, FL
@@ -1477,7 +1469,7 @@ Updated: 2026-08-24
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (16)
+  GEORGIA (23)
     +1 478 287 0000   Perry, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 360 0009   Thomaston, GA
@@ -1492,6 +1484,13 @@ Updated: 2026-08-24
     +1 762 930 0009   Augusta, GA
     +1 912 940 0003   Thunderbolt, GA
     +1 912 940 0008   Thunderbolt, GA
+    +1 943 770 0002   Statham, GA
+    +1 943 770 0003   Statham, GA
+    +1 943 770 0004   Statham, GA
+    +1 943 770 0005   Statham, GA
+    +1 943 770 0006   Statham, GA
+    +1 943 770 0008   Statham, GA
+    +1 943 770 0009   Statham, GA
     +1 943 990 0004   Flowery Branch, GA
     +1 943 990 0006   Flowery Branch, GA
 
@@ -1517,7 +1516,8 @@ Updated: 2026-08-24
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
 
-  INDIANA (5)
+  INDIANA (6)
+    +1 574 200 0026   Winamac, IN
     +1 765 400 0085   Anderson, IN
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
@@ -1696,7 +1696,7 @@ Updated: 2026-08-24
     +1 775 900 0094   Reno, NV
     +1 775 900 0096   Reno, NV
 
-  NEW JERSEY (20)
+  NEW JERSEY (21)
     +1 848 310 0006   South Bound Brook, NJ
     +1 856 300 0058   Millville, NJ
     +1 856 300 0078   Millville, NJ
@@ -1705,6 +1705,7 @@ Updated: 2026-08-24
     +1 908 800 0024   Somerville, NJ
     +1 908 800 0027   Somerville, NJ
     +1 908 800 0034   Somerville, NJ
+    +1 908 800 0036   Somerville, NJ
     +1 908 800 0039   Somerville, NJ
     +1 908 800 0041   Somerville, NJ
     +1 908 800 0053   Somerville, NJ
@@ -1871,9 +1872,7 @@ Updated: 2026-08-24
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (61)
-    +1 234 200 0065   Akron, OH
-    +1 330 681 0000   Dellroy, OH
+  OHIO (60)
     +1 380 500 0017   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
     +1 440 600 0078   Chagrin Falls, OH
@@ -1907,6 +1906,7 @@ Updated: 2026-08-24
     +1 740 690 0009   Gambier, OH
     +1 740 760 0008   Marietta, OH
     +1 740 860 0007   Parkersburg, OH
+    +1 937 400 0035   Jackson Center, OH
     +1 937 400 0064   Jackson Center, OH
     +1 937 400 0065   Jackson Center, OH
     +1 937 400 0067   Jackson Center, OH
@@ -1935,12 +1935,12 @@ Updated: 2026-08-24
     +1 937 820 0009   Hillsboro, OH
 
   OKLAHOMA (6)
+    +1 405 300 0038   Moore, OK
     +1 405 480 0007   Anadarko, OK
     +1 405 860 0008   Paden, OK
     +1 405 970 0004   Guthrie, OK
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
-    +1 580 430 0003   Alva, OK
 
   OREGON (10)
     +1 971 600 0012   Salem, OR
@@ -1962,7 +1962,8 @@ Updated: 2026-08-24
     +1 814 850 0008   Harrison Valley, PA
     +1 814 850 0009   Harrison Valley, PA
 
-  RHODE ISLAND (24)
+  RHODE ISLAND (25)
+    +1 401 250 0009   West Warwick, RI
     +1 401 600 0059   Providence, RI
     +1 401 600 0065   Providence, RI
     +1 401 600 0075   Providence, RI
@@ -1988,15 +1989,12 @@ Updated: 2026-08-24
     +1 401 830 0006   North Providence, RI
     +1 401 910 0003   Providence, RI
 
-  SOUTH CAROLINA (3)
-    +1 854 200 0073   Charleston, SC
+  SOUTH CAROLINA (2)
     +1 854 240 0004   Beaufort, SC
     +1 854 240 0009   Beaufort, SC
 
-  SOUTH DAKOTA (1)
-    +1 605 910 0005   Sioux Falls, SD
-
-  TENNESSEE (6)
+  TENNESSEE (7)
+    +1 865 260 0005   Maryville, TN
     +1 901 610 0003   Collierville, TN
     +1 901 660 0003   Grand Junction, TN
     +1 901 660 0004   Grand Junction, TN
@@ -2120,7 +2118,7 @@ Updated: 2026-08-24
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 48 numbers across 14 patterns
+AAA-BBBB — 47 numbers across 14 patterns
 ====================================================
 
 --- 555-0000 — 1 numbers ---
@@ -2173,12 +2171,11 @@ AAA-BBBB — 48 numbers across 14 patterns
     +1 716 669 9995   Akron, NY
     +1 716 669 9997   Akron, NY
 
---- 777-2222 — 8 numbers ---
+--- 777-2222 — 7 numbers ---
 
-  MARYLAND (8)
+  MARYLAND (7)
     +1 227 772 2221   North Brentwood, MD
     +1 227 772 2224   North Brentwood, MD
-    +1 227 772 2226   North Brentwood, MD
     +1 667 772 2221   Hampstead, MD
     +1 667 772 2224   Hampstead, MD
     +1 667 772 2227   Hampstead, MD
