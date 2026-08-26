@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-25
-1067 five-in-a-row · 744 four-zeros across 42 states · 47 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-08-26
+1058 five-in-a-row · 728 four-zeros across 41 states · 46 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -102,9 +102,9 @@ Updated: 2026-08-25
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 75 numbers ---
+--- 44444 — 74 numbers ---
 
-  ALABAMA (13)
+  ALABAMA (12)
     +1 251 444 4402   Mobile, AL
     +1 251 444 4407   Mobile, AL
     +1 251 444 4413   Mobile, AL
@@ -113,7 +113,6 @@ Updated: 2026-08-25
     +1 251 444 4457   Mobile, AL
     +1 251 444 4463   Mobile, AL
     +1 251 444 4492   Mobile, AL
-    +1 251 444 4493   Mobile, AL
     +1 251 444 4497   Mobile, AL
     +1 251 444 4498   Mobile, AL
     +1 938 444 4457   Decatur, AL
@@ -226,7 +225,7 @@ Updated: 2026-08-25
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 75 numbers ---
+--- 66666 — 70 numbers ---
 
   ALABAMA (7)
     +1 334 666 6605   Wetumpka, AL
@@ -324,15 +323,10 @@ Updated: 2026-08-25
     +1 910 766 6663   Kenansville, NC
     +1 910 766 6669   Kenansville, NC
 
-  OREGON (8)
+  OREGON (3)
     +1 541 566 6668   Athena, OR
     +1 541 866 6661   Glendale, OR
     +1 541 866 6662   Glendale, OR
-    +1 971 666 6604   West Haven-Sylvan, OR
-    +1 971 666 6607   West Haven-Sylvan, OR
-    +1 971 666 6614   West Haven-Sylvan, OR
-    +1 971 666 6690   West Haven-Sylvan, OR
-    +1 971 666 6695   West Haven-Sylvan, OR
 
   TEXAS (3)
     +1 817 766 6663   Fort Worth, TX
@@ -594,7 +588,7 @@ Updated: 2026-08-25
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 469 numbers ---
+--- 88888 — 468 numbers ---
 
   ALABAMA (26)
     +1 251 888 8803   Mobile, AL
@@ -741,9 +735,6 @@ Updated: 2026-08-25
     +1 858 888 8650   San Diego, CA
     +1 858 888 8662   San Diego, CA
     +1 858 888 8663   San Diego, CA
-
-  LOUISIANA (1)
-    +1 318 588 8885   Shreveport, LA
 
   MINNESOTA (128)
     +1 218 888 8009   Bemidji, MN
@@ -1085,9 +1076,9 @@ Updated: 2026-08-25
   WASHINGTON (1)
     +1 425 988 8880   Renton, WA
 
---- 99999 — 156 numbers ---
+--- 99999 — 154 numbers ---
 
-  ALABAMA (94)
+  ALABAMA (93)
     +1 251 999 9913   Mobile, AL
     +1 251 999 9917   Mobile, AL
     +1 251 999 9963   Mobile, AL
@@ -1127,7 +1118,6 @@ Updated: 2026-08-25
     +1 659 999 9151   Winfield, AL
     +1 659 999 9159   Winfield, AL
     +1 659 999 9160   Winfield, AL
-    +1 659 999 9169   Winfield, AL
     +1 659 999 9182   Winfield, AL
     +1 659 999 9187   Winfield, AL
     +1 659 999 9193   Winfield, AL
@@ -1240,9 +1230,6 @@ Updated: 2026-08-25
     +1 863 999 9940   Lakeland, FL
     +1 863 999 9970   Lakeland, FL
 
-  MARYLAND (1)
-    +1 443 599 9992   Baltimore, MD
-
   MASSACHUSETTS (3)
     +1 774 399 9994   Westborough, MA
     +1 774 399 9995   Westborough, MA
@@ -1262,7 +1249,7 @@ Updated: 2026-08-25
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 744 numbers across 42 states
+4 ZEROS — 728 numbers across 41 states
 ====================================================
 
   ALABAMA (18)
@@ -1302,7 +1289,7 @@ Updated: 2026-08-25
     +1 479 410 0008   Van Buren, AR
     +1 479 410 0009   Van Buren, AR
 
-  CALIFORNIA (55)
+  CALIFORNIA (54)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 626 640 0003   La Puente, CA
@@ -1333,7 +1320,6 @@ Updated: 2026-08-25
     +1 669 500 0094   Gilroy, CA
     +1 669 500 0097   Gilroy, CA
     +1 669 500 0098   Gilroy, CA
-    +1 707 400 0031   Benicia, CA
     +1 707 400 0036   Benicia, CA
     +1 707 400 0039   Benicia, CA
     +1 707 400 0068   Benicia, CA
@@ -1359,7 +1345,7 @@ Updated: 2026-08-25
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
 
-  CONNECTICUT (48)
+  CONNECTICUT (47)
     +1 475 600 0091   Ansonia, CT
     +1 860 600 0031   Litchfield, CT
     +1 860 600 0039   Litchfield, CT
@@ -1387,7 +1373,6 @@ Updated: 2026-08-25
     +1 959 600 0018   Plainfield Village, CT
     +1 959 600 0041   Plainfield Village, CT
     +1 959 600 0067   Plainfield Village, CT
-    +1 959 600 0071   Plainfield Village, CT
     +1 959 600 0073   Plainfield Village, CT
     +1 959 600 0074   Plainfield Village, CT
     +1 959 600 0076   Plainfield Village, CT
@@ -1418,7 +1403,7 @@ Updated: 2026-08-25
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (49)
+  FLORIDA (47)
     +1 352 570 0008   Yankeetown, FL
     +1 352 780 0004   Belleview, FL
     +1 352 830 0005   Ocala, FL
@@ -1431,14 +1416,12 @@ Updated: 2026-08-25
     +1 386 800 0093   Crescent City, FL
     +1 386 800 0096   Crescent City, FL
     +1 448 850 0006   Greenville, FL
-    +1 786 600 0038   Miami, FL
+    +1 850 307 0000   Defuniak Springs, FL
     +1 850 930 0005   Navarre Beach, FL
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0007   Ponce De Leon, FL
     +1 850 940 0008   Ponce De Leon, FL
     +1 904 830 0002   Jacksonville, FL
-    +1 941 280 0003   Englewood, FL
-    +1 941 280 0006   Englewood, FL
     +1 941 900 0021   Bradenton, FL
     +1 941 900 0028   Bradenton, FL
     +1 941 900 0031   Bradenton, FL
@@ -1512,12 +1495,12 @@ Updated: 2026-08-25
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
-  ILLINOIS (2)
+  ILLINOIS (3)
+    +1 217 360 0002   Mason City, IL
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
 
-  INDIANA (6)
-    +1 574 200 0026   Winamac, IN
+  INDIANA (5)
     +1 765 400 0085   Anderson, IN
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
@@ -1561,9 +1544,7 @@ Updated: 2026-08-25
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (9)
-    +1 667 400 0016   Baltimore, MD
-    +1 667 400 0024   Baltimore, MD
+  MARYLAND (7)
     +1 667 400 0027   Baltimore, MD
     +1 667 400 0029   Baltimore, MD
     +1 667 400 0036   Baltimore, MD
@@ -1571,9 +1552,6 @@ Updated: 2026-08-25
     +1 667 400 0058   Baltimore, MD
     +1 667 400 0064   Baltimore, MD
     +1 667 400 0065   Baltimore, MD
-
-  MICHIGAN (1)
-    +1 231 320 0006   Muskegon, MI
 
   MINNESOTA (57)
     +1 218 480 0003   Stephen, MN
@@ -1729,7 +1707,7 @@ Updated: 2026-08-25
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (108)
+  NEW YORK (107)
     +1 315 260 0006   Syracuse, NY
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
@@ -1832,7 +1810,6 @@ Updated: 2026-08-25
     +1 934 500 0041   North Bay Shore, NY
     +1 934 500 0046   North Bay Shore, NY
     +1 934 500 0047   North Bay Shore, NY
-    +1 934 500 0049   North Bay Shore, NY
     +1 934 500 0052   North Bay Shore, NY
     +1 934 500 0054   North Bay Shore, NY
     +1 934 500 0056   North Bay Shore, NY
@@ -1872,7 +1849,8 @@ Updated: 2026-08-25
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (60)
+  OHIO (61)
+    +1 330 681 0000   Dellroy, OH
     +1 380 500 0017   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
     +1 440 600 0078   Chagrin Falls, OH
@@ -1934,9 +1912,7 @@ Updated: 2026-08-25
     +1 937 820 0006   Hillsboro, OH
     +1 937 820 0009   Hillsboro, OH
 
-  OKLAHOMA (6)
-    +1 405 300 0038   Moore, OK
-    +1 405 480 0007   Anadarko, OK
+  OKLAHOMA (4)
     +1 405 860 0008   Paden, OK
     +1 405 970 0004   Guthrie, OK
     +1 405 970 0006   Guthrie, OK
@@ -1954,16 +1930,16 @@ Updated: 2026-08-25
     +1 971 600 0083   Salem, OR
     +1 971 600 0091   Salem, OR
 
-  PENNSYLVANIA (6)
+  PENNSYLVANIA (7)
     +1 570 520 0008   Berwick, PA
     +1 570 580 0002   Mount Pocono, PA
+    +1 814 509 0000   Windber, PA
     +1 814 754 0000   Central City, PA
     +1 814 850 0007   Harrison Valley, PA
     +1 814 850 0008   Harrison Valley, PA
     +1 814 850 0009   Harrison Valley, PA
 
-  RHODE ISLAND (25)
-    +1 401 250 0009   West Warwick, RI
+  RHODE ISLAND (24)
     +1 401 600 0059   Providence, RI
     +1 401 600 0065   Providence, RI
     +1 401 600 0075   Providence, RI
@@ -2016,11 +1992,7 @@ Updated: 2026-08-25
     +1 903 420 0007   Corsicana, TX
     +1 903 420 0008   Corsicana, TX
 
-  UTAH (35)
-    +1 385 480 0003   Provo, UT
-    +1 385 480 0005   Provo, UT
-    +1 385 480 0007   Provo, UT
-    +1 385 480 0008   Provo, UT
+  UTAH (29)
     +1 385 550 0006   Bountiful, UT
     +1 385 560 0005   Murray, UT
     +1 385 580 0002   Murray, UT
@@ -2038,7 +2010,6 @@ Updated: 2026-08-25
     +1 435 500 0039   Delta, UT
     +1 435 500 0041   Delta, UT
     +1 435 500 0046   Delta, UT
-    +1 435 500 0048   Delta, UT
     +1 435 500 0051   Delta, UT
     +1 435 500 0052   Delta, UT
     +1 435 500 0062   Delta, UT
@@ -2046,7 +2017,6 @@ Updated: 2026-08-25
     +1 435 500 0072   Delta, UT
     +1 435 500 0078   Delta, UT
     +1 435 500 0079   Delta, UT
-    +1 435 500 0084   Delta, UT
     +1 435 500 0087   Delta, UT
     +1 435 500 0093   Delta, UT
     +1 435 500 0095   Delta, UT
@@ -2059,7 +2029,7 @@ Updated: 2026-08-25
   VIRGINIA (1)
     +1 757 740 0003   Franklin, VA
 
-  WASHINGTON (11)
+  WASHINGTON (10)
     +1 509 600 0071   Bridgeport, WA
     +1 509 600 0078   Bridgeport, WA
     +1 509 600 0082   Bridgeport, WA
@@ -2069,7 +2039,6 @@ Updated: 2026-08-25
     +1 509 600 0093   Bridgeport, WA
     +1 509 600 0094   Bridgeport, WA
     +1 509 600 0095   Bridgeport, WA
-    +1 509 600 0097   Bridgeport, WA
     +1 509 600 0098   Bridgeport, WA
 
   WEST VIRGINIA (12)
@@ -2118,7 +2087,7 @@ Updated: 2026-08-25
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 47 numbers across 14 patterns
+AAA-BBBB — 46 numbers across 14 patterns
 ====================================================
 
 --- 555-0000 — 1 numbers ---
@@ -2171,10 +2140,9 @@ AAA-BBBB — 47 numbers across 14 patterns
     +1 716 669 9995   Akron, NY
     +1 716 669 9997   Akron, NY
 
---- 777-2222 — 7 numbers ---
+--- 777-2222 — 6 numbers ---
 
-  MARYLAND (7)
-    +1 227 772 2221   North Brentwood, MD
+  MARYLAND (6)
     +1 227 772 2224   North Brentwood, MD
     +1 667 772 2221   Hampstead, MD
     +1 667 772 2224   Hampstead, MD
