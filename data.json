@@ -1,9 +1,9 @@
 {
- "date": "2026-08-28",
+ "date": "2026-08-29",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 54,
+   "count": 23,
    "states": [
     {
      "state": "Alabama",
@@ -24,16 +24,6 @@
      ]
     },
     {
-     "state": "California",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 909 922 2227",
-       "location": "Etiwanda, CA"
-      }
-     ]
-    },
-    {
      "state": "Georgia",
      "count": 1,
      "numbers": [
@@ -45,16 +35,8 @@
     },
     {
      "state": "Massachusetts",
-     "count": 6,
+     "count": 4,
      "numbers": [
-      {
-       "number": "+1 508 722 2223",
-       "location": "Auburn, MA"
-      },
-      {
-       "number": "+1 508 722 2229",
-       "location": "Auburn, MA"
-      },
       {
        "number": "+1 978 822 2223",
        "location": "Shirley, MA"
@@ -75,119 +57,11 @@
     },
     {
      "state": "Minnesota",
-     "count": 28,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 507 922 2225",
        "location": "Spring Valley, MN"
-      },
-      {
-       "number": "+1 952 222 2054",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2069",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2071",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2091",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2107",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2132",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2143",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2152",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2167",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2168",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2181",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2324",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2325",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2334",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2354",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2358",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2368",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2374",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2399",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2408",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2471",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2528",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2592",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2814",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2843",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2870",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2913",
-       "location": "Hilltop, MN"
       }
      ]
     },
@@ -207,15 +81,11 @@
     },
     {
      "state": "New York",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 585 822 2220",
        "location": "East Rochester, NY"
-      },
-      {
-       "number": "+1 607 622 2221",
-       "location": "Bath, NY"
       },
       {
        "number": "+1 716 322 2220",
@@ -459,11 +329,11 @@
   },
   {
    "pattern": "44444",
-   "count": 73,
+   "count": 74,
    "states": [
     {
      "state": "Alabama",
-     "count": 12,
+     "count": 13,
      "numbers": [
       {
        "number": "+1 251 444 4402",
@@ -504,6 +374,10 @@
       {
        "number": "+1 251 444 4498",
        "location": "Mobile, AL"
+      },
+      {
+       "number": "+1 256 344 4447",
+       "location": "Attalla, AL"
       },
       {
        "number": "+1 938 444 4457",
@@ -4951,8 +4825,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 736,
-  "state_count": 41,
+  "total": 713,
+  "state_count": 39,
   "states": [
    {
     "state": "Alabama",
@@ -5154,7 +5028,7 @@
    },
    {
     "state": "California",
-    "count": 54,
+    "count": 46,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -5277,38 +5151,6 @@
       "location": "Gilroy, CA"
      },
      {
-      "number": "+1 707 400 0036",
-      "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 400 0039",
-      "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 400 0068",
-      "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 400 0078",
-      "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 400 0083",
-      "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 400 0092",
-      "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 400 0095",
-      "location": "Benicia, CA"
-     },
-     {
-      "number": "+1 707 410 0003",
-      "location": "Fairfield, CA"
-     },
-     {
       "number": "+1 747 380 0003",
       "location": "Reseda, CA"
      },
@@ -5376,7 +5218,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 47,
+    "count": 45,
     "numbers": [
      {
       "number": "+1 203 580 0003",
@@ -5385,10 +5227,6 @@
      {
       "number": "+1 475 600 0091",
       "location": "Ansonia, CT"
-     },
-     {
-      "number": "+1 860 600 0031",
-      "location": "Litchfield, CT"
      },
      {
       "number": "+1 860 600 0039",
@@ -5413,10 +5251,6 @@
      {
       "number": "+1 860 600 0075",
       "location": "Litchfield, CT"
-     },
-     {
-      "number": "+1 959 400 0038",
-      "location": "Torrington, CT"
      },
      {
       "number": "+1 959 400 0045",
@@ -5604,7 +5438,7 @@
    },
    {
     "state": "Florida",
-    "count": 46,
+    "count": 45,
     "numbers": [
      {
       "number": "+1 321 900 0021",
@@ -5673,10 +5507,6 @@
      {
       "number": "+1 850 940 0008",
       "location": "Ponce De Leon, FL"
-     },
-     {
-      "number": "+1 941 900 0021",
-      "location": "Bradenton, FL"
      },
      {
       "number": "+1 941 900 0028",
@@ -5952,8 +5782,12 @@
    },
    {
     "state": "Indiana",
-    "count": 4,
+    "count": 5,
     "numbers": [
+     {
+      "number": "+1 765 400 0019",
+      "location": "Anderson, IN"
+     },
      {
       "number": "+1 765 710 0002",
       "location": "Eaton, IN"
@@ -5973,23 +5807,9 @@
     ]
    },
    {
-    "state": "Iowa",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 712 800 0081",
-      "location": "Glenwood, IA"
-     }
-    ]
-   },
-   {
     "state": "Kansas",
-    "count": 11,
+    "count": 10,
     "numbers": [
-     {
-      "number": "+1 785 335 0000",
-      "location": "Scandia, KS"
-     },
      {
       "number": "+1 785 510 0002",
       "location": "Washington, KS"
@@ -6063,8 +5883,8 @@
       "location": "Jonesboro, LA"
      },
      {
-      "number": "+1 318 520 0007",
-      "location": "Castor, LA"
+      "number": "+1 985 200 0086",
+      "location": "Madisonville, LA"
      },
      {
       "number": "+1 985 570 0003",
@@ -7320,7 +7140,7 @@
    },
    {
     "state": "Ohio",
-    "count": 53,
+    "count": 45,
     "numbers": [
      {
       "number": "+1 380 500 0017",
@@ -7415,10 +7235,6 @@
       "location": "Genoa, OH"
      },
      {
-      "number": "+1 740 300 0097",
-      "location": "Nelsonville, OH"
-     },
-     {
       "number": "+1 740 500 0012",
       "location": "Circleville, OH"
      },
@@ -7453,26 +7269,6 @@
      {
       "number": "+1 740 860 0007",
       "location": "Parkersburg, OH"
-     },
-     {
-      "number": "+1 937 400 0074",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0075",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0076",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0078",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0081",
-      "location": "Jackson Center, OH"
      },
      {
       "number": "+1 937 400 0082",
@@ -7525,14 +7321,6 @@
      {
       "number": "+1 937 400 0098",
       "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 820 0006",
-      "location": "Hillsboro, OH"
-     },
-     {
-      "number": "+1 937 820 0009",
-      "location": "Hillsboro, OH"
      }
     ]
    },
@@ -7741,20 +7529,6 @@
      {
       "number": "+1 401 910 0003",
       "location": "Providence, RI"
-     }
-    ]
-   },
-   {
-    "state": "South Carolina",
-    "count": 2,
-    "numbers": [
-     {
-      "number": "+1 854 240 0004",
-      "location": "Beaufort, SC"
-     },
-     {
-      "number": "+1 854 240 0009",
-      "location": "Beaufort, SC"
      }
     ]
    },
@@ -8122,12 +7896,8 @@
    },
    {
     "state": "Wisconsin",
-    "count": 2,
+    "count": 1,
     "numbers": [
-     {
-      "number": "+1 715 940 0007",
-      "location": "Shawano, WI"
-     },
      {
       "number": "+1 920 890 0007",
       "location": "Egg Harbor, WI"
@@ -8615,10 +8385,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1096,
+  "total_5_in_a_row": 1066,
   "patterns_with_results": 8,
-  "total_0000": 736,
-  "state_count_0000": 41,
+  "total_0000": 713,
+  "state_count_0000": 39,
   "total_aaa_bbbb": 51,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 14

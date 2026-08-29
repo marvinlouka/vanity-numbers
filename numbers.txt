@@ -1,69 +1,36 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-28
-1096 five-in-a-row · 736 four-zeros across 41 states · 51 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-08-29
+1066 five-in-a-row · 713 four-zeros across 39 states · 51 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 54 numbers ---
+--- 22222 — 23 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
     +1 938 722 2226   Section, AL
     +1 938 722 2229   Section, AL
 
-  CALIFORNIA (1)
-    +1 909 922 2227   Etiwanda, CA
-
   GEORGIA (1)
     +1 706 522 2226   Elberton, GA
 
-  MASSACHUSETTS (6)
-    +1 508 722 2223   Auburn, MA
-    +1 508 722 2229   Auburn, MA
+  MASSACHUSETTS (4)
     +1 978 822 2223   Shirley, MA
     +1 978 822 2224   Shirley, MA
     +1 978 822 2225   Shirley, MA
     +1 978 822 2229   Shirley, MA
 
-  MINNESOTA (28)
+  MINNESOTA (1)
     +1 507 922 2225   Spring Valley, MN
-    +1 952 222 2054   Hilltop, MN
-    +1 952 222 2069   Hilltop, MN
-    +1 952 222 2071   Hilltop, MN
-    +1 952 222 2091   Hilltop, MN
-    +1 952 222 2107   Hilltop, MN
-    +1 952 222 2132   Hilltop, MN
-    +1 952 222 2143   Hilltop, MN
-    +1 952 222 2152   Hilltop, MN
-    +1 952 222 2167   Hilltop, MN
-    +1 952 222 2168   Hilltop, MN
-    +1 952 222 2181   Hilltop, MN
-    +1 952 222 2324   Hilltop, MN
-    +1 952 222 2325   Hilltop, MN
-    +1 952 222 2334   Hilltop, MN
-    +1 952 222 2354   Hilltop, MN
-    +1 952 222 2358   Hilltop, MN
-    +1 952 222 2368   Hilltop, MN
-    +1 952 222 2374   Hilltop, MN
-    +1 952 222 2399   Hilltop, MN
-    +1 952 222 2408   Hilltop, MN
-    +1 952 222 2471   Hilltop, MN
-    +1 952 222 2528   Hilltop, MN
-    +1 952 222 2592   Hilltop, MN
-    +1 952 222 2814   Hilltop, MN
-    +1 952 222 2843   Hilltop, MN
-    +1 952 222 2870   Hilltop, MN
-    +1 952 222 2913   Hilltop, MN
 
   NEBRASKA (2)
     +1 308 422 2221   Wilsonville, NE
     +1 531 222 2218   Omaha, NE
 
-  NEW YORK (3)
+  NEW YORK (2)
     +1 585 822 2220   East Rochester, NY
-    +1 607 622 2221   Bath, NY
     +1 716 322 2220   Buffalo, NY
 
   OREGON (3)
@@ -131,9 +98,9 @@ Updated: 2026-08-28
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 73 numbers ---
+--- 44444 — 74 numbers ---
 
-  ALABAMA (12)
+  ALABAMA (13)
     +1 251 444 4402   Mobile, AL
     +1 251 444 4407   Mobile, AL
     +1 251 444 4413   Mobile, AL
@@ -144,6 +111,7 @@ Updated: 2026-08-28
     +1 251 444 4492   Mobile, AL
     +1 251 444 4497   Mobile, AL
     +1 251 444 4498   Mobile, AL
+    +1 256 344 4447   Attalla, AL
     +1 938 444 4457   Decatur, AL
     +1 938 444 4487   Decatur, AL
 
@@ -1291,7 +1259,7 @@ Updated: 2026-08-28
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 736 numbers across 41 states
+4 ZEROS — 713 numbers across 39 states
 ====================================================
 
   ALABAMA (25)
@@ -1345,7 +1313,7 @@ Updated: 2026-08-28
     +1 479 410 0008   Van Buren, AR
     +1 479 410 0009   Van Buren, AR
 
-  CALIFORNIA (54)
+  CALIFORNIA (46)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 626 640 0003   La Puente, CA
@@ -1376,14 +1344,6 @@ Updated: 2026-08-28
     +1 669 500 0094   Gilroy, CA
     +1 669 500 0097   Gilroy, CA
     +1 669 500 0098   Gilroy, CA
-    +1 707 400 0036   Benicia, CA
-    +1 707 400 0039   Benicia, CA
-    +1 707 400 0068   Benicia, CA
-    +1 707 400 0078   Benicia, CA
-    +1 707 400 0083   Benicia, CA
-    +1 707 400 0092   Benicia, CA
-    +1 707 400 0095   Benicia, CA
-    +1 707 410 0003   Fairfield, CA
     +1 747 380 0003   Reseda, CA
     +1 747 380 0004   Reseda, CA
     +1 747 380 0005   Reseda, CA
@@ -1401,17 +1361,15 @@ Updated: 2026-08-28
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
 
-  CONNECTICUT (47)
+  CONNECTICUT (45)
     +1 203 580 0003   Stamford, CT
     +1 475 600 0091   Ansonia, CT
-    +1 860 600 0031   Litchfield, CT
     +1 860 600 0039   Litchfield, CT
     +1 860 600 0041   Litchfield, CT
     +1 860 600 0042   Litchfield, CT
     +1 860 600 0045   Litchfield, CT
     +1 860 600 0068   Litchfield, CT
     +1 860 600 0075   Litchfield, CT
-    +1 959 400 0038   Torrington, CT
     +1 959 400 0045   Torrington, CT
     +1 959 400 0047   Torrington, CT
     +1 959 400 0057   Torrington, CT
@@ -1459,7 +1417,7 @@ Updated: 2026-08-28
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (46)
+  FLORIDA (45)
     +1 321 900 0021   Kissimmee, FL
     +1 352 570 0008   Yankeetown, FL
     +1 352 780 0004   Belleview, FL
@@ -1477,7 +1435,6 @@ Updated: 2026-08-28
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0007   Ponce De Leon, FL
     +1 850 940 0008   Ponce De Leon, FL
-    +1 941 900 0021   Bradenton, FL
     +1 941 900 0028   Bradenton, FL
     +1 941 900 0031   Bradenton, FL
     +1 941 900 0032   Bradenton, FL
@@ -1548,17 +1505,14 @@ Updated: 2026-08-28
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
 
-  INDIANA (4)
+  INDIANA (5)
+    +1 765 400 0019   Anderson, IN
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
 
-  IOWA (1)
-    +1 712 800 0081   Glenwood, IA
-
-  KANSAS (11)
-    +1 785 335 0000   Scandia, KS
+  KANSAS (10)
     +1 785 510 0002   Washington, KS
     +1 785 522 0000   Circleville, KS
     +1 785 536 0000   Gypsum, KS
@@ -1578,7 +1532,7 @@ Updated: 2026-08-28
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
     +1 318 480 0003   Jonesboro, LA
-    +1 318 520 0007   Castor, LA
+    +1 985 200 0086   Madisonville, LA
     +1 985 570 0003   Bogalusa, LA
     +1 985 570 0004   Bogalusa, LA
     +1 985 570 0005   Bogalusa, LA
@@ -1898,7 +1852,7 @@ Updated: 2026-08-28
   NORTH DAKOTA (1)
     +1 701 800 0098   Leonard, ND
 
-  OHIO (53)
+  OHIO (45)
     +1 380 500 0017   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
     +1 440 600 0078   Chagrin Falls, OH
@@ -1922,7 +1876,6 @@ Updated: 2026-08-28
     +1 567 400 0078   Genoa, OH
     +1 567 400 0079   Genoa, OH
     +1 567 400 0098   Genoa, OH
-    +1 740 300 0097   Nelsonville, OH
     +1 740 500 0012   Circleville, OH
     +1 740 500 0032   Circleville, OH
     +1 740 690 0005   Gambier, OH
@@ -1932,11 +1885,6 @@ Updated: 2026-08-28
     +1 740 690 0009   Gambier, OH
     +1 740 760 0008   Marietta, OH
     +1 740 860 0007   Parkersburg, OH
-    +1 937 400 0074   Jackson Center, OH
-    +1 937 400 0075   Jackson Center, OH
-    +1 937 400 0076   Jackson Center, OH
-    +1 937 400 0078   Jackson Center, OH
-    +1 937 400 0081   Jackson Center, OH
     +1 937 400 0082   Jackson Center, OH
     +1 937 400 0084   Jackson Center, OH
     +1 937 400 0085   Jackson Center, OH
@@ -1950,8 +1898,6 @@ Updated: 2026-08-28
     +1 937 400 0096   Jackson Center, OH
     +1 937 400 0097   Jackson Center, OH
     +1 937 400 0098   Jackson Center, OH
-    +1 937 820 0006   Hillsboro, OH
-    +1 937 820 0009   Hillsboro, OH
 
   OKLAHOMA (3)
     +1 405 970 0004   Guthrie, OK
@@ -2006,10 +1952,6 @@ Updated: 2026-08-28
     +1 401 800 0086   Wakefield-Peacedale, RI
     +1 401 830 0006   North Providence, RI
     +1 401 910 0003   Providence, RI
-
-  SOUTH CAROLINA (2)
-    +1 854 240 0004   Beaufort, SC
-    +1 854 240 0009   Beaufort, SC
 
   TENNESSEE (6)
     +1 901 610 0003   Collierville, TN
@@ -2105,8 +2047,7 @@ Updated: 2026-08-28
     +1 681 440 0006   Farmington, WV
     +1 681 440 0009   Farmington, WV
 
-  WISCONSIN (2)
-    +1 715 940 0007   Shawano, WI
+  WISCONSIN (1)
     +1 920 890 0007   Egg Harbor, WI
 
   WYOMING (1)
