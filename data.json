@@ -1,9 +1,9 @@
 {
- "date": "2026-08-29",
+ "date": "2026-08-30",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 23,
+   "count": 26,
    "states": [
     {
      "state": "Alabama",
@@ -57,11 +57,23 @@
     },
     {
      "state": "Minnesota",
-     "count": 1,
+     "count": 4,
      "numbers": [
       {
        "number": "+1 507 922 2225",
        "location": "Spring Valley, MN"
+      },
+      {
+       "number": "+1 952 222 2325",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 222 2354",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 222 2358",
+       "location": "Hilltop, MN"
       }
      ]
     },
@@ -329,11 +341,11 @@
   },
   {
    "pattern": "44444",
-   "count": 74,
+   "count": 73,
    "states": [
     {
      "state": "Alabama",
-     "count": 13,
+     "count": 12,
      "numbers": [
       {
        "number": "+1 251 444 4402",
@@ -374,10 +386,6 @@
       {
        "number": "+1 251 444 4498",
        "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 256 344 4447",
-       "location": "Attalla, AL"
       },
       {
        "number": "+1 938 444 4457",
@@ -781,18 +789,14 @@
   },
   {
    "pattern": "66666",
-   "count": 75,
+   "count": 74,
    "states": [
     {
      "state": "Alabama",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 334 666 6605",
-       "location": "Wetumpka, AL"
-      },
-      {
-       "number": "+1 334 666 6627",
        "location": "Wetumpka, AL"
       },
       {
@@ -1213,7 +1217,7 @@
   },
   {
    "pattern": "77777",
-   "count": 229,
+   "count": 230,
    "states": [
     {
      "state": "California",
@@ -2196,6 +2200,16 @@
        "location": "Brian Head, UT"
       }
      ]
+    },
+    {
+     "state": "Washington",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 425 577 7774",
+       "location": "Seattle, WA"
+      }
+     ]
     }
    ]
   },
@@ -2774,11 +2788,11 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8662",
+       "number": "+1 858 888 8657",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8663",
+       "number": "+1 858 888 8662",
        "location": "San Diego, CA"
       }
      ]
@@ -4825,12 +4839,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 713,
+  "total": 712,
   "state_count": 39,
   "states": [
    {
     "state": "Alabama",
-    "count": 25,
+    "count": 26,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -4859,6 +4873,10 @@
      {
       "number": "+1 251 810 0005",
       "location": "Bayou La Batre, AL"
+     },
+     {
+      "number": "+1 256 400 0062",
+      "location": "Albertville, AL"
      },
      {
       "number": "+1 334 910 0002",
@@ -5509,6 +5527,10 @@
       "location": "Ponce De Leon, FL"
      },
      {
+      "number": "+1 863 240 0005",
+      "location": "Haines City, FL"
+     },
+     {
       "number": "+1 941 900 0028",
       "location": "Bradenton, FL"
      },
@@ -5598,10 +5620,6 @@
      },
      {
       "number": "+1 941 900 0075",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0076",
       "location": "Bradenton, FL"
      },
      {
@@ -5782,12 +5800,8 @@
    },
    {
     "state": "Indiana",
-    "count": 5,
+    "count": 4,
     "numbers": [
-     {
-      "number": "+1 765 400 0019",
-      "location": "Anderson, IN"
-     },
      {
       "number": "+1 765 710 0002",
       "location": "Eaton, IN"
@@ -5868,7 +5882,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 9,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -5881,10 +5895,6 @@
      {
       "number": "+1 318 480 0003",
       "location": "Jonesboro, LA"
-     },
-     {
-      "number": "+1 985 200 0086",
-      "location": "Madisonville, LA"
      },
      {
       "number": "+1 985 570 0003",
@@ -5940,7 +5950,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 58,
+    "count": 59,
     "numbers": [
      {
       "number": "+1 218 480 0003",
@@ -5993,6 +6003,10 @@
      {
       "number": "+1 218 610 0009",
       "location": "Barnum, MN"
+     },
+     {
+      "number": "+1 218 660 0007",
+      "location": "Carlton, MN"
      },
      {
       "number": "+1 218 810 0008",
@@ -7344,14 +7358,10 @@
    },
    {
     "state": "Oregon",
-    "count": 14,
+    "count": 13,
     "numbers": [
      {
       "number": "+1 971 360 0003",
-      "location": "West Haven-Sylvan, OR"
-     },
-     {
-      "number": "+1 971 360 0004",
       "location": "West Haven-Sylvan, OR"
      },
      {
@@ -7534,12 +7544,8 @@
    },
    {
     "state": "Tennessee",
-    "count": 6,
+    "count": 5,
     "numbers": [
-     {
-      "number": "+1 901 610 0003",
-      "location": "Collierville, TN"
-     },
      {
       "number": "+1 901 660 0003",
       "location": "Grand Junction, TN"
@@ -7786,8 +7792,12 @@
    },
    {
     "state": "Virginia",
-    "count": 1,
+    "count": 2,
     "numbers": [
+     {
+      "number": "+1 571 750 0002",
+      "location": "Washington Zone 8, VA"
+     },
      {
       "number": "+1 757 740 0003",
       "location": "Franklin, VA"
@@ -8385,9 +8395,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1066,
+  "total_5_in_a_row": 1068,
   "patterns_with_results": 8,
-  "total_0000": 713,
+  "total_0000": 712,
   "state_count_0000": 39,
   "total_aaa_bbbb": 51,
   "aaa_bbbb_patterns_searched": 90,

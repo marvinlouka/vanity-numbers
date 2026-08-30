@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-08-29
-1066 five-in-a-row · 713 four-zeros across 39 states · 51 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-08-30
+1068 five-in-a-row · 712 four-zeros across 39 states · 51 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 23 numbers ---
+--- 22222 — 26 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
@@ -22,8 +22,11 @@ Updated: 2026-08-29
     +1 978 822 2225   Shirley, MA
     +1 978 822 2229   Shirley, MA
 
-  MINNESOTA (1)
+  MINNESOTA (4)
     +1 507 922 2225   Spring Valley, MN
+    +1 952 222 2325   Hilltop, MN
+    +1 952 222 2354   Hilltop, MN
+    +1 952 222 2358   Hilltop, MN
 
   NEBRASKA (2)
     +1 308 422 2221   Wilsonville, NE
@@ -98,9 +101,9 @@ Updated: 2026-08-29
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 74 numbers ---
+--- 44444 — 73 numbers ---
 
-  ALABAMA (13)
+  ALABAMA (12)
     +1 251 444 4402   Mobile, AL
     +1 251 444 4407   Mobile, AL
     +1 251 444 4413   Mobile, AL
@@ -111,7 +114,6 @@ Updated: 2026-08-29
     +1 251 444 4492   Mobile, AL
     +1 251 444 4497   Mobile, AL
     +1 251 444 4498   Mobile, AL
-    +1 256 344 4447   Attalla, AL
     +1 938 444 4457   Decatur, AL
     +1 938 444 4487   Decatur, AL
 
@@ -220,11 +222,10 @@ Updated: 2026-08-29
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 75 numbers ---
+--- 66666 — 74 numbers ---
 
-  ALABAMA (7)
+  ALABAMA (6)
     +1 334 666 6605   Wetumpka, AL
-    +1 334 666 6627   Wetumpka, AL
     +1 334 666 6690   Wetumpka, AL
     +1 334 766 6661   Daleville, AL
     +1 334 766 6665   Daleville, AL
@@ -339,7 +340,7 @@ Updated: 2026-08-29
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 229 numbers ---
+--- 77777 — 230 numbers ---
 
   CALIFORNIA (165)
     +1 657 777 7038   Buena Park, CA
@@ -592,6 +593,9 @@ Updated: 2026-08-29
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
+  WASHINGTON (1)
+    +1 425 577 7774   Seattle, WA
+
 --- 88888 — 466 numbers ---
 
   ALABAMA (26)
@@ -737,8 +741,8 @@ Updated: 2026-08-29
     +1 858 888 8645   San Diego, CA
     +1 858 888 8646   San Diego, CA
     +1 858 888 8650   San Diego, CA
+    +1 858 888 8657   San Diego, CA
     +1 858 888 8662   San Diego, CA
-    +1 858 888 8663   San Diego, CA
 
   MINNESOTA (128)
     +1 218 888 8009   Bemidji, MN
@@ -1259,10 +1263,10 @@ Updated: 2026-08-29
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 713 numbers across 39 states
+4 ZEROS — 712 numbers across 39 states
 ====================================================
 
-  ALABAMA (25)
+  ALABAMA (26)
     +1 251 530 0002   Pine Apple, AL
     +1 251 800 0016   Mobile, AL
     +1 251 800 0025   Mobile, AL
@@ -1270,6 +1274,7 @@ Updated: 2026-08-29
     +1 251 800 0085   Mobile, AL
     +1 251 800 0096   Mobile, AL
     +1 251 810 0005   Bayou La Batre, AL
+    +1 256 400 0062   Albertville, AL
     +1 334 910 0002   Montgomery, AL
     +1 334 910 0003   Montgomery, AL
     +1 334 910 0004   Montgomery, AL
@@ -1435,6 +1440,7 @@ Updated: 2026-08-29
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0007   Ponce De Leon, FL
     +1 850 940 0008   Ponce De Leon, FL
+    +1 863 240 0005   Haines City, FL
     +1 941 900 0028   Bradenton, FL
     +1 941 900 0031   Bradenton, FL
     +1 941 900 0032   Bradenton, FL
@@ -1458,7 +1464,6 @@ Updated: 2026-08-29
     +1 941 900 0072   Bradenton, FL
     +1 941 900 0074   Bradenton, FL
     +1 941 900 0075   Bradenton, FL
-    +1 941 900 0076   Bradenton, FL
     +1 941 900 0082   Bradenton, FL
     +1 941 900 0091   Bradenton, FL
     +1 941 900 0095   Bradenton, FL
@@ -1505,8 +1510,7 @@ Updated: 2026-08-29
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
 
-  INDIANA (5)
-    +1 765 400 0019   Anderson, IN
+  INDIANA (4)
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
     +1 765 710 0004   Eaton, IN
@@ -1528,11 +1532,10 @@ Updated: 2026-08-29
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (9)
+  LOUISIANA (8)
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
     +1 318 480 0003   Jonesboro, LA
-    +1 985 200 0086   Madisonville, LA
     +1 985 570 0003   Bogalusa, LA
     +1 985 570 0004   Bogalusa, LA
     +1 985 570 0005   Bogalusa, LA
@@ -1547,7 +1550,7 @@ Updated: 2026-08-29
     +1 667 400 0064   Baltimore, MD
     +1 667 400 0065   Baltimore, MD
 
-  MINNESOTA (58)
+  MINNESOTA (59)
     +1 218 480 0003   Stephen, MN
     +1 218 480 0005   Stephen, MN
     +1 218 480 0006   Stephen, MN
@@ -1561,6 +1564,7 @@ Updated: 2026-08-29
     +1 218 610 0007   Barnum, MN
     +1 218 610 0008   Barnum, MN
     +1 218 610 0009   Barnum, MN
+    +1 218 660 0007   Carlton, MN
     +1 218 810 0008   Duluth, MN
     +1 218 960 0003   Alvarado, MN
     +1 218 960 0005   Alvarado, MN
@@ -1904,9 +1908,8 @@ Updated: 2026-08-29
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
 
-  OREGON (14)
+  OREGON (13)
     +1 971 360 0003   West Haven-Sylvan, OR
-    +1 971 360 0004   West Haven-Sylvan, OR
     +1 971 360 0006   West Haven-Sylvan, OR
     +1 971 360 0008   West Haven-Sylvan, OR
     +1 971 600 0012   Salem, OR
@@ -1953,8 +1956,7 @@ Updated: 2026-08-29
     +1 401 830 0006   North Providence, RI
     +1 401 910 0003   Providence, RI
 
-  TENNESSEE (6)
-    +1 901 610 0003   Collierville, TN
+  TENNESSEE (5)
     +1 901 660 0003   Grand Junction, TN
     +1 901 660 0004   Grand Junction, TN
     +1 901 660 0007   Grand Junction, TN
@@ -2018,7 +2020,8 @@ Updated: 2026-08-29
   VERMONT (1)
     +1 802 520 0009   Alburg, VT
 
-  VIRGINIA (1)
+  VIRGINIA (2)
+    +1 571 750 0002   Washington Zone 8, VA
     +1 757 740 0003   Franklin, VA
 
   WASHINGTON (10)
