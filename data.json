@@ -1,9 +1,9 @@
 {
- "date": "2026-08-30",
+ "date": "2026-08-31",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 26,
+   "count": 23,
    "states": [
     {
      "state": "Alabama",
@@ -57,23 +57,11 @@
     },
     {
      "state": "Minnesota",
-     "count": 4,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 507 922 2225",
        "location": "Spring Valley, MN"
-      },
-      {
-       "number": "+1 952 222 2325",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2354",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 222 2358",
-       "location": "Hilltop, MN"
       }
      ]
     },
@@ -179,7 +167,7 @@
   },
   {
    "pattern": "33333",
-   "count": 27,
+   "count": 36,
    "states": [
     {
      "state": "Alabama",
@@ -193,8 +181,44 @@
     },
     {
      "state": "California",
-     "count": 5,
+     "count": 14,
      "numbers": [
+      {
+       "number": "+1 442 333 3324",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3327",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3328",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3329",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3341",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3351",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3362",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3369",
+       "location": "Carlsbad, CA"
+      },
+      {
+       "number": "+1 442 333 3372",
+       "location": "Carlsbad, CA"
+      },
       {
        "number": "+1 951 433 3331",
        "location": "Corona, CA"
@@ -341,7 +365,7 @@
   },
   {
    "pattern": "44444",
-   "count": 73,
+   "count": 72,
    "states": [
     {
      "state": "Alabama",
@@ -399,15 +423,11 @@
     },
     {
      "state": "Connecticut",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 860 744 4446",
        "location": "Willimantic, CT"
-      },
-      {
-       "number": "+1 959 244 4449",
-       "location": "New Britain, CT"
       }
      ]
     },
@@ -1217,7 +1237,7 @@
   },
   {
    "pattern": "77777",
-   "count": 230,
+   "count": 229,
    "states": [
     {
      "state": "California",
@@ -2198,16 +2218,6 @@
       {
        "number": "+1 435 677 7779",
        "location": "Brian Head, UT"
-      }
-     ]
-    },
-    {
-     "state": "Washington",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 425 577 7774",
-       "location": "Seattle, WA"
       }
      ]
     }
@@ -4839,12 +4849,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 712,
-  "state_count": 39,
+  "total": 722,
+  "state_count": 40,
   "states": [
    {
     "state": "Alabama",
-    "count": 26,
+    "count": 25,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -4873,10 +4883,6 @@
      {
       "number": "+1 251 810 0005",
       "location": "Bayou La Batre, AL"
-     },
-     {
-      "number": "+1 256 400 0062",
-      "location": "Albertville, AL"
      },
      {
       "number": "+1 334 910 0002",
@@ -5012,7 +5018,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 7,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -5041,13 +5047,25 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
+     },
+     {
+      "number": "+1 870 600 0073",
+      "location": "Ashdown, AR"
+     },
+     {
+      "number": "+1 870 600 0078",
+      "location": "Ashdown, AR"
      }
     ]
    },
    {
     "state": "California",
-    "count": 46,
+    "count": 47,
     "numbers": [
+     {
+      "number": "+1 424 450 0002",
+      "location": "San Pedro, CA"
+     },
      {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
@@ -5456,7 +5474,7 @@
    },
    {
     "state": "Florida",
-    "count": 45,
+    "count": 44,
     "numbers": [
      {
       "number": "+1 321 900 0021",
@@ -5525,10 +5543,6 @@
      {
       "number": "+1 850 940 0008",
       "location": "Ponce De Leon, FL"
-     },
-     {
-      "number": "+1 863 240 0005",
-      "location": "Haines City, FL"
      },
      {
       "number": "+1 941 900 0028",
@@ -5708,7 +5722,7 @@
    },
    {
     "state": "Idaho",
-    "count": 18,
+    "count": 17,
     "numbers": [
      {
       "number": "+1 208 330 0004",
@@ -5749,10 +5763,6 @@
      {
       "number": "+1 208 800 0087",
       "location": "Nampa, ID"
-     },
-     {
-      "number": "+1 986 910 0002",
-      "location": "Garden City, ID"
      },
      {
       "number": "+1 986 910 0003",
@@ -5822,15 +5832,11 @@
    },
    {
     "state": "Kansas",
-    "count": 10,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 785 510 0002",
       "location": "Washington, KS"
-     },
-     {
-      "number": "+1 785 522 0000",
-      "location": "Circleville, KS"
      },
      {
       "number": "+1 785 536 0000",
@@ -5945,6 +5951,16 @@
      {
       "number": "+1 667 400 0065",
       "location": "Baltimore, MD"
+     }
+    ]
+   },
+   {
+    "state": "Michigan",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 810 510 0003",
+      "location": "Columbiaville, MI"
      }
     ]
    },
@@ -7022,7 +7038,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 29,
+    "count": 36,
     "numbers": [
      {
       "number": "+1 252 740 0005",
@@ -7037,12 +7053,40 @@
       "location": "Browns Summit, NC"
      },
      {
+      "number": "+1 743 230 0002",
+      "location": "Greensboro, NC"
+     },
+     {
       "number": "+1 743 230 0005",
       "location": "Greensboro, NC"
      },
      {
       "number": "+1 828 680 0007",
       "location": "Mars Hill, NC"
+     },
+     {
+      "number": "+1 828 900 0019",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0035",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0036",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0039",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0041",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0043",
+      "location": "Black Mountain, NC"
      },
      {
       "number": "+1 828 900 0054",
@@ -7154,7 +7198,7 @@
    },
    {
     "state": "Ohio",
-    "count": 45,
+    "count": 46,
     "numbers": [
      {
       "number": "+1 380 500 0017",
@@ -7247,6 +7291,10 @@
      {
       "number": "+1 567 400 0098",
       "location": "Genoa, OH"
+     },
+     {
+      "number": "+1 614 660 0006",
+      "location": "Columbus, OH"
      },
      {
       "number": "+1 740 500 0012",
@@ -7358,7 +7406,7 @@
    },
    {
     "state": "Oregon",
-    "count": 13,
+    "count": 14,
     "numbers": [
      {
       "number": "+1 971 360 0003",
@@ -7411,6 +7459,10 @@
      {
       "number": "+1 971 600 0091",
       "location": "Salem, OR"
+     },
+     {
+      "number": "+1 971 800 0013",
+      "location": "Mill City, OR"
      }
     ]
    },
@@ -7792,11 +7844,15 @@
    },
    {
     "state": "Virginia",
-    "count": 2,
+    "count": 3,
     "numbers": [
      {
-      "number": "+1 571 750 0002",
-      "location": "Washington Zone 8, VA"
+      "number": "+1 434 290 0005",
+      "location": "Appomattox, VA"
+     },
+     {
+      "number": "+1 434 290 0009",
+      "location": "Appomattox, VA"
      },
      {
       "number": "+1 757 740 0003",
@@ -8395,10 +8451,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1068,
+  "total_5_in_a_row": 1072,
   "patterns_with_results": 8,
-  "total_0000": 712,
-  "state_count_0000": 39,
+  "total_0000": 722,
+  "state_count_0000": 40,
   "total_aaa_bbbb": 51,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 14
