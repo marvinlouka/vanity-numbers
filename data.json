@@ -1,9 +1,9 @@
 {
- "date": "2026-08-31",
+ "date": "2026-09-01",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 23,
+   "count": 22,
    "states": [
     {
      "state": "Alabama",
@@ -81,15 +81,11 @@
     },
     {
      "state": "New York",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 585 822 2220",
        "location": "East Rochester, NY"
-      },
-      {
-       "number": "+1 716 322 2220",
-       "location": "Buffalo, NY"
       }
      ]
     },
@@ -167,7 +163,7 @@
   },
   {
    "pattern": "33333",
-   "count": 36,
+   "count": 37,
    "states": [
     {
      "state": "Alabama",
@@ -313,7 +309,7 @@
     },
     {
      "state": "Wisconsin",
-     "count": 11,
+     "count": 12,
      "numbers": [
       {
        "number": "+1 920 333 3301",
@@ -321,6 +317,10 @@
       },
       {
        "number": "+1 920 333 3304",
+       "location": "Sturgeon Bay, WI"
+      },
+      {
+       "number": "+1 920 333 3313",
        "location": "Sturgeon Bay, WI"
       },
       {
@@ -365,11 +365,11 @@
   },
   {
    "pattern": "44444",
-   "count": 72,
+   "count": 71,
    "states": [
     {
      "state": "Alabama",
-     "count": 12,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 251 444 4402",
@@ -389,10 +389,6 @@
       },
       {
        "number": "+1 251 444 4451",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 444 4457",
        "location": "Mobile, AL"
       },
       {
@@ -809,11 +805,11 @@
   },
   {
    "pattern": "66666",
-   "count": 74,
+   "count": 73,
    "states": [
     {
      "state": "Alabama",
-     "count": 6,
+     "count": 5,
      "numbers": [
       {
        "number": "+1 334 666 6605",
@@ -834,10 +830,6 @@
       {
        "number": "+1 334 766 6668",
        "location": "Daleville, AL"
-      },
-      {
-       "number": "+1 938 666 6670",
-       "location": "Huntsville, AL"
       }
      ]
     },
@@ -885,7 +877,7 @@
     },
     {
      "state": "Florida",
-     "count": 5,
+     "count": 4,
      "numbers": [
       {
        "number": "+1 863 466 6661",
@@ -901,10 +893,6 @@
       },
       {
        "number": "+1 863 466 6665",
-       "location": "Okeechobee, FL"
-      },
-      {
-       "number": "+1 863 466 6667",
        "location": "Okeechobee, FL"
       }
      ]
@@ -1203,7 +1191,7 @@
     },
     {
      "state": "Texas",
-     "count": 3,
+     "count": 4,
      "numbers": [
       {
        "number": "+1 817 766 6663",
@@ -1216,6 +1204,10 @@
       {
        "number": "+1 817 766 6665",
        "location": "Fort Worth, TX"
+      },
+      {
+       "number": "+1 936 666 6306",
+       "location": "Conroe, TX"
       }
      ]
     },
@@ -1237,11 +1229,11 @@
   },
   {
    "pattern": "77777",
-   "count": 229,
+   "count": 231,
    "states": [
     {
      "state": "California",
-     "count": 165,
+     "count": 166,
      "numbers": [
       {
        "number": "+1 657 777 7038",
@@ -1902,6 +1894,10 @@
       {
        "number": "+1 657 777 7964",
        "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 909 277 7774",
+       "location": "San Bernardino, CA"
       }
      ]
     },
@@ -2067,7 +2063,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 16,
+     "count": 14,
      "numbers": [
       {
        "number": "+1 531 777 7705",
@@ -2118,15 +2114,7 @@
        "location": "Omaha, NE"
       },
       {
-       "number": "+1 531 777 7785",
-       "location": "Omaha, NE"
-      },
-      {
        "number": "+1 531 777 7786",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7791",
        "location": "Omaha, NE"
       },
       {
@@ -2161,8 +2149,24 @@
     },
     {
      "state": "Pennsylvania",
-     "count": 2,
+     "count": 6,
      "numbers": [
+      {
+       "number": "+1 267 777 7055",
+       "location": "Philadelphia, PA"
+      },
+      {
+       "number": "+1 267 777 7134",
+       "location": "Philadelphia, PA"
+      },
+      {
+       "number": "+1 267 777 7419",
+       "location": "Philadelphia, PA"
+      },
+      {
+       "number": "+1 267 777 7472",
+       "location": "Philadelphia, PA"
+      },
       {
        "number": "+1 267 777 7845",
        "location": "Philadelphia, PA"
@@ -2175,12 +2179,8 @@
     },
     {
      "state": "Rhode Island",
-     "count": 5,
+     "count": 4,
      "numbers": [
-      {
-       "number": "+1 401 777 7709",
-       "location": "Newport East, RI"
-      },
       {
        "number": "+1 401 777 7742",
        "location": "Newport East, RI"
@@ -2798,11 +2798,11 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8657",
+       "number": "+1 858 888 8656",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8662",
+       "number": "+1 858 888 8657",
        "location": "San Diego, CA"
       }
      ]
@@ -3327,7 +3327,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 86,
+     "count": 85,
      "numbers": [
       {
        "number": "+1 308 888 8022",
@@ -3379,10 +3379,6 @@
       },
       {
        "number": "+1 308 888 8210",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8212",
        "location": "Chappell, NE"
       },
       {
@@ -3682,16 +3678,6 @@
       {
        "number": "+1 505 788 8884",
        "location": "Escudilla Bonita, NM"
-      }
-     ]
-    },
-    {
-     "state": "New York",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 585 788 8882",
-       "location": "Bloomfield, NY"
       }
      ]
     },
@@ -4126,6 +4112,26 @@
      ]
     },
     {
+     "state": "Pennsylvania",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 717 288 8884",
+       "location": "Strasburg, PA"
+      }
+     ]
+    },
+    {
+     "state": "Tennessee",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 931 488 8889",
+       "location": "Shelbyville, TN"
+      }
+     ]
+    },
+    {
      "state": "Vermont",
      "count": 1,
      "numbers": [
@@ -4149,11 +4155,11 @@
   },
   {
    "pattern": "99999",
-   "count": 160,
+   "count": 148,
    "states": [
     {
      "state": "Alabama",
-     "count": 93,
+     "count": 87,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -4169,10 +4175,6 @@
       },
       {
        "number": "+1 251 999 9967",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 999 9975",
        "location": "Mobile, AL"
       },
       {
@@ -4253,10 +4255,6 @@
       },
       {
        "number": "+1 659 999 9087",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9089",
        "location": "Winfield, AL"
       },
       {
@@ -4348,10 +4346,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9354",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9380",
        "location": "Winfield, AL"
       },
@@ -4389,10 +4383,6 @@
       },
       {
        "number": "+1 659 999 9420",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9425",
        "location": "Winfield, AL"
       },
       {
@@ -4484,10 +4474,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9750",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9790",
        "location": "Winfield, AL"
       },
@@ -4520,10 +4506,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9861",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9865",
        "location": "Winfield, AL"
       }
@@ -4531,7 +4513,7 @@
     },
     {
      "state": "Colorado",
-     "count": 51,
+     "count": 47,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -4590,10 +4572,6 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9153",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9190",
        "location": "Colorado Springs, CO"
       },
@@ -4623,10 +4601,6 @@
       },
       {
        "number": "+1 719 999 9320",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9335",
        "location": "Colorado Springs, CO"
       },
       {
@@ -4714,19 +4688,11 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9813",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9816",
        "location": "Colorado Springs, CO"
       },
       {
        "number": "+1 719 999 9819",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9823",
        "location": "Colorado Springs, CO"
       },
       {
@@ -4741,12 +4707,8 @@
     },
     {
      "state": "Connecticut",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 203 599 9996",
-       "location": "Meriden, CT"
-      },
       {
        "number": "+1 203 599 9997",
        "location": "Meriden, CT"
@@ -4813,12 +4775,8 @@
     },
     {
      "state": "New York",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 332 999 9962",
-       "location": "Manhattan, NY"
-      },
       {
        "number": "+1 607 699 9994",
        "location": "Nichols, NY"
@@ -4849,12 +4807,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 722,
-  "state_count": 40,
+  "total": 685,
+  "state_count": 41,
   "states": [
    {
     "state": "Alabama",
-    "count": 25,
+    "count": 23,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -4893,16 +4851,8 @@
       "location": "Montgomery, AL"
      },
      {
-      "number": "+1 334 910 0004",
-      "location": "Montgomery, AL"
-     },
-     {
       "number": "+1 334 910 0006",
       "location": "Montgomery, AL"
-     },
-     {
-      "number": "+1 659 800 0081",
-      "location": "Vernon, AL"
      },
      {
       "number": "+1 659 800 0091",
@@ -4960,36 +4910,8 @@
    },
    {
     "state": "Arizona",
-    "count": 13,
+    "count": 6,
     "numbers": [
-     {
-      "number": "+1 520 600 0036",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 900 0075",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 910 0006",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 623 800 0045",
-      "location": "Phoenix, AZ"
-     },
-     {
-      "number": "+1 623 800 0097",
-      "location": "Phoenix, AZ"
-     },
-     {
-      "number": "+1 623 900 0062",
-      "location": "Phoenix, AZ"
-     },
-     {
-      "number": "+1 623 900 0094",
-      "location": "Phoenix, AZ"
-     },
      {
       "number": "+1 928 800 0056",
       "location": "Prescott, AZ"
@@ -5060,8 +4982,12 @@
    },
    {
     "state": "California",
-    "count": 47,
+    "count": 50,
     "numbers": [
+     {
+      "number": "+1 323 380 0004",
+      "location": "Los Angeles, CA"
+     },
      {
       "number": "+1 424 450 0002",
       "location": "San Pedro, CA"
@@ -5187,6 +5113,14 @@
       "location": "Gilroy, CA"
      },
      {
+      "number": "+1 707 500 0049",
+      "location": "Nice, CA"
+     },
+     {
+      "number": "+1 707 520 0004",
+      "location": "Monte Rio, CA"
+     },
+     {
       "number": "+1 747 380 0003",
       "location": "Reseda, CA"
      },
@@ -5254,16 +5188,8 @@
    },
    {
     "state": "Connecticut",
-    "count": 45,
+    "count": 41,
     "numbers": [
-     {
-      "number": "+1 203 580 0003",
-      "location": "Stamford, CT"
-     },
-     {
-      "number": "+1 475 600 0091",
-      "location": "Ansonia, CT"
-     },
      {
       "number": "+1 860 600 0039",
       "location": "Litchfield, CT"
@@ -5373,10 +5299,6 @@
       "location": "Plainfield Village, CT"
      },
      {
-      "number": "+1 959 800 0013",
-      "location": "Bethlehem Village, CT"
-     },
-     {
       "number": "+1 959 800 0023",
       "location": "Bethlehem Village, CT"
      },
@@ -5413,10 +5335,6 @@
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0059",
-      "location": "Bethlehem Village, CT"
-     },
-     {
       "number": "+1 959 800 0063",
       "location": "Bethlehem Village, CT"
      },
@@ -5440,7 +5358,7 @@
    },
    {
     "state": "Delaware",
-    "count": 7,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 302 620 0007",
@@ -5469,24 +5387,20 @@
      {
       "number": "+1 302 810 0007",
       "location": "Lewes, DE"
+     },
+     {
+      "number": "+1 302 930 0007",
+      "location": "Milford, DE"
      }
     ]
    },
    {
     "state": "Florida",
-    "count": 44,
+    "count": 41,
     "numbers": [
-     {
-      "number": "+1 321 900 0021",
-      "location": "Kissimmee, FL"
-     },
      {
       "number": "+1 352 570 0008",
       "location": "Yankeetown, FL"
-     },
-     {
-      "number": "+1 352 780 0004",
-      "location": "Belleview, FL"
      },
      {
       "number": "+1 352 830 0005",
@@ -5601,10 +5515,6 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0056",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0057",
       "location": "Bradenton, FL"
      },
@@ -5656,7 +5566,7 @@
    },
    {
     "state": "Georgia",
-    "count": 15,
+    "count": 14,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -5707,10 +5617,6 @@
       "location": "Thunderbolt, GA"
      },
      {
-      "number": "+1 943 770 0008",
-      "location": "Statham, GA"
-     },
-     {
       "number": "+1 943 990 0004",
       "location": "Flowery Branch, GA"
      },
@@ -5722,16 +5628,8 @@
    },
    {
     "state": "Idaho",
-    "count": 17,
+    "count": 15,
     "numbers": [
-     {
-      "number": "+1 208 330 0004",
-      "location": "Garden City, ID"
-     },
-     {
-      "number": "+1 208 460 0002",
-      "location": "Garden City, ID"
-     },
      {
       "number": "+1 208 800 0047",
       "location": "Nampa, ID"
@@ -5796,7 +5694,7 @@
    },
    {
     "state": "Illinois",
-    "count": 2,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 224 970 0003",
@@ -5805,6 +5703,14 @@
      {
       "number": "+1 618 820 0006",
       "location": "Bunker Hill, IL"
+     },
+     {
+      "number": "+1 773 780 0005",
+      "location": "Chicago, IL"
+     },
+     {
+      "number": "+1 773 780 0009",
+      "location": "Chicago, IL"
      }
     ]
    },
@@ -5888,7 +5794,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 8,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -5900,6 +5806,10 @@
      },
      {
       "number": "+1 318 480 0003",
+      "location": "Jonesboro, LA"
+     },
+     {
+      "number": "+1 318 480 0005",
       "location": "Jonesboro, LA"
      },
      {
@@ -5929,15 +5839,15 @@
     "count": 6,
     "numbers": [
      {
+      "number": "+1 240 600 0028",
+      "location": "Bowie, MD"
+     },
+     {
       "number": "+1 667 400 0036",
       "location": "Baltimore, MD"
      },
      {
       "number": "+1 667 400 0041",
-      "location": "Baltimore, MD"
-     },
-     {
-      "number": "+1 667 400 0053",
       "location": "Baltimore, MD"
      },
      {
@@ -5955,6 +5865,16 @@
     ]
    },
    {
+    "state": "Massachusetts",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 978 680 0005",
+      "location": "Concord, MA"
+     }
+    ]
+   },
+   {
     "state": "Michigan",
     "count": 1,
     "numbers": [
@@ -5966,20 +5886,8 @@
    },
    {
     "state": "Minnesota",
-    "count": 59,
+    "count": 55,
     "numbers": [
-     {
-      "number": "+1 218 480 0003",
-      "location": "Stephen, MN"
-     },
-     {
-      "number": "+1 218 480 0005",
-      "location": "Stephen, MN"
-     },
-     {
-      "number": "+1 218 480 0006",
-      "location": "Stephen, MN"
-     },
      {
       "number": "+1 218 500 0018",
       "location": "Kettle River, MN"
@@ -6153,10 +6061,6 @@
       "location": "Faribault, MN"
      },
      {
-      "number": "+1 507 400 0095",
-      "location": "Faribault, MN"
-     },
-     {
       "number": "+1 507 400 0098",
       "location": "Faribault, MN"
      },
@@ -6272,7 +6176,7 @@
    },
    {
     "state": "Nebraska",
-    "count": 22,
+    "count": 23,
     "numbers": [
      {
       "number": "+1 531 300 0031",
@@ -6327,6 +6231,10 @@
       "location": "Lincoln, NE"
      },
      {
+      "number": "+1 531 600 0029",
+      "location": "Omaha, NE"
+     },
+     {
       "number": "+1 531 810 0002",
       "location": "Lincoln, NE"
      },
@@ -6366,7 +6274,7 @@
    },
    {
     "state": "Nevada",
-    "count": 29,
+    "count": 28,
     "numbers": [
      {
       "number": "+1 775 600 0063",
@@ -6398,10 +6306,6 @@
      },
      {
       "number": "+1 775 800 0041",
-      "location": "Reno, NV"
-     },
-     {
-      "number": "+1 775 800 0045",
       "location": "Reno, NV"
      },
      {
@@ -6488,11 +6392,15 @@
    },
    {
     "state": "New Jersey",
-    "count": 18,
+    "count": 19,
     "numbers": [
      {
       "number": "+1 848 310 0006",
       "location": "South Bound Brook, NJ"
+     },
+     {
+      "number": "+1 856 300 0068",
+      "location": "Millville, NJ"
      },
      {
       "number": "+1 908 800 0023",
@@ -6604,7 +6512,7 @@
    },
    {
     "state": "New York",
-    "count": 107,
+    "count": 106,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -6649,6 +6557,14 @@
      {
       "number": "+1 585 910 0008",
       "location": "Rochester, NY"
+     },
+     {
+      "number": "+1 607 210 0006",
+      "location": "Watkins Glen, NY"
+     },
+     {
+      "number": "+1 607 210 0009",
+      "location": "Watkins Glen, NY"
      },
      {
       "number": "+1 607 800 0021",
@@ -6827,10 +6743,6 @@
       "location": "Buffalo, NY"
      },
      {
-      "number": "+1 845 910 0007",
-      "location": "Middletown, NY"
-     },
-     {
       "number": "+1 845 910 0008",
       "location": "Middletown, NY"
      },
@@ -6975,10 +6887,6 @@
       "location": "Port Jefferson, NY"
      },
      {
-      "number": "+1 934 400 0087",
-      "location": "Port Jefferson, NY"
-     },
-     {
       "number": "+1 934 400 0094",
       "location": "Port Jefferson, NY"
      },
@@ -7011,10 +6919,6 @@
       "location": "North Bay Shore, NY"
      },
      {
-      "number": "+1 934 500 0047",
-      "location": "North Bay Shore, NY"
-     },
-     {
       "number": "+1 934 500 0052",
       "location": "North Bay Shore, NY"
      },
@@ -7038,8 +6942,12 @@
    },
    {
     "state": "North Carolina",
-    "count": 36,
+    "count": 37,
     "numbers": [
+     {
+      "number": "+1 252 260 0003",
+      "location": "Moyock, NC"
+     },
      {
       "number": "+1 252 740 0005",
       "location": "Rocky Mount, NC"
@@ -7198,10 +7106,14 @@
    },
    {
     "state": "Ohio",
-    "count": 46,
+    "count": 37,
     "numbers": [
      {
       "number": "+1 380 500 0017",
+      "location": "Worthington, OH"
+     },
+     {
+      "number": "+1 380 500 0034",
       "location": "Worthington, OH"
      },
      {
@@ -7293,8 +7205,12 @@
       "location": "Genoa, OH"
      },
      {
-      "number": "+1 614 660 0006",
-      "location": "Columbus, OH"
+      "number": "+1 740 200 0010",
+      "location": "Ashley, OH"
+     },
+     {
+      "number": "+1 740 300 0046",
+      "location": "Nelsonville, OH"
      },
      {
       "number": "+1 740 500 0012",
@@ -7302,6 +7218,14 @@
      },
      {
       "number": "+1 740 500 0032",
+      "location": "Circleville, OH"
+     },
+     {
+      "number": "+1 740 500 0034",
+      "location": "Circleville, OH"
+     },
+     {
+      "number": "+1 740 500 0089",
       "location": "Circleville, OH"
      },
      {
@@ -7331,58 +7255,6 @@
      {
       "number": "+1 740 860 0007",
       "location": "Parkersburg, OH"
-     },
-     {
-      "number": "+1 937 400 0082",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0084",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0085",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0086",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0087",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0089",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0091",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0092",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0094",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0095",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0096",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0097",
-      "location": "Jackson Center, OH"
-     },
-     {
-      "number": "+1 937 400 0098",
-      "location": "Jackson Center, OH"
      }
     ]
    },
@@ -7406,20 +7278,8 @@
    },
    {
     "state": "Oregon",
-    "count": 14,
+    "count": 11,
     "numbers": [
-     {
-      "number": "+1 971 360 0003",
-      "location": "West Haven-Sylvan, OR"
-     },
-     {
-      "number": "+1 971 360 0006",
-      "location": "West Haven-Sylvan, OR"
-     },
-     {
-      "number": "+1 971 360 0008",
-      "location": "West Haven-Sylvan, OR"
-     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -7468,8 +7328,12 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 4,
+    "count": 5,
     "numbers": [
+     {
+      "number": "+1 570 500 0027",
+      "location": "Shamokin, PA"
+     },
      {
       "number": "+1 570 520 0008",
       "location": "Berwick, PA"
@@ -7479,8 +7343,8 @@
       "location": "Mount Pocono, PA"
      },
      {
-      "number": "+1 814 509 0000",
-      "location": "Windber, PA"
+      "number": "+1 724 800 0073",
+      "location": "New Castle, PA"
      },
      {
       "number": "+1 814 754 0000",
@@ -7490,7 +7354,7 @@
    },
    {
     "state": "Rhode Island",
-    "count": 25,
+    "count": 24,
     "numbers": [
      {
       "number": "+1 401 600 0045",
@@ -7514,10 +7378,6 @@
      },
      {
       "number": "+1 401 600 0078",
-      "location": "Providence, RI"
-     },
-     {
-      "number": "+1 401 600 0081",
       "location": "Providence, RI"
      },
      {
@@ -7676,36 +7536,8 @@
    },
    {
     "state": "Utah",
-    "count": 38,
+    "count": 28,
     "numbers": [
-     {
-      "number": "+1 385 300 0029",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0031",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0032",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0036",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0042",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0068",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0083",
-      "location": "Bountiful, UT"
-     },
      {
       "number": "+1 385 550 0004",
       "location": "Bountiful, UT"
@@ -7755,10 +7587,6 @@
       "location": "Delta, UT"
      },
      {
-      "number": "+1 435 500 0028",
-      "location": "Delta, UT"
-     },
-     {
       "number": "+1 435 500 0031",
       "location": "Delta, UT"
      },
@@ -7783,10 +7611,6 @@
       "location": "Delta, UT"
      },
      {
-      "number": "+1 435 500 0051",
-      "location": "Delta, UT"
-     },
-     {
       "number": "+1 435 500 0052",
       "location": "Delta, UT"
      },
@@ -7804,10 +7628,6 @@
      },
      {
       "number": "+1 435 500 0078",
-      "location": "Delta, UT"
-     },
-     {
-      "number": "+1 435 500 0079",
       "location": "Delta, UT"
      },
      {
@@ -7862,7 +7682,7 @@
    },
    {
     "state": "Washington",
-    "count": 10,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 509 600 0071",
@@ -7890,10 +7710,6 @@
      },
      {
       "number": "+1 509 600 0093",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0094",
       "location": "Bridgeport, WA"
      },
      {
@@ -8143,11 +7959,11 @@
   },
   {
    "pattern": "6668888",
-   "count": 5,
+   "count": 4,
    "states": [
     {
      "state": "Idaho",
-     "count": 5,
+     "count": 4,
      "numbers": [
       {
        "number": "+1 986 668 8881",
@@ -8159,10 +7975,6 @@
       },
       {
        "number": "+1 986 668 8883",
-       "location": "Hayden Lake, ID"
-      },
-      {
-       "number": "+1 986 668 8884",
        "location": "Hayden Lake, ID"
       },
       {
@@ -8267,11 +8079,11 @@
   },
   {
    "pattern": "8882222",
-   "count": 7,
+   "count": 6,
    "states": [
     {
      "state": "Minnesota",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 218 882 2221",
@@ -8279,10 +8091,6 @@
       },
       {
        "number": "+1 218 882 2223",
-       "location": "Carlton, MN"
-      },
-      {
-       "number": "+1 218 882 2224",
        "location": "Carlton, MN"
       },
       {
@@ -8451,11 +8259,11 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1072,
+  "total_5_in_a_row": 1060,
   "patterns_with_results": 8,
-  "total_0000": 722,
-  "state_count_0000": 40,
-  "total_aaa_bbbb": 51,
+  "total_0000": 685,
+  "state_count_0000": 41,
+  "total_aaa_bbbb": 49,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 14
  }
