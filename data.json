@@ -1,9 +1,9 @@
 {
- "date": "2026-09-01",
+ "date": "2026-09-02",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 22,
+   "count": 30,
    "states": [
     {
      "state": "Alabama",
@@ -67,15 +67,11 @@
     },
     {
      "state": "Nebraska",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 308 422 2221",
        "location": "Wilsonville, NE"
-      },
-      {
-       "number": "+1 531 222 2218",
-       "location": "Omaha, NE"
       }
      ]
     },
@@ -91,7 +87,7 @@
     },
     {
      "state": "Oregon",
-     "count": 3,
+     "count": 12,
      "numbers": [
       {
        "number": "+1 458 322 2221",
@@ -104,6 +100,42 @@
       {
        "number": "+1 458 322 2229",
        "location": "Albany, OR"
+      },
+      {
+       "number": "+1 971 522 2220",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2221",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2223",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2224",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2225",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2226",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2227",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2228",
+       "location": "Newberg, OR"
+      },
+      {
+       "number": "+1 971 522 2229",
+       "location": "Newberg, OR"
       }
      ]
     },
@@ -365,7 +397,7 @@
   },
   {
    "pattern": "44444",
-   "count": 71,
+   "count": 70,
    "states": [
     {
      "state": "Alabama",
@@ -439,14 +471,10 @@
     },
     {
      "state": "Idaho",
-     "count": 18,
+     "count": 17,
      "numbers": [
       {
        "number": "+1 208 444 4426",
-       "location": "Coeur D'alene, ID"
-      },
-      {
-       "number": "+1 208 444 4427",
        "location": "Coeur D'alene, ID"
       },
       {
@@ -805,20 +833,12 @@
   },
   {
    "pattern": "66666",
-   "count": 73,
+   "count": 67,
    "states": [
     {
      "state": "Alabama",
-     "count": 5,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 334 666 6605",
-       "location": "Wetumpka, AL"
-      },
-      {
-       "number": "+1 334 666 6690",
-       "location": "Wetumpka, AL"
-      },
       {
        "number": "+1 334 766 6661",
        "location": "Daleville, AL"
@@ -1043,7 +1063,7 @@
     },
     {
      "state": "Minnesota",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 320 566 6662",
@@ -1051,10 +1071,6 @@
       },
       {
        "number": "+1 952 666 6609",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 666 6638",
        "location": "Hilltop, MN"
       }
      ]
@@ -1088,16 +1104,6 @@
       {
        "number": "+1 531 366 6669",
        "location": "Omaha, NE"
-      }
-     ]
-    },
-    {
-     "state": "Nevada",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 725 666 6657",
-       "location": "Nellis Afb, NV"
       }
      ]
     },
@@ -1165,7 +1171,7 @@
     },
     {
      "state": "Oregon",
-     "count": 5,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 541 566 6668",
@@ -1178,14 +1184,6 @@
       {
        "number": "+1 541 866 6662",
        "location": "Glendale, OR"
-      },
-      {
-       "number": "+1 971 666 6615",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 666 6638",
-       "location": "West Haven-Sylvan, OR"
       }
      ]
     },
@@ -1229,11 +1227,11 @@
   },
   {
    "pattern": "77777",
-   "count": 231,
+   "count": 230,
    "states": [
     {
      "state": "California",
-     "count": 166,
+     "count": 165,
      "numbers": [
       {
        "number": "+1 657 777 7038",
@@ -1894,10 +1892,6 @@
       {
        "number": "+1 657 777 7964",
        "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 909 277 7774",
-       "location": "San Bernardino, CA"
       }
      ]
     },
@@ -2225,11 +2219,11 @@
   },
   {
    "pattern": "88888",
-   "count": 466,
+   "count": 435,
    "states": [
     {
      "state": "Alabama",
-     "count": 26,
+     "count": 25,
      "numbers": [
       {
        "number": "+1 251 888 8803",
@@ -2305,10 +2299,6 @@
       },
       {
        "number": "+1 256 988 8886",
-       "location": "Huntsville, AL"
-      },
-      {
-       "number": "+1 256 988 8887",
        "location": "Huntsville, AL"
       },
       {
@@ -3683,7 +3673,7 @@
     },
     {
      "state": "Oregon",
-     "count": 106,
+     "count": 77,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3698,19 +3688,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8162",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8163",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8196",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8215",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3722,15 +3700,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8223",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8225",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8227",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3738,31 +3708,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8240",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8242",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8244",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8256",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8270",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8271",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8275",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3770,15 +3716,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8279",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8283",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8286",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3786,31 +3724,11 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8318",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8331",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8334",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8335",
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8344",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8357",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8365",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3834,23 +3752,11 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8480",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8494",
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8503",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8506",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8510",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3859,10 +3765,6 @@
       },
       {
        "number": "+1 458 888 8523",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8526",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3882,10 +3784,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8553",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8561",
        "location": "Milton-Freewater, OR"
       },
@@ -3902,23 +3800,11 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8626",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8627",
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8637",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8641",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8646",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3939,10 +3825,6 @@
       },
       {
        "number": "+1 458 888 8671",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8674",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3986,19 +3868,11 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8766",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8770",
        "location": "Milton-Freewater, OR"
       },
       {
        "number": "+1 458 888 8771",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8772",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -4046,10 +3920,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8927",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8928",
        "location": "Milton-Freewater, OR"
       },
@@ -4090,7 +3960,11 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8946",
+       "number": "+1 458 888 8947",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8951",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -4140,26 +4014,16 @@
        "location": "Barre, VT"
       }
      ]
-    },
-    {
-     "state": "Washington",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 425 988 8880",
-       "location": "Renton, WA"
-      }
-     ]
     }
    ]
   },
   {
    "pattern": "99999",
-   "count": 148,
+   "count": 67,
    "states": [
     {
      "state": "Alabama",
-     "count": 87,
+     "count": 10,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -4200,320 +4064,12 @@
       {
        "number": "+1 659 799 9998",
        "location": "Pinson, AL"
-      },
-      {
-       "number": "+1 659 999 9011",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9017",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9029",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9039",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9049",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9069",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9070",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9072",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9073",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9078",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9079",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9082",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9086",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9087",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9092",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9094",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9097",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9102",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9105",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9107",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9109",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9129",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9131",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9132",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9151",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9159",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9160",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9182",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9187",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9193",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9195",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9304",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9305",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9320",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9340",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9348",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9380",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9390",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9401",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9402",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9404",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9405",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9408",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9410",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9412",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9420",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9431",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9437",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9441",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9446",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9452",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9460",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9470",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9475",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9485",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9486",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9502",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9503",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9509",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9514",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9614",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9641",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9680",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9706",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9707",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9708",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9709",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9715",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9790",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9791",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9810",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9812",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9813",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9825",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9840",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9860",
-       "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 659 999 9865",
-       "location": "Winfield, AL"
       }
      ]
     },
     {
      "state": "Colorado",
-     "count": 47,
+     "count": 45,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -4572,10 +4128,6 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9190",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9196",
        "location": "Colorado Springs, CO"
       },
@@ -4625,10 +4177,6 @@
       },
       {
        "number": "+1 719 999 9485",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9489",
        "location": "Colorado Springs, CO"
       },
       {
@@ -4702,20 +4250,6 @@
       {
        "number": "+1 719 999 9887",
        "location": "Colorado Springs, CO"
-      }
-     ]
-    },
-    {
-     "state": "Connecticut",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 203 599 9997",
-       "location": "Meriden, CT"
-      },
-      {
-       "number": "+1 203 599 9998",
-       "location": "Meriden, CT"
       }
      ]
     },
@@ -4808,11 +4342,11 @@
  ],
  "pattern_0000": {
   "total": 685,
-  "state_count": 41,
+  "state_count": 42,
   "states": [
    {
     "state": "Alabama",
-    "count": 23,
+    "count": 20,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -4851,10 +4385,6 @@
       "location": "Montgomery, AL"
      },
      {
-      "number": "+1 334 910 0006",
-      "location": "Montgomery, AL"
-     },
-     {
       "number": "+1 659 800 0091",
       "location": "Vernon, AL"
      },
@@ -4864,14 +4394,6 @@
      },
      {
       "number": "+1 659 900 0024",
-      "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 900 0043",
-      "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 900 0047",
       "location": "Sulligent, AL"
      },
      {
@@ -4982,12 +4504,8 @@
    },
    {
     "state": "California",
-    "count": 50,
+    "count": 49,
     "numbers": [
-     {
-      "number": "+1 323 380 0004",
-      "location": "Los Angeles, CA"
-     },
      {
       "number": "+1 424 450 0002",
       "location": "San Pedro, CA"
@@ -5188,8 +4706,12 @@
    },
    {
     "state": "Connecticut",
-    "count": 41,
+    "count": 42,
     "numbers": [
+     {
+      "number": "+1 475 310 0008",
+      "location": "Wallingford, CT"
+     },
      {
       "number": "+1 860 600 0039",
       "location": "Litchfield, CT"
@@ -5566,7 +5088,7 @@
    },
    {
     "state": "Georgia",
-    "count": 14,
+    "count": 22,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -5607,6 +5129,38 @@
      {
       "number": "+1 762 930 0009",
       "location": "Augusta, GA"
+     },
+     {
+      "number": "+1 912 870 0002",
+      "location": "Brunswick, GA"
+     },
+     {
+      "number": "+1 912 870 0003",
+      "location": "Brunswick, GA"
+     },
+     {
+      "number": "+1 912 870 0004",
+      "location": "Brunswick, GA"
+     },
+     {
+      "number": "+1 912 870 0005",
+      "location": "Brunswick, GA"
+     },
+     {
+      "number": "+1 912 870 0006",
+      "location": "Brunswick, GA"
+     },
+     {
+      "number": "+1 912 870 0007",
+      "location": "Brunswick, GA"
+     },
+     {
+      "number": "+1 912 870 0008",
+      "location": "Brunswick, GA"
+     },
+     {
+      "number": "+1 912 870 0009",
+      "location": "Brunswick, GA"
      },
      {
       "number": "+1 912 940 0003",
@@ -5836,23 +5390,11 @@
    },
    {
     "state": "Maryland",
-    "count": 6,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 240 600 0028",
       "location": "Bowie, MD"
-     },
-     {
-      "number": "+1 667 400 0036",
-      "location": "Baltimore, MD"
-     },
-     {
-      "number": "+1 667 400 0041",
-      "location": "Baltimore, MD"
-     },
-     {
-      "number": "+1 667 400 0058",
-      "location": "Baltimore, MD"
      },
      {
       "number": "+1 667 400 0064",
@@ -5886,7 +5428,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 55,
+    "count": 54,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -6103,10 +5645,6 @@
      {
       "number": "+1 651 560 0003",
       "location": "Wabasha, MN"
-     },
-     {
-      "number": "+1 763 910 0004",
-      "location": "Hilltop, MN"
      }
     ]
    },
@@ -6176,7 +5714,7 @@
    },
    {
     "state": "Nebraska",
-    "count": 23,
+    "count": 21,
     "numbers": [
      {
       "number": "+1 531 300 0031",
@@ -6231,10 +5769,6 @@
       "location": "Lincoln, NE"
      },
      {
-      "number": "+1 531 600 0029",
-      "location": "Omaha, NE"
-     },
-     {
       "number": "+1 531 810 0002",
       "location": "Lincoln, NE"
      },
@@ -6256,10 +5790,6 @@
      },
      {
       "number": "+1 531 910 0005",
-      "location": "Omaha, NE"
-     },
-     {
-      "number": "+1 531 910 0006",
       "location": "Omaha, NE"
      },
      {
@@ -6512,7 +6042,7 @@
    },
    {
     "state": "New York",
-    "count": 106,
+    "count": 104,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -6557,14 +6087,6 @@
      {
       "number": "+1 585 910 0008",
       "location": "Rochester, NY"
-     },
-     {
-      "number": "+1 607 210 0006",
-      "location": "Watkins Glen, NY"
-     },
-     {
-      "number": "+1 607 210 0009",
-      "location": "Watkins Glen, NY"
      },
      {
       "number": "+1 607 800 0021",
@@ -7106,7 +6628,7 @@
    },
    {
     "state": "Ohio",
-    "count": 37,
+    "count": 36,
     "numbers": [
      {
       "number": "+1 380 500 0017",
@@ -7205,10 +6727,6 @@
       "location": "Genoa, OH"
      },
      {
-      "number": "+1 740 200 0010",
-      "location": "Ashley, OH"
-     },
-     {
       "number": "+1 740 300 0046",
       "location": "Nelsonville, OH"
      },
@@ -7278,8 +6796,28 @@
    },
    {
     "state": "Oregon",
-    "count": 11,
+    "count": 16,
     "numbers": [
+     {
+      "number": "+1 541 200 0014",
+      "location": "Medford, OR"
+     },
+     {
+      "number": "+1 541 200 0024",
+      "location": "Medford, OR"
+     },
+     {
+      "number": "+1 541 200 0034",
+      "location": "Medford, OR"
+     },
+     {
+      "number": "+1 541 200 0042",
+      "location": "Medford, OR"
+     },
+     {
+      "number": "+1 541 200 0070",
+      "location": "Medford, OR"
+     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -7328,7 +6866,7 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 5,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 570 500 0027",
@@ -7345,10 +6883,6 @@
      {
       "number": "+1 724 800 0073",
       "location": "New Castle, PA"
-     },
-     {
-      "number": "+1 814 754 0000",
-      "location": "Central City, PA"
      }
     ]
    },
@@ -7451,6 +6985,24 @@
      {
       "number": "+1 401 910 0003",
       "location": "Providence, RI"
+     }
+    ]
+   },
+   {
+    "state": "South Dakota",
+    "count": 3,
+    "numbers": [
+     {
+      "number": "+1 605 790 0007",
+      "location": "Sioux Falls, SD"
+     },
+     {
+      "number": "+1 605 790 0008",
+      "location": "Sioux Falls, SD"
+     },
+     {
+      "number": "+1 605 790 0009",
+      "location": "Sioux Falls, SD"
      }
     ]
    },
@@ -7664,16 +7216,8 @@
    },
    {
     "state": "Virginia",
-    "count": 3,
+    "count": 1,
     "numbers": [
-     {
-      "number": "+1 434 290 0005",
-      "location": "Appomattox, VA"
-     },
-     {
-      "number": "+1 434 290 0009",
-      "location": "Appomattox, VA"
-     },
      {
       "number": "+1 757 740 0003",
       "location": "Franklin, VA"
@@ -7682,12 +7226,8 @@
    },
    {
     "state": "Washington",
-    "count": 9,
+    "count": 8,
     "numbers": [
-     {
-      "number": "+1 509 600 0071",
-      "location": "Bridgeport, WA"
-     },
      {
       "number": "+1 509 600 0078",
       "location": "Bridgeport, WA"
@@ -8259,10 +7799,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1060,
+  "total_5_in_a_row": 948,
   "patterns_with_results": 8,
   "total_0000": 685,
-  "state_count_0000": 41,
+  "state_count_0000": 42,
   "total_aaa_bbbb": 49,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 14
