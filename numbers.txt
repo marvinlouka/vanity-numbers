@@ -1,17 +1,27 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-02
-948 five-in-a-row · 685 four-zeros across 42 states · 49 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-09-03
+929 five-in-a-row · 663 four-zeros across 41 states · 50 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 30 numbers ---
+--- 22222 — 37 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
     +1 938 722 2226   Section, AL
     +1 938 722 2229   Section, AL
+
+  ARIZONA (8)
+    +1 928 222 2201   Flagstaff, AZ
+    +1 928 222 2203   Flagstaff, AZ
+    +1 928 222 2206   Flagstaff, AZ
+    +1 928 222 2243   Flagstaff, AZ
+    +1 928 222 2275   Flagstaff, AZ
+    +1 928 222 2283   Flagstaff, AZ
+    +1 928 222 2294   Flagstaff, AZ
+    +1 928 222 2298   Flagstaff, AZ
 
   GEORGIA (1)
     +1 706 522 2226   Elberton, GA
@@ -31,7 +41,7 @@ Updated: 2026-09-02
   NEW YORK (1)
     +1 585 822 2220   East Rochester, NY
 
-  OREGON (12)
+  OREGON (11)
     +1 458 322 2221   Albany, OR
     +1 458 322 2226   Albany, OR
     +1 458 322 2229   Albany, OR
@@ -39,7 +49,6 @@ Updated: 2026-09-02
     +1 971 522 2221   Newberg, OR
     +1 971 522 2223   Newberg, OR
     +1 971 522 2224   Newberg, OR
-    +1 971 522 2225   Newberg, OR
     +1 971 522 2226   Newberg, OR
     +1 971 522 2227   Newberg, OR
     +1 971 522 2228   Newberg, OR
@@ -115,7 +124,7 @@ Updated: 2026-09-02
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 70 numbers ---
+--- 44444 — 69 numbers ---
 
   ALABAMA (11)
     +1 251 444 4402   Mobile, AL
@@ -136,10 +145,9 @@ Updated: 2026-09-02
   FLORIDA (1)
     +1 448 444 4495   Century, FL
 
-  IDAHO (17)
+  IDAHO (16)
     +1 208 444 4426   Coeur D'alene, ID
     +1 208 444 4430   Coeur D'alene, ID
-    +1 208 444 4432   Coeur D'alene, ID
     +1 208 444 4435   Coeur D'alene, ID
     +1 208 444 4436   Coeur D'alene, ID
     +1 208 444 4457   Coeur D'alene, ID
@@ -205,7 +213,7 @@ Updated: 2026-09-02
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 12 numbers ---
+--- 55555 — 11 numbers ---
 
   FLORIDA (3)
     +1 863 855 5551   Lake Wales, FL
@@ -219,9 +227,6 @@ Updated: 2026-09-02
     +1 218 955 5556   Breckenridge, MN
     +1 218 955 5558   Breckenridge, MN
 
-  SOUTH CAROLINA (1)
-    +1 803 455 5556   Beech Island, SC
-
   UTAH (3)
     +1 385 955 5553   Salt Lake City, UT
     +1 385 955 5554   Salt Lake City, UT
@@ -233,12 +238,16 @@ Updated: 2026-09-02
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 67 numbers ---
+--- 66666 — 68 numbers ---
 
   ALABAMA (3)
     +1 334 766 6661   Daleville, AL
     +1 334 766 6665   Daleville, AL
     +1 334 766 6668   Daleville, AL
+
+  ARIZONA (2)
+    +1 520 666 6685   Casa Grande, AZ
+    +1 520 666 6692   Casa Grande, AZ
 
   CALIFORNIA (2)
     +1 650 966 6661   Mountain View, CA
@@ -257,9 +266,6 @@ Updated: 2026-09-02
     +1 863 466 6662   Okeechobee, FL
     +1 863 466 6663   Okeechobee, FL
     +1 863 466 6665   Okeechobee, FL
-
-  GEORGIA (1)
-    +1 678 866 6664   Flowery Branch, GA
 
   IDAHO (3)
     +1 986 266 6663   Nampa, ID
@@ -342,7 +348,7 @@ Updated: 2026-09-02
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 230 numbers ---
+--- 77777 — 229 numbers ---
 
   CALIFORNIA (165)
     +1 657 777 7038   Buena Park, CA
@@ -511,10 +517,9 @@ Updated: 2026-09-02
     +1 657 777 7959   Buena Park, CA
     +1 657 777 7964   Buena Park, CA
 
-  CONNECTICUT (29)
+  CONNECTICUT (28)
     +1 959 777 7704   Hartford, CT
     +1 959 777 7708   Hartford, CT
-    +1 959 777 7709   Hartford, CT
     +1 959 777 7714   Hartford, CT
     +1 959 777 7715   Hartford, CT
     +1 959 777 7716   Hartford, CT
@@ -596,7 +601,7 @@ Updated: 2026-09-02
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 435 numbers ---
+--- 88888 — 411 numbers ---
 
   ALABAMA (25)
     +1 251 888 8803   Mobile, AL
@@ -873,7 +878,7 @@ Updated: 2026-09-02
     +1 320 588 8887   Finlayson, MN
     +1 507 488 8881   Nicollet, MN
 
-  NEBRASKA (85)
+  NEBRASKA (84)
     +1 308 888 8022   Chappell, NE
     +1 308 888 8023   Chappell, NE
     +1 308 888 8028   Chappell, NE
@@ -949,7 +954,6 @@ Updated: 2026-09-02
     +1 308 888 8948   Chappell, NE
     +1 308 888 8950   Chappell, NE
     +1 308 888 8955   Chappell, NE
-    +1 308 888 8956   Chappell, NE
     +1 308 888 8958   Chappell, NE
     +1 308 888 8962   Chappell, NE
     +1 308 888 8964   Chappell, NE
@@ -963,47 +967,25 @@ Updated: 2026-09-02
   NEW MEXICO (1)
     +1 505 788 8884   Escudilla Bonita, NM
 
-  OREGON (77)
+  OREGON (55)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
     +1 458 888 8196   Milton-Freewater, OR
     +1 458 888 8216   Milton-Freewater, OR
-    +1 458 888 8221   Milton-Freewater, OR
     +1 458 888 8225   Milton-Freewater, OR
-    +1 458 888 8235   Milton-Freewater, OR
-    +1 458 888 8270   Milton-Freewater, OR
     +1 458 888 8276   Milton-Freewater, OR
     +1 458 888 8283   Milton-Freewater, OR
     +1 458 888 8305   Milton-Freewater, OR
-    +1 458 888 8335   Milton-Freewater, OR
     +1 458 888 8357   Milton-Freewater, OR
     +1 458 888 8398   Milton-Freewater, OR
-    +1 458 888 8406   Milton-Freewater, OR
     +1 458 888 8412   Milton-Freewater, OR
-    +1 458 888 8422   Milton-Freewater, OR
-    +1 458 888 8427   Milton-Freewater, OR
-    +1 458 888 8494   Milton-Freewater, OR
-    +1 458 888 8506   Milton-Freewater, OR
     +1 458 888 8513   Milton-Freewater, OR
-    +1 458 888 8523   Milton-Freewater, OR
-    +1 458 888 8530   Milton-Freewater, OR
-    +1 458 888 8539   Milton-Freewater, OR
-    +1 458 888 8541   Milton-Freewater, OR
     +1 458 888 8543   Milton-Freewater, OR
-    +1 458 888 8561   Milton-Freewater, OR
     +1 458 888 8594   Milton-Freewater, OR
-    +1 458 888 8604   Milton-Freewater, OR
-    +1 458 888 8605   Milton-Freewater, OR
-    +1 458 888 8627   Milton-Freewater, OR
-    +1 458 888 8641   Milton-Freewater, OR
     +1 458 888 8651   Milton-Freewater, OR
-    +1 458 888 8655   Milton-Freewater, OR
-    +1 458 888 8661   Milton-Freewater, OR
     +1 458 888 8662   Milton-Freewater, OR
-    +1 458 888 8671   Milton-Freewater, OR
     +1 458 888 8676   Milton-Freewater, OR
-    +1 458 888 8691   Milton-Freewater, OR
     +1 458 888 8695   Milton-Freewater, OR
     +1 458 888 8698   Milton-Freewater, OR
     +1 458 888 8705   Milton-Freewater, OR
@@ -1041,9 +1023,6 @@ Updated: 2026-09-02
     +1 971 888 8823   West Haven-Sylvan, OR
     +1 971 888 8832   West Haven-Sylvan, OR
     +1 971 888 8871   West Haven-Sylvan, OR
-
-  PENNSYLVANIA (1)
-    +1 717 288 8884   Strasburg, PA
 
   TENNESSEE (1)
     +1 931 488 8889   Shelbyville, TN
@@ -1137,7 +1116,7 @@ Updated: 2026-09-02
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 685 numbers across 42 states
+4 ZEROS — 663 numbers across 41 states
 ====================================================
 
   ALABAMA (20)
@@ -1162,7 +1141,8 @@ Updated: 2026-09-02
     +1 659 910 0008   Birmingham, AL
     +1 659 910 0009   Birmingham, AL
 
-  ARIZONA (6)
+  ARIZONA (7)
+    +1 928 800 0024   Prescott, AZ
     +1 928 800 0056   Prescott, AZ
     +1 928 800 0059   Prescott, AZ
     +1 928 800 0067   Prescott, AZ
@@ -1286,10 +1266,9 @@ Updated: 2026-09-02
     +1 302 810 0007   Lewes, DE
     +1 302 930 0007   Milford, DE
 
-  FLORIDA (41)
+  FLORIDA (40)
     +1 352 570 0008   Yankeetown, FL
     +1 352 830 0005   Ocala, FL
-    +1 352 830 0007   Ocala, FL
     +1 352 900 0068   Gainesville, FL
     +1 386 800 0023   Crescent City, FL
     +1 386 800 0024   Crescent City, FL
@@ -1329,7 +1308,7 @@ Updated: 2026-09-02
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (22)
+  GEORGIA (14)
     +1 478 287 0000   Perry, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 600 0062   Monticello, GA
@@ -1340,14 +1319,6 @@ Updated: 2026-09-02
     +1 762 930 0004   Augusta, GA
     +1 762 930 0006   Augusta, GA
     +1 762 930 0009   Augusta, GA
-    +1 912 870 0002   Brunswick, GA
-    +1 912 870 0003   Brunswick, GA
-    +1 912 870 0004   Brunswick, GA
-    +1 912 870 0005   Brunswick, GA
-    +1 912 870 0006   Brunswick, GA
-    +1 912 870 0007   Brunswick, GA
-    +1 912 870 0008   Brunswick, GA
-    +1 912 870 0009   Brunswick, GA
     +1 912 940 0003   Thunderbolt, GA
     +1 912 940 0008   Thunderbolt, GA
     +1 943 990 0004   Flowery Branch, GA
@@ -1370,11 +1341,10 @@ Updated: 2026-09-02
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
-  ILLINOIS (4)
+  ILLINOIS (3)
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
-    +1 773 780 0005   Chicago, IL
-    +1 773 780 0009   Chicago, IL
+    +1 872 290 0004   Chicago, IL
 
   INDIANA (4)
     +1 765 710 0002   Eaton, IN
@@ -1408,9 +1378,7 @@ Updated: 2026-09-02
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (3)
-    +1 240 600 0028   Bowie, MD
-    +1 667 400 0064   Baltimore, MD
+  MARYLAND (1)
     +1 667 400 0065   Baltimore, MD
 
   MASSACHUSETTS (1)
@@ -1566,8 +1534,7 @@ Updated: 2026-09-02
     +1 908 800 0076   Somerville, NJ
     +1 908 800 0079   Somerville, NJ
 
-  NEW MEXICO (8)
-    +1 505 590 0008   Aztec, NM
+  NEW MEXICO (7)
     +1 575 500 0081   Roswell, NM
     +1 575 500 0083   Roswell, NM
     +1 575 500 0093   Roswell, NM
@@ -1767,12 +1734,7 @@ Updated: 2026-09-02
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
 
-  OREGON (16)
-    +1 541 200 0014   Medford, OR
-    +1 541 200 0024   Medford, OR
-    +1 541 200 0034   Medford, OR
-    +1 541 200 0042   Medford, OR
-    +1 541 200 0070   Medford, OR
+  OREGON (11)
     +1 971 600 0012   Salem, OR
     +1 971 600 0026   Salem, OR
     +1 971 600 0028   Salem, OR
@@ -1817,11 +1779,6 @@ Updated: 2026-09-02
     +1 401 830 0006   North Providence, RI
     +1 401 910 0003   Providence, RI
 
-  SOUTH DAKOTA (3)
-    +1 605 790 0007   Sioux Falls, SD
-    +1 605 790 0008   Sioux Falls, SD
-    +1 605 790 0009   Sioux Falls, SD
-
   TENNESSEE (5)
     +1 901 660 0003   Grand Junction, TN
     +1 901 660 0004   Grand Junction, TN
@@ -1829,12 +1786,11 @@ Updated: 2026-09-02
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (12)
+  TEXAS (11)
     +1 325 400 0015   Abilene, TX
     +1 325 400 0018   Abilene, TX
     +1 325 400 0027   Abilene, TX
     +1 325 400 0039   Abilene, TX
-    +1 325 400 0064   Abilene, TX
     +1 409 240 0008   Beaumont, TX
     +1 409 240 0009   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
@@ -1843,14 +1799,13 @@ Updated: 2026-09-02
     +1 903 420 0007   Corsicana, TX
     +1 903 420 0008   Corsicana, TX
 
-  UTAH (28)
+  UTAH (27)
     +1 385 550 0004   Bountiful, UT
     +1 385 550 0006   Bountiful, UT
     +1 385 560 0005   Murray, UT
     +1 385 580 0002   Murray, UT
     +1 385 580 0006   Murray, UT
     +1 385 900 0018   West Jordan, UT
-    +1 385 910 0002   Salt Lake City, UT
     +1 385 910 0003   Salt Lake City, UT
     +1 435 500 0013   Delta, UT
     +1 435 500 0023   Delta, UT
@@ -1934,7 +1889,7 @@ Updated: 2026-09-02
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 49 numbers across 14 patterns
+AAA-BBBB — 50 numbers across 14 patterns
 ====================================================
 
 --- 555-0000 — 2 numbers ---
@@ -2005,7 +1960,10 @@ AAA-BBBB — 49 numbers across 14 patterns
     +1 307 776 6668   Casper, WY
     +1 307 776 6669   Casper, WY
 
---- 888-2222 — 6 numbers ---
+--- 888-2222 — 7 numbers ---
+
+  ARIZONA (1)
+    +1 928 882 2221   Winslow, AZ
 
   MINNESOTA (6)
     +1 218 882 2221   Carlton, MN

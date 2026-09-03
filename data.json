@@ -1,9 +1,9 @@
 {
- "date": "2026-09-02",
+ "date": "2026-09-03",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 30,
+   "count": 37,
    "states": [
     {
      "state": "Alabama",
@@ -20,6 +20,44 @@
       {
        "number": "+1 938 722 2229",
        "location": "Section, AL"
+      }
+     ]
+    },
+    {
+     "state": "Arizona",
+     "count": 8,
+     "numbers": [
+      {
+       "number": "+1 928 222 2201",
+       "location": "Flagstaff, AZ"
+      },
+      {
+       "number": "+1 928 222 2203",
+       "location": "Flagstaff, AZ"
+      },
+      {
+       "number": "+1 928 222 2206",
+       "location": "Flagstaff, AZ"
+      },
+      {
+       "number": "+1 928 222 2243",
+       "location": "Flagstaff, AZ"
+      },
+      {
+       "number": "+1 928 222 2275",
+       "location": "Flagstaff, AZ"
+      },
+      {
+       "number": "+1 928 222 2283",
+       "location": "Flagstaff, AZ"
+      },
+      {
+       "number": "+1 928 222 2294",
+       "location": "Flagstaff, AZ"
+      },
+      {
+       "number": "+1 928 222 2298",
+       "location": "Flagstaff, AZ"
       }
      ]
     },
@@ -87,7 +125,7 @@
     },
     {
      "state": "Oregon",
-     "count": 12,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 458 322 2221",
@@ -115,10 +153,6 @@
       },
       {
        "number": "+1 971 522 2224",
-       "location": "Newberg, OR"
-      },
-      {
-       "number": "+1 971 522 2225",
        "location": "Newberg, OR"
       },
       {
@@ -397,7 +431,7 @@
   },
   {
    "pattern": "44444",
-   "count": 70,
+   "count": 69,
    "states": [
     {
      "state": "Alabama",
@@ -471,7 +505,7 @@
     },
     {
      "state": "Idaho",
-     "count": 17,
+     "count": 16,
      "numbers": [
       {
        "number": "+1 208 444 4426",
@@ -479,10 +513,6 @@
       },
       {
        "number": "+1 208 444 4430",
-       "location": "Coeur D'alene, ID"
-      },
-      {
-       "number": "+1 208 444 4432",
        "location": "Coeur D'alene, ID"
       },
       {
@@ -737,7 +767,7 @@
   },
   {
    "pattern": "55555",
-   "count": 12,
+   "count": 11,
    "states": [
     {
      "state": "Florida",
@@ -778,16 +808,6 @@
       {
        "number": "+1 218 955 5558",
        "location": "Breckenridge, MN"
-      }
-     ]
-    },
-    {
-     "state": "South Carolina",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 803 455 5556",
-       "location": "Beech Island, SC"
       }
      ]
     },
@@ -833,7 +853,7 @@
   },
   {
    "pattern": "66666",
-   "count": 67,
+   "count": 68,
    "states": [
     {
      "state": "Alabama",
@@ -850,6 +870,20 @@
       {
        "number": "+1 334 766 6668",
        "location": "Daleville, AL"
+      }
+     ]
+    },
+    {
+     "state": "Arizona",
+     "count": 2,
+     "numbers": [
+      {
+       "number": "+1 520 666 6685",
+       "location": "Casa Grande, AZ"
+      },
+      {
+       "number": "+1 520 666 6692",
+       "location": "Casa Grande, AZ"
       }
      ]
     },
@@ -914,16 +948,6 @@
       {
        "number": "+1 863 466 6665",
        "location": "Okeechobee, FL"
-      }
-     ]
-    },
-    {
-     "state": "Georgia",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 678 866 6664",
-       "location": "Flowery Branch, GA"
       }
      ]
     },
@@ -1227,7 +1251,7 @@
   },
   {
    "pattern": "77777",
-   "count": 230,
+   "count": 229,
    "states": [
     {
      "state": "California",
@@ -1897,7 +1921,7 @@
     },
     {
      "state": "Connecticut",
-     "count": 29,
+     "count": 28,
      "numbers": [
       {
        "number": "+1 959 777 7704",
@@ -1905,10 +1929,6 @@
       },
       {
        "number": "+1 959 777 7708",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7709",
        "location": "Hartford, CT"
       },
       {
@@ -2219,7 +2239,7 @@
   },
   {
    "pattern": "88888",
-   "count": 435,
+   "count": 411,
    "states": [
     {
      "state": "Alabama",
@@ -3317,7 +3337,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 85,
+     "count": 84,
      "numbers": [
       {
        "number": "+1 308 888 8022",
@@ -3620,10 +3640,6 @@
        "location": "Chappell, NE"
       },
       {
-       "number": "+1 308 888 8956",
-       "location": "Chappell, NE"
-      },
-      {
        "number": "+1 308 888 8958",
        "location": "Chappell, NE"
       },
@@ -3673,7 +3689,7 @@
     },
     {
      "state": "Oregon",
-     "count": 77,
+     "count": 55,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3696,19 +3712,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8221",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8225",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8235",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8270",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3724,10 +3728,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8335",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8357",
        "location": "Milton-Freewater, OR"
       },
@@ -3736,27 +3736,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8406",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8412",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8422",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8427",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8494",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8506",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3764,27 +3744,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8523",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8530",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8539",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8541",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8543",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8561",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3792,31 +3752,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8604",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8605",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8627",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8641",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8651",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8655",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8661",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3824,15 +3760,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8671",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8676",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8691",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3982,16 +3910,6 @@
       {
        "number": "+1 971 888 8871",
        "location": "West Haven-Sylvan, OR"
-      }
-     ]
-    },
-    {
-     "state": "Pennsylvania",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 717 288 8884",
-       "location": "Strasburg, PA"
       }
      ]
     },
@@ -4341,8 +4259,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 685,
-  "state_count": 42,
+  "total": 663,
+  "state_count": 41,
   "states": [
    {
     "state": "Alabama",
@@ -4432,8 +4350,12 @@
    },
    {
     "state": "Arizona",
-    "count": 6,
+    "count": 7,
     "numbers": [
+     {
+      "number": "+1 928 800 0024",
+      "location": "Prescott, AZ"
+     },
      {
       "number": "+1 928 800 0056",
       "location": "Prescott, AZ"
@@ -4918,7 +4840,7 @@
    },
    {
     "state": "Florida",
-    "count": 41,
+    "count": 40,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -4926,10 +4848,6 @@
      },
      {
       "number": "+1 352 830 0005",
-      "location": "Ocala, FL"
-     },
-     {
-      "number": "+1 352 830 0007",
       "location": "Ocala, FL"
      },
      {
@@ -5088,7 +5006,7 @@
    },
    {
     "state": "Georgia",
-    "count": 22,
+    "count": 14,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -5129,38 +5047,6 @@
      {
       "number": "+1 762 930 0009",
       "location": "Augusta, GA"
-     },
-     {
-      "number": "+1 912 870 0002",
-      "location": "Brunswick, GA"
-     },
-     {
-      "number": "+1 912 870 0003",
-      "location": "Brunswick, GA"
-     },
-     {
-      "number": "+1 912 870 0004",
-      "location": "Brunswick, GA"
-     },
-     {
-      "number": "+1 912 870 0005",
-      "location": "Brunswick, GA"
-     },
-     {
-      "number": "+1 912 870 0006",
-      "location": "Brunswick, GA"
-     },
-     {
-      "number": "+1 912 870 0007",
-      "location": "Brunswick, GA"
-     },
-     {
-      "number": "+1 912 870 0008",
-      "location": "Brunswick, GA"
-     },
-     {
-      "number": "+1 912 870 0009",
-      "location": "Brunswick, GA"
      },
      {
       "number": "+1 912 940 0003",
@@ -5248,7 +5134,7 @@
    },
    {
     "state": "Illinois",
-    "count": 4,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 224 970 0003",
@@ -5259,11 +5145,7 @@
       "location": "Bunker Hill, IL"
      },
      {
-      "number": "+1 773 780 0005",
-      "location": "Chicago, IL"
-     },
-     {
-      "number": "+1 773 780 0009",
+      "number": "+1 872 290 0004",
       "location": "Chicago, IL"
      }
     ]
@@ -5390,16 +5272,8 @@
    },
    {
     "state": "Maryland",
-    "count": 3,
+    "count": 1,
     "numbers": [
-     {
-      "number": "+1 240 600 0028",
-      "location": "Bowie, MD"
-     },
-     {
-      "number": "+1 667 400 0064",
-      "location": "Baltimore, MD"
-     },
      {
       "number": "+1 667 400 0065",
       "location": "Baltimore, MD"
@@ -6004,12 +5878,8 @@
    },
    {
     "state": "New Mexico",
-    "count": 8,
+    "count": 7,
     "numbers": [
-     {
-      "number": "+1 505 590 0008",
-      "location": "Aztec, NM"
-     },
      {
       "number": "+1 575 500 0081",
       "location": "Roswell, NM"
@@ -6796,28 +6666,8 @@
    },
    {
     "state": "Oregon",
-    "count": 16,
+    "count": 11,
     "numbers": [
-     {
-      "number": "+1 541 200 0014",
-      "location": "Medford, OR"
-     },
-     {
-      "number": "+1 541 200 0024",
-      "location": "Medford, OR"
-     },
-     {
-      "number": "+1 541 200 0034",
-      "location": "Medford, OR"
-     },
-     {
-      "number": "+1 541 200 0042",
-      "location": "Medford, OR"
-     },
-     {
-      "number": "+1 541 200 0070",
-      "location": "Medford, OR"
-     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -6989,24 +6839,6 @@
     ]
    },
    {
-    "state": "South Dakota",
-    "count": 3,
-    "numbers": [
-     {
-      "number": "+1 605 790 0007",
-      "location": "Sioux Falls, SD"
-     },
-     {
-      "number": "+1 605 790 0008",
-      "location": "Sioux Falls, SD"
-     },
-     {
-      "number": "+1 605 790 0009",
-      "location": "Sioux Falls, SD"
-     }
-    ]
-   },
-   {
     "state": "Tennessee",
     "count": 5,
     "numbers": [
@@ -7034,7 +6866,7 @@
    },
    {
     "state": "Texas",
-    "count": 12,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 325 400 0015",
@@ -7050,10 +6882,6 @@
      },
      {
       "number": "+1 325 400 0039",
-      "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 325 400 0064",
       "location": "Abilene, TX"
      },
      {
@@ -7088,7 +6916,7 @@
    },
    {
     "state": "Utah",
-    "count": 28,
+    "count": 27,
     "numbers": [
      {
       "number": "+1 385 550 0004",
@@ -7113,10 +6941,6 @@
      {
       "number": "+1 385 900 0018",
       "location": "West Jordan, UT"
-     },
-     {
-      "number": "+1 385 910 0002",
-      "location": "Salt Lake City, UT"
      },
      {
       "number": "+1 385 910 0003",
@@ -7619,8 +7443,18 @@
   },
   {
    "pattern": "8882222",
-   "count": 6,
+   "count": 7,
    "states": [
+    {
+     "state": "Arizona",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 928 882 2221",
+       "location": "Winslow, AZ"
+      }
+     ]
+    },
     {
      "state": "Minnesota",
      "count": 6,
@@ -7799,11 +7633,11 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 948,
+  "total_5_in_a_row": 929,
   "patterns_with_results": 8,
-  "total_0000": 685,
-  "state_count_0000": 42,
-  "total_aaa_bbbb": 49,
+  "total_0000": 663,
+  "state_count_0000": 41,
+  "total_aaa_bbbb": 50,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 14
  }
