@@ -1,27 +1,17 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-03
-929 five-in-a-row · 663 four-zeros across 41 states · 50 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-09-04
+893 five-in-a-row · 659 four-zeros across 40 states · 48 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 37 numbers ---
+--- 22222 — 21 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
     +1 938 722 2226   Section, AL
     +1 938 722 2229   Section, AL
-
-  ARIZONA (8)
-    +1 928 222 2201   Flagstaff, AZ
-    +1 928 222 2203   Flagstaff, AZ
-    +1 928 222 2206   Flagstaff, AZ
-    +1 928 222 2243   Flagstaff, AZ
-    +1 928 222 2275   Flagstaff, AZ
-    +1 928 222 2283   Flagstaff, AZ
-    +1 928 222 2294   Flagstaff, AZ
-    +1 928 222 2298   Flagstaff, AZ
 
   GEORGIA (1)
     +1 706 522 2226   Elberton, GA
@@ -41,18 +31,10 @@ Updated: 2026-09-03
   NEW YORK (1)
     +1 585 822 2220   East Rochester, NY
 
-  OREGON (11)
+  OREGON (3)
     +1 458 322 2221   Albany, OR
     +1 458 322 2226   Albany, OR
     +1 458 322 2229   Albany, OR
-    +1 971 522 2220   Newberg, OR
-    +1 971 522 2221   Newberg, OR
-    +1 971 522 2223   Newberg, OR
-    +1 971 522 2224   Newberg, OR
-    +1 971 522 2226   Newberg, OR
-    +1 971 522 2227   Newberg, OR
-    +1 971 522 2228   Newberg, OR
-    +1 971 522 2229   Newberg, OR
 
   RHODE ISLAND (1)
     +1 401 422 2225   Pawtucket, RI
@@ -124,7 +106,7 @@ Updated: 2026-09-03
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 69 numbers ---
+--- 44444 — 53 numbers ---
 
   ALABAMA (11)
     +1 251 444 4402   Mobile, AL
@@ -144,24 +126,6 @@ Updated: 2026-09-03
 
   FLORIDA (1)
     +1 448 444 4495   Century, FL
-
-  IDAHO (16)
-    +1 208 444 4426   Coeur D'alene, ID
-    +1 208 444 4430   Coeur D'alene, ID
-    +1 208 444 4435   Coeur D'alene, ID
-    +1 208 444 4436   Coeur D'alene, ID
-    +1 208 444 4457   Coeur D'alene, ID
-    +1 208 444 4465   Coeur D'alene, ID
-    +1 208 444 4469   Coeur D'alene, ID
-    +1 208 444 4470   Coeur D'alene, ID
-    +1 208 444 4472   Coeur D'alene, ID
-    +1 208 444 4475   Coeur D'alene, ID
-    +1 208 444 4476   Coeur D'alene, ID
-    +1 208 444 4478   Coeur D'alene, ID
-    +1 208 444 4485   Coeur D'alene, ID
-    +1 208 444 4491   Coeur D'alene, ID
-    +1 208 444 4492   Coeur D'alene, ID
-    +1 208 444 4493   Coeur D'alene, ID
 
   INDIANA (1)
     +1 765 344 4446   Rockville, IN
@@ -238,7 +202,7 @@ Updated: 2026-09-03
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 68 numbers ---
+--- 66666 — 67 numbers ---
 
   ALABAMA (3)
     +1 334 766 6661   Daleville, AL
@@ -303,9 +267,8 @@ Updated: 2026-09-03
     +1 667 966 6664   New Windsor, MD
     +1 667 966 6665   New Windsor, MD
 
-  MINNESOTA (2)
+  MINNESOTA (1)
     +1 320 566 6662   Rush City, MN
-    +1 952 666 6609   Hilltop, MN
 
   MONTANA (1)
     +1 406 966 6664   Shelby, MT
@@ -350,7 +313,8 @@ Updated: 2026-09-03
 
 --- 77777 — 229 numbers ---
 
-  CALIFORNIA (165)
+  CALIFORNIA (166)
+    +1 424 777 7751   Beverly Hills, CA
     +1 657 777 7038   Buena Park, CA
     +1 657 777 7039   Buena Park, CA
     +1 657 777 7043   Buena Park, CA
@@ -547,9 +511,8 @@ Updated: 2026-09-03
     +1 959 777 7796   Hartford, CT
     +1 959 777 7798   Hartford, CT
 
-  FLORIDA (2)
+  FLORIDA (1)
     +1 386 777 7732   Holly Hill, FL
-    +1 386 777 7782   Holly Hill, FL
 
   IOWA (1)
     +1 563 277 7776   Decorah, IA
@@ -601,9 +564,9 @@ Updated: 2026-09-03
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 411 numbers ---
+--- 88888 — 408 numbers ---
 
-  ALABAMA (25)
+  ALABAMA (24)
     +1 251 888 8803   Mobile, AL
     +1 251 888 8806   Mobile, AL
     +1 251 888 8810   Mobile, AL
@@ -623,7 +586,6 @@ Updated: 2026-09-03
     +1 256 988 8882   Huntsville, AL
     +1 256 988 8884   Huntsville, AL
     +1 256 988 8886   Huntsville, AL
-    +1 334 888 8830   Clayton, AL
     +1 334 888 8831   Clayton, AL
     +1 334 888 8837   Clayton, AL
     +1 334 888 8839   Clayton, AL
@@ -748,7 +710,7 @@ Updated: 2026-09-03
     +1 858 888 8656   San Diego, CA
     +1 858 888 8657   San Diego, CA
 
-  MINNESOTA (128)
+  MINNESOTA (127)
     +1 218 888 8009   Bemidji, MN
     +1 218 888 8010   Bemidji, MN
     +1 218 888 8015   Bemidji, MN
@@ -831,7 +793,6 @@ Updated: 2026-09-03
     +1 218 888 8424   Bemidji, MN
     +1 218 888 8428   Bemidji, MN
     +1 218 888 8429   Bemidji, MN
-    +1 218 888 8432   Bemidji, MN
     +1 218 888 8458   Bemidji, MN
     +1 218 888 8470   Bemidji, MN
     +1 218 888 8504   Bemidji, MN
@@ -967,7 +928,7 @@ Updated: 2026-09-03
   NEW MEXICO (1)
     +1 505 788 8884   Escudilla Bonita, NM
 
-  OREGON (55)
+  OREGON (54)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -1020,7 +981,6 @@ Updated: 2026-09-03
     +1 458 888 8947   Milton-Freewater, OR
     +1 458 888 8951   Milton-Freewater, OR
     +1 971 888 8812   West Haven-Sylvan, OR
-    +1 971 888 8823   West Haven-Sylvan, OR
     +1 971 888 8832   West Haven-Sylvan, OR
     +1 971 888 8871   West Haven-Sylvan, OR
 
@@ -1116,7 +1076,7 @@ Updated: 2026-09-03
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 663 numbers across 41 states
+4 ZEROS — 659 numbers across 40 states
 ====================================================
 
   ALABAMA (20)
@@ -1161,8 +1121,8 @@ Updated: 2026-09-03
     +1 870 600 0073   Ashdown, AR
     +1 870 600 0078   Ashdown, AR
 
-  CALIFORNIA (49)
-    +1 424 450 0002   San Pedro, CA
+  CALIFORNIA (48)
+    +1 424 290 0003   El Segundo, CA
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 626 640 0003   La Puente, CA
@@ -1182,7 +1142,6 @@ Updated: 2026-09-03
     +1 669 500 0054   Gilroy, CA
     +1 669 500 0059   Gilroy, CA
     +1 669 500 0061   Gilroy, CA
-    +1 669 500 0065   Gilroy, CA
     +1 669 500 0072   Gilroy, CA
     +1 669 500 0084   Gilroy, CA
     +1 669 500 0086   Gilroy, CA
@@ -1212,7 +1171,7 @@ Updated: 2026-09-03
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
 
-  CONNECTICUT (42)
+  CONNECTICUT (41)
     +1 475 310 0008   Wallingford, CT
     +1 860 600 0039   Litchfield, CT
     +1 860 600 0041   Litchfield, CT
@@ -1222,7 +1181,6 @@ Updated: 2026-09-03
     +1 860 600 0075   Litchfield, CT
     +1 959 400 0045   Torrington, CT
     +1 959 400 0047   Torrington, CT
-    +1 959 400 0057   Torrington, CT
     +1 959 400 0065   Torrington, CT
     +1 959 400 0067   Torrington, CT
     +1 959 400 0069   Torrington, CT
@@ -1266,8 +1224,9 @@ Updated: 2026-09-03
     +1 302 810 0007   Lewes, DE
     +1 302 930 0007   Milford, DE
 
-  FLORIDA (40)
+  FLORIDA (41)
     +1 352 570 0008   Yankeetown, FL
+    +1 352 600 0016   Brooksville, FL
     +1 352 830 0005   Ocala, FL
     +1 352 900 0068   Gainesville, FL
     +1 386 800 0023   Crescent City, FL
@@ -1387,7 +1346,7 @@ Updated: 2026-09-03
   MICHIGAN (1)
     +1 810 510 0003   Columbiaville, MI
 
-  MINNESOTA (54)
+  MINNESOTA (55)
     +1 218 500 0018   Kettle River, MN
     +1 218 500 0074   Kettle River, MN
     +1 218 500 0092   Kettle River, MN
@@ -1402,6 +1361,7 @@ Updated: 2026-09-03
     +1 218 810 0008   Duluth, MN
     +1 218 960 0003   Alvarado, MN
     +1 218 960 0005   Alvarado, MN
+    +1 320 200 0026   St Cloud, MN
     +1 320 380 0002   Saint Cloud, MN
     +1 320 380 0004   Saint Cloud, MN
     +1 320 380 0005   Saint Cloud, MN
@@ -1483,7 +1443,7 @@ Updated: 2026-09-03
     +1 531 910 0007   Omaha, NE
     +1 531 910 0009   Omaha, NE
 
-  NEVADA (28)
+  NEVADA (27)
     +1 775 600 0063   Carson City, NV
     +1 775 640 0002   Ely, NV
     +1 775 800 0019   Reno, NV
@@ -1498,7 +1458,6 @@ Updated: 2026-09-03
     +1 775 800 0061   Reno, NV
     +1 775 800 0062   Reno, NV
     +1 775 800 0074   Reno, NV
-    +1 775 800 0075   Reno, NV
     +1 775 800 0076   Reno, NV
     +1 775 800 0078   Reno, NV
     +1 775 800 0081   Reno, NV
@@ -1688,9 +1647,6 @@ Updated: 2026-09-03
     +1 980 550 0004   Lowell, NC
     +1 980 550 0006   Lowell, NC
 
-  NORTH DAKOTA (1)
-    +1 701 800 0098   Leonard, ND
-
   OHIO (36)
     +1 380 500 0017   Worthington, OH
     +1 380 500 0034   Worthington, OH
@@ -1799,8 +1755,7 @@ Updated: 2026-09-03
     +1 903 420 0007   Corsicana, TX
     +1 903 420 0008   Corsicana, TX
 
-  UTAH (27)
-    +1 385 550 0004   Bountiful, UT
+  UTAH (25)
     +1 385 550 0006   Bountiful, UT
     +1 385 560 0005   Murray, UT
     +1 385 580 0002   Murray, UT
@@ -1812,7 +1767,6 @@ Updated: 2026-09-03
     +1 435 500 0024   Delta, UT
     +1 435 500 0026   Delta, UT
     +1 435 500 0031   Delta, UT
-    +1 435 500 0036   Delta, UT
     +1 435 500 0038   Delta, UT
     +1 435 500 0039   Delta, UT
     +1 435 500 0041   Delta, UT
@@ -1889,13 +1843,12 @@ Updated: 2026-09-03
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 50 numbers across 14 patterns
+AAA-BBBB — 48 numbers across 14 patterns
 ====================================================
 
---- 555-0000 — 2 numbers ---
+--- 555-0000 — 1 numbers ---
 
-  UTAH (2)
-    +1 385 550 0004   Bountiful, UT
+  UTAH (1)
     +1 385 550 0006   Bountiful, UT
 
 --- 555-2222 — 3 numbers ---
@@ -1910,11 +1863,10 @@ AAA-BBBB — 50 numbers across 14 patterns
   UTAH (1)
     +1 385 557 7770   West Jordan, UT
 
---- 555-8888 — 4 numbers ---
+--- 555-8888 — 3 numbers ---
 
-  UTAH (4)
+  UTAH (3)
     +1 435 558 8881   Richfield, UT
-    +1 435 558 8885   Richfield, UT
     +1 435 558 8887   Richfield, UT
     +1 435 558 8889   Richfield, UT
 
