@@ -1,5 +1,5 @@
 {
- "date": "2026-09-04",
+ "date": "2026-09-05",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -713,7 +713,7 @@
   },
   {
    "pattern": "66666",
-   "count": 67,
+   "count": 66,
    "states": [
     {
      "state": "Alabama",
@@ -1051,12 +1051,8 @@
     },
     {
      "state": "Oregon",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 541 566 6668",
-       "location": "Athena, OR"
-      },
       {
        "number": "+1 541 866 6661",
        "location": "Glendale, OR"
@@ -1107,11 +1103,11 @@
   },
   {
    "pattern": "77777",
-   "count": 229,
+   "count": 228,
    "states": [
     {
      "state": "California",
-     "count": 166,
+     "count": 165,
      "numbers": [
       {
        "number": "+1 424 777 7751",
@@ -1199,10 +1195,6 @@
       },
       {
        "number": "+1 657 777 7121",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7139",
        "location": "Buena Park, CA"
       },
       {
@@ -4103,8 +4095,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 659,
-  "state_count": 40,
+  "total": 666,
+  "state_count": 39,
   "states": [
    {
     "state": "Alabama",
@@ -4270,12 +4262,8 @@
    },
    {
     "state": "California",
-    "count": 48,
+    "count": 47,
     "numbers": [
-     {
-      "number": "+1 424 290 0003",
-      "location": "El Segundo, CA"
-     },
      {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
@@ -4683,7 +4671,7 @@
       "location": "Yankeetown, FL"
      },
      {
-      "number": "+1 352 600 0016",
+      "number": "+1 352 600 0098",
       "location": "Brooksville, FL"
      },
      {
@@ -5111,19 +5099,13 @@
     ]
    },
    {
-    "state": "Maryland",
-    "count": 1,
+    "state": "Massachusetts",
+    "count": 2,
     "numbers": [
      {
-      "number": "+1 667 400 0065",
-      "location": "Baltimore, MD"
-     }
-    ]
-   },
-   {
-    "state": "Massachusetts",
-    "count": 1,
-    "numbers": [
+      "number": "+1 857 400 0053",
+      "location": "Boston, MA"
+     },
      {
       "number": "+1 978 680 0005",
       "location": "Concord, MA"
@@ -5199,10 +5181,6 @@
      {
       "number": "+1 218 960 0005",
       "location": "Alvarado, MN"
-     },
-     {
-      "number": "+1 320 200 0026",
-      "location": "St Cloud, MN"
      },
      {
       "number": "+1 320 380 0002",
@@ -5291,6 +5269,10 @@
      {
       "number": "+1 320 910 0009",
       "location": "Sauk Rapids, MN"
+     },
+     {
+      "number": "+1 507 400 0021",
+      "location": "Faribault, MN"
      },
      {
       "number": "+1 507 400 0024",
@@ -5752,7 +5734,7 @@
    },
    {
     "state": "New York",
-    "count": 104,
+    "count": 111,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -5777,6 +5759,34 @@
      {
       "number": "+1 329 230 0009",
       "location": "Woodbury, NY"
+     },
+     {
+      "number": "+1 332 880 0002",
+      "location": "Manhattan, NY"
+     },
+     {
+      "number": "+1 332 880 0003",
+      "location": "Manhattan, NY"
+     },
+     {
+      "number": "+1 332 880 0004",
+      "location": "Manhattan, NY"
+     },
+     {
+      "number": "+1 332 880 0005",
+      "location": "Manhattan, NY"
+     },
+     {
+      "number": "+1 332 880 0006",
+      "location": "Manhattan, NY"
+     },
+     {
+      "number": "+1 332 880 0007",
+      "location": "Manhattan, NY"
+     },
+     {
+      "number": "+1 332 880 0009",
+      "location": "Manhattan, NY"
      },
      {
       "number": "+1 516 930 0004",
@@ -6696,7 +6706,7 @@
    },
    {
     "state": "Texas",
-    "count": 11,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 325 400 0015",
@@ -6733,6 +6743,10 @@
      {
       "number": "+1 806 680 0006",
       "location": "Amarillo, TX"
+     },
+     {
+      "number": "+1 817 750 0004",
+      "location": "Keller, TX"
      },
      {
       "number": "+1 903 420 0007",
@@ -7447,10 +7461,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 893,
+  "total_5_in_a_row": 891,
   "patterns_with_results": 8,
-  "total_0000": 659,
-  "state_count_0000": 40,
+  "total_0000": 666,
+  "state_count_0000": 39,
   "total_aaa_bbbb": 48,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 14

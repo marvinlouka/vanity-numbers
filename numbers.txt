@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-04
-893 five-in-a-row · 659 four-zeros across 40 states · 48 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-09-05
+891 five-in-a-row · 666 four-zeros across 39 states · 48 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -202,7 +202,7 @@ Updated: 2026-09-04
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 67 numbers ---
+--- 66666 — 66 numbers ---
 
   ALABAMA (3)
     +1 334 766 6661   Daleville, AL
@@ -296,8 +296,7 @@ Updated: 2026-09-04
     +1 910 766 6663   Kenansville, NC
     +1 910 766 6669   Kenansville, NC
 
-  OREGON (3)
-    +1 541 566 6668   Athena, OR
+  OREGON (2)
     +1 541 866 6661   Glendale, OR
     +1 541 866 6662   Glendale, OR
 
@@ -311,9 +310,9 @@ Updated: 2026-09-04
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 229 numbers ---
+--- 77777 — 228 numbers ---
 
-  CALIFORNIA (166)
+  CALIFORNIA (165)
     +1 424 777 7751   Beverly Hills, CA
     +1 657 777 7038   Buena Park, CA
     +1 657 777 7039   Buena Park, CA
@@ -336,7 +335,6 @@ Updated: 2026-09-04
     +1 657 777 7116   Buena Park, CA
     +1 657 777 7120   Buena Park, CA
     +1 657 777 7121   Buena Park, CA
-    +1 657 777 7139   Buena Park, CA
     +1 657 777 7140   Buena Park, CA
     +1 657 777 7144   Buena Park, CA
     +1 657 777 7146   Buena Park, CA
@@ -1076,7 +1074,7 @@ Updated: 2026-09-04
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 659 numbers across 40 states
+4 ZEROS — 666 numbers across 39 states
 ====================================================
 
   ALABAMA (20)
@@ -1121,8 +1119,7 @@ Updated: 2026-09-04
     +1 870 600 0073   Ashdown, AR
     +1 870 600 0078   Ashdown, AR
 
-  CALIFORNIA (48)
-    +1 424 290 0003   El Segundo, CA
+  CALIFORNIA (47)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 626 640 0003   La Puente, CA
@@ -1226,7 +1223,7 @@ Updated: 2026-09-04
 
   FLORIDA (41)
     +1 352 570 0008   Yankeetown, FL
-    +1 352 600 0016   Brooksville, FL
+    +1 352 600 0098   Brooksville, FL
     +1 352 830 0005   Ocala, FL
     +1 352 900 0068   Gainesville, FL
     +1 386 800 0023   Crescent City, FL
@@ -1337,10 +1334,8 @@ Updated: 2026-09-04
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (1)
-    +1 667 400 0065   Baltimore, MD
-
-  MASSACHUSETTS (1)
+  MASSACHUSETTS (2)
+    +1 857 400 0053   Boston, MA
     +1 978 680 0005   Concord, MA
 
   MICHIGAN (1)
@@ -1361,7 +1356,6 @@ Updated: 2026-09-04
     +1 218 810 0008   Duluth, MN
     +1 218 960 0003   Alvarado, MN
     +1 218 960 0005   Alvarado, MN
-    +1 320 200 0026   St Cloud, MN
     +1 320 380 0002   Saint Cloud, MN
     +1 320 380 0004   Saint Cloud, MN
     +1 320 380 0005   Saint Cloud, MN
@@ -1384,6 +1378,7 @@ Updated: 2026-09-04
     +1 320 400 0095   Olivia, MN
     +1 320 400 0098   Olivia, MN
     +1 320 910 0009   Sauk Rapids, MN
+    +1 507 400 0021   Faribault, MN
     +1 507 400 0024   Faribault, MN
     +1 507 400 0025   Faribault, MN
     +1 507 400 0056   Faribault, MN
@@ -1502,13 +1497,20 @@ Updated: 2026-09-04
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (104)
+  NEW YORK (111)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
     +1 329 220 0008   Walden, NY
     +1 329 230 0007   Woodbury, NY
     +1 329 230 0009   Woodbury, NY
+    +1 332 880 0002   Manhattan, NY
+    +1 332 880 0003   Manhattan, NY
+    +1 332 880 0004   Manhattan, NY
+    +1 332 880 0005   Manhattan, NY
+    +1 332 880 0006   Manhattan, NY
+    +1 332 880 0007   Manhattan, NY
+    +1 332 880 0009   Manhattan, NY
     +1 516 930 0004   Manhasset, NY
     +1 516 930 0006   Manhasset, NY
     +1 585 630 0006   Batavia, NY
@@ -1742,7 +1744,7 @@ Updated: 2026-09-04
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (11)
+  TEXAS (12)
     +1 325 400 0015   Abilene, TX
     +1 325 400 0018   Abilene, TX
     +1 325 400 0027   Abilene, TX
@@ -1752,6 +1754,7 @@ Updated: 2026-09-04
     +1 409 710 0008   Beaumont, TX
     +1 806 680 0004   Amarillo, TX
     +1 806 680 0006   Amarillo, TX
+    +1 817 750 0004   Keller, TX
     +1 903 420 0007   Corsicana, TX
     +1 903 420 0008   Corsicana, TX
 
