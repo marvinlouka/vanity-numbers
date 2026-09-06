@@ -1,9 +1,9 @@
 {
- "date": "2026-09-05",
+ "date": "2026-09-06",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 21,
+   "count": 22,
    "states": [
     {
      "state": "Alabama",
@@ -138,6 +138,16 @@
      ]
     },
     {
+     "state": "Texas",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 940 222 2286",
+       "location": "Denton, TX"
+      }
+     ]
+    },
+    {
      "state": "Vermont",
      "count": 3,
      "numbers": [
@@ -159,7 +169,7 @@
   },
   {
    "pattern": "33333",
-   "count": 37,
+   "count": 36,
    "states": [
     {
      "state": "Alabama",
@@ -305,7 +315,7 @@
     },
     {
      "state": "Wisconsin",
-     "count": 12,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 920 333 3301",
@@ -313,10 +323,6 @@
       },
       {
        "number": "+1 920 333 3304",
-       "location": "Sturgeon Bay, WI"
-      },
-      {
-       "number": "+1 920 333 3313",
        "location": "Sturgeon Bay, WI"
       },
       {
@@ -361,11 +367,11 @@
   },
   {
    "pattern": "44444",
-   "count": 53,
+   "count": 51,
    "states": [
     {
      "state": "Alabama",
-     "count": 11,
+     "count": 10,
      "numbers": [
       {
        "number": "+1 251 444 4402",
@@ -404,10 +410,6 @@
        "location": "Mobile, AL"
       },
       {
-       "number": "+1 938 444 4457",
-       "location": "Decatur, AL"
-      },
-      {
        "number": "+1 938 444 4487",
        "location": "Decatur, AL"
       }
@@ -420,16 +422,6 @@
       {
        "number": "+1 860 744 4446",
        "location": "Willimantic, CT"
-      }
-     ]
-    },
-    {
-     "state": "Florida",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 448 444 4495",
-       "location": "Century, FL"
       }
      ]
     },
@@ -2087,7 +2079,7 @@
   },
   {
    "pattern": "88888",
-   "count": 408,
+   "count": 395,
    "states": [
     {
      "state": "Alabama",
@@ -3529,7 +3521,7 @@
     },
     {
      "state": "Oregon",
-     "count": 54,
+     "count": 41,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3564,10 +3556,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8305",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8357",
        "location": "Milton-Freewater, OR"
       },
@@ -3581,10 +3569,6 @@
       },
       {
        "number": "+1 458 888 8513",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8543",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3604,43 +3588,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8695",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8698",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8705",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8706",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8709",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8731",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8750",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8756",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8770",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8771",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3648,55 +3596,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8795",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8798",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8901",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8902",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8913",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8914",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8916",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8918",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8919",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8923",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8928",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8930",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8931",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3733,6 +3633,46 @@
       },
       {
        "number": "+1 458 888 8951",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8952",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8953",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8954",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8960",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8967",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8972",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8976",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8977",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8979",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8982",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3773,7 +3713,7 @@
   },
   {
    "pattern": "99999",
-   "count": 67,
+   "count": 65,
    "states": [
     {
      "state": "Alabama",
@@ -3823,7 +3763,7 @@
     },
     {
      "state": "Colorado",
-     "count": 45,
+     "count": 44,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -3859,10 +3799,6 @@
       },
       {
        "number": "+1 719 999 9094",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9102",
        "location": "Colorado Springs, CO"
       },
       {
@@ -4009,12 +3945,8 @@
     },
     {
      "state": "Florida",
-     "count": 4,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 321 999 9906",
-       "location": "Sanford, FL"
-      },
       {
        "number": "+1 863 999 9932",
        "location": "Lakeland, FL"
@@ -4095,7 +4027,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 666,
+  "total": 653,
   "state_count": 39,
   "states": [
    {
@@ -4262,7 +4194,7 @@
    },
    {
     "state": "California",
-    "count": 47,
+    "count": 46,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -4306,10 +4238,6 @@
      },
      {
       "number": "+1 669 500 0032",
-      "location": "Gilroy, CA"
-     },
-     {
-      "number": "+1 669 500 0036",
       "location": "Gilroy, CA"
      },
      {
@@ -4377,10 +4305,6 @@
       "location": "Gilroy, CA"
      },
      {
-      "number": "+1 669 500 0098",
-      "location": "Gilroy, CA"
-     },
-     {
       "number": "+1 707 500 0049",
       "location": "Nice, CA"
      },
@@ -4426,6 +4350,10 @@
      },
      {
       "number": "+1 909 600 0042",
+      "location": "Fontana, CA"
+     },
+     {
+      "number": "+1 909 600 0048",
       "location": "Fontana, CA"
      },
      {
@@ -4664,15 +4592,11 @@
    },
    {
     "state": "Florida",
-    "count": 41,
+    "count": 40,
     "numbers": [
      {
       "number": "+1 352 570 0008",
       "location": "Yankeetown, FL"
-     },
-     {
-      "number": "+1 352 600 0098",
-      "location": "Brooksville, FL"
      },
      {
       "number": "+1 352 830 0005",
@@ -4896,12 +4820,8 @@
    },
    {
     "state": "Idaho",
-    "count": 15,
+    "count": 13,
     "numbers": [
-     {
-      "number": "+1 208 800 0047",
-      "location": "Nampa, ID"
-     },
      {
       "number": "+1 208 800 0059",
       "location": "Nampa, ID"
@@ -4920,10 +4840,6 @@
      },
      {
       "number": "+1 208 800 0067",
-      "location": "Nampa, ID"
-     },
-     {
-      "number": "+1 208 800 0086",
       "location": "Nampa, ID"
      },
      {
@@ -5100,12 +5016,8 @@
    },
    {
     "state": "Massachusetts",
-    "count": 2,
+    "count": 1,
     "numbers": [
-     {
-      "number": "+1 857 400 0053",
-      "location": "Boston, MA"
-     },
      {
       "number": "+1 978 680 0005",
       "location": "Concord, MA"
@@ -5124,7 +5036,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 55,
+    "count": 54,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -5300,10 +5212,6 @@
      },
      {
       "number": "+1 507 400 0089",
-      "location": "Faribault, MN"
-     },
-     {
-      "number": "+1 507 400 0098",
       "location": "Faribault, MN"
      },
      {
@@ -5618,7 +5526,7 @@
    },
    {
     "state": "New Jersey",
-    "count": 19,
+    "count": 18,
     "numbers": [
      {
       "number": "+1 848 310 0006",
@@ -5642,10 +5550,6 @@
      },
      {
       "number": "+1 908 800 0034",
-      "location": "Somerville, NJ"
-     },
-     {
-      "number": "+1 908 800 0036",
       "location": "Somerville, NJ"
      },
      {
@@ -5734,7 +5638,7 @@
    },
    {
     "state": "New York",
-    "count": 111,
+    "count": 104,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -5759,34 +5663,6 @@
      {
       "number": "+1 329 230 0009",
       "location": "Woodbury, NY"
-     },
-     {
-      "number": "+1 332 880 0002",
-      "location": "Manhattan, NY"
-     },
-     {
-      "number": "+1 332 880 0003",
-      "location": "Manhattan, NY"
-     },
-     {
-      "number": "+1 332 880 0004",
-      "location": "Manhattan, NY"
-     },
-     {
-      "number": "+1 332 880 0005",
-      "location": "Manhattan, NY"
-     },
-     {
-      "number": "+1 332 880 0006",
-      "location": "Manhattan, NY"
-     },
-     {
-      "number": "+1 332 880 0007",
-      "location": "Manhattan, NY"
-     },
-     {
-      "number": "+1 332 880 0009",
-      "location": "Manhattan, NY"
      },
      {
       "number": "+1 516 930 0004",
@@ -6184,7 +6060,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 37,
+    "count": 36,
     "numbers": [
      {
       "number": "+1 252 260 0003",
@@ -6220,10 +6096,6 @@
      },
      {
       "number": "+1 828 900 0035",
-      "location": "Black Mountain, NC"
-     },
-     {
-      "number": "+1 828 900 0036",
       "location": "Black Mountain, NC"
      },
      {
@@ -6341,6 +6213,10 @@
     "count": 36,
     "numbers": [
      {
+      "number": "+1 330 800 0046",
+      "location": "Akron, OH"
+     },
+     {
       "number": "+1 380 500 0017",
       "location": "Worthington, OH"
      },
@@ -6433,10 +6309,6 @@
       "location": "Genoa, OH"
      },
      {
-      "number": "+1 567 400 0098",
-      "location": "Genoa, OH"
-     },
-     {
       "number": "+1 740 300 0046",
       "location": "Nelsonville, OH"
      },
@@ -6506,7 +6378,7 @@
    },
    {
     "state": "Oregon",
-    "count": 11,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 971 600 0012",
@@ -6550,6 +6422,10 @@
      },
      {
       "number": "+1 971 800 0013",
+      "location": "Mill City, OR"
+     },
+     {
+      "number": "+1 971 800 0083",
       "location": "Mill City, OR"
      }
     ]
@@ -6706,7 +6582,7 @@
    },
    {
     "state": "Texas",
-    "count": 12,
+    "count": 13,
     "numbers": [
      {
       "number": "+1 325 400 0015",
@@ -6723,6 +6599,10 @@
      {
       "number": "+1 325 400 0039",
       "location": "Abilene, TX"
+     },
+     {
+      "number": "+1 346 620 0009",
+      "location": "Rosenberg, TX"
      },
      {
       "number": "+1 409 240 0008",
@@ -7461,9 +7341,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 891,
+  "total_5_in_a_row": 874,
   "patterns_with_results": 8,
-  "total_0000": 666,
+  "total_0000": 653,
   "state_count_0000": 39,
   "total_aaa_bbbb": 48,
   "aaa_bbbb_patterns_searched": 90,

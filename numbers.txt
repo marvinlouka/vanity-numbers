@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-05
-891 five-in-a-row · 666 four-zeros across 39 states · 48 AAA-BBBB across 14 of 90 combinations
+Updated: 2026-09-06
+874 five-in-a-row · 653 four-zeros across 39 states · 48 AAA-BBBB across 14 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 21 numbers ---
+--- 22222 — 22 numbers ---
 
   ALABAMA (3)
     +1 938 722 2224   Section, AL
@@ -46,12 +46,15 @@ Updated: 2026-09-05
     +1 931 922 2221   Columbia, TN
     +1 931 922 2228   Columbia, TN
 
+  TEXAS (1)
+    +1 940 222 2286   Denton, TX
+
   VERMONT (3)
     +1 802 622 2227   Barre, VT
     +1 802 622 2228   Barre, VT
     +1 802 822 2227   Derby Line, VT
 
---- 33333 — 37 numbers ---
+--- 33333 — 36 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
@@ -92,10 +95,9 @@ Updated: 2026-09-05
     +1 731 333 3310   Paris, TN
     +1 731 333 3319   Paris, TN
 
-  WISCONSIN (12)
+  WISCONSIN (11)
     +1 920 333 3301   Sturgeon Bay, WI
     +1 920 333 3304   Sturgeon Bay, WI
-    +1 920 333 3313   Sturgeon Bay, WI
     +1 920 333 3319   Sturgeon Bay, WI
     +1 920 333 3340   Sturgeon Bay, WI
     +1 920 333 3341   Sturgeon Bay, WI
@@ -106,9 +108,9 @@ Updated: 2026-09-05
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 53 numbers ---
+--- 44444 — 51 numbers ---
 
-  ALABAMA (11)
+  ALABAMA (10)
     +1 251 444 4402   Mobile, AL
     +1 251 444 4407   Mobile, AL
     +1 251 444 4413   Mobile, AL
@@ -118,14 +120,10 @@ Updated: 2026-09-05
     +1 251 444 4492   Mobile, AL
     +1 251 444 4497   Mobile, AL
     +1 251 444 4498   Mobile, AL
-    +1 938 444 4457   Decatur, AL
     +1 938 444 4487   Decatur, AL
 
   CONNECTICUT (1)
     +1 860 744 4446   Willimantic, CT
-
-  FLORIDA (1)
-    +1 448 444 4495   Century, FL
 
   INDIANA (1)
     +1 765 344 4446   Rockville, IN
@@ -562,7 +560,7 @@ Updated: 2026-09-05
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 408 numbers ---
+--- 88888 — 395 numbers ---
 
   ALABAMA (24)
     +1 251 888 8803   Mobile, AL
@@ -926,7 +924,7 @@ Updated: 2026-09-05
   NEW MEXICO (1)
     +1 505 788 8884   Escudilla Bonita, NM
 
-  OREGON (54)
+  OREGON (41)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -935,40 +933,17 @@ Updated: 2026-09-05
     +1 458 888 8225   Milton-Freewater, OR
     +1 458 888 8276   Milton-Freewater, OR
     +1 458 888 8283   Milton-Freewater, OR
-    +1 458 888 8305   Milton-Freewater, OR
     +1 458 888 8357   Milton-Freewater, OR
     +1 458 888 8398   Milton-Freewater, OR
     +1 458 888 8412   Milton-Freewater, OR
     +1 458 888 8513   Milton-Freewater, OR
-    +1 458 888 8543   Milton-Freewater, OR
     +1 458 888 8594   Milton-Freewater, OR
     +1 458 888 8651   Milton-Freewater, OR
     +1 458 888 8662   Milton-Freewater, OR
     +1 458 888 8676   Milton-Freewater, OR
-    +1 458 888 8695   Milton-Freewater, OR
-    +1 458 888 8698   Milton-Freewater, OR
-    +1 458 888 8705   Milton-Freewater, OR
-    +1 458 888 8706   Milton-Freewater, OR
-    +1 458 888 8709   Milton-Freewater, OR
     +1 458 888 8731   Milton-Freewater, OR
-    +1 458 888 8750   Milton-Freewater, OR
-    +1 458 888 8756   Milton-Freewater, OR
-    +1 458 888 8770   Milton-Freewater, OR
-    +1 458 888 8771   Milton-Freewater, OR
     +1 458 888 8794   Milton-Freewater, OR
-    +1 458 888 8795   Milton-Freewater, OR
-    +1 458 888 8798   Milton-Freewater, OR
-    +1 458 888 8901   Milton-Freewater, OR
-    +1 458 888 8902   Milton-Freewater, OR
     +1 458 888 8913   Milton-Freewater, OR
-    +1 458 888 8914   Milton-Freewater, OR
-    +1 458 888 8916   Milton-Freewater, OR
-    +1 458 888 8918   Milton-Freewater, OR
-    +1 458 888 8919   Milton-Freewater, OR
-    +1 458 888 8923   Milton-Freewater, OR
-    +1 458 888 8928   Milton-Freewater, OR
-    +1 458 888 8930   Milton-Freewater, OR
-    +1 458 888 8931   Milton-Freewater, OR
     +1 458 888 8933   Milton-Freewater, OR
     +1 458 888 8934   Milton-Freewater, OR
     +1 458 888 8935   Milton-Freewater, OR
@@ -978,6 +953,16 @@ Updated: 2026-09-05
     +1 458 888 8945   Milton-Freewater, OR
     +1 458 888 8947   Milton-Freewater, OR
     +1 458 888 8951   Milton-Freewater, OR
+    +1 458 888 8952   Milton-Freewater, OR
+    +1 458 888 8953   Milton-Freewater, OR
+    +1 458 888 8954   Milton-Freewater, OR
+    +1 458 888 8960   Milton-Freewater, OR
+    +1 458 888 8967   Milton-Freewater, OR
+    +1 458 888 8972   Milton-Freewater, OR
+    +1 458 888 8976   Milton-Freewater, OR
+    +1 458 888 8977   Milton-Freewater, OR
+    +1 458 888 8979   Milton-Freewater, OR
+    +1 458 888 8982   Milton-Freewater, OR
     +1 971 888 8812   West Haven-Sylvan, OR
     +1 971 888 8832   West Haven-Sylvan, OR
     +1 971 888 8871   West Haven-Sylvan, OR
@@ -988,7 +973,7 @@ Updated: 2026-09-05
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 67 numbers ---
+--- 99999 — 65 numbers ---
 
   ALABAMA (10)
     +1 251 999 9913   Mobile, AL
@@ -1002,7 +987,7 @@ Updated: 2026-09-05
     +1 659 799 9993   Pinson, AL
     +1 659 799 9998   Pinson, AL
 
-  COLORADO (45)
+  COLORADO (44)
     +1 719 999 9018   Colorado Springs, CO
     +1 719 999 9023   Colorado Springs, CO
     +1 719 999 9027   Colorado Springs, CO
@@ -1012,7 +997,6 @@ Updated: 2026-09-05
     +1 719 999 9089   Colorado Springs, CO
     +1 719 999 9091   Colorado Springs, CO
     +1 719 999 9094   Colorado Springs, CO
-    +1 719 999 9102   Colorado Springs, CO
     +1 719 999 9122   Colorado Springs, CO
     +1 719 999 9126   Colorado Springs, CO
     +1 719 999 9129   Colorado Springs, CO
@@ -1049,8 +1033,7 @@ Updated: 2026-09-05
     +1 719 999 9830   Colorado Springs, CO
     +1 719 999 9887   Colorado Springs, CO
 
-  FLORIDA (4)
-    +1 321 999 9906   Sanford, FL
+  FLORIDA (3)
     +1 863 999 9932   Lakeland, FL
     +1 863 999 9940   Lakeland, FL
     +1 863 999 9970   Lakeland, FL
@@ -1074,7 +1057,7 @@ Updated: 2026-09-05
     +1 267 999 9982   Quakertown, PA
 
 ====================================================
-4 ZEROS — 666 numbers across 39 states
+4 ZEROS — 653 numbers across 39 states
 ====================================================
 
   ALABAMA (20)
@@ -1119,7 +1102,7 @@ Updated: 2026-09-05
     +1 870 600 0073   Ashdown, AR
     +1 870 600 0078   Ashdown, AR
 
-  CALIFORNIA (47)
+  CALIFORNIA (46)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 626 640 0003   La Puente, CA
@@ -1131,7 +1114,6 @@ Updated: 2026-09-05
     +1 669 500 0028   Gilroy, CA
     +1 669 500 0031   Gilroy, CA
     +1 669 500 0032   Gilroy, CA
-    +1 669 500 0036   Gilroy, CA
     +1 669 500 0037   Gilroy, CA
     +1 669 500 0038   Gilroy, CA
     +1 669 500 0039   Gilroy, CA
@@ -1148,7 +1130,6 @@ Updated: 2026-09-05
     +1 669 500 0093   Gilroy, CA
     +1 669 500 0094   Gilroy, CA
     +1 669 500 0097   Gilroy, CA
-    +1 669 500 0098   Gilroy, CA
     +1 707 500 0049   Nice, CA
     +1 707 520 0004   Monte Rio, CA
     +1 747 380 0003   Reseda, CA
@@ -1161,6 +1142,7 @@ Updated: 2026-09-05
     +1 909 600 0032   Fontana, CA
     +1 909 600 0037   Fontana, CA
     +1 909 600 0042   Fontana, CA
+    +1 909 600 0048   Fontana, CA
     +1 909 600 0053   Fontana, CA
     +1 909 600 0054   Fontana, CA
     +1 909 600 0058   Fontana, CA
@@ -1221,9 +1203,8 @@ Updated: 2026-09-05
     +1 302 810 0007   Lewes, DE
     +1 302 930 0007   Milford, DE
 
-  FLORIDA (41)
+  FLORIDA (40)
     +1 352 570 0008   Yankeetown, FL
-    +1 352 600 0098   Brooksville, FL
     +1 352 830 0005   Ocala, FL
     +1 352 900 0068   Gainesville, FL
     +1 386 800 0023   Crescent City, FL
@@ -1280,14 +1261,12 @@ Updated: 2026-09-05
     +1 943 990 0004   Flowery Branch, GA
     +1 943 990 0006   Flowery Branch, GA
 
-  IDAHO (15)
-    +1 208 800 0047   Nampa, ID
+  IDAHO (13)
     +1 208 800 0059   Nampa, ID
     +1 208 800 0061   Nampa, ID
     +1 208 800 0062   Nampa, ID
     +1 208 800 0063   Nampa, ID
     +1 208 800 0067   Nampa, ID
-    +1 208 800 0086   Nampa, ID
     +1 208 800 0087   Nampa, ID
     +1 986 910 0003   Garden City, ID
     +1 986 910 0004   Garden City, ID
@@ -1334,14 +1313,13 @@ Updated: 2026-09-05
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MASSACHUSETTS (2)
-    +1 857 400 0053   Boston, MA
+  MASSACHUSETTS (1)
     +1 978 680 0005   Concord, MA
 
   MICHIGAN (1)
     +1 810 510 0003   Columbiaville, MI
 
-  MINNESOTA (55)
+  MINNESOTA (54)
     +1 218 500 0018   Kettle River, MN
     +1 218 500 0074   Kettle River, MN
     +1 218 500 0092   Kettle River, MN
@@ -1386,7 +1364,6 @@ Updated: 2026-09-05
     +1 507 400 0084   Faribault, MN
     +1 507 400 0087   Faribault, MN
     +1 507 400 0089   Faribault, MN
-    +1 507 400 0098   Faribault, MN
     +1 507 570 0004   Green Isle, MN
     +1 507 570 0007   Green Isle, MN
     +1 507 580 0006   Elgin, MN
@@ -1467,14 +1444,13 @@ Updated: 2026-09-05
     +1 775 900 0094   Reno, NV
     +1 775 900 0096   Reno, NV
 
-  NEW JERSEY (19)
+  NEW JERSEY (18)
     +1 848 310 0006   South Bound Brook, NJ
     +1 856 300 0068   Millville, NJ
     +1 908 800 0023   Somerville, NJ
     +1 908 800 0024   Somerville, NJ
     +1 908 800 0027   Somerville, NJ
     +1 908 800 0034   Somerville, NJ
-    +1 908 800 0036   Somerville, NJ
     +1 908 800 0039   Somerville, NJ
     +1 908 800 0041   Somerville, NJ
     +1 908 800 0053   Somerville, NJ
@@ -1497,20 +1473,13 @@ Updated: 2026-09-05
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (111)
+  NEW YORK (104)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
     +1 329 220 0008   Walden, NY
     +1 329 230 0007   Woodbury, NY
     +1 329 230 0009   Woodbury, NY
-    +1 332 880 0002   Manhattan, NY
-    +1 332 880 0003   Manhattan, NY
-    +1 332 880 0004   Manhattan, NY
-    +1 332 880 0005   Manhattan, NY
-    +1 332 880 0006   Manhattan, NY
-    +1 332 880 0007   Manhattan, NY
-    +1 332 880 0009   Manhattan, NY
     +1 516 930 0004   Manhasset, NY
     +1 516 930 0006   Manhasset, NY
     +1 585 630 0006   Batavia, NY
@@ -1610,7 +1579,7 @@ Updated: 2026-09-05
     +1 934 500 0094   North Bay Shore, NY
     +1 934 500 0096   North Bay Shore, NY
 
-  NORTH CAROLINA (37)
+  NORTH CAROLINA (36)
     +1 252 260 0003   Moyock, NC
     +1 252 740 0005   Rocky Mount, NC
     +1 252 740 0009   Rocky Mount, NC
@@ -1620,7 +1589,6 @@ Updated: 2026-09-05
     +1 828 680 0007   Mars Hill, NC
     +1 828 900 0019   Black Mountain, NC
     +1 828 900 0035   Black Mountain, NC
-    +1 828 900 0036   Black Mountain, NC
     +1 828 900 0039   Black Mountain, NC
     +1 828 900 0041   Black Mountain, NC
     +1 828 900 0043   Black Mountain, NC
@@ -1650,6 +1618,7 @@ Updated: 2026-09-05
     +1 980 550 0006   Lowell, NC
 
   OHIO (36)
+    +1 330 800 0046   Akron, OH
     +1 380 500 0017   Worthington, OH
     +1 380 500 0034   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
@@ -1673,7 +1642,6 @@ Updated: 2026-09-05
     +1 567 400 0075   Genoa, OH
     +1 567 400 0078   Genoa, OH
     +1 567 400 0079   Genoa, OH
-    +1 567 400 0098   Genoa, OH
     +1 740 300 0046   Nelsonville, OH
     +1 740 500 0012   Circleville, OH
     +1 740 500 0032   Circleville, OH
@@ -1692,7 +1660,7 @@ Updated: 2026-09-05
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
 
-  OREGON (11)
+  OREGON (12)
     +1 971 600 0012   Salem, OR
     +1 971 600 0026   Salem, OR
     +1 971 600 0028   Salem, OR
@@ -1704,6 +1672,7 @@ Updated: 2026-09-05
     +1 971 600 0083   Salem, OR
     +1 971 600 0091   Salem, OR
     +1 971 800 0013   Mill City, OR
+    +1 971 800 0083   Mill City, OR
 
   PENNSYLVANIA (4)
     +1 570 500 0027   Shamokin, PA
@@ -1744,11 +1713,12 @@ Updated: 2026-09-05
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (12)
+  TEXAS (13)
     +1 325 400 0015   Abilene, TX
     +1 325 400 0018   Abilene, TX
     +1 325 400 0027   Abilene, TX
     +1 325 400 0039   Abilene, TX
+    +1 346 620 0009   Rosenberg, TX
     +1 409 240 0008   Beaumont, TX
     +1 409 240 0009   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
