@@ -1,28 +1,10 @@
 {
- "date": "2026-09-06",
+ "date": "2026-09-07",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 22,
+   "count": 18,
    "states": [
-    {
-     "state": "Alabama",
-     "count": 3,
-     "numbers": [
-      {
-       "number": "+1 938 722 2224",
-       "location": "Section, AL"
-      },
-      {
-       "number": "+1 938 722 2226",
-       "location": "Section, AL"
-      },
-      {
-       "number": "+1 938 722 2229",
-       "location": "Section, AL"
-      }
-     ]
-    },
     {
      "state": "Georgia",
      "count": 1,
@@ -138,16 +120,6 @@
      ]
     },
     {
-     "state": "Texas",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 940 222 2286",
-       "location": "Denton, TX"
-      }
-     ]
-    },
-    {
      "state": "Vermont",
      "count": 3,
      "numbers": [
@@ -169,56 +141,18 @@
   },
   {
    "pattern": "33333",
-   "count": 36,
+   "count": 25,
    "states": [
     {
-     "state": "Alabama",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 938 333 3358",
-       "location": "Gurley, AL"
-      }
-     ]
-    },
-    {
      "state": "California",
-     "count": 14,
+     "count": 7,
      "numbers": [
-      {
-       "number": "+1 442 333 3324",
-       "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 442 333 3327",
-       "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 442 333 3328",
-       "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 442 333 3329",
-       "location": "Carlsbad, CA"
-      },
       {
        "number": "+1 442 333 3341",
        "location": "Carlsbad, CA"
       },
       {
        "number": "+1 442 333 3351",
-       "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 442 333 3362",
-       "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 442 333 3369",
-       "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 442 333 3372",
        "location": "Carlsbad, CA"
       },
       {
@@ -265,12 +199,8 @@
     },
     {
      "state": "New Jersey",
-     "count": 4,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 551 333 3309",
-       "location": "Cliffside Pk, NJ"
-      },
       {
        "number": "+1 551 333 3326",
        "location": "Cliffside Pk, NJ"
@@ -282,20 +212,6 @@
       {
        "number": "+1 551 333 3390",
        "location": "Cliffside Pk, NJ"
-      }
-     ]
-    },
-    {
-     "state": "New York",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 716 733 3332",
-       "location": "Angola, NY"
-      },
-      {
-       "number": "+1 716 733 3335",
-       "location": "Angola, NY"
       }
      ]
     },
@@ -367,11 +283,11 @@
   },
   {
    "pattern": "44444",
-   "count": 51,
+   "count": 50,
    "states": [
     {
      "state": "Alabama",
-     "count": 10,
+     "count": 9,
      "numbers": [
       {
        "number": "+1 251 444 4402",
@@ -408,10 +324,6 @@
       {
        "number": "+1 251 444 4498",
        "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 938 444 4487",
-       "location": "Decatur, AL"
       }
      ]
     },
@@ -705,26 +617,8 @@
   },
   {
    "pattern": "66666",
-   "count": 66,
+   "count": 61,
    "states": [
-    {
-     "state": "Alabama",
-     "count": 3,
-     "numbers": [
-      {
-       "number": "+1 334 766 6661",
-       "location": "Daleville, AL"
-      },
-      {
-       "number": "+1 334 766 6665",
-       "location": "Daleville, AL"
-      },
-      {
-       "number": "+1 334 766 6668",
-       "location": "Daleville, AL"
-      }
-     ]
-    },
     {
      "state": "Arizona",
      "count": 2,
@@ -833,7 +727,7 @@
     },
     {
      "state": "Indiana",
-     "count": 12,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 260 366 6661",
@@ -858,10 +752,6 @@
       {
        "number": "+1 260 366 6668",
        "location": "Huntington, IN"
-      },
-      {
-       "number": "+1 765 566 6661",
-       "location": "Bringhurst, IN"
       },
       {
        "number": "+1 765 566 6662",
@@ -1057,7 +947,7 @@
     },
     {
      "state": "Texas",
-     "count": 4,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 817 766 6663",
@@ -1070,10 +960,6 @@
       {
        "number": "+1 817 766 6665",
        "location": "Fort Worth, TX"
-      },
-      {
-       "number": "+1 936 666 6306",
-       "location": "Conroe, TX"
       }
      ]
     },
@@ -1095,16 +981,12 @@
   },
   {
    "pattern": "77777",
-   "count": 228,
+   "count": 220,
    "states": [
     {
      "state": "California",
-     "count": 165,
+     "count": 164,
      "numbers": [
-      {
-       "number": "+1 424 777 7751",
-       "location": "Beverly Hills, CA"
-      },
       {
        "number": "+1 657 777 7038",
        "location": "Buena Park, CA"
@@ -1978,16 +1860,6 @@
      ]
     },
     {
-     "state": "New York",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 607 477 7771",
-       "location": "Endicott, NY"
-      }
-     ]
-    },
-    {
      "state": "Oregon",
      "count": 2,
      "numbers": [
@@ -1998,36 +1870,6 @@
       {
        "number": "+1 458 777 7759",
        "location": "Jefferson, OR"
-      }
-     ]
-    },
-    {
-     "state": "Pennsylvania",
-     "count": 6,
-     "numbers": [
-      {
-       "number": "+1 267 777 7055",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7134",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7419",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7472",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7845",
-       "location": "Philadelphia, PA"
-      },
-      {
-       "number": "+1 267 777 7891",
-       "location": "Philadelphia, PA"
       }
      ]
     },
@@ -2079,11 +1921,11 @@
   },
   {
    "pattern": "88888",
-   "count": 395,
+   "count": 376,
    "states": [
     {
      "state": "Alabama",
-     "count": 24,
+     "count": 19,
      "numbers": [
       {
        "number": "+1 251 888 8803",
@@ -2160,32 +2002,12 @@
       {
        "number": "+1 256 988 8886",
        "location": "Huntsville, AL"
-      },
-      {
-       "number": "+1 334 888 8831",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 334 888 8837",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 334 888 8839",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 334 888 8843",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 938 888 8440",
-       "location": "Killen, AL"
       }
      ]
     },
     {
      "state": "California",
-     "count": 116,
+     "count": 104,
      "numbers": [
       {
        "number": "+1 858 888 8012",
@@ -2273,6 +2095,10 @@
       },
       {
        "number": "+1 858 888 8053",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8073",
        "location": "San Diego, CA"
       },
       {
@@ -2380,10 +2206,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8239",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8240",
        "location": "San Diego, CA"
       },
@@ -2392,43 +2214,19 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8242",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8244",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8245",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8246",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8251",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8253",
+       "number": "+1 858 888 8266",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8254",
+       "number": "+1 858 888 8270",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8256",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8261",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8263",
+       "number": "+1 858 888 8279",
        "location": "San Diego, CA"
       },
       {
@@ -2604,23 +2402,7 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8628",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8629",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8630",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8634",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8638",
        "location": "San Diego, CA"
       },
       {
@@ -2636,26 +2418,18 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8646",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8650",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8656",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8657",
+       "number": "+1 858 888 8690",
        "location": "San Diego, CA"
       }
      ]
     },
     {
      "state": "Minnesota",
-     "count": 127,
+     "count": 126,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -3160,10 +2934,6 @@
       {
        "number": "+1 320 588 8887",
        "location": "Finlayson, MN"
-      },
-      {
-       "number": "+1 507 488 8881",
-       "location": "Nicollet, MN"
       }
      ]
     },
@@ -3521,7 +3291,7 @@
     },
     {
      "state": "Oregon",
-     "count": 41,
+     "count": 40,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3682,10 +3452,6 @@
       {
        "number": "+1 971 888 8832",
        "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 888 8871",
-       "location": "West Haven-Sylvan, OR"
       }
      ]
     },
@@ -3713,11 +3479,11 @@
   },
   {
    "pattern": "99999",
-   "count": 65,
+   "count": 58,
    "states": [
     {
      "state": "Alabama",
-     "count": 10,
+     "count": 5,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -3738,32 +3504,12 @@
       {
        "number": "+1 251 999 9982",
        "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 659 599 9997",
-       "location": "Birmingham, AL"
-      },
-      {
-       "number": "+1 659 599 9998",
-       "location": "Birmingham, AL"
-      },
-      {
-       "number": "+1 659 799 9991",
-       "location": "Pinson, AL"
-      },
-      {
-       "number": "+1 659 799 9993",
-       "location": "Pinson, AL"
-      },
-      {
-       "number": "+1 659 799 9998",
-       "location": "Pinson, AL"
       }
      ]
     },
     {
      "state": "Colorado",
-     "count": 44,
+     "count": 43,
      "numbers": [
       {
        "number": "+1 719 999 9018",
@@ -3847,10 +3593,6 @@
       },
       {
        "number": "+1 719 999 9372",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9397",
        "location": "Colorado Springs, CO"
       },
       {
@@ -4012,27 +3754,17 @@
        "location": "Yamhill, OR"
       }
      ]
-    },
-    {
-     "state": "Pennsylvania",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 267 999 9982",
-       "location": "Quakertown, PA"
-      }
-     ]
     }
    ]
   }
  ],
  "pattern_0000": {
-  "total": 653,
+  "total": 552,
   "state_count": 39,
   "states": [
    {
     "state": "Alabama",
-    "count": 20,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -4061,58 +3793,6 @@
      {
       "number": "+1 251 810 0005",
       "location": "Bayou La Batre, AL"
-     },
-     {
-      "number": "+1 334 910 0002",
-      "location": "Montgomery, AL"
-     },
-     {
-      "number": "+1 334 910 0003",
-      "location": "Montgomery, AL"
-     },
-     {
-      "number": "+1 659 800 0091",
-      "location": "Vernon, AL"
-     },
-     {
-      "number": "+1 659 900 0021",
-      "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 900 0024",
-      "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 900 0051",
-      "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 900 0062",
-      "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 910 0002",
-      "location": "Birmingham, AL"
-     },
-     {
-      "number": "+1 659 910 0003",
-      "location": "Birmingham, AL"
-     },
-     {
-      "number": "+1 659 910 0006",
-      "location": "Birmingham, AL"
-     },
-     {
-      "number": "+1 659 910 0007",
-      "location": "Birmingham, AL"
-     },
-     {
-      "number": "+1 659 910 0008",
-      "location": "Birmingham, AL"
-     },
-     {
-      "number": "+1 659 910 0009",
-      "location": "Birmingham, AL"
      }
     ]
    },
@@ -4592,7 +4272,7 @@
    },
    {
     "state": "Florida",
-    "count": 40,
+    "count": 39,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -4608,10 +4288,6 @@
      },
      {
       "number": "+1 386 800 0023",
-      "location": "Crescent City, FL"
-     },
-     {
-      "number": "+1 386 800 0024",
       "location": "Crescent City, FL"
      },
      {
@@ -4917,6 +4593,16 @@
     ]
    },
    {
+    "state": "Iowa",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 641 200 0023",
+      "location": "Charles City, IA"
+     }
+    ]
+   },
+   {
     "state": "Kansas",
     "count": 9,
     "numbers": [
@@ -5036,7 +4722,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 54,
+    "count": 56,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -5093,6 +4779,10 @@
      {
       "number": "+1 218 960 0005",
       "location": "Alvarado, MN"
+     },
+     {
+      "number": "+1 320 200 0078",
+      "location": "St Cloud, MN"
      },
      {
       "number": "+1 320 380 0002",
@@ -5181,6 +4871,10 @@
      {
       "number": "+1 320 910 0009",
       "location": "Sauk Rapids, MN"
+     },
+     {
+      "number": "+1 507 200 0026",
+      "location": "Owatonna, MN"
      },
      {
       "number": "+1 507 400 0021",
@@ -5603,42 +5297,8 @@
     ]
    },
    {
-    "state": "New Mexico",
-    "count": 7,
-    "numbers": [
-     {
-      "number": "+1 575 500 0081",
-      "location": "Roswell, NM"
-     },
-     {
-      "number": "+1 575 500 0083",
-      "location": "Roswell, NM"
-     },
-     {
-      "number": "+1 575 500 0093",
-      "location": "Roswell, NM"
-     },
-     {
-      "number": "+1 575 800 0082",
-      "location": "Las Cruces, NM"
-     },
-     {
-      "number": "+1 575 800 0083",
-      "location": "Las Cruces, NM"
-     },
-     {
-      "number": "+1 575 800 0084",
-      "location": "Las Cruces, NM"
-     },
-     {
-      "number": "+1 575 800 0093",
-      "location": "Las Cruces, NM"
-     }
-    ]
-   },
-   {
     "state": "New York",
-    "count": 104,
+    "count": 19,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -5685,58 +5345,6 @@
       "location": "Rochester, NY"
      },
      {
-      "number": "+1 607 800 0021",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0032",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0041",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0065",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0082",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0086",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0096",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0098",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 900 0025",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 900 0065",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 900 0078",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 900 0097",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 940 0002",
-      "location": "Binghamton, NY"
-     },
-     {
       "number": "+1 631 600 0014",
       "location": "East Northport, NY"
      },
@@ -5747,78 +5355,6 @@
      {
       "number": "+1 631 600 0094",
       "location": "East Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0012",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0014",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0015",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0017",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0023",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0025",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0029",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0034",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0035",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0045",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0054",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0056",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0059",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0078",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0084",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0085",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0086",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0096",
-      "location": "Northport, NY"
      },
      {
       "number": "+1 680 230 0004",
@@ -5839,233 +5375,13 @@
      {
       "number": "+1 680 780 0009",
       "location": "Central Square, NY"
-     },
-     {
-      "number": "+1 716 750 0006",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 750 0008",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 750 0009",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 770 0002",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 910 0006",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 845 910 0008",
-      "location": "Middletown, NY"
-     },
-     {
-      "number": "+1 845 930 0002",
-      "location": "Walden, NY"
-     },
-     {
-      "number": "+1 845 930 0005",
-      "location": "Walden, NY"
-     },
-     {
-      "number": "+1 845 930 0008",
-      "location": "Walden, NY"
-     },
-     {
-      "number": "+1 845 960 0002",
-      "location": "Poughkeepsie, NY"
-     },
-     {
-      "number": "+1 845 960 0003",
-      "location": "Poughkeepsie, NY"
-     },
-     {
-      "number": "+1 914 600 0021",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0071",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0079",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0081",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0085",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0089",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0092",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 934 400 0014",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0016",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0024",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0029",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0031",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0032",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0034",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0035",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0036",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0037",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0038",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0042",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0043",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0049",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0052",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0054",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0069",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0072",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0073",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0076",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0079",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0084",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0085",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0094",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0098",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 500 0012",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0016",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0018",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0024",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0041",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0046",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0052",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0054",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0056",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0094",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0096",
-      "location": "North Bay Shore, NY"
      }
     ]
    },
    {
     "state": "North Carolina",
-    "count": 36,
+    "count": 35,
     "numbers": [
-     {
-      "number": "+1 252 260 0003",
-      "location": "Moyock, NC"
-     },
      {
       "number": "+1 252 740 0005",
       "location": "Rocky Mount, NC"
@@ -6360,7 +5676,7 @@
    },
    {
     "state": "Oklahoma",
-    "count": 3,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 405 970 0004",
@@ -6373,6 +5689,18 @@
      {
       "number": "+1 405 970 0008",
       "location": "Guthrie, OK"
+     },
+     {
+      "number": "+1 539 200 0051",
+      "location": "Barnsdall, OK"
+     },
+     {
+      "number": "+1 539 200 0079",
+      "location": "Barnsdall, OK"
+     },
+     {
+      "number": "+1 539 200 0093",
+      "location": "Barnsdall, OK"
      }
     ]
    },
@@ -6432,7 +5760,7 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 4,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 570 500 0027",
@@ -6444,6 +5772,10 @@
      },
      {
       "number": "+1 570 580 0002",
+      "location": "Mount Pocono, PA"
+     },
+     {
+      "number": "+1 570 580 0008",
       "location": "Mount Pocono, PA"
      },
      {
@@ -6582,7 +5914,7 @@
    },
    {
     "state": "Texas",
-    "count": 13,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 325 400 0015",
@@ -6599,10 +5931,6 @@
      {
       "number": "+1 325 400 0039",
       "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 346 620 0009",
-      "location": "Rosenberg, TX"
      },
      {
       "number": "+1 409 240 0008",
@@ -7058,34 +6386,6 @@
    ]
   },
   {
-   "pattern": "6669999",
-   "count": 4,
-   "states": [
-    {
-     "state": "New York",
-     "count": 4,
-     "numbers": [
-      {
-       "number": "+1 716 669 9991",
-       "location": "Akron, NY"
-      },
-      {
-       "number": "+1 716 669 9994",
-       "location": "Akron, NY"
-      },
-      {
-       "number": "+1 716 669 9995",
-       "location": "Akron, NY"
-      },
-      {
-       "number": "+1 716 669 9997",
-       "location": "Akron, NY"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "pattern": "7772222",
    "count": 6,
    "states": [
@@ -7341,12 +6641,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 874,
+  "total_5_in_a_row": 819,
   "patterns_with_results": 8,
-  "total_0000": 653,
+  "total_0000": 552,
   "state_count_0000": 39,
-  "total_aaa_bbbb": 48,
+  "total_aaa_bbbb": 44,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 14
+  "aaa_bbbb_patterns_with_results": 13
  }
 }
