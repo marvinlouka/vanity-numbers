@@ -1,12 +1,17 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-07
-819 five-in-a-row · 552 four-zeros across 39 states · 44 AAA-BBBB across 13 of 90 combinations
+Updated: 2026-09-08
+839 five-in-a-row · 649 four-zeros across 39 states · 47 AAA-BBBB across 13 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 18 numbers ---
+--- 22222 — 21 numbers ---
+
+  ALABAMA (3)
+    +1 938 722 2224   Section, AL
+    +1 938 722 2226   Section, AL
+    +1 938 722 2229   Section, AL
 
   GEORGIA (1)
     +1 706 522 2226   Elberton, GA
@@ -46,11 +51,15 @@ Updated: 2026-09-07
     +1 802 622 2228   Barre, VT
     +1 802 822 2227   Derby Line, VT
 
---- 33333 — 25 numbers ---
+--- 33333 — 29 numbers ---
 
-  CALIFORNIA (7)
+  ALABAMA (1)
+    +1 938 333 3358   Gurley, AL
+
+  CALIFORNIA (8)
     +1 442 333 3341   Carlsbad, CA
     +1 442 333 3351   Carlsbad, CA
+    +1 442 333 3359   Carlsbad, CA
     +1 951 433 3331   Corona, CA
     +1 951 433 3335   Corona, CA
     +1 951 433 3336   Corona, CA
@@ -67,6 +76,10 @@ Updated: 2026-09-07
     +1 551 333 3326   Cliffside Pk, NJ
     +1 551 333 3389   Cliffside Pk, NJ
     +1 551 333 3390   Cliffside Pk, NJ
+
+  NEW YORK (2)
+    +1 716 733 3332   Angola, NY
+    +1 716 733 3335   Angola, NY
 
   TENNESSEE (2)
     +1 731 333 3310   Paris, TN
@@ -85,9 +98,9 @@ Updated: 2026-09-07
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 50 numbers ---
+--- 44444 — 51 numbers ---
 
-  ALABAMA (9)
+  ALABAMA (10)
     +1 251 444 4402   Mobile, AL
     +1 251 444 4407   Mobile, AL
     +1 251 444 4413   Mobile, AL
@@ -97,6 +110,7 @@ Updated: 2026-09-07
     +1 251 444 4492   Mobile, AL
     +1 251 444 4497   Mobile, AL
     +1 251 444 4498   Mobile, AL
+    +1 938 444 4487   Decatur, AL
 
   CONNECTICUT (1)
     +1 860 744 4446   Willimantic, CT
@@ -176,7 +190,12 @@ Updated: 2026-09-07
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 61 numbers ---
+--- 66666 — 64 numbers ---
+
+  ALABAMA (3)
+    +1 334 766 6661   Daleville, AL
+    +1 334 766 6665   Daleville, AL
+    +1 334 766 6668   Daleville, AL
 
   ARIZONA (2)
     +1 520 666 6685   Casa Grande, AZ
@@ -277,7 +296,7 @@ Updated: 2026-09-07
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 220 numbers ---
+--- 77777 — 221 numbers ---
 
   CALIFORNIA (164)
     +1 657 777 7038   Buena Park, CA
@@ -501,6 +520,9 @@ Updated: 2026-09-07
     +1 531 777 7786   Omaha, NE
     +1 531 777 7794   Omaha, NE
 
+  NEW YORK (1)
+    +1 607 477 7771   Endicott, NY
+
   OREGON (2)
     +1 458 777 7745   Jefferson, OR
     +1 458 777 7759   Jefferson, OR
@@ -517,9 +539,9 @@ Updated: 2026-09-07
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 376 numbers ---
+--- 88888 — 380 numbers ---
 
-  ALABAMA (19)
+  ALABAMA (24)
     +1 251 888 8803   Mobile, AL
     +1 251 888 8806   Mobile, AL
     +1 251 888 8810   Mobile, AL
@@ -539,6 +561,11 @@ Updated: 2026-09-07
     +1 256 988 8882   Huntsville, AL
     +1 256 988 8884   Huntsville, AL
     +1 256 988 8886   Huntsville, AL
+    +1 334 888 8831   Clayton, AL
+    +1 334 888 8837   Clayton, AL
+    +1 334 888 8839   Clayton, AL
+    +1 334 888 8843   Clayton, AL
+    +1 938 888 8440   Killen, AL
 
   CALIFORNIA (104)
     +1 858 888 8012   San Diego, CA
@@ -905,20 +932,22 @@ Updated: 2026-09-07
     +1 971 888 8812   West Haven-Sylvan, OR
     +1 971 888 8832   West Haven-Sylvan, OR
 
-  TENNESSEE (1)
-    +1 931 488 8889   Shelbyville, TN
-
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 58 numbers ---
+--- 99999 — 62 numbers ---
 
-  ALABAMA (5)
+  ALABAMA (10)
     +1 251 999 9913   Mobile, AL
     +1 251 999 9917   Mobile, AL
     +1 251 999 9963   Mobile, AL
     +1 251 999 9967   Mobile, AL
     +1 251 999 9982   Mobile, AL
+    +1 659 599 9997   Birmingham, AL
+    +1 659 599 9998   Birmingham, AL
+    +1 659 799 9991   Pinson, AL
+    +1 659 799 9993   Pinson, AL
+    +1 659 799 9998   Pinson, AL
 
   COLORADO (43)
     +1 719 999 9018   Colorado Springs, CO
@@ -965,9 +994,8 @@ Updated: 2026-09-07
     +1 719 999 9830   Colorado Springs, CO
     +1 719 999 9887   Colorado Springs, CO
 
-  FLORIDA (3)
+  FLORIDA (2)
     +1 863 999 9932   Lakeland, FL
-    +1 863 999 9940   Lakeland, FL
     +1 863 999 9970   Lakeland, FL
 
   MASSACHUSETTS (3)
@@ -986,10 +1014,10 @@ Updated: 2026-09-07
     +1 971 999 9915   Yamhill, OR
 
 ====================================================
-4 ZEROS — 552 numbers across 39 states
+4 ZEROS — 649 numbers across 39 states
 ====================================================
 
-  ALABAMA (7)
+  ALABAMA (20)
     +1 251 530 0002   Pine Apple, AL
     +1 251 800 0016   Mobile, AL
     +1 251 800 0025   Mobile, AL
@@ -997,6 +1025,19 @@ Updated: 2026-09-07
     +1 251 800 0085   Mobile, AL
     +1 251 800 0096   Mobile, AL
     +1 251 810 0005   Bayou La Batre, AL
+    +1 334 910 0002   Montgomery, AL
+    +1 334 910 0003   Montgomery, AL
+    +1 659 800 0091   Vernon, AL
+    +1 659 900 0021   Sulligent, AL
+    +1 659 900 0024   Sulligent, AL
+    +1 659 900 0051   Sulligent, AL
+    +1 659 900 0062   Sulligent, AL
+    +1 659 910 0002   Birmingham, AL
+    +1 659 910 0003   Birmingham, AL
+    +1 659 910 0006   Birmingham, AL
+    +1 659 910 0007   Birmingham, AL
+    +1 659 910 0008   Birmingham, AL
+    +1 659 910 0009   Birmingham, AL
 
   ARIZONA (7)
     +1 928 800 0024   Prescott, AZ
@@ -1018,11 +1059,9 @@ Updated: 2026-09-07
     +1 870 600 0073   Ashdown, AR
     +1 870 600 0078   Ashdown, AR
 
-  CALIFORNIA (46)
+  CALIFORNIA (44)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
-    +1 626 640 0003   La Puente, CA
-    +1 626 640 0008   La Puente, CA
     +1 657 650 0005   Orange, CA
     +1 661 450 0003   Santa Clarita, CA
     +1 661 750 0004   Tehachapi, CA
@@ -1160,7 +1199,7 @@ Updated: 2026-09-07
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (14)
+  GEORGIA (13)
     +1 478 287 0000   Perry, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 600 0062   Monticello, GA
@@ -1170,7 +1209,6 @@ Updated: 2026-09-07
     +1 762 800 0063   Augusta, GA
     +1 762 930 0004   Augusta, GA
     +1 762 930 0006   Augusta, GA
-    +1 762 930 0009   Augusta, GA
     +1 912 940 0003   Thunderbolt, GA
     +1 912 940 0008   Thunderbolt, GA
     +1 943 990 0004   Flowery Branch, GA
@@ -1201,9 +1239,6 @@ Updated: 2026-09-07
     +1 765 710 0003   Eaton, IN
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
-
-  IOWA (1)
-    +1 641 200 0023   Charles City, IA
 
   KANSAS (9)
     +1 785 510 0002   Washington, KS
@@ -1275,7 +1310,6 @@ Updated: 2026-09-07
     +1 320 400 0095   Olivia, MN
     +1 320 400 0098   Olivia, MN
     +1 320 910 0009   Sauk Rapids, MN
-    +1 507 200 0026   Owatonna, MN
     +1 507 400 0021   Faribault, MN
     +1 507 400 0024   Faribault, MN
     +1 507 400 0025   Faribault, MN
@@ -1284,6 +1318,7 @@ Updated: 2026-09-07
     +1 507 400 0084   Faribault, MN
     +1 507 400 0087   Faribault, MN
     +1 507 400 0089   Faribault, MN
+    +1 507 550 0007   St Peter, MN
     +1 507 570 0004   Green Isle, MN
     +1 507 570 0007   Green Isle, MN
     +1 507 580 0006   Elgin, MN
@@ -1384,7 +1419,16 @@ Updated: 2026-09-07
     +1 908 800 0076   Somerville, NJ
     +1 908 800 0079   Somerville, NJ
 
-  NEW YORK (19)
+  NEW MEXICO (7)
+    +1 575 500 0081   Roswell, NM
+    +1 575 500 0083   Roswell, NM
+    +1 575 500 0093   Roswell, NM
+    +1 575 800 0082   Las Cruces, NM
+    +1 575 800 0083   Las Cruces, NM
+    +1 575 800 0084   Las Cruces, NM
+    +1 575 800 0093   Las Cruces, NM
+
+  NEW YORK (104)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
@@ -1396,14 +1440,99 @@ Updated: 2026-09-07
     +1 585 630 0006   Batavia, NY
     +1 585 630 0009   Batavia, NY
     +1 585 910 0008   Rochester, NY
+    +1 607 800 0021   Freeville, NY
+    +1 607 800 0032   Freeville, NY
+    +1 607 800 0041   Freeville, NY
+    +1 607 800 0065   Freeville, NY
+    +1 607 800 0082   Freeville, NY
+    +1 607 800 0086   Freeville, NY
+    +1 607 800 0096   Freeville, NY
+    +1 607 800 0098   Freeville, NY
+    +1 607 900 0025   Mcgraw, NY
+    +1 607 900 0065   Mcgraw, NY
+    +1 607 900 0078   Mcgraw, NY
+    +1 607 900 0097   Mcgraw, NY
+    +1 607 940 0002   Binghamton, NY
     +1 631 600 0014   East Northport, NY
     +1 631 600 0025   East Northport, NY
     +1 631 600 0094   East Northport, NY
+    +1 631 900 0012   Northport, NY
+    +1 631 900 0014   Northport, NY
+    +1 631 900 0015   Northport, NY
+    +1 631 900 0017   Northport, NY
+    +1 631 900 0023   Northport, NY
+    +1 631 900 0025   Northport, NY
+    +1 631 900 0029   Northport, NY
+    +1 631 900 0034   Northport, NY
+    +1 631 900 0035   Northport, NY
+    +1 631 900 0045   Northport, NY
+    +1 631 900 0054   Northport, NY
+    +1 631 900 0056   Northport, NY
+    +1 631 900 0059   Northport, NY
+    +1 631 900 0078   Northport, NY
+    +1 631 900 0084   Northport, NY
+    +1 631 900 0085   Northport, NY
+    +1 631 900 0086   Northport, NY
+    +1 631 900 0096   Northport, NY
     +1 680 230 0004   Utica, NY
     +1 680 230 0005   Utica, NY
     +1 680 230 0006   Utica, NY
     +1 680 230 0009   Utica, NY
     +1 680 780 0009   Central Square, NY
+    +1 716 750 0006   Buffalo, NY
+    +1 716 750 0008   Buffalo, NY
+    +1 716 750 0009   Buffalo, NY
+    +1 716 770 0002   Buffalo, NY
+    +1 716 910 0006   Buffalo, NY
+    +1 845 910 0008   Middletown, NY
+    +1 845 930 0002   Walden, NY
+    +1 845 930 0005   Walden, NY
+    +1 845 930 0008   Walden, NY
+    +1 845 960 0002   Poughkeepsie, NY
+    +1 845 960 0003   Poughkeepsie, NY
+    +1 914 600 0021   Jefferson Valley-Yorktown, NY
+    +1 914 600 0071   Jefferson Valley-Yorktown, NY
+    +1 914 600 0079   Jefferson Valley-Yorktown, NY
+    +1 914 600 0081   Jefferson Valley-Yorktown, NY
+    +1 914 600 0085   Jefferson Valley-Yorktown, NY
+    +1 914 600 0089   Jefferson Valley-Yorktown, NY
+    +1 914 600 0092   Jefferson Valley-Yorktown, NY
+    +1 934 400 0014   Port Jefferson, NY
+    +1 934 400 0016   Port Jefferson, NY
+    +1 934 400 0024   Port Jefferson, NY
+    +1 934 400 0029   Port Jefferson, NY
+    +1 934 400 0031   Port Jefferson, NY
+    +1 934 400 0032   Port Jefferson, NY
+    +1 934 400 0034   Port Jefferson, NY
+    +1 934 400 0035   Port Jefferson, NY
+    +1 934 400 0036   Port Jefferson, NY
+    +1 934 400 0037   Port Jefferson, NY
+    +1 934 400 0038   Port Jefferson, NY
+    +1 934 400 0042   Port Jefferson, NY
+    +1 934 400 0043   Port Jefferson, NY
+    +1 934 400 0049   Port Jefferson, NY
+    +1 934 400 0052   Port Jefferson, NY
+    +1 934 400 0054   Port Jefferson, NY
+    +1 934 400 0069   Port Jefferson, NY
+    +1 934 400 0072   Port Jefferson, NY
+    +1 934 400 0073   Port Jefferson, NY
+    +1 934 400 0076   Port Jefferson, NY
+    +1 934 400 0079   Port Jefferson, NY
+    +1 934 400 0084   Port Jefferson, NY
+    +1 934 400 0085   Port Jefferson, NY
+    +1 934 400 0094   Port Jefferson, NY
+    +1 934 400 0098   Port Jefferson, NY
+    +1 934 500 0012   North Bay Shore, NY
+    +1 934 500 0016   North Bay Shore, NY
+    +1 934 500 0018   North Bay Shore, NY
+    +1 934 500 0024   North Bay Shore, NY
+    +1 934 500 0041   North Bay Shore, NY
+    +1 934 500 0046   North Bay Shore, NY
+    +1 934 500 0052   North Bay Shore, NY
+    +1 934 500 0054   North Bay Shore, NY
+    +1 934 500 0056   North Bay Shore, NY
+    +1 934 500 0094   North Bay Shore, NY
+    +1 934 500 0096   North Bay Shore, NY
 
   NORTH CAROLINA (35)
     +1 252 740 0005   Rocky Mount, NC
@@ -1480,13 +1609,10 @@ Updated: 2026-09-07
     +1 740 760 0008   Marietta, OH
     +1 740 860 0007   Parkersburg, OH
 
-  OKLAHOMA (6)
+  OKLAHOMA (3)
     +1 405 970 0004   Guthrie, OK
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
-    +1 539 200 0051   Barnsdall, OK
-    +1 539 200 0079   Barnsdall, OK
-    +1 539 200 0093   Barnsdall, OK
 
   OREGON (12)
     +1 971 600 0012   Salem, OR
@@ -1556,8 +1682,7 @@ Updated: 2026-09-07
     +1 903 420 0007   Corsicana, TX
     +1 903 420 0008   Corsicana, TX
 
-  UTAH (25)
-    +1 385 550 0006   Bountiful, UT
+  UTAH (24)
     +1 385 560 0005   Murray, UT
     +1 385 580 0002   Murray, UT
     +1 385 580 0006   Murray, UT
@@ -1644,13 +1769,8 @@ Updated: 2026-09-07
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 44 numbers across 13 patterns
+AAA-BBBB — 47 numbers across 13 patterns
 ====================================================
-
---- 555-0000 — 1 numbers ---
-
-  UTAH (1)
-    +1 385 550 0006   Bountiful, UT
 
 --- 555-2222 — 3 numbers ---
 
@@ -1686,6 +1806,14 @@ AAA-BBBB — 44 numbers across 13 patterns
     +1 986 668 8882   Hayden Lake, ID
     +1 986 668 8883   Hayden Lake, ID
     +1 986 668 8887   Hayden Lake, ID
+
+--- 666-9999 — 4 numbers ---
+
+  NEW YORK (4)
+    +1 716 669 9991   Akron, NY
+    +1 716 669 9994   Akron, NY
+    +1 716 669 9995   Akron, NY
+    +1 716 669 9997   Akron, NY
 
 --- 777-2222 — 6 numbers ---
 
