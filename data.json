@@ -1,5 +1,5 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-09",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -1999,7 +1999,7 @@
   },
   {
    "pattern": "88888",
-   "count": 380,
+   "count": 361,
    "states": [
     {
      "state": "Alabama",
@@ -3037,7 +3037,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 84,
+     "count": 82,
      "numbers": [
       {
        "number": "+1 308 888 8022",
@@ -3060,19 +3060,11 @@
        "location": "Chappell, NE"
       },
       {
-       "number": "+1 308 888 8063",
-       "location": "Chappell, NE"
-      },
-      {
        "number": "+1 308 888 8071",
        "location": "Chappell, NE"
       },
       {
        "number": "+1 308 888 8075",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8079",
        "location": "Chappell, NE"
       },
       {
@@ -3389,7 +3381,7 @@
     },
     {
      "state": "Oregon",
-     "count": 40,
+     "count": 23,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3456,10 +3448,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8731",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8794",
        "location": "Milton-Freewater, OR"
       },
@@ -3468,43 +3456,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8933",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8934",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8935",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8940",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8941",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8944",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8945",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8947",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8951",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8952",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3512,35 +3464,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8954",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8960",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8967",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8972",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8976",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8977",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8979",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8982",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3863,7 +3787,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 649,
+  "total": 646,
   "state_count": 39,
   "states": [
    {
@@ -4030,8 +3954,12 @@
    },
    {
     "state": "California",
-    "count": 44,
+    "count": 45,
     "numbers": [
+     {
+      "number": "+1 350 200 0024",
+      "location": "Lodi, CA"
+     },
      {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
@@ -4212,12 +4140,8 @@
    },
    {
     "state": "Connecticut",
-    "count": 41,
+    "count": 40,
     "numbers": [
-     {
-      "number": "+1 475 310 0008",
-      "location": "Wallingford, CT"
-     },
      {
       "number": "+1 860 600 0039",
       "location": "Litchfield, CT"
@@ -4582,7 +4506,7 @@
    },
    {
     "state": "Georgia",
-    "count": 13,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -4595,10 +4519,6 @@
      {
       "number": "+1 762 600 0062",
       "location": "Monticello, GA"
-     },
-     {
-      "number": "+1 762 770 0008",
-      "location": "Cleveland, GA"
      },
      {
       "number": "+1 762 800 0041",
@@ -4640,7 +4560,7 @@
    },
    {
     "state": "Idaho",
-    "count": 13,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 208 800 0059",
@@ -4680,10 +4600,6 @@
      },
      {
       "number": "+1 986 910 0006",
-      "location": "Garden City, ID"
-     },
-     {
-      "number": "+1 986 910 0007",
       "location": "Garden City, ID"
      },
      {
@@ -4856,7 +4772,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 56,
+    "count": 55,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -4913,10 +4829,6 @@
      {
       "number": "+1 218 960 0005",
       "location": "Alvarado, MN"
-     },
-     {
-      "number": "+1 320 200 0078",
-      "location": "St Cloud, MN"
      },
      {
       "number": "+1 320 380 0002",
@@ -7145,9 +7057,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 839,
+  "total_5_in_a_row": 820,
   "patterns_with_results": 8,
-  "total_0000": 649,
+  "total_0000": 646,
   "state_count_0000": 39,
   "total_aaa_bbbb": 47,
   "aaa_bbbb_patterns_searched": 90,

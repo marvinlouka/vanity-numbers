@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-08
-839 five-in-a-row · 649 four-zeros across 39 states · 47 AAA-BBBB across 13 of 90 combinations
+Updated: 2026-09-09
+820 five-in-a-row · 646 four-zeros across 39 states · 47 AAA-BBBB across 13 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -539,7 +539,7 @@ Updated: 2026-09-08
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 380 numbers ---
+--- 88888 — 361 numbers ---
 
   ALABAMA (24)
     +1 251 888 8803   Mobile, AL
@@ -801,16 +801,14 @@ Updated: 2026-09-08
     +1 218 888 8993   Bemidji, MN
     +1 320 588 8887   Finlayson, MN
 
-  NEBRASKA (84)
+  NEBRASKA (82)
     +1 308 888 8022   Chappell, NE
     +1 308 888 8023   Chappell, NE
     +1 308 888 8028   Chappell, NE
     +1 308 888 8032   Chappell, NE
     +1 308 888 8038   Chappell, NE
-    +1 308 888 8063   Chappell, NE
     +1 308 888 8071   Chappell, NE
     +1 308 888 8075   Chappell, NE
-    +1 308 888 8079   Chappell, NE
     +1 308 888 8089   Chappell, NE
     +1 308 888 8202   Chappell, NE
     +1 308 888 8205   Chappell, NE
@@ -890,7 +888,7 @@ Updated: 2026-09-08
   NEW MEXICO (1)
     +1 505 788 8884   Escudilla Bonita, NM
 
-  OREGON (40)
+  OREGON (23)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -907,28 +905,11 @@ Updated: 2026-09-08
     +1 458 888 8651   Milton-Freewater, OR
     +1 458 888 8662   Milton-Freewater, OR
     +1 458 888 8676   Milton-Freewater, OR
-    +1 458 888 8731   Milton-Freewater, OR
     +1 458 888 8794   Milton-Freewater, OR
     +1 458 888 8913   Milton-Freewater, OR
-    +1 458 888 8933   Milton-Freewater, OR
-    +1 458 888 8934   Milton-Freewater, OR
-    +1 458 888 8935   Milton-Freewater, OR
-    +1 458 888 8940   Milton-Freewater, OR
-    +1 458 888 8941   Milton-Freewater, OR
-    +1 458 888 8944   Milton-Freewater, OR
-    +1 458 888 8945   Milton-Freewater, OR
-    +1 458 888 8947   Milton-Freewater, OR
     +1 458 888 8951   Milton-Freewater, OR
-    +1 458 888 8952   Milton-Freewater, OR
     +1 458 888 8953   Milton-Freewater, OR
-    +1 458 888 8954   Milton-Freewater, OR
-    +1 458 888 8960   Milton-Freewater, OR
     +1 458 888 8967   Milton-Freewater, OR
-    +1 458 888 8972   Milton-Freewater, OR
-    +1 458 888 8976   Milton-Freewater, OR
-    +1 458 888 8977   Milton-Freewater, OR
-    +1 458 888 8979   Milton-Freewater, OR
-    +1 458 888 8982   Milton-Freewater, OR
     +1 971 888 8812   West Haven-Sylvan, OR
     +1 971 888 8832   West Haven-Sylvan, OR
 
@@ -1014,7 +995,7 @@ Updated: 2026-09-08
     +1 971 999 9915   Yamhill, OR
 
 ====================================================
-4 ZEROS — 649 numbers across 39 states
+4 ZEROS — 646 numbers across 39 states
 ====================================================
 
   ALABAMA (20)
@@ -1059,7 +1040,8 @@ Updated: 2026-09-08
     +1 870 600 0073   Ashdown, AR
     +1 870 600 0078   Ashdown, AR
 
-  CALIFORNIA (44)
+  CALIFORNIA (45)
+    +1 350 200 0024   Lodi, CA
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 657 650 0005   Orange, CA
@@ -1105,8 +1087,7 @@ Updated: 2026-09-08
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
 
-  CONNECTICUT (41)
-    +1 475 310 0008   Wallingford, CT
+  CONNECTICUT (40)
     +1 860 600 0039   Litchfield, CT
     +1 860 600 0041   Litchfield, CT
     +1 860 600 0042   Litchfield, CT
@@ -1199,11 +1180,10 @@ Updated: 2026-09-08
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (13)
+  GEORGIA (12)
     +1 478 287 0000   Perry, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 600 0062   Monticello, GA
-    +1 762 770 0008   Cleveland, GA
     +1 762 800 0041   Augusta, GA
     +1 762 800 0045   Augusta, GA
     +1 762 800 0063   Augusta, GA
@@ -1214,7 +1194,7 @@ Updated: 2026-09-08
     +1 943 990 0004   Flowery Branch, GA
     +1 943 990 0006   Flowery Branch, GA
 
-  IDAHO (13)
+  IDAHO (12)
     +1 208 800 0059   Nampa, ID
     +1 208 800 0061   Nampa, ID
     +1 208 800 0062   Nampa, ID
@@ -1225,7 +1205,6 @@ Updated: 2026-09-08
     +1 986 910 0004   Garden City, ID
     +1 986 910 0005   Garden City, ID
     +1 986 910 0006   Garden City, ID
-    +1 986 910 0007   Garden City, ID
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
@@ -1272,7 +1251,7 @@ Updated: 2026-09-08
   MICHIGAN (1)
     +1 810 510 0003   Columbiaville, MI
 
-  MINNESOTA (56)
+  MINNESOTA (55)
     +1 218 500 0018   Kettle River, MN
     +1 218 500 0074   Kettle River, MN
     +1 218 500 0092   Kettle River, MN
@@ -1287,7 +1266,6 @@ Updated: 2026-09-08
     +1 218 810 0008   Duluth, MN
     +1 218 960 0003   Alvarado, MN
     +1 218 960 0005   Alvarado, MN
-    +1 320 200 0078   St Cloud, MN
     +1 320 380 0002   Saint Cloud, MN
     +1 320 380 0004   Saint Cloud, MN
     +1 320 380 0005   Saint Cloud, MN
