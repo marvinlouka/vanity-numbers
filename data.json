@@ -1,5 +1,5 @@
 {
- "date": "2026-09-09",
+ "date": "2026-09-10",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -1049,7 +1049,7 @@
   },
   {
    "pattern": "77777",
-   "count": 221,
+   "count": 215,
    "states": [
     {
      "state": "California",
@@ -1715,32 +1715,8 @@
     },
     {
      "state": "Connecticut",
-     "count": 28,
+     "count": 22,
      "numbers": [
-      {
-       "number": "+1 959 777 7704",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7708",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7714",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7715",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7716",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7721",
-       "location": "Hartford, CT"
-      },
       {
        "number": "+1 959 777 7723",
        "location": "Hartford, CT"
@@ -1999,7 +1975,7 @@
   },
   {
    "pattern": "88888",
-   "count": 361,
+   "count": 359,
    "states": [
     {
      "state": "Alabama",
@@ -2527,7 +2503,7 @@
     },
     {
      "state": "Minnesota",
-     "count": 126,
+     "count": 125,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -2746,15 +2722,7 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8301",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8303",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8304",
        "location": "Bemidji, MN"
       },
       {
@@ -2767,18 +2735,6 @@
       },
       {
        "number": "+1 218 888 8307",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8309",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8310",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8311",
        "location": "Bemidji, MN"
       },
       {
@@ -2826,6 +2782,26 @@
        "location": "Bemidji, MN"
       },
       {
+       "number": "+1 218 888 8336",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8337",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8340",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8342",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8344",
+       "location": "Bemidji, MN"
+      },
+      {
        "number": "+1 218 888 8401",
        "location": "Bemidji, MN"
       },
@@ -2839,10 +2815,6 @@
       },
       {
        "number": "+1 218 888 8417",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8421",
        "location": "Bemidji, MN"
       },
       {
@@ -3381,7 +3353,7 @@
     },
     {
      "state": "Oregon",
-     "count": 23,
+     "count": 22,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3461,10 +3433,6 @@
       },
       {
        "number": "+1 458 888 8953",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8967",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3787,7 +3755,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 646,
+  "total": 641,
   "state_count": 39,
   "states": [
    {
@@ -3954,11 +3922,39 @@
    },
    {
     "state": "California",
-    "count": 45,
+    "count": 48,
     "numbers": [
      {
-      "number": "+1 350 200 0024",
-      "location": "Lodi, CA"
+      "number": "+1 530 940 0002",
+      "location": "Auburn, CA"
+     },
+     {
+      "number": "+1 530 940 0003",
+      "location": "Auburn, CA"
+     },
+     {
+      "number": "+1 530 940 0004",
+      "location": "Auburn, CA"
+     },
+     {
+      "number": "+1 530 940 0005",
+      "location": "Auburn, CA"
+     },
+     {
+      "number": "+1 530 940 0006",
+      "location": "Auburn, CA"
+     },
+     {
+      "number": "+1 530 940 0007",
+      "location": "Auburn, CA"
+     },
+     {
+      "number": "+1 530 940 0008",
+      "location": "Auburn, CA"
+     },
+     {
+      "number": "+1 530 940 0009",
+      "location": "Auburn, CA"
      },
      {
       "number": "+1 562 580 0004",
@@ -4069,27 +4065,11 @@
       "location": "Monte Rio, CA"
      },
      {
-      "number": "+1 747 380 0003",
-      "location": "Reseda, CA"
-     },
-     {
-      "number": "+1 747 380 0004",
-      "location": "Reseda, CA"
-     },
-     {
-      "number": "+1 747 380 0005",
-      "location": "Reseda, CA"
-     },
-     {
       "number": "+1 747 380 0006",
       "location": "Reseda, CA"
      },
      {
       "number": "+1 747 380 0007",
-      "location": "Reseda, CA"
-     },
-     {
-      "number": "+1 747 380 0008",
       "location": "Reseda, CA"
      },
      {
@@ -4614,11 +4594,15 @@
    },
    {
     "state": "Illinois",
-    "count": 3,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 224 970 0003",
       "location": "Bartlett, IL"
+     },
+     {
+      "number": "+1 618 370 0007",
+      "location": "Medora, IL"
      },
      {
       "number": "+1 618 820 0006",
@@ -4649,6 +4633,16 @@
      {
       "number": "+1 765 710 0005",
       "location": "Eaton, IN"
+     }
+    ]
+   },
+   {
+    "state": "Iowa",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 641 200 0024",
+      "location": "Charles City, IA"
      }
     ]
    },
@@ -4772,7 +4766,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 55,
+    "count": 54,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -4989,10 +4983,6 @@
      {
       "number": "+1 507 910 0007",
       "location": "Rochester, MN"
-     },
-     {
-      "number": "+1 651 560 0003",
-      "location": "Wabasha, MN"
      }
     ]
    },
@@ -6497,46 +6487,8 @@
     ]
    },
    {
-    "state": "Washington",
-    "count": 8,
-    "numbers": [
-     {
-      "number": "+1 509 600 0078",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0082",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0083",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0085",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0087",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0093",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0095",
-      "location": "Bridgeport, WA"
-     },
-     {
-      "number": "+1 509 600 0098",
-      "location": "Bridgeport, WA"
-     }
-    ]
-   },
-   {
     "state": "West Virginia",
-    "count": 12,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 681 230 0007",
@@ -6545,10 +6497,6 @@
      {
       "number": "+1 681 230 0009",
       "location": "District 4, WV"
-     },
-     {
-      "number": "+1 681 370 0002",
-      "location": "Rivesville, WV"
      },
      {
       "number": "+1 681 370 0003",
@@ -7057,9 +7005,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 820,
+  "total_5_in_a_row": 812,
   "patterns_with_results": 8,
-  "total_0000": 646,
+  "total_0000": 641,
   "state_count_0000": 39,
   "total_aaa_bbbb": 47,
   "aaa_bbbb_patterns_searched": 90,
