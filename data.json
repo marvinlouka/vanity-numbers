@@ -1,5 +1,5 @@
 {
- "date": "2026-09-10",
+ "date": "2026-09-11",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -667,7 +667,7 @@
   },
   {
    "pattern": "66666",
-   "count": 64,
+   "count": 71,
    "states": [
     {
      "state": "Alabama",
@@ -875,11 +875,39 @@
     },
     {
      "state": "Maryland",
-     "count": 4,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 443 266 6664",
        "location": "Glenwood, MD"
+      },
+      {
+       "number": "+1 443 966 6660",
+       "location": "Bel Air South, MD"
+      },
+      {
+       "number": "+1 443 966 6661",
+       "location": "Bel Air South, MD"
+      },
+      {
+       "number": "+1 443 966 6662",
+       "location": "Bel Air South, MD"
+      },
+      {
+       "number": "+1 443 966 6663",
+       "location": "Bel Air South, MD"
+      },
+      {
+       "number": "+1 443 966 6664",
+       "location": "Bel Air South, MD"
+      },
+      {
+       "number": "+1 443 966 6665",
+       "location": "Bel Air South, MD"
+      },
+      {
+       "number": "+1 443 966 6668",
+       "location": "Bel Air South, MD"
       },
       {
        "number": "+1 667 966 6662",
@@ -1049,7 +1077,7 @@
   },
   {
    "pattern": "77777",
-   "count": 215,
+   "count": 196,
    "states": [
     {
      "state": "California",
@@ -1715,30 +1743,10 @@
     },
     {
      "state": "Connecticut",
-     "count": 22,
+     "count": 5,
      "numbers": [
       {
        "number": "+1 959 777 7723",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7725",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7731",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7735",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7741",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7742",
        "location": "Hartford, CT"
       },
       {
@@ -1746,59 +1754,11 @@
        "location": "Hartford, CT"
       },
       {
-       "number": "+1 959 777 7749",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7751",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7752",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7756",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7758",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7759",
-       "location": "Hartford, CT"
-      },
-      {
        "number": "+1 959 777 7761",
        "location": "Hartford, CT"
       },
       {
-       "number": "+1 959 777 7764",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7765",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7785",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7791",
-       "location": "Hartford, CT"
-      },
-      {
        "number": "+1 959 777 7792",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7795",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7796",
        "location": "Hartford, CT"
       },
       {
@@ -1843,7 +1803,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 14,
+     "count": 12,
      "numbers": [
       {
        "number": "+1 531 777 7705",
@@ -1882,10 +1842,6 @@
        "location": "Omaha, NE"
       },
       {
-       "number": "+1 531 777 7765",
-       "location": "Omaha, NE"
-      },
-      {
        "number": "+1 531 777 7781",
        "location": "Omaha, NE"
       },
@@ -1895,10 +1851,6 @@
       },
       {
        "number": "+1 531 777 7786",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7794",
        "location": "Omaha, NE"
       }
      ]
@@ -1975,7 +1927,7 @@
   },
   {
    "pattern": "88888",
-   "count": 359,
+   "count": 358,
    "states": [
     {
      "state": "Alabama",
@@ -2754,10 +2706,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8320",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8322",
        "location": "Bemidji, MN"
       },
@@ -2766,15 +2714,7 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8327",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8328",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8329",
        "location": "Bemidji, MN"
       },
       {
@@ -2786,19 +2726,31 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8337",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8340",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8342",
+       "number": "+1 218 888 8344",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8344",
+       "number": "+1 218 888 8345",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8347",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8348",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8349",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8351",
        "location": "Bemidji, MN"
       },
       {
@@ -3353,7 +3305,7 @@
     },
     {
      "state": "Oregon",
-     "count": 22,
+     "count": 21,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3437,10 +3389,6 @@
       },
       {
        "number": "+1 971 888 8812",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
-       "number": "+1 971 888 8832",
        "location": "West Haven-Sylvan, OR"
       }
      ]
@@ -3687,15 +3635,21 @@
     },
     {
      "state": "Florida",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 863 999 9932",
        "location": "Lakeland, FL"
-      },
+      }
+     ]
+    },
+    {
+     "state": "Maryland",
+     "count": 1,
+     "numbers": [
       {
-       "number": "+1 863 999 9970",
-       "location": "Lakeland, FL"
+       "number": "+1 443 499 9995",
+       "location": "Bel Air North, MD"
       }
      ]
     },
@@ -3755,7 +3709,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 641,
+  "total": 630,
   "state_count": 39,
   "states": [
    {
@@ -3922,40 +3876,8 @@
    },
    {
     "state": "California",
-    "count": 48,
+    "count": 41,
     "numbers": [
-     {
-      "number": "+1 530 940 0002",
-      "location": "Auburn, CA"
-     },
-     {
-      "number": "+1 530 940 0003",
-      "location": "Auburn, CA"
-     },
-     {
-      "number": "+1 530 940 0004",
-      "location": "Auburn, CA"
-     },
-     {
-      "number": "+1 530 940 0005",
-      "location": "Auburn, CA"
-     },
-     {
-      "number": "+1 530 940 0006",
-      "location": "Auburn, CA"
-     },
-     {
-      "number": "+1 530 940 0007",
-      "location": "Auburn, CA"
-     },
-     {
-      "number": "+1 530 940 0008",
-      "location": "Auburn, CA"
-     },
-     {
-      "number": "+1 530 940 0009",
-      "location": "Auburn, CA"
-     },
      {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
@@ -4065,6 +3987,10 @@
       "location": "Monte Rio, CA"
      },
      {
+      "number": "+1 747 200 0071",
+      "location": "Burbank, CA"
+     },
+     {
       "number": "+1 747 380 0006",
       "location": "Reseda, CA"
      },
@@ -4120,7 +4046,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 40,
+    "count": 39,
     "numbers": [
      {
       "number": "+1 860 600 0039",
@@ -4252,10 +4178,6 @@
      },
      {
       "number": "+1 959 800 0051",
-      "location": "Bethlehem Village, CT"
-     },
-     {
-      "number": "+1 959 800 0052",
       "location": "Bethlehem Village, CT"
      },
      {
@@ -4594,15 +4516,11 @@
    },
    {
     "state": "Illinois",
-    "count": 4,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 224 970 0003",
       "location": "Bartlett, IL"
-     },
-     {
-      "number": "+1 618 370 0007",
-      "location": "Medora, IL"
      },
      {
       "number": "+1 618 820 0006",
@@ -4633,16 +4551,6 @@
      {
       "number": "+1 765 710 0005",
       "location": "Eaton, IN"
-     }
-    ]
-   },
-   {
-    "state": "Iowa",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 641 200 0024",
-      "location": "Charles City, IA"
      }
     ]
    },
@@ -4741,6 +4649,16 @@
      {
       "number": "+1 985 570 0008",
       "location": "Bogalusa, LA"
+     }
+    ]
+   },
+   {
+    "state": "Maryland",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 443 590 0004",
+      "location": "Hampstead, MD"
      }
     ]
    },
@@ -4988,7 +4906,7 @@
    },
    {
     "state": "Mississippi",
-    "count": 10,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 662 270 0006",
@@ -5012,10 +4930,6 @@
      },
      {
       "number": "+1 662 780 0005",
-      "location": "Ashland, MS"
-     },
-     {
-      "number": "+1 662 780 0006",
       "location": "Ashland, MS"
      },
      {
@@ -5142,8 +5056,12 @@
    },
    {
     "state": "Nevada",
-    "count": 27,
+    "count": 28,
     "numbers": [
+     {
+      "number": "+1 725 800 0015",
+      "location": "Boulder City, NV"
+     },
      {
       "number": "+1 775 600 0063",
       "location": "Carson City, NV"
@@ -5256,15 +5174,11 @@
    },
    {
     "state": "New Jersey",
-    "count": 18,
+    "count": 17,
     "numbers": [
      {
       "number": "+1 848 310 0006",
       "location": "South Bound Brook, NJ"
-     },
-     {
-      "number": "+1 856 300 0068",
-      "location": "Millville, NJ"
      },
      {
       "number": "+1 908 800 0023",
@@ -5936,12 +5850,8 @@
    },
    {
     "state": "Ohio",
-    "count": 36,
+    "count": 35,
     "numbers": [
-     {
-      "number": "+1 330 800 0046",
-      "location": "Akron, OH"
-     },
      {
       "number": "+1 380 500 0017",
       "location": "Worthington, OH"
@@ -6581,7 +6491,7 @@
   },
   {
    "pattern": "666666",
-   "status": "No results"
+   "status": "No US results — Canada only"
   },
   {
    "pattern": "777777",
@@ -7005,9 +6915,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 812,
+  "total_5_in_a_row": 799,
   "patterns_with_results": 8,
-  "total_0000": 641,
+  "total_0000": 630,
   "state_count_0000": 39,
   "total_aaa_bbbb": 47,
   "aaa_bbbb_patterns_searched": 90,

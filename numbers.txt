@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-10
-812 five-in-a-row · 641 four-zeros across 39 states · 47 AAA-BBBB across 13 of 90 combinations
+Updated: 2026-09-11
+799 five-in-a-row · 630 four-zeros across 39 states · 47 AAA-BBBB across 13 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -190,7 +190,7 @@ Updated: 2026-09-10
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 64 numbers ---
+--- 66666 — 71 numbers ---
 
   ALABAMA (3)
     +1 334 766 6661   Daleville, AL
@@ -248,8 +248,15 @@ Updated: 2026-09-10
     +1 318 766 6668   Waterproof, LA
     +1 318 766 6669   Waterproof, LA
 
-  MARYLAND (4)
+  MARYLAND (11)
     +1 443 266 6664   Glenwood, MD
+    +1 443 966 6660   Bel Air South, MD
+    +1 443 966 6661   Bel Air South, MD
+    +1 443 966 6662   Bel Air South, MD
+    +1 443 966 6663   Bel Air South, MD
+    +1 443 966 6664   Bel Air South, MD
+    +1 443 966 6665   Bel Air South, MD
+    +1 443 966 6668   Bel Air South, MD
     +1 667 966 6662   New Windsor, MD
     +1 667 966 6664   New Windsor, MD
     +1 667 966 6665   New Windsor, MD
@@ -296,7 +303,7 @@ Updated: 2026-09-10
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 215 numbers ---
+--- 77777 — 196 numbers ---
 
   CALIFORNIA (164)
     +1 657 777 7038   Buena Park, CA
@@ -464,28 +471,11 @@ Updated: 2026-09-10
     +1 657 777 7959   Buena Park, CA
     +1 657 777 7964   Buena Park, CA
 
-  CONNECTICUT (22)
+  CONNECTICUT (5)
     +1 959 777 7723   Hartford, CT
-    +1 959 777 7725   Hartford, CT
-    +1 959 777 7731   Hartford, CT
-    +1 959 777 7735   Hartford, CT
-    +1 959 777 7741   Hartford, CT
-    +1 959 777 7742   Hartford, CT
     +1 959 777 7745   Hartford, CT
-    +1 959 777 7749   Hartford, CT
-    +1 959 777 7751   Hartford, CT
-    +1 959 777 7752   Hartford, CT
-    +1 959 777 7756   Hartford, CT
-    +1 959 777 7758   Hartford, CT
-    +1 959 777 7759   Hartford, CT
     +1 959 777 7761   Hartford, CT
-    +1 959 777 7764   Hartford, CT
-    +1 959 777 7765   Hartford, CT
-    +1 959 777 7785   Hartford, CT
-    +1 959 777 7791   Hartford, CT
     +1 959 777 7792   Hartford, CT
-    +1 959 777 7795   Hartford, CT
-    +1 959 777 7796   Hartford, CT
     +1 959 777 7798   Hartford, CT
 
   FLORIDA (1)
@@ -498,7 +488,7 @@ Updated: 2026-09-10
     +1 240 977 7773   Forest Heights, MD
     +1 240 977 7776   Forest Heights, MD
 
-  NEBRASKA (14)
+  NEBRASKA (12)
     +1 531 777 7705   Omaha, NE
     +1 531 777 7706   Omaha, NE
     +1 531 777 7708   Omaha, NE
@@ -508,11 +498,9 @@ Updated: 2026-09-10
     +1 531 777 7753   Omaha, NE
     +1 531 777 7756   Omaha, NE
     +1 531 777 7759   Omaha, NE
-    +1 531 777 7765   Omaha, NE
     +1 531 777 7781   Omaha, NE
     +1 531 777 7784   Omaha, NE
     +1 531 777 7786   Omaha, NE
-    +1 531 777 7794   Omaha, NE
 
   NEW YORK (1)
     +1 607 477 7771   Endicott, NY
@@ -533,7 +521,7 @@ Updated: 2026-09-10
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 359 numbers ---
+--- 88888 — 358 numbers ---
 
   ALABAMA (24)
     +1 251 888 8803   Mobile, AL
@@ -730,18 +718,18 @@ Updated: 2026-09-10
     +1 218 888 8314   Bemidji, MN
     +1 218 888 8315   Bemidji, MN
     +1 218 888 8319   Bemidji, MN
-    +1 218 888 8320   Bemidji, MN
     +1 218 888 8322   Bemidji, MN
     +1 218 888 8323   Bemidji, MN
-    +1 218 888 8327   Bemidji, MN
     +1 218 888 8328   Bemidji, MN
-    +1 218 888 8329   Bemidji, MN
     +1 218 888 8332   Bemidji, MN
     +1 218 888 8336   Bemidji, MN
-    +1 218 888 8337   Bemidji, MN
     +1 218 888 8340   Bemidji, MN
-    +1 218 888 8342   Bemidji, MN
     +1 218 888 8344   Bemidji, MN
+    +1 218 888 8345   Bemidji, MN
+    +1 218 888 8347   Bemidji, MN
+    +1 218 888 8348   Bemidji, MN
+    +1 218 888 8349   Bemidji, MN
+    +1 218 888 8351   Bemidji, MN
     +1 218 888 8401   Bemidji, MN
     +1 218 888 8412   Bemidji, MN
     +1 218 888 8414   Bemidji, MN
@@ -881,7 +869,7 @@ Updated: 2026-09-10
   NEW MEXICO (1)
     +1 505 788 8884   Escudilla Bonita, NM
 
-  OREGON (22)
+  OREGON (21)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -903,7 +891,6 @@ Updated: 2026-09-10
     +1 458 888 8951   Milton-Freewater, OR
     +1 458 888 8953   Milton-Freewater, OR
     +1 971 888 8812   West Haven-Sylvan, OR
-    +1 971 888 8832   West Haven-Sylvan, OR
 
   VERMONT (1)
     +1 802 788 8882   Barre, VT
@@ -967,9 +954,11 @@ Updated: 2026-09-10
     +1 719 999 9830   Colorado Springs, CO
     +1 719 999 9887   Colorado Springs, CO
 
-  FLORIDA (2)
+  FLORIDA (1)
     +1 863 999 9932   Lakeland, FL
-    +1 863 999 9970   Lakeland, FL
+
+  MARYLAND (1)
+    +1 443 499 9995   Bel Air North, MD
 
   MASSACHUSETTS (3)
     +1 774 399 9994   Westborough, MA
@@ -987,7 +976,7 @@ Updated: 2026-09-10
     +1 971 999 9915   Yamhill, OR
 
 ====================================================
-4 ZEROS — 641 numbers across 39 states
+4 ZEROS — 630 numbers across 39 states
 ====================================================
 
   ALABAMA (20)
@@ -1032,15 +1021,7 @@ Updated: 2026-09-10
     +1 870 600 0073   Ashdown, AR
     +1 870 600 0078   Ashdown, AR
 
-  CALIFORNIA (48)
-    +1 530 940 0002   Auburn, CA
-    +1 530 940 0003   Auburn, CA
-    +1 530 940 0004   Auburn, CA
-    +1 530 940 0005   Auburn, CA
-    +1 530 940 0006   Auburn, CA
-    +1 530 940 0007   Auburn, CA
-    +1 530 940 0008   Auburn, CA
-    +1 530 940 0009   Auburn, CA
+  CALIFORNIA (41)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 657 650 0005   Orange, CA
@@ -1068,6 +1049,7 @@ Updated: 2026-09-10
     +1 669 500 0097   Gilroy, CA
     +1 707 500 0049   Nice, CA
     +1 707 520 0004   Monte Rio, CA
+    +1 747 200 0071   Burbank, CA
     +1 747 380 0006   Reseda, CA
     +1 747 380 0007   Reseda, CA
     +1 747 380 0009   Reseda, CA
@@ -1082,7 +1064,7 @@ Updated: 2026-09-10
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
 
-  CONNECTICUT (40)
+  CONNECTICUT (39)
     +1 860 600 0039   Litchfield, CT
     +1 860 600 0041   Litchfield, CT
     +1 860 600 0042   Litchfield, CT
@@ -1116,7 +1098,6 @@ Updated: 2026-09-10
     +1 959 800 0045   Bethlehem Village, CT
     +1 959 800 0048   Bethlehem Village, CT
     +1 959 800 0051   Bethlehem Village, CT
-    +1 959 800 0052   Bethlehem Village, CT
     +1 959 800 0057   Bethlehem Village, CT
     +1 959 800 0063   Bethlehem Village, CT
     +1 959 800 0069   Bethlehem Village, CT
@@ -1203,9 +1184,8 @@ Updated: 2026-09-10
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
-  ILLINOIS (4)
+  ILLINOIS (3)
     +1 224 970 0003   Bartlett, IL
-    +1 618 370 0007   Medora, IL
     +1 618 820 0006   Bunker Hill, IL
     +1 872 290 0004   Chicago, IL
 
@@ -1214,9 +1194,6 @@ Updated: 2026-09-10
     +1 765 710 0003   Eaton, IN
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
-
-  IOWA (1)
-    +1 641 200 0024   Charles City, IA
 
   KANSAS (9)
     +1 785 510 0002   Washington, KS
@@ -1243,6 +1220,9 @@ Updated: 2026-09-10
     +1 985 570 0005   Bogalusa, LA
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
+
+  MARYLAND (1)
+    +1 443 590 0004   Hampstead, MD
 
   MASSACHUSETTS (1)
     +1 978 680 0005   Concord, MA
@@ -1306,14 +1286,13 @@ Updated: 2026-09-10
     +1 507 910 0002   Rochester, MN
     +1 507 910 0007   Rochester, MN
 
-  MISSISSIPPI (10)
+  MISSISSIPPI (9)
     +1 662 270 0006   Starkville, MS
     +1 662 270 0008   Starkville, MS
     +1 662 350 0003   Tupelo, MS
     +1 662 350 0007   Tupelo, MS
     +1 662 740 0009   Iuka, MS
     +1 662 780 0005   Ashland, MS
-    +1 662 780 0006   Ashland, MS
     +1 769 240 0004   Forest, MS
     +1 769 240 0007   Forest, MS
     +1 769 240 0008   Forest, MS
@@ -1346,7 +1325,8 @@ Updated: 2026-09-10
     +1 531 910 0007   Omaha, NE
     +1 531 910 0009   Omaha, NE
 
-  NEVADA (27)
+  NEVADA (28)
+    +1 725 800 0015   Boulder City, NV
     +1 775 600 0063   Carson City, NV
     +1 775 640 0002   Ely, NV
     +1 775 800 0019   Reno, NV
@@ -1375,9 +1355,8 @@ Updated: 2026-09-10
     +1 775 900 0094   Reno, NV
     +1 775 900 0096   Reno, NV
 
-  NEW JERSEY (18)
+  NEW JERSEY (17)
     +1 848 310 0006   South Bound Brook, NJ
-    +1 856 300 0068   Millville, NJ
     +1 908 800 0023   Somerville, NJ
     +1 908 800 0024   Somerville, NJ
     +1 908 800 0027   Somerville, NJ
@@ -1547,8 +1526,7 @@ Updated: 2026-09-10
     +1 980 550 0004   Lowell, NC
     +1 980 550 0006   Lowell, NC
 
-  OHIO (36)
-    +1 330 800 0046   Akron, OH
+  OHIO (35)
     +1 380 500 0017   Worthington, OH
     +1 380 500 0034   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
@@ -1723,7 +1701,7 @@ Updated: 2026-09-10
 
 --- 555555 — No results ---
 
---- 666666 — No results ---
+--- 666666 — No US results — Canada only ---
 
 --- 777777 — No results ---
 
