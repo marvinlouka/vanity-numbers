@@ -1,28 +1,10 @@
 {
- "date": "2026-09-11",
+ "date": "2026-09-12",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 21,
+   "count": 18,
    "states": [
-    {
-     "state": "Alabama",
-     "count": 3,
-     "numbers": [
-      {
-       "number": "+1 938 722 2224",
-       "location": "Section, AL"
-      },
-      {
-       "number": "+1 938 722 2226",
-       "location": "Section, AL"
-      },
-      {
-       "number": "+1 938 722 2229",
-       "location": "Section, AL"
-      }
-     ]
-    },
     {
      "state": "Georgia",
      "count": 1,
@@ -329,16 +311,12 @@
   },
   {
    "pattern": "44444",
-   "count": 51,
+   "count": 50,
    "states": [
     {
      "state": "Alabama",
-     "count": 10,
+     "count": 9,
      "numbers": [
-      {
-       "number": "+1 251 444 4402",
-       "location": "Mobile, AL"
-      },
       {
        "number": "+1 251 444 4407",
        "location": "Mobile, AL"
@@ -581,7 +559,7 @@
   },
   {
    "pattern": "55555",
-   "count": 11,
+   "count": 9,
    "states": [
     {
      "state": "Florida",
@@ -627,16 +605,8 @@
     },
     {
      "state": "Utah",
-     "count": 3,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 385 955 5553",
-       "location": "Salt Lake City, UT"
-      },
-      {
-       "number": "+1 385 955 5554",
-       "location": "Salt Lake City, UT"
-      },
       {
        "number": "+1 385 955 5558",
        "location": "Salt Lake City, UT"
@@ -667,7 +637,7 @@
   },
   {
    "pattern": "66666",
-   "count": 71,
+   "count": 61,
    "states": [
     {
      "state": "Alabama",
@@ -766,24 +736,6 @@
      ]
     },
     {
-     "state": "Idaho",
-     "count": 3,
-     "numbers": [
-      {
-       "number": "+1 986 266 6663",
-       "location": "Nampa, ID"
-      },
-      {
-       "number": "+1 986 266 6665",
-       "location": "Nampa, ID"
-      },
-      {
-       "number": "+1 986 266 6668",
-       "location": "Nampa, ID"
-      }
-     ]
-    },
-    {
      "state": "Illinois",
      "count": 1,
      "numbers": [
@@ -875,39 +827,11 @@
     },
     {
      "state": "Maryland",
-     "count": 11,
+     "count": 4,
      "numbers": [
       {
        "number": "+1 443 266 6664",
        "location": "Glenwood, MD"
-      },
-      {
-       "number": "+1 443 966 6660",
-       "location": "Bel Air South, MD"
-      },
-      {
-       "number": "+1 443 966 6661",
-       "location": "Bel Air South, MD"
-      },
-      {
-       "number": "+1 443 966 6662",
-       "location": "Bel Air South, MD"
-      },
-      {
-       "number": "+1 443 966 6663",
-       "location": "Bel Air South, MD"
-      },
-      {
-       "number": "+1 443 966 6664",
-       "location": "Bel Air South, MD"
-      },
-      {
-       "number": "+1 443 966 6665",
-       "location": "Bel Air South, MD"
-      },
-      {
-       "number": "+1 443 966 6668",
-       "location": "Bel Air South, MD"
       },
       {
        "number": "+1 667 966 6662",
@@ -1077,18 +1001,14 @@
   },
   {
    "pattern": "77777",
-   "count": 196,
+   "count": 192,
    "states": [
     {
      "state": "California",
-     "count": 164,
+     "count": 162,
      "numbers": [
       {
        "number": "+1 657 777 7038",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7039",
        "location": "Buena Park, CA"
       },
       {
@@ -1109,10 +1029,6 @@
       },
       {
        "number": "+1 657 777 7058",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7060",
        "location": "Buena Park, CA"
       },
       {
@@ -1743,7 +1659,7 @@
     },
     {
      "state": "Connecticut",
-     "count": 5,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 959 777 7723",
@@ -1754,15 +1670,7 @@
        "location": "Hartford, CT"
       },
       {
-       "number": "+1 959 777 7761",
-       "location": "Hartford, CT"
-      },
-      {
        "number": "+1 959 777 7792",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7798",
        "location": "Hartford, CT"
       }
      ]
@@ -1927,11 +1835,11 @@
   },
   {
    "pattern": "88888",
-   "count": 358,
+   "count": 261,
    "states": [
     {
      "state": "Alabama",
-     "count": 24,
+     "count": 19,
      "numbers": [
       {
        "number": "+1 251 888 8803",
@@ -1950,14 +1858,6 @@
        "location": "Mobile, AL"
       },
       {
-       "number": "+1 251 888 8821",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8827",
-       "location": "Mobile, AL"
-      },
-      {
        "number": "+1 251 888 8830",
        "location": "Mobile, AL"
       },
@@ -1971,10 +1871,6 @@
       },
       {
        "number": "+1 251 888 8842",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8864",
        "location": "Mobile, AL"
       },
       {
@@ -1998,15 +1894,7 @@
        "location": "Mobile, AL"
       },
       {
-       "number": "+1 256 988 8882",
-       "location": "Huntsville, AL"
-      },
-      {
        "number": "+1 256 988 8884",
-       "location": "Huntsville, AL"
-      },
-      {
-       "number": "+1 256 988 8886",
        "location": "Huntsville, AL"
       },
       {
@@ -2960,340 +2848,6 @@
      ]
     },
     {
-     "state": "Nebraska",
-     "count": 82,
-     "numbers": [
-      {
-       "number": "+1 308 888 8022",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8023",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8028",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8032",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8038",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8071",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8075",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8089",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8202",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8205",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8210",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8216",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8217",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8269",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8405",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8407",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8408",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8409",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8410",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8411",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8412",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8422",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8431",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8434",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8435",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8436",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8440",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8441",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8443",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8572",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8576",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8579",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8580",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8581",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8584",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8587",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8595",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8602",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8605",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8607",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8609",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8611",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8614",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8617",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8619",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8624",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8643",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8660",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8675",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8681",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8685",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8698",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8704",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8711",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8720",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8731",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8735",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8740",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8741",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8744",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8747",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8748",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8751",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8753",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8754",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8762",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8768",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8931",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8943",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8946",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8948",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8950",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8955",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8958",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8962",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8964",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8968",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8970",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8971",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8972",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8985",
-       "location": "Chappell, NE"
-      },
-      {
-       "number": "+1 308 888 8993",
-       "location": "Chappell, NE"
-      }
-     ]
-    },
-    {
      "state": "New Mexico",
      "count": 1,
      "numbers": [
@@ -3305,7 +2859,7 @@
     },
     {
      "state": "Oregon",
-     "count": 21,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 458 888 8038",
@@ -3324,10 +2878,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8216",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8225",
        "location": "Milton-Freewater, OR"
       },
@@ -3340,39 +2890,7 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8357",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8398",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8412",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8513",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8594",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8651",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8662",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8676",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8794",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3386,10 +2904,6 @@
       {
        "number": "+1 458 888 8953",
        "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 971 888 8812",
-       "location": "West Haven-Sylvan, OR"
       }
      ]
     },
@@ -3407,7 +2921,7 @@
   },
   {
    "pattern": "99999",
-   "count": 62,
+   "count": 30,
    "states": [
     {
      "state": "Alabama",
@@ -3457,42 +2971,10 @@
     },
     {
      "state": "Colorado",
-     "count": 43,
+     "count": 11,
      "numbers": [
       {
-       "number": "+1 719 999 9018",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9023",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9027",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9032",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9058",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9062",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9089",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9091",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9094",
        "location": "Colorado Springs, CO"
       },
       {
@@ -3500,55 +2982,7 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9126",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9129",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9138",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9196",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9211",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9231",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9284",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9296",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9308",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9320",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9372",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9398",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9425",
        "location": "Colorado Springs, CO"
       },
       {
@@ -3576,59 +3010,11 @@
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9585",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9589",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9590",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9621",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9637",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9650",
        "location": "Colorado Springs, CO"
       },
       {
-       "number": "+1 719 999 9656",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9658",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9786",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9812",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9816",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9819",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9830",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9887",
        "location": "Colorado Springs, CO"
       }
      ]
@@ -3709,12 +3095,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 630,
-  "state_count": 39,
+  "total": 617,
+  "state_count": 40,
   "states": [
    {
     "state": "Alabama",
-    "count": 20,
+    "count": 16,
     "numbers": [
      {
       "number": "+1 251 530 0002",
@@ -3727,22 +3113,6 @@
      {
       "number": "+1 251 800 0025",
       "location": "Mobile, AL"
-     },
-     {
-      "number": "+1 251 800 0034",
-      "location": "Mobile, AL"
-     },
-     {
-      "number": "+1 251 800 0085",
-      "location": "Mobile, AL"
-     },
-     {
-      "number": "+1 251 800 0096",
-      "location": "Mobile, AL"
-     },
-     {
-      "number": "+1 251 810 0005",
-      "location": "Bayou La Batre, AL"
      },
      {
       "number": "+1 334 910 0002",
@@ -3887,6 +3257,10 @@
       "location": "Long Beach, CA"
      },
      {
+      "number": "+1 562 600 0054",
+      "location": "Whittier, CA"
+     },
+     {
       "number": "+1 657 650 0005",
       "location": "Orange, CA"
      },
@@ -3985,10 +3359,6 @@
      {
       "number": "+1 707 520 0004",
       "location": "Monte Rio, CA"
-     },
-     {
-      "number": "+1 747 200 0071",
-      "location": "Burbank, CA"
      },
      {
       "number": "+1 747 380 0006",
@@ -4408,7 +3778,7 @@
    },
    {
     "state": "Georgia",
-    "count": 12,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -4443,14 +3813,6 @@
       "location": "Augusta, GA"
      },
      {
-      "number": "+1 912 940 0003",
-      "location": "Thunderbolt, GA"
-     },
-     {
-      "number": "+1 912 940 0008",
-      "location": "Thunderbolt, GA"
-     },
-     {
       "number": "+1 943 990 0004",
       "location": "Flowery Branch, GA"
      },
@@ -4462,7 +3824,7 @@
    },
    {
     "state": "Idaho",
-    "count": 12,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 208 800 0059",
@@ -4490,10 +3852,6 @@
      },
      {
       "number": "+1 986 910 0003",
-      "location": "Garden City, ID"
-     },
-     {
-      "number": "+1 986 910 0004",
       "location": "Garden City, ID"
      },
      {
@@ -4612,7 +3970,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 9,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -4621,6 +3979,10 @@
      {
       "number": "+1 225 430 0007",
       "location": "Donaldsonville, LA"
+     },
+     {
+      "number": "+1 225 480 0005",
+      "location": "Denham Springs, LA"
      },
      {
       "number": "+1 318 480 0003",
@@ -4684,7 +4046,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 54,
+    "count": 53,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -4729,10 +4091,6 @@
      {
       "number": "+1 218 660 0007",
       "location": "Carlton, MN"
-     },
-     {
-      "number": "+1 218 810 0008",
-      "location": "Duluth, MN"
      },
      {
       "number": "+1 218 960 0003",
@@ -5282,7 +4640,7 @@
    },
    {
     "state": "New York",
-    "count": 104,
+    "count": 103,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -5450,10 +4808,6 @@
      },
      {
       "number": "+1 631 900 0084",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0085",
       "location": "Northport, NY"
      },
      {
@@ -5996,8 +5350,12 @@
    },
    {
     "state": "Oklahoma",
-    "count": 3,
+    "count": 4,
     "numbers": [
+     {
+      "number": "+1 405 300 0017",
+      "location": "Moore, OK"
+     },
      {
       "number": "+1 405 970 0004",
       "location": "Guthrie, OK"
@@ -6094,18 +5452,10 @@
    },
    {
     "state": "Rhode Island",
-    "count": 24,
+    "count": 21,
     "numbers": [
      {
       "number": "+1 401 600 0045",
-      "location": "Providence, RI"
-     },
-     {
-      "number": "+1 401 600 0059",
-      "location": "Providence, RI"
-     },
-     {
-      "number": "+1 401 600 0065",
       "location": "Providence, RI"
      },
      {
@@ -6118,10 +5468,6 @@
      },
      {
       "number": "+1 401 600 0078",
-      "location": "Providence, RI"
-     },
-     {
-      "number": "+1 401 600 0085",
       "location": "Providence, RI"
      },
      {
@@ -6195,6 +5541,16 @@
     ]
    },
    {
+    "state": "South Carolina",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 854 200 0023",
+      "location": "Charleston, SC"
+     }
+    ]
+   },
+   {
     "state": "Tennessee",
     "count": 5,
     "numbers": [
@@ -6222,14 +5578,10 @@
    },
    {
     "state": "Texas",
-    "count": 12,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 325 400 0015",
-      "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 325 400 0018",
       "location": "Abilene, TX"
      },
      {
@@ -6261,10 +5613,6 @@
       "location": "Amarillo, TX"
      },
      {
-      "number": "+1 817 750 0004",
-      "location": "Keller, TX"
-     },
-     {
       "number": "+1 903 420 0007",
       "location": "Corsicana, TX"
      },
@@ -6276,14 +5624,10 @@
    },
    {
     "state": "Utah",
-    "count": 24,
+    "count": 22,
     "numbers": [
      {
       "number": "+1 385 560 0005",
-      "location": "Murray, UT"
-     },
-     {
-      "number": "+1 385 580 0002",
       "location": "Murray, UT"
      },
      {
@@ -6300,10 +5644,6 @@
      },
      {
       "number": "+1 435 500 0013",
-      "location": "Delta, UT"
-     },
-     {
-      "number": "+1 435 500 0023",
       "location": "Delta, UT"
      },
      {
@@ -6915,10 +6255,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 799,
+  "total_5_in_a_row": 650,
   "patterns_with_results": 8,
-  "total_0000": 630,
-  "state_count_0000": 39,
+  "total_0000": 617,
+  "state_count_0000": 40,
   "total_aaa_bbbb": 47,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 13
