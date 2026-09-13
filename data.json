@@ -1,5 +1,5 @@
 {
- "date": "2026-09-12",
+ "date": "2026-09-13",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -1835,7 +1835,7 @@
   },
   {
    "pattern": "88888",
-   "count": 261,
+   "count": 260,
    "states": [
     {
      "state": "Alabama",
@@ -2848,16 +2848,6 @@
      ]
     },
     {
-     "state": "New Mexico",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 505 788 8884",
-       "location": "Escudilla Bonita, NM"
-      }
-     ]
-    },
-    {
      "state": "Oregon",
      "count": 11,
      "numbers": [
@@ -3096,7 +3086,7 @@
  ],
  "pattern_0000": {
   "total": 617,
-  "state_count": 40,
+  "state_count": 39,
   "states": [
    {
     "state": "Alabama",
@@ -3874,7 +3864,7 @@
    },
    {
     "state": "Illinois",
-    "count": 3,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 224 970 0003",
@@ -3883,6 +3873,10 @@
      {
       "number": "+1 618 820 0006",
       "location": "Bunker Hill, IL"
+     },
+     {
+      "number": "+1 773 570 0009",
+      "location": "Chicago, IL"
      },
      {
       "number": "+1 872 290 0004",
@@ -3970,7 +3964,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 10,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -3991,6 +3985,10 @@
      {
       "number": "+1 318 480 0005",
       "location": "Jonesboro, LA"
+     },
+     {
+      "number": "+1 318 520 0006",
+      "location": "Castor, LA"
      },
      {
       "number": "+1 985 570 0003",
@@ -4046,7 +4044,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 53,
+    "count": 51,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -4137,10 +4135,6 @@
       "location": "Olivia, MN"
      },
      {
-      "number": "+1 320 400 0042",
-      "location": "Olivia, MN"
-     },
-     {
       "number": "+1 320 400 0046",
       "location": "Olivia, MN"
      },
@@ -4154,10 +4148,6 @@
      },
      {
       "number": "+1 320 400 0061",
-      "location": "Olivia, MN"
-     },
-     {
-      "number": "+1 320 400 0069",
       "location": "Olivia, MN"
      },
      {
@@ -5350,7 +5340,7 @@
    },
    {
     "state": "Oklahoma",
-    "count": 4,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 405 300 0017",
@@ -5367,6 +5357,10 @@
      {
       "number": "+1 405 970 0008",
       "location": "Guthrie, OK"
+     },
+     {
+      "number": "+1 539 200 0054",
+      "location": "Barnsdall, OK"
      }
     ]
    },
@@ -5537,16 +5531,6 @@
      {
       "number": "+1 401 910 0003",
       "location": "Providence, RI"
-     }
-    ]
-   },
-   {
-    "state": "South Carolina",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 854 200 0023",
-      "location": "Charleston, SC"
      }
     ]
    },
@@ -6255,10 +6239,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 650,
+  "total_5_in_a_row": 649,
   "patterns_with_results": 8,
   "total_0000": 617,
-  "state_count_0000": 40,
+  "state_count_0000": 39,
   "total_aaa_bbbb": 47,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 13

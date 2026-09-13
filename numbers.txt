@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-12
-650 five-in-a-row · 617 four-zeros across 40 states · 47 AAA-BBBB across 13 of 90 combinations
+Updated: 2026-09-13
+649 five-in-a-row · 617 four-zeros across 39 states · 47 AAA-BBBB across 13 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -497,7 +497,7 @@ Updated: 2026-09-12
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 261 numbers ---
+--- 88888 — 260 numbers ---
 
   ALABAMA (19)
     +1 251 888 8803   Mobile, AL
@@ -753,9 +753,6 @@ Updated: 2026-09-12
     +1 218 888 8993   Bemidji, MN
     +1 320 588 8887   Finlayson, MN
 
-  NEW MEXICO (1)
-    +1 505 788 8884   Escudilla Bonita, NM
-
   OREGON (11)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8098   Milton-Freewater, OR
@@ -821,7 +818,7 @@ Updated: 2026-09-12
     +1 971 999 9915   Yamhill, OR
 
 ====================================================
-4 ZEROS — 617 numbers across 40 states
+4 ZEROS — 617 numbers across 39 states
 ====================================================
 
   ALABAMA (16)
@@ -1022,9 +1019,10 @@ Updated: 2026-09-12
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
-  ILLINOIS (3)
+  ILLINOIS (4)
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
+    +1 773 570 0009   Chicago, IL
     +1 872 290 0004   Chicago, IL
 
   INDIANA (4)
@@ -1048,12 +1046,13 @@ Updated: 2026-09-12
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (10)
+  LOUISIANA (11)
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
     +1 225 480 0005   Denham Springs, LA
     +1 318 480 0003   Jonesboro, LA
     +1 318 480 0005   Jonesboro, LA
+    +1 318 520 0006   Castor, LA
     +1 985 570 0003   Bogalusa, LA
     +1 985 570 0004   Bogalusa, LA
     +1 985 570 0005   Bogalusa, LA
@@ -1069,7 +1068,7 @@ Updated: 2026-09-12
   MICHIGAN (1)
     +1 810 510 0003   Columbiaville, MI
 
-  MINNESOTA (53)
+  MINNESOTA (51)
     +1 218 500 0018   Kettle River, MN
     +1 218 500 0074   Kettle River, MN
     +1 218 500 0092   Kettle River, MN
@@ -1092,12 +1091,10 @@ Updated: 2026-09-12
     +1 320 400 0028   Olivia, MN
     +1 320 400 0036   Olivia, MN
     +1 320 400 0041   Olivia, MN
-    +1 320 400 0042   Olivia, MN
     +1 320 400 0046   Olivia, MN
     +1 320 400 0052   Olivia, MN
     +1 320 400 0054   Olivia, MN
     +1 320 400 0061   Olivia, MN
-    +1 320 400 0069   Olivia, MN
     +1 320 400 0072   Olivia, MN
     +1 320 400 0075   Olivia, MN
     +1 320 400 0079   Olivia, MN
@@ -1400,11 +1397,12 @@ Updated: 2026-09-12
     +1 740 760 0008   Marietta, OH
     +1 740 860 0007   Parkersburg, OH
 
-  OKLAHOMA (4)
+  OKLAHOMA (5)
     +1 405 300 0017   Moore, OK
     +1 405 970 0004   Guthrie, OK
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
+    +1 539 200 0054   Barnsdall, OK
 
   OREGON (12)
     +1 971 600 0012   Salem, OR
@@ -1449,9 +1447,6 @@ Updated: 2026-09-12
     +1 401 800 0086   Wakefield-Peacedale, RI
     +1 401 830 0006   North Providence, RI
     +1 401 910 0003   Providence, RI
-
-  SOUTH CAROLINA (1)
-    +1 854 200 0023   Charleston, SC
 
   TENNESSEE (5)
     +1 901 660 0003   Grand Junction, TN
