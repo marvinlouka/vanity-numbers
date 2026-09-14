@@ -1,5 +1,5 @@
 {
- "date": "2026-09-13",
+ "date": "2026-09-14",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -311,16 +311,12 @@
   },
   {
    "pattern": "44444",
-   "count": 50,
+   "count": 48,
    "states": [
     {
      "state": "Alabama",
-     "count": 9,
+     "count": 7,
      "numbers": [
-      {
-       "number": "+1 251 444 4407",
-       "location": "Mobile, AL"
-      },
       {
        "number": "+1 251 444 4413",
        "location": "Mobile, AL"
@@ -331,10 +327,6 @@
       },
       {
        "number": "+1 251 444 4451",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 444 4463",
        "location": "Mobile, AL"
       },
       {
@@ -1001,7 +993,7 @@
   },
   {
    "pattern": "77777",
-   "count": 192,
+   "count": 191,
    "states": [
     {
      "state": "California",
@@ -1676,16 +1668,6 @@
      ]
     },
     {
-     "state": "Florida",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 386 777 7732",
-       "location": "Holly Hill, FL"
-      }
-     ]
-    },
-    {
      "state": "Iowa",
      "count": 1,
      "numbers": [
@@ -1835,7 +1817,7 @@
   },
   {
    "pattern": "88888",
-   "count": 260,
+   "count": 258,
    "states": [
     {
      "state": "Alabama",
@@ -2343,7 +2325,7 @@
     },
     {
      "state": "Minnesota",
-     "count": 125,
+     "count": 124,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -2418,10 +2400,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8126",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8127",
        "location": "Bemidji, MN"
       },
@@ -2474,11 +2452,15 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8163",
+       "number": "+1 218 888 8164",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8164",
+       "number": "+1 218 888 8170",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8172",
        "location": "Bemidji, MN"
       },
       {
@@ -2626,10 +2608,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8347",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8348",
        "location": "Bemidji, MN"
       },
@@ -2642,7 +2620,7 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8401",
+       "number": "+1 218 888 8352",
        "location": "Bemidji, MN"
       },
       {
@@ -2849,14 +2827,10 @@
     },
     {
      "state": "Oregon",
-     "count": 11,
+     "count": 10,
      "numbers": [
       {
        "number": "+1 458 888 8038",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8098",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -2911,7 +2885,7 @@
   },
   {
    "pattern": "99999",
-   "count": 30,
+   "count": 21,
    "states": [
     {
      "state": "Alabama",
@@ -2961,46 +2935,10 @@
     },
     {
      "state": "Colorado",
-     "count": 11,
+     "count": 2,
      "numbers": [
       {
-       "number": "+1 719 999 9032",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9122",
-       "location": "Colorado Springs, CO"
-      },
-      {
        "number": "+1 719 999 9296",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9474",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9485",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9521",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9544",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9552",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9557",
-       "location": "Colorado Springs, CO"
-      },
-      {
-       "number": "+1 719 999 9650",
        "location": "Colorado Springs, CO"
       },
       {
@@ -3085,8 +3023,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 617,
-  "state_count": 39,
+  "total": 610,
+  "state_count": 38,
   "states": [
    {
     "state": "Alabama",
@@ -3160,7 +3098,7 @@
    },
    {
     "state": "Arizona",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 928 800 0024",
@@ -3168,10 +3106,6 @@
      },
      {
       "number": "+1 928 800 0056",
-      "location": "Prescott, AZ"
-     },
-     {
-      "number": "+1 928 800 0059",
       "location": "Prescott, AZ"
      },
      {
@@ -3236,7 +3170,7 @@
    },
    {
     "state": "California",
-    "count": 41,
+    "count": 43,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -3375,6 +3309,10 @@
       "location": "Fontana, CA"
      },
      {
+      "number": "+1 909 600 0046",
+      "location": "Fontana, CA"
+     },
+     {
       "number": "+1 909 600 0048",
       "location": "Fontana, CA"
      },
@@ -3400,6 +3338,10 @@
      },
      {
       "number": "+1 909 600 0072",
+      "location": "Fontana, CA"
+     },
+     {
+      "number": "+1 909 600 0076",
       "location": "Fontana, CA"
      }
     ]
@@ -3606,7 +3548,7 @@
    },
    {
     "state": "Florida",
-    "count": 39,
+    "count": 35,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -3685,15 +3627,7 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0042",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0043",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0046",
       "location": "Bradenton, FL"
      },
      {
@@ -3713,15 +3647,7 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0054",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0057",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0058",
       "location": "Bradenton, FL"
      },
      {
@@ -3768,7 +3694,7 @@
    },
    {
     "state": "Georgia",
-    "count": 10,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 478 287 0000",
@@ -3784,10 +3710,6 @@
      },
      {
       "number": "+1 762 800 0041",
-      "location": "Augusta, GA"
-     },
-     {
-      "number": "+1 762 800 0045",
       "location": "Augusta, GA"
      },
      {
@@ -3864,7 +3786,7 @@
    },
    {
     "state": "Illinois",
-    "count": 4,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 224 970 0003",
@@ -3873,10 +3795,6 @@
      {
       "number": "+1 618 820 0006",
       "location": "Bunker Hill, IL"
-     },
-     {
-      "number": "+1 773 570 0009",
-      "location": "Chicago, IL"
      },
      {
       "number": "+1 872 290 0004",
@@ -4029,16 +3947,6 @@
      {
       "number": "+1 978 680 0005",
       "location": "Concord, MA"
-     }
-    ]
-   },
-   {
-    "state": "Michigan",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 810 510 0003",
-      "location": "Columbiaville, MI"
      }
     ]
    },
@@ -4596,7 +4504,7 @@
    },
    {
     "state": "New Mexico",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 575 500 0081",
@@ -4604,10 +4512,6 @@
      },
      {
       "number": "+1 575 500 0083",
-      "location": "Roswell, NM"
-     },
-     {
-      "number": "+1 575 500 0093",
       "location": "Roswell, NM"
      },
      {
@@ -5048,7 +4952,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 35,
+    "count": 36,
     "numbers": [
      {
       "number": "+1 252 740 0005",
@@ -5073,6 +4977,10 @@
      {
       "number": "+1 828 680 0007",
       "location": "Mars Hill, NC"
+     },
+     {
+      "number": "+1 828 900 0016",
+      "location": "Black Mountain, NC"
      },
      {
       "number": "+1 828 900 0019",
@@ -5340,12 +5248,8 @@
    },
    {
     "state": "Oklahoma",
-    "count": 5,
+    "count": 4,
     "numbers": [
-     {
-      "number": "+1 405 300 0017",
-      "location": "Moore, OK"
-     },
      {
       "number": "+1 405 970 0004",
       "location": "Guthrie, OK"
@@ -6239,10 +6143,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 649,
+  "total_5_in_a_row": 635,
   "patterns_with_results": 8,
-  "total_0000": 617,
-  "state_count_0000": 39,
+  "total_0000": 610,
+  "state_count_0000": 38,
   "total_aaa_bbbb": 47,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 13

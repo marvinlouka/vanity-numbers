@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-13
-649 five-in-a-row · 617 four-zeros across 39 states · 47 AAA-BBBB across 13 of 90 combinations
+Updated: 2026-09-14
+635 five-in-a-row · 610 four-zeros across 38 states · 47 AAA-BBBB across 13 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -93,14 +93,12 @@ Updated: 2026-09-13
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 50 numbers ---
+--- 44444 — 48 numbers ---
 
-  ALABAMA (9)
-    +1 251 444 4407   Mobile, AL
+  ALABAMA (7)
     +1 251 444 4413   Mobile, AL
     +1 251 444 4427   Mobile, AL
     +1 251 444 4451   Mobile, AL
-    +1 251 444 4463   Mobile, AL
     +1 251 444 4492   Mobile, AL
     +1 251 444 4497   Mobile, AL
     +1 251 444 4498   Mobile, AL
@@ -283,7 +281,7 @@ Updated: 2026-09-13
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 192 numbers ---
+--- 77777 — 191 numbers ---
 
   CALIFORNIA (162)
     +1 657 777 7038   Buena Park, CA
@@ -454,9 +452,6 @@ Updated: 2026-09-13
     +1 959 777 7745   Hartford, CT
     +1 959 777 7792   Hartford, CT
 
-  FLORIDA (1)
-    +1 386 777 7732   Holly Hill, FL
-
   IOWA (1)
     +1 563 277 7776   Decorah, IA
 
@@ -497,7 +492,7 @@ Updated: 2026-09-13
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 260 numbers ---
+--- 88888 — 258 numbers ---
 
   ALABAMA (19)
     +1 251 888 8803   Mobile, AL
@@ -626,7 +621,7 @@ Updated: 2026-09-13
     +1 858 888 8650   San Diego, CA
     +1 858 888 8690   San Diego, CA
 
-  MINNESOTA (125)
+  MINNESOTA (124)
     +1 218 888 8009   Bemidji, MN
     +1 218 888 8010   Bemidji, MN
     +1 218 888 8015   Bemidji, MN
@@ -645,7 +640,6 @@ Updated: 2026-09-13
     +1 218 888 8115   Bemidji, MN
     +1 218 888 8117   Bemidji, MN
     +1 218 888 8122   Bemidji, MN
-    +1 218 888 8126   Bemidji, MN
     +1 218 888 8127   Bemidji, MN
     +1 218 888 8129   Bemidji, MN
     +1 218 888 8130   Bemidji, MN
@@ -659,8 +653,9 @@ Updated: 2026-09-13
     +1 218 888 8158   Bemidji, MN
     +1 218 888 8159   Bemidji, MN
     +1 218 888 8162   Bemidji, MN
-    +1 218 888 8163   Bemidji, MN
     +1 218 888 8164   Bemidji, MN
+    +1 218 888 8170   Bemidji, MN
+    +1 218 888 8172   Bemidji, MN
     +1 218 888 8201   Bemidji, MN
     +1 218 888 8205   Bemidji, MN
     +1 218 888 8207   Bemidji, MN
@@ -697,11 +692,10 @@ Updated: 2026-09-13
     +1 218 888 8340   Bemidji, MN
     +1 218 888 8344   Bemidji, MN
     +1 218 888 8345   Bemidji, MN
-    +1 218 888 8347   Bemidji, MN
     +1 218 888 8348   Bemidji, MN
     +1 218 888 8349   Bemidji, MN
     +1 218 888 8351   Bemidji, MN
-    +1 218 888 8401   Bemidji, MN
+    +1 218 888 8352   Bemidji, MN
     +1 218 888 8412   Bemidji, MN
     +1 218 888 8414   Bemidji, MN
     +1 218 888 8417   Bemidji, MN
@@ -753,9 +747,8 @@ Updated: 2026-09-13
     +1 218 888 8993   Bemidji, MN
     +1 320 588 8887   Finlayson, MN
 
-  OREGON (11)
+  OREGON (10)
     +1 458 888 8038   Milton-Freewater, OR
-    +1 458 888 8098   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
     +1 458 888 8196   Milton-Freewater, OR
     +1 458 888 8225   Milton-Freewater, OR
@@ -769,7 +762,7 @@ Updated: 2026-09-13
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 30 numbers ---
+--- 99999 — 21 numbers ---
 
   ALABAMA (10)
     +1 251 999 9913   Mobile, AL
@@ -783,17 +776,8 @@ Updated: 2026-09-13
     +1 659 799 9993   Pinson, AL
     +1 659 799 9998   Pinson, AL
 
-  COLORADO (11)
-    +1 719 999 9032   Colorado Springs, CO
-    +1 719 999 9122   Colorado Springs, CO
+  COLORADO (2)
     +1 719 999 9296   Colorado Springs, CO
-    +1 719 999 9474   Colorado Springs, CO
-    +1 719 999 9485   Colorado Springs, CO
-    +1 719 999 9521   Colorado Springs, CO
-    +1 719 999 9544   Colorado Springs, CO
-    +1 719 999 9552   Colorado Springs, CO
-    +1 719 999 9557   Colorado Springs, CO
-    +1 719 999 9650   Colorado Springs, CO
     +1 719 999 9816   Colorado Springs, CO
 
   FLORIDA (1)
@@ -818,7 +802,7 @@ Updated: 2026-09-13
     +1 971 999 9915   Yamhill, OR
 
 ====================================================
-4 ZEROS — 617 numbers across 39 states
+4 ZEROS — 610 numbers across 38 states
 ====================================================
 
   ALABAMA (16)
@@ -839,10 +823,9 @@ Updated: 2026-09-13
     +1 659 910 0008   Birmingham, AL
     +1 659 910 0009   Birmingham, AL
 
-  ARIZONA (7)
+  ARIZONA (6)
     +1 928 800 0024   Prescott, AZ
     +1 928 800 0056   Prescott, AZ
-    +1 928 800 0059   Prescott, AZ
     +1 928 800 0067   Prescott, AZ
     +1 928 800 0079   Prescott, AZ
     +1 928 900 0036   Central Heights-Midland City, AZ
@@ -859,7 +842,7 @@ Updated: 2026-09-13
     +1 870 600 0073   Ashdown, AR
     +1 870 600 0078   Ashdown, AR
 
-  CALIFORNIA (41)
+  CALIFORNIA (43)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0054   Whittier, CA
@@ -894,6 +877,7 @@ Updated: 2026-09-13
     +1 909 600 0032   Fontana, CA
     +1 909 600 0037   Fontana, CA
     +1 909 600 0042   Fontana, CA
+    +1 909 600 0046   Fontana, CA
     +1 909 600 0048   Fontana, CA
     +1 909 600 0053   Fontana, CA
     +1 909 600 0054   Fontana, CA
@@ -901,6 +885,7 @@ Updated: 2026-09-13
     +1 909 600 0067   Fontana, CA
     +1 909 600 0068   Fontana, CA
     +1 909 600 0072   Fontana, CA
+    +1 909 600 0076   Fontana, CA
 
   CONNECTICUT (39)
     +1 860 600 0039   Litchfield, CT
@@ -953,7 +938,7 @@ Updated: 2026-09-13
     +1 302 810 0007   Lewes, DE
     +1 302 930 0007   Milford, DE
 
-  FLORIDA (39)
+  FLORIDA (35)
     +1 352 570 0008   Yankeetown, FL
     +1 352 830 0005   Ocala, FL
     +1 352 900 0068   Gainesville, FL
@@ -973,16 +958,12 @@ Updated: 2026-09-13
     +1 941 900 0038   Bradenton, FL
     +1 941 900 0039   Bradenton, FL
     +1 941 900 0041   Bradenton, FL
-    +1 941 900 0042   Bradenton, FL
     +1 941 900 0043   Bradenton, FL
-    +1 941 900 0046   Bradenton, FL
     +1 941 900 0048   Bradenton, FL
     +1 941 900 0051   Bradenton, FL
     +1 941 900 0052   Bradenton, FL
     +1 941 900 0053   Bradenton, FL
-    +1 941 900 0054   Bradenton, FL
     +1 941 900 0057   Bradenton, FL
-    +1 941 900 0058   Bradenton, FL
     +1 941 900 0063   Bradenton, FL
     +1 941 900 0064   Bradenton, FL
     +1 941 900 0068   Bradenton, FL
@@ -994,12 +975,11 @@ Updated: 2026-09-13
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
-  GEORGIA (10)
+  GEORGIA (9)
     +1 478 287 0000   Perry, GA
     +1 762 270 0003   Mc Caysville, GA
     +1 762 600 0062   Monticello, GA
     +1 762 800 0041   Augusta, GA
-    +1 762 800 0045   Augusta, GA
     +1 762 800 0063   Augusta, GA
     +1 762 930 0004   Augusta, GA
     +1 762 930 0006   Augusta, GA
@@ -1019,10 +999,9 @@ Updated: 2026-09-13
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
-  ILLINOIS (4)
+  ILLINOIS (3)
     +1 224 970 0003   Bartlett, IL
     +1 618 820 0006   Bunker Hill, IL
-    +1 773 570 0009   Chicago, IL
     +1 872 290 0004   Chicago, IL
 
   INDIANA (4)
@@ -1064,9 +1043,6 @@ Updated: 2026-09-13
 
   MASSACHUSETTS (1)
     +1 978 680 0005   Concord, MA
-
-  MICHIGAN (1)
-    +1 810 510 0003   Columbiaville, MI
 
   MINNESOTA (51)
     +1 218 500 0018   Kettle River, MN
@@ -1209,10 +1185,9 @@ Updated: 2026-09-13
     +1 908 800 0076   Somerville, NJ
     +1 908 800 0079   Somerville, NJ
 
-  NEW MEXICO (7)
+  NEW MEXICO (6)
     +1 575 500 0081   Roswell, NM
     +1 575 500 0083   Roswell, NM
-    +1 575 500 0093   Roswell, NM
     +1 575 800 0082   Las Cruces, NM
     +1 575 800 0083   Las Cruces, NM
     +1 575 800 0084   Las Cruces, NM
@@ -1323,13 +1298,14 @@ Updated: 2026-09-13
     +1 934 500 0094   North Bay Shore, NY
     +1 934 500 0096   North Bay Shore, NY
 
-  NORTH CAROLINA (35)
+  NORTH CAROLINA (36)
     +1 252 740 0005   Rocky Mount, NC
     +1 252 740 0009   Rocky Mount, NC
     +1 336 850 0003   Browns Summit, NC
     +1 743 230 0002   Greensboro, NC
     +1 743 230 0005   Greensboro, NC
     +1 828 680 0007   Mars Hill, NC
+    +1 828 900 0016   Black Mountain, NC
     +1 828 900 0019   Black Mountain, NC
     +1 828 900 0035   Black Mountain, NC
     +1 828 900 0039   Black Mountain, NC
@@ -1397,8 +1373,7 @@ Updated: 2026-09-13
     +1 740 760 0008   Marietta, OH
     +1 740 860 0007   Parkersburg, OH
 
-  OKLAHOMA (5)
-    +1 405 300 0017   Moore, OK
+  OKLAHOMA (4)
     +1 405 970 0004   Guthrie, OK
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
