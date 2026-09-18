@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-17
-635 five-in-a-row · 632 four-zeros across 38 states · 46 AAA-BBBB across 13 of 90 combinations
+Updated: 2026-09-18
+619 five-in-a-row · 630 four-zeros across 38 states · 45 AAA-BBBB across 13 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -94,11 +94,9 @@ Updated: 2026-09-17
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 46 numbers ---
+--- 44444 — 44 numbers ---
 
-  ALABAMA (6)
-    +1 251 444 4413   Mobile, AL
-    +1 251 444 4427   Mobile, AL
+  ALABAMA (4)
     +1 251 444 4451   Mobile, AL
     +1 251 444 4492   Mobile, AL
     +1 251 444 4498   Mobile, AL
@@ -156,10 +154,7 @@ Updated: 2026-09-17
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 18 numbers ---
-
-  CALIFORNIA (1)
-    +1 925 255 5556   Orinda, CA
+--- 55555 — 17 numbers ---
 
   FLORIDA (11)
     +1 645 255 5550   North Miami Beach, FL
@@ -288,9 +283,9 @@ Updated: 2026-09-17
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 191 numbers ---
+--- 77777 — 190 numbers ---
 
-  CALIFORNIA (162)
+  CALIFORNIA (161)
     +1 657 777 7038   Buena Park, CA
     +1 657 777 7043   Buena Park, CA
     +1 657 777 7047   Buena Park, CA
@@ -452,7 +447,6 @@ Updated: 2026-09-17
     +1 657 777 7956   Buena Park, CA
     +1 657 777 7958   Buena Park, CA
     +1 657 777 7959   Buena Park, CA
-    +1 657 777 7964   Buena Park, CA
 
   CONNECTICUT (3)
     +1 959 777 7723   Hartford, CT
@@ -499,7 +493,7 @@ Updated: 2026-09-17
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 255 numbers ---
+--- 88888 — 246 numbers ---
 
   ALABAMA (18)
     +1 251 888 8803   Mobile, AL
@@ -627,7 +621,7 @@ Updated: 2026-09-17
     +1 858 888 8650   San Diego, CA
     +1 858 888 8690   San Diego, CA
 
-  MINNESOTA (122)
+  MINNESOTA (113)
     +1 218 888 8009   Bemidji, MN
     +1 218 888 8010   Bemidji, MN
     +1 218 888 8015   Bemidji, MN
@@ -705,32 +699,23 @@ Updated: 2026-09-17
     +1 218 888 8412   Bemidji, MN
     +1 218 888 8417   Bemidji, MN
     +1 218 888 8424   Bemidji, MN
-    +1 218 888 8428   Bemidji, MN
     +1 218 888 8429   Bemidji, MN
     +1 218 888 8458   Bemidji, MN
     +1 218 888 8470   Bemidji, MN
     +1 218 888 8504   Bemidji, MN
     +1 218 888 8509   Bemidji, MN
-    +1 218 888 8515   Bemidji, MN
     +1 218 888 8521   Bemidji, MN
-    +1 218 888 8550   Bemidji, MN
-    +1 218 888 8570   Bemidji, MN
-    +1 218 888 8580   Bemidji, MN
     +1 218 888 8594   Bemidji, MN
-    +1 218 888 8608   Bemidji, MN
-    +1 218 888 8628   Bemidji, MN
     +1 218 888 8637   Bemidji, MN
     +1 218 888 8641   Bemidji, MN
     +1 218 888 8645   Bemidji, MN
     +1 218 888 8651   Bemidji, MN
-    +1 218 888 8655   Bemidji, MN
     +1 218 888 8656   Bemidji, MN
     +1 218 888 8664   Bemidji, MN
     +1 218 888 8677   Bemidji, MN
     +1 218 888 8693   Bemidji, MN
     +1 218 888 8699   Bemidji, MN
     +1 218 888 8715   Bemidji, MN
-    +1 218 888 8732   Bemidji, MN
     +1 218 888 8736   Bemidji, MN
     +1 218 888 8738   Bemidji, MN
     +1 218 888 8749   Bemidji, MN
@@ -766,7 +751,7 @@ Updated: 2026-09-17
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 19 numbers ---
+--- 99999 — 16 numbers ---
 
   ALABAMA (10)
     +1 251 999 9913   Mobile, AL
@@ -789,18 +774,11 @@ Updated: 2026-09-17
     +1 774 399 9995   Westborough, MA
     +1 774 399 9996   Westborough, MA
 
-  NEVADA (2)
-    +1 775 499 9995   Reno, NV
-    +1 775 499 9998   Reno, NV
-
-  NEW YORK (1)
-    +1 607 699 9994   Nichols, NY
-
   OREGON (1)
     +1 971 999 9915   Yamhill, OR
 
 ====================================================
-4 ZEROS — 632 numbers across 38 states
+4 ZEROS — 630 numbers across 38 states
 ====================================================
 
   ALABAMA (15)
@@ -1221,14 +1199,13 @@ Updated: 2026-09-17
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (103)
+  NEW YORK (101)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 840 0007   Jordan, NY
     +1 329 220 0008   Walden, NY
     +1 329 230 0007   Woodbury, NY
     +1 329 230 0009   Woodbury, NY
-    +1 516 400 0064   Hewlett, NY
     +1 516 930 0004   Manhasset, NY
     +1 516 930 0006   Manhasset, NY
     +1 585 630 0006   Batavia, NY
@@ -1270,7 +1247,6 @@ Updated: 2026-09-17
     +1 631 900 0096   Northport, NY
     +1 680 230 0004   Utica, NY
     +1 680 230 0006   Utica, NY
-    +1 680 230 0009   Utica, NY
     +1 680 780 0009   Central Square, NY
     +1 716 750 0006   Buffalo, NY
     +1 716 750 0008   Buffalo, NY
@@ -1536,7 +1512,7 @@ Updated: 2026-09-17
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 46 numbers across 13 patterns
+AAA-BBBB — 45 numbers across 13 patterns
 ====================================================
 
 --- 555-2222 — 3 numbers ---
@@ -1613,12 +1589,11 @@ AAA-BBBB — 46 numbers across 13 patterns
     +1 218 882 2228   Carlton, MN
     +1 218 882 2229   Carlton, MN
 
---- 888-5555 — 4 numbers ---
+--- 888-5555 — 3 numbers ---
 
-  MINNESOTA (4)
+  MINNESOTA (3)
     +1 218 885 5552   Nashwauk, MN
     +1 218 885 5553   Nashwauk, MN
-    +1 218 885 5554   Nashwauk, MN
     +1 218 885 5556   Nashwauk, MN
 
 --- 888-9999 — 4 numbers ---

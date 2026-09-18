@@ -1,5 +1,5 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -315,20 +315,12 @@
   },
   {
    "pattern": "44444",
-   "count": 46,
+   "count": 44,
    "states": [
     {
      "state": "Alabama",
-     "count": 6,
+     "count": 4,
      "numbers": [
-      {
-       "number": "+1 251 444 4413",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 444 4427",
-       "location": "Mobile, AL"
-      },
       {
        "number": "+1 251 444 4451",
        "location": "Mobile, AL"
@@ -547,18 +539,8 @@
   },
   {
    "pattern": "55555",
-   "count": 18,
+   "count": 17,
    "states": [
-    {
-     "state": "California",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 925 255 5556",
-       "location": "Orinda, CA"
-      }
-     ]
-    },
     {
      "state": "Florida",
      "count": 11,
@@ -1019,11 +1001,11 @@
   },
   {
    "pattern": "77777",
-   "count": 191,
+   "count": 190,
    "states": [
     {
      "state": "California",
-     "count": 162,
+     "count": 161,
      "numbers": [
       {
        "number": "+1 657 777 7038",
@@ -1668,10 +1650,6 @@
       {
        "number": "+1 657 777 7959",
        "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7964",
-       "location": "Buena Park, CA"
       }
      ]
     },
@@ -1843,7 +1821,7 @@
   },
   {
    "pattern": "88888",
-   "count": 255,
+   "count": 246,
    "states": [
     {
      "state": "Alabama",
@@ -2347,7 +2325,7 @@
     },
     {
      "state": "Minnesota",
-     "count": 122,
+     "count": 113,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -2658,10 +2636,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8428",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8429",
        "location": "Bemidji, MN"
       },
@@ -2682,35 +2656,11 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8515",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8521",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8550",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8570",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8580",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8594",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8608",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8628",
        "location": "Bemidji, MN"
       },
       {
@@ -2727,10 +2677,6 @@
       },
       {
        "number": "+1 218 888 8651",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8655",
        "location": "Bemidji, MN"
       },
       {
@@ -2755,10 +2701,6 @@
       },
       {
        "number": "+1 218 888 8715",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8732",
        "location": "Bemidji, MN"
       },
       {
@@ -2899,7 +2841,7 @@
   },
   {
    "pattern": "99999",
-   "count": 19,
+   "count": 16,
    "states": [
     {
      "state": "Alabama",
@@ -2980,30 +2922,6 @@
      ]
     },
     {
-     "state": "Nevada",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 775 499 9995",
-       "location": "Reno, NV"
-      },
-      {
-       "number": "+1 775 499 9998",
-       "location": "Reno, NV"
-      }
-     ]
-    },
-    {
-     "state": "New York",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 607 699 9994",
-       "location": "Nichols, NY"
-      }
-     ]
-    },
-    {
      "state": "Oregon",
      "count": 1,
      "numbers": [
@@ -3017,7 +2935,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 632,
+  "total": 630,
   "state_count": 38,
   "states": [
    {
@@ -4646,7 +4564,7 @@
    },
    {
     "state": "New York",
-    "count": 103,
+    "count": 101,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -4671,10 +4589,6 @@
      {
       "number": "+1 329 230 0009",
       "location": "Woodbury, NY"
-     },
-     {
-      "number": "+1 516 400 0064",
-      "location": "Hewlett, NY"
      },
      {
       "number": "+1 516 930 0004",
@@ -4838,10 +4752,6 @@
      },
      {
       "number": "+1 680 230 0006",
-      "location": "Utica, NY"
-     },
-     {
-      "number": "+1 680 230 0009",
       "location": "Utica, NY"
      },
      {
@@ -6081,11 +5991,11 @@
   },
   {
    "pattern": "8885555",
-   "count": 4,
+   "count": 3,
    "states": [
     {
      "state": "Minnesota",
-     "count": 4,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 218 885 5552",
@@ -6093,10 +6003,6 @@
       },
       {
        "number": "+1 218 885 5553",
-       "location": "Nashwauk, MN"
-      },
-      {
-       "number": "+1 218 885 5554",
        "location": "Nashwauk, MN"
       },
       {
@@ -6221,11 +6127,11 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 635,
+  "total_5_in_a_row": 619,
   "patterns_with_results": 8,
-  "total_0000": 632,
+  "total_0000": 630,
   "state_count_0000": 38,
-  "total_aaa_bbbb": 46,
+  "total_aaa_bbbb": 45,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 13
  }
