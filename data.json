@@ -1,9 +1,9 @@
 {
- "date": "2026-09-18",
+ "date": "2026-09-19",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 19,
+   "count": 18,
    "states": [
     {
      "state": "Illinois",
@@ -96,16 +96,6 @@
       {
        "number": "+1 401 422 2225",
        "location": "Pawtucket, RI"
-      }
-     ]
-    },
-    {
-     "state": "South Carolina",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 864 722 2229",
-       "location": "Clemson, SC"
       }
      ]
     },
@@ -315,24 +305,12 @@
   },
   {
    "pattern": "44444",
-   "count": 44,
+   "count": 41,
    "states": [
     {
      "state": "Alabama",
-     "count": 4,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 251 444 4451",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 444 4492",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 444 4498",
-       "location": "Mobile, AL"
-      },
       {
        "number": "+1 938 444 4487",
        "location": "Decatur, AL"
@@ -1821,18 +1799,14 @@
   },
   {
    "pattern": "88888",
-   "count": 246,
+   "count": 244,
    "states": [
     {
      "state": "Alabama",
-     "count": 18,
+     "count": 16,
      "numbers": [
       {
        "number": "+1 251 888 8803",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8806",
        "location": "Mobile, AL"
       },
       {
@@ -1878,10 +1852,6 @@
       {
        "number": "+1 251 888 8897",
        "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 256 988 8884",
-       "location": "Huntsville, AL"
       },
       {
        "number": "+1 334 888 8831",
@@ -2935,8 +2905,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 630,
-  "state_count": 38,
+  "total": 635,
+  "state_count": 39,
   "states": [
    {
     "state": "Alabama",
@@ -3036,7 +3006,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 7,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -3065,12 +3035,16 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
+     },
+     {
+      "number": "+1 870 600 0093",
+      "location": "Ashdown, AR"
      }
     ]
    },
    {
     "state": "California",
-    "count": 40,
+    "count": 39,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -3193,10 +3167,6 @@
       "location": "Reseda, CA"
      },
      {
-      "number": "+1 760 610 0008",
-      "location": "Palm Desert, CA"
-     },
-     {
       "number": "+1 909 600 0032",
       "location": "Fontana, CA"
      },
@@ -3236,7 +3206,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 36,
+    "count": 34,
     "numbers": [
      {
       "number": "+1 860 600 0041",
@@ -3257,10 +3227,6 @@
      {
       "number": "+1 860 600 0075",
       "location": "Litchfield, CT"
-     },
-     {
-      "number": "+1 959 400 0045",
-      "location": "Torrington, CT"
      },
      {
       "number": "+1 959 400 0047",
@@ -3292,10 +3258,6 @@
      },
      {
       "number": "+1 959 400 0079",
-      "location": "Torrington, CT"
-     },
-     {
-      "number": "+1 959 400 0086",
       "location": "Torrington, CT"
      },
      {
@@ -3420,7 +3382,7 @@
    },
    {
     "state": "Florida",
-    "count": 35,
+    "count": 36,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -3457,6 +3419,10 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
+     },
+     {
+      "number": "+1 754 900 0018",
+      "location": "Fort Lauderdale, FL"
      },
      {
       "number": "+1 850 930 0005",
@@ -3566,8 +3532,12 @@
    },
    {
     "state": "Georgia",
-    "count": 8,
+    "count": 9,
     "numbers": [
+     {
+      "number": "+1 470 560 0004",
+      "location": "Cumming, GA"
+     },
      {
       "number": "+1 762 270 0003",
       "location": "Mc Caysville, GA"
@@ -4018,7 +3988,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 11,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -4031,14 +4001,6 @@
      {
       "number": "+1 225 480 0005",
       "location": "Denham Springs, LA"
-     },
-     {
-      "number": "+1 318 480 0003",
-      "location": "Jonesboro, LA"
-     },
-     {
-      "number": "+1 318 480 0005",
-      "location": "Jonesboro, LA"
      },
      {
       "number": "+1 318 520 0006",
@@ -4063,6 +4025,44 @@
      {
       "number": "+1 985 570 0008",
       "location": "Bogalusa, LA"
+     }
+    ]
+   },
+   {
+    "state": "Maryland",
+    "count": 8,
+    "numbers": [
+     {
+      "number": "+1 227 310 0002",
+      "location": "Rockville, MD"
+     },
+     {
+      "number": "+1 227 310 0003",
+      "location": "Rockville, MD"
+     },
+     {
+      "number": "+1 227 310 0004",
+      "location": "Rockville, MD"
+     },
+     {
+      "number": "+1 227 310 0005",
+      "location": "Rockville, MD"
+     },
+     {
+      "number": "+1 227 310 0006",
+      "location": "Rockville, MD"
+     },
+     {
+      "number": "+1 227 310 0007",
+      "location": "Rockville, MD"
+     },
+     {
+      "number": "+1 227 310 0008",
+      "location": "Rockville, MD"
+     },
+     {
+      "number": "+1 227 310 0009",
+      "location": "Rockville, MD"
      }
     ]
    },
@@ -5280,7 +5280,7 @@
    },
    {
     "state": "Oregon",
-    "count": 12,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 971 600 0012",
@@ -5321,10 +5321,6 @@
      {
       "number": "+1 971 600 0091",
       "location": "Salem, OR"
-     },
-     {
-      "number": "+1 971 800 0013",
-      "location": "Mill City, OR"
      },
      {
       "number": "+1 971 800 0083",
@@ -5773,16 +5769,12 @@
   },
   {
    "pattern": "5558888",
-   "count": 3,
+   "count": 2,
    "states": [
     {
      "state": "Utah",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 435 558 8881",
-       "location": "Richfield, UT"
-      },
       {
        "number": "+1 435 558 8887",
        "location": "Richfield, UT"
@@ -6042,22 +6034,6 @@
    ]
   },
   {
-   "pattern": "9991111",
-   "count": 1,
-   "states": [
-    {
-     "state": "Connecticut",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 959 991 1117",
-       "location": "Madison Center, CT"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "pattern": "9993333",
    "count": 1,
    "states": [
@@ -6127,12 +6103,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 619,
+  "total_5_in_a_row": 613,
   "patterns_with_results": 8,
-  "total_0000": 630,
-  "state_count_0000": 38,
-  "total_aaa_bbbb": 45,
+  "total_0000": 635,
+  "state_count_0000": 39,
+  "total_aaa_bbbb": 43,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 13
+  "aaa_bbbb_patterns_with_results": 12
  }
 }
