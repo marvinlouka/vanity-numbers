@@ -1,5 +1,5 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-19
+Updated: 2026-09-20
 613 five-in-a-row · 635 four-zeros across 39 states · 43 AAA-BBBB across 12 of 90 combinations
 
 ====================================================
@@ -148,7 +148,7 @@ Updated: 2026-09-19
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 17 numbers ---
+--- 55555 — 18 numbers ---
 
   FLORIDA (11)
     +1 645 255 5550   North Miami Beach, FL
@@ -162,6 +162,9 @@ Updated: 2026-09-19
     +1 863 855 5551   Lake Wales, FL
     +1 863 855 5553   Lake Wales, FL
     +1 863 855 5554   Lake Wales, FL
+
+  ILLINOIS (1)
+    +1 630 755 5551   Lemont, IL
 
   MICHIGAN (1)
     +1 231 655 5552   Manistee, MI
@@ -487,7 +490,7 @@ Updated: 2026-09-19
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 244 numbers ---
+--- 88888 — 243 numbers ---
 
   ALABAMA (16)
     +1 251 888 8803   Mobile, AL
@@ -507,7 +510,7 @@ Updated: 2026-09-19
     +1 334 888 8839   Clayton, AL
     +1 334 888 8843   Clayton, AL
 
-  CALIFORNIA (104)
+  CALIFORNIA (103)
     +1 858 888 8012   San Diego, CA
     +1 858 888 8013   San Diego, CA
     +1 858 888 8015   San Diego, CA
@@ -548,7 +551,6 @@ Updated: 2026-09-19
     +1 858 888 8160   San Diego, CA
     +1 858 888 8170   San Diego, CA
     +1 858 888 8174   San Diego, CA
-    +1 858 888 8190   San Diego, CA
     +1 858 888 8194   San Diego, CA
     +1 858 888 8201   San Diego, CA
     +1 858 888 8202   San Diego, CA
@@ -798,7 +800,7 @@ Updated: 2026-09-19
     +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
-  ARKANSAS (8)
+  ARKANSAS (7)
     +1 479 410 0002   Van Buren, AR
     +1 479 410 0003   Van Buren, AR
     +1 479 410 0004   Van Buren, AR
@@ -806,7 +808,6 @@ Updated: 2026-09-19
     +1 479 410 0006   Van Buren, AR
     +1 479 410 0008   Van Buren, AR
     +1 479 410 0009   Van Buren, AR
-    +1 870 600 0093   Ashdown, AR
 
   CALIFORNIA (39)
     +1 562 580 0004   Long Beach, CA
@@ -835,7 +836,7 @@ Updated: 2026-09-19
     +1 669 500 0093   Gilroy, CA
     +1 669 500 0094   Gilroy, CA
     +1 669 500 0097   Gilroy, CA
-    +1 707 500 0049   Nice, CA
+    +1 707 410 0008   Fairfield, CA
     +1 707 520 0004   Monte Rio, CA
     +1 747 380 0007   Reseda, CA
     +1 747 380 0009   Reseda, CA
@@ -962,14 +963,14 @@ Updated: 2026-09-19
     +1 224 970 0003   Bartlett, IL
     +1 872 290 0004   Chicago, IL
 
-  INDIANA (4)
+  INDIANA (5)
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
+    +1 812 200 0063   Nashville, IN
 
-  IOWA (73)
-    +1 563 300 0006   Davenport, IA
+  IOWA (72)
     +1 563 300 0012   Davenport, IA
     +1 563 300 0013   Davenport, IA
     +1 563 300 0014   Davenport, IA
@@ -1050,10 +1051,12 @@ Updated: 2026-09-19
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (9)
+  LOUISIANA (11)
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
     +1 225 480 0005   Denham Springs, LA
+    +1 318 520 0002   Castor, LA
+    +1 318 520 0005   Castor, LA
     +1 318 520 0006   Castor, LA
     +1 985 570 0003   Bogalusa, LA
     +1 985 570 0004   Bogalusa, LA
@@ -1164,13 +1167,12 @@ Updated: 2026-09-19
     +1 531 910 0007   Omaha, NE
     +1 531 910 0009   Omaha, NE
 
-  NEVADA (7)
+  NEVADA (6)
     +1 725 800 0015   Boulder City, NV
     +1 775 640 0002   Ely, NV
     +1 775 900 0016   Reno, NV
     +1 775 900 0017   Reno, NV
     +1 775 900 0091   Reno, NV
-    +1 775 900 0094   Reno, NV
     +1 775 900 0096   Reno, NV
 
   NEW JERSEY (17)
@@ -1380,7 +1382,8 @@ Updated: 2026-09-19
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
 
-  OREGON (11)
+  OREGON (12)
+    +1 541 200 0054   Medford, OR
     +1 971 600 0012   Salem, OR
     +1 971 600 0026   Salem, OR
     +1 971 600 0028   Salem, OR
@@ -1393,11 +1396,12 @@ Updated: 2026-09-19
     +1 971 600 0091   Salem, OR
     +1 971 800 0083   Mill City, OR
 
-  PENNSYLVANIA (4)
+  PENNSYLVANIA (5)
     +1 570 500 0027   Shamokin, PA
     +1 570 520 0008   Berwick, PA
     +1 570 580 0002   Mount Pocono, PA
     +1 570 580 0008   Mount Pocono, PA
+    +1 717 340 0003   Millersville, PA
 
   RHODE ISLAND (20)
     +1 401 600 0045   Providence, RI
@@ -1428,12 +1432,10 @@ Updated: 2026-09-19
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (11)
+  TEXAS (9)
     +1 325 400 0015   Abilene, TX
     +1 325 400 0027   Abilene, TX
     +1 325 400 0039   Abilene, TX
-    +1 409 240 0008   Beaumont, TX
-    +1 409 240 0009   Beaumont, TX
     +1 409 710 0004   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
     +1 806 680 0004   Amarillo, TX

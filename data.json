@@ -1,5 +1,5 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-20",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -517,7 +517,7 @@
   },
   {
    "pattern": "55555",
-   "count": 17,
+   "count": 18,
    "states": [
     {
      "state": "Florida",
@@ -566,6 +566,16 @@
       {
        "number": "+1 863 855 5554",
        "location": "Lake Wales, FL"
+      }
+     ]
+    },
+    {
+     "state": "Illinois",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 630 755 5551",
+       "location": "Lemont, IL"
       }
      ]
     },
@@ -1799,7 +1809,7 @@
   },
   {
    "pattern": "88888",
-   "count": 244,
+   "count": 243,
    "states": [
     {
      "state": "Alabama",
@@ -1873,7 +1883,7 @@
     },
     {
      "state": "California",
-     "count": 104,
+     "count": 103,
      "numbers": [
       {
        "number": "+1 858 888 8012",
@@ -2033,10 +2043,6 @@
       },
       {
        "number": "+1 858 888 8174",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8190",
        "location": "San Diego, CA"
       },
       {
@@ -3006,7 +3012,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 8,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -3035,10 +3041,6 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
-     },
-     {
-      "number": "+1 870 600 0093",
-      "location": "Ashdown, AR"
      }
     ]
    },
@@ -3151,8 +3153,8 @@
       "location": "Gilroy, CA"
      },
      {
-      "number": "+1 707 500 0049",
-      "location": "Nice, CA"
+      "number": "+1 707 410 0008",
+      "location": "Fairfield, CA"
      },
      {
       "number": "+1 707 520 0004",
@@ -3644,7 +3646,7 @@
    },
    {
     "state": "Indiana",
-    "count": 4,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 765 710 0002",
@@ -3661,17 +3663,17 @@
      {
       "number": "+1 765 710 0005",
       "location": "Eaton, IN"
+     },
+     {
+      "number": "+1 812 200 0063",
+      "location": "Nashville, IN"
      }
     ]
    },
    {
     "state": "Iowa",
-    "count": 73,
+    "count": 72,
     "numbers": [
-     {
-      "number": "+1 563 300 0006",
-      "location": "Davenport, IA"
-     },
      {
       "number": "+1 563 300 0012",
       "location": "Davenport, IA"
@@ -3988,7 +3990,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 9,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -4001,6 +4003,14 @@
      {
       "number": "+1 225 480 0005",
       "location": "Denham Springs, LA"
+     },
+     {
+      "number": "+1 318 520 0002",
+      "location": "Castor, LA"
+     },
+     {
+      "number": "+1 318 520 0005",
+      "location": "Castor, LA"
      },
      {
       "number": "+1 318 520 0006",
@@ -4430,7 +4440,7 @@
    },
    {
     "state": "Nevada",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 725 800 0015",
@@ -4450,10 +4460,6 @@
      },
      {
       "number": "+1 775 900 0091",
-      "location": "Reno, NV"
-     },
-     {
-      "number": "+1 775 900 0094",
       "location": "Reno, NV"
      },
      {
@@ -5280,8 +5286,12 @@
    },
    {
     "state": "Oregon",
-    "count": 11,
+    "count": 12,
     "numbers": [
+     {
+      "number": "+1 541 200 0054",
+      "location": "Medford, OR"
+     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -5330,7 +5340,7 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 4,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 570 500 0027",
@@ -5347,6 +5357,10 @@
      {
       "number": "+1 570 580 0008",
       "location": "Mount Pocono, PA"
+     },
+     {
+      "number": "+1 717 340 0003",
+      "location": "Millersville, PA"
      }
     ]
    },
@@ -5464,7 +5478,7 @@
    },
    {
     "state": "Texas",
-    "count": 11,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 325 400 0015",
@@ -5477,14 +5491,6 @@
      {
       "number": "+1 325 400 0039",
       "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 409 240 0008",
-      "location": "Beaumont, TX"
-     },
-     {
-      "number": "+1 409 240 0009",
-      "location": "Beaumont, TX"
      },
      {
       "number": "+1 409 710 0004",
