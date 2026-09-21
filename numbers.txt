@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-20
-613 five-in-a-row · 635 four-zeros across 39 states · 43 AAA-BBBB across 12 of 90 combinations
+Updated: 2026-09-21
+606 five-in-a-row · 619 four-zeros across 37 states · 43 AAA-BBBB across 12 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -490,7 +490,7 @@ Updated: 2026-09-20
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 243 numbers ---
+--- 88888 — 236 numbers ---
 
   ALABAMA (16)
     +1 251 888 8803   Mobile, AL
@@ -615,7 +615,7 @@ Updated: 2026-09-20
     +1 858 888 8650   San Diego, CA
     +1 858 888 8690   San Diego, CA
 
-  MINNESOTA (113)
+  MINNESOTA (106)
     +1 218 888 8009   Bemidji, MN
     +1 218 888 8010   Bemidji, MN
     +1 218 888 8015   Bemidji, MN
@@ -706,17 +706,10 @@ Updated: 2026-09-20
     +1 218 888 8651   Bemidji, MN
     +1 218 888 8656   Bemidji, MN
     +1 218 888 8664   Bemidji, MN
-    +1 218 888 8677   Bemidji, MN
     +1 218 888 8693   Bemidji, MN
-    +1 218 888 8699   Bemidji, MN
-    +1 218 888 8715   Bemidji, MN
-    +1 218 888 8736   Bemidji, MN
     +1 218 888 8738   Bemidji, MN
     +1 218 888 8749   Bemidji, MN
     +1 218 888 8750   Bemidji, MN
-    +1 218 888 8755   Bemidji, MN
-    +1 218 888 8757   Bemidji, MN
-    +1 218 888 8760   Bemidji, MN
     +1 218 888 8772   Bemidji, MN
     +1 218 888 8905   Bemidji, MN
     +1 218 888 8906   Bemidji, MN
@@ -772,7 +765,7 @@ Updated: 2026-09-20
     +1 971 999 9915   Yamhill, OR
 
 ====================================================
-4 ZEROS — 635 numbers across 39 states
+4 ZEROS — 619 numbers across 37 states
 ====================================================
 
   ALABAMA (15)
@@ -895,7 +888,7 @@ Updated: 2026-09-20
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (36)
+  FLORIDA (35)
     +1 352 570 0008   Yankeetown, FL
     +1 352 830 0005   Ocala, FL
     +1 352 900 0068   Gainesville, FL
@@ -905,7 +898,6 @@ Updated: 2026-09-20
     +1 386 800 0093   Crescent City, FL
     +1 386 800 0096   Crescent City, FL
     +1 448 850 0006   Greenville, FL
-    +1 754 900 0018   Fort Lauderdale, FL
     +1 850 930 0005   Navarre Beach, FL
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0007   Ponce De Leon, FL
@@ -944,9 +936,6 @@ Updated: 2026-09-20
     +1 943 990 0004   Flowery Branch, GA
     +1 943 990 0006   Flowery Branch, GA
 
-  HAWAII (1)
-    +1 808 500 0017   Waihee-Waiehu, HI
-
   IDAHO (10)
     +1 208 800 0059   Nampa, ID
     +1 208 800 0061   Nampa, ID
@@ -963,12 +952,11 @@ Updated: 2026-09-20
     +1 224 970 0003   Bartlett, IL
     +1 872 290 0004   Chicago, IL
 
-  INDIANA (5)
+  INDIANA (4)
     +1 765 710 0002   Eaton, IN
     +1 765 710 0003   Eaton, IN
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
-    +1 812 200 0063   Nashville, IN
 
   IOWA (72)
     +1 563 300 0012   Davenport, IA
@@ -1063,16 +1051,6 @@ Updated: 2026-09-20
     +1 985 570 0005   Bogalusa, LA
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
-
-  MARYLAND (8)
-    +1 227 310 0002   Rockville, MD
-    +1 227 310 0003   Rockville, MD
-    +1 227 310 0004   Rockville, MD
-    +1 227 310 0005   Rockville, MD
-    +1 227 310 0006   Rockville, MD
-    +1 227 310 0007   Rockville, MD
-    +1 227 310 0008   Rockville, MD
-    +1 227 310 0009   Rockville, MD
 
   MASSACHUSETTS (1)
     +1 978 680 0005   Concord, MA
@@ -1382,8 +1360,7 @@ Updated: 2026-09-20
     +1 405 970 0006   Guthrie, OK
     +1 405 970 0008   Guthrie, OK
 
-  OREGON (12)
-    +1 541 200 0054   Medford, OR
+  OREGON (11)
     +1 971 600 0012   Salem, OR
     +1 971 600 0026   Salem, OR
     +1 971 600 0028   Salem, OR
@@ -1403,7 +1380,7 @@ Updated: 2026-09-20
     +1 570 580 0008   Mount Pocono, PA
     +1 717 340 0003   Millersville, PA
 
-  RHODE ISLAND (20)
+  RHODE ISLAND (19)
     +1 401 600 0045   Providence, RI
     +1 401 600 0075   Providence, RI
     +1 401 600 0076   Providence, RI
@@ -1412,7 +1389,6 @@ Updated: 2026-09-20
     +1 401 740 0002   Wakefield-Peacedale, RI
     +1 401 800 0012   Wakefield-Peacedale, RI
     +1 401 800 0014   Wakefield-Peacedale, RI
-    +1 401 800 0019   Wakefield-Peacedale, RI
     +1 401 800 0025   Wakefield-Peacedale, RI
     +1 401 800 0028   Wakefield-Peacedale, RI
     +1 401 800 0048   Wakefield-Peacedale, RI
@@ -1432,10 +1408,7 @@ Updated: 2026-09-20
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (9)
-    +1 325 400 0015   Abilene, TX
-    +1 325 400 0027   Abilene, TX
-    +1 325 400 0039   Abilene, TX
+  TEXAS (6)
     +1 409 710 0004   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
     +1 806 680 0004   Amarillo, TX

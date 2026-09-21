@@ -1,5 +1,5 @@
 {
- "date": "2026-09-20",
+ "date": "2026-09-21",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -1809,7 +1809,7 @@
   },
   {
    "pattern": "88888",
-   "count": 243,
+   "count": 236,
    "states": [
     {
      "state": "Alabama",
@@ -2301,7 +2301,7 @@
     },
     {
      "state": "Minnesota",
-     "count": 113,
+     "count": 106,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -2664,23 +2664,7 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8677",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8693",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8699",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8715",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8736",
        "location": "Bemidji, MN"
       },
       {
@@ -2693,18 +2677,6 @@
       },
       {
        "number": "+1 218 888 8750",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8755",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8757",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8760",
        "location": "Bemidji, MN"
       },
       {
@@ -2911,8 +2883,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 635,
-  "state_count": 39,
+  "total": 619,
+  "state_count": 37,
   "states": [
    {
     "state": "Alabama",
@@ -3384,7 +3356,7 @@
    },
    {
     "state": "Florida",
-    "count": 36,
+    "count": 35,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -3421,10 +3393,6 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
-     },
-     {
-      "number": "+1 754 900 0018",
-      "location": "Fort Lauderdale, FL"
      },
      {
       "number": "+1 850 930 0005",
@@ -3575,16 +3543,6 @@
     ]
    },
    {
-    "state": "Hawaii",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 808 500 0017",
-      "location": "Waihee-Waiehu, HI"
-     }
-    ]
-   },
-   {
     "state": "Idaho",
     "count": 10,
     "numbers": [
@@ -3646,7 +3604,7 @@
    },
    {
     "state": "Indiana",
-    "count": 5,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 765 710 0002",
@@ -3663,10 +3621,6 @@
      {
       "number": "+1 765 710 0005",
       "location": "Eaton, IN"
-     },
-     {
-      "number": "+1 812 200 0063",
-      "location": "Nashville, IN"
      }
     ]
    },
@@ -4035,44 +3989,6 @@
      {
       "number": "+1 985 570 0008",
       "location": "Bogalusa, LA"
-     }
-    ]
-   },
-   {
-    "state": "Maryland",
-    "count": 8,
-    "numbers": [
-     {
-      "number": "+1 227 310 0002",
-      "location": "Rockville, MD"
-     },
-     {
-      "number": "+1 227 310 0003",
-      "location": "Rockville, MD"
-     },
-     {
-      "number": "+1 227 310 0004",
-      "location": "Rockville, MD"
-     },
-     {
-      "number": "+1 227 310 0005",
-      "location": "Rockville, MD"
-     },
-     {
-      "number": "+1 227 310 0006",
-      "location": "Rockville, MD"
-     },
-     {
-      "number": "+1 227 310 0007",
-      "location": "Rockville, MD"
-     },
-     {
-      "number": "+1 227 310 0008",
-      "location": "Rockville, MD"
-     },
-     {
-      "number": "+1 227 310 0009",
-      "location": "Rockville, MD"
      }
     ]
    },
@@ -5286,12 +5202,8 @@
    },
    {
     "state": "Oregon",
-    "count": 12,
+    "count": 11,
     "numbers": [
-     {
-      "number": "+1 541 200 0054",
-      "location": "Medford, OR"
-     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -5366,7 +5278,7 @@
    },
    {
     "state": "Rhode Island",
-    "count": 20,
+    "count": 19,
     "numbers": [
      {
       "number": "+1 401 600 0045",
@@ -5398,10 +5310,6 @@
      },
      {
       "number": "+1 401 800 0014",
-      "location": "Wakefield-Peacedale, RI"
-     },
-     {
-      "number": "+1 401 800 0019",
       "location": "Wakefield-Peacedale, RI"
      },
      {
@@ -5478,20 +5386,8 @@
    },
    {
     "state": "Texas",
-    "count": 9,
+    "count": 6,
     "numbers": [
-     {
-      "number": "+1 325 400 0015",
-      "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 325 400 0027",
-      "location": "Abilene, TX"
-     },
-     {
-      "number": "+1 325 400 0039",
-      "location": "Abilene, TX"
-     },
      {
       "number": "+1 409 710 0004",
       "location": "Beaumont, TX"
@@ -6109,10 +6005,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 613,
+  "total_5_in_a_row": 606,
   "patterns_with_results": 8,
-  "total_0000": 635,
-  "state_count_0000": 39,
+  "total_0000": 619,
+  "state_count_0000": 37,
   "total_aaa_bbbb": 43,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 12
