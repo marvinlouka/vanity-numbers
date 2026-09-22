@@ -1,5 +1,5 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -135,7 +135,7 @@
   },
   {
    "pattern": "33333",
-   "count": 29,
+   "count": 30,
    "states": [
     {
      "state": "Alabama",
@@ -252,6 +252,16 @@
      ]
     },
     {
+     "state": "Texas",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 469 333 3392",
+       "location": "Seagoville, TX"
+      }
+     ]
+    },
+    {
      "state": "Wisconsin",
      "count": 11,
      "numbers": [
@@ -305,7 +315,7 @@
   },
   {
    "pattern": "44444",
-   "count": 41,
+   "count": 42,
    "states": [
     {
      "state": "Alabama",
@@ -314,6 +324,16 @@
       {
        "number": "+1 938 444 4487",
        "location": "Decatur, AL"
+      }
+     ]
+    },
+    {
+     "state": "California",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 424 444 4548",
+       "location": "Compton, CA"
       }
      ]
     },
@@ -517,7 +537,7 @@
   },
   {
    "pattern": "55555",
-   "count": 18,
+   "count": 17,
    "states": [
     {
      "state": "Florida",
@@ -604,16 +624,6 @@
      ]
     },
     {
-     "state": "Utah",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 385 955 5558",
-       "location": "Salt Lake City, UT"
-      }
-     ]
-    },
-    {
      "state": "Vermont",
      "count": 1,
      "numbers": [
@@ -637,7 +647,7 @@
   },
   {
    "pattern": "66666",
-   "count": 58,
+   "count": 57,
    "states": [
     {
      "state": "Alabama",
@@ -654,20 +664,6 @@
       {
        "number": "+1 334 766 6668",
        "location": "Daleville, AL"
-      }
-     ]
-    },
-    {
-     "state": "Arizona",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 520 666 6685",
-       "location": "Casa Grande, AZ"
-      },
-      {
-       "number": "+1 520 666 6692",
-       "location": "Casa Grande, AZ"
       }
      ]
     },
@@ -913,8 +909,12 @@
     },
     {
      "state": "New York",
-     "count": 1,
+     "count": 2,
      "numbers": [
+      {
+       "number": "+1 716 466 6668",
+       "location": "Holland, NY"
+      },
       {
        "number": "+1 716 466 6669",
        "location": "Holland, NY"
@@ -989,7 +989,7 @@
   },
   {
    "pattern": "77777",
-   "count": 190,
+   "count": 192,
    "states": [
     {
      "state": "California",
@@ -1748,6 +1748,16 @@
      ]
     },
     {
+     "state": "Ohio",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 330 577 7774",
+       "location": "Ravenna, OH"
+      }
+     ]
+    },
+    {
      "state": "Oregon",
      "count": 2,
      "numbers": [
@@ -1758,6 +1768,16 @@
       {
        "number": "+1 458 777 7759",
        "location": "Jefferson, OR"
+      }
+     ]
+    },
+    {
+     "state": "Pennsylvania",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 267 777 7133",
+       "location": "Philadelphia, PA"
       }
      ]
     },
@@ -1809,7 +1829,7 @@
   },
   {
    "pattern": "88888",
-   "count": 236,
+   "count": 287,
    "states": [
     {
      "state": "Alabama",
@@ -1883,7 +1903,7 @@
     },
     {
      "state": "California",
-     "count": 103,
+     "count": 160,
      "numbers": [
       {
        "number": "+1 858 888 8012",
@@ -1891,6 +1911,10 @@
       },
       {
        "number": "+1 858 888 8013",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8014",
        "location": "San Diego, CA"
       },
       {
@@ -1903,6 +1927,10 @@
       },
       {
        "number": "+1 858 888 8017",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8018",
        "location": "San Diego, CA"
       },
       {
@@ -1930,6 +1958,10 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8026",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8027",
        "location": "San Diego, CA"
       },
@@ -1954,38 +1986,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8036",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8037",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8045",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8051",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8053",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8073",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8091",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8092",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8102",
        "location": "San Diego, CA"
       },
@@ -1998,6 +1998,10 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8105",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8106",
        "location": "San Diego, CA"
       },
@@ -2006,7 +2010,27 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8110",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8112",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8114",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8124",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8125",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8129",
        "location": "San Diego, CA"
       },
       {
@@ -2014,7 +2038,15 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8140",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8141",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8142",
        "location": "San Diego, CA"
       },
       {
@@ -2034,22 +2066,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8160",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8170",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8174",
-       "location": "San Diego, CA"
-      },
-      {
-       "number": "+1 858 888 8194",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8201",
        "location": "San Diego, CA"
       },
@@ -2062,7 +2078,15 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8204",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8206",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8207",
        "location": "San Diego, CA"
       },
       {
@@ -2071,6 +2095,14 @@
       },
       {
        "number": "+1 858 888 8210",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8215",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8217",
        "location": "San Diego, CA"
       },
       {
@@ -2086,19 +2118,31 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8249",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8250",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8251",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8266",
+       "number": "+1 858 888 8258",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8270",
+       "number": "+1 858 888 8259",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8279",
+       "number": "+1 858 888 8260",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8262",
        "location": "San Diego, CA"
       },
       {
@@ -2110,11 +2154,19 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8304",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8305",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8306",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8307",
        "location": "San Diego, CA"
       },
       {
@@ -2127,6 +2179,10 @@
       },
       {
        "number": "+1 858 888 8314",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8319",
        "location": "San Diego, CA"
       },
       {
@@ -2146,6 +2202,10 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8344",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8347",
        "location": "San Diego, CA"
       },
@@ -2154,11 +2214,15 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8370",
+       "number": "+1 858 888 8350",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8374",
+       "number": "+1 858 888 8352",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8354",
        "location": "San Diego, CA"
       },
       {
@@ -2190,11 +2254,19 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8408",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8409",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8410",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8411",
        "location": "San Diego, CA"
       },
       {
@@ -2218,6 +2290,10 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8419",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8420",
        "location": "San Diego, CA"
       },
@@ -2226,19 +2302,63 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8423",
+       "number": "+1 858 888 8422",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8425",
+       "number": "+1 858 888 8503",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8429",
+       "number": "+1 858 888 8514",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8430",
+       "number": "+1 858 888 8519",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8521",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8523",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8528",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8534",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8544",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8551",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8560",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8582",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8583",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8584",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8592",
        "location": "San Diego, CA"
       },
       {
@@ -2247,6 +2367,14 @@
       },
       {
        "number": "+1 858 888 8602",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8603",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8604",
        "location": "San Diego, CA"
       },
       {
@@ -2266,11 +2394,27 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8611",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8614",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8620",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8623",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8625",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8626",
        "location": "San Diego, CA"
       },
       {
@@ -2286,22 +2430,126 @@
        "location": "San Diego, CA"
       },
       {
+       "number": "+1 858 888 8644",
+       "location": "San Diego, CA"
+      },
+      {
        "number": "+1 858 888 8645",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8650",
+       "number": "+1 858 888 8648",
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8690",
+       "number": "+1 858 888 8701",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8711",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8713",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8718",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8719",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8741",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8747",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8751",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8758",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8785",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8793",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8794",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8796",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8902",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8920",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8921",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8925",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8927",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8941",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8942",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8943",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8952",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8965",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8967",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8980",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8991",
        "location": "San Diego, CA"
       }
      ]
     },
     {
      "state": "Minnesota",
-     "count": 106,
+     "count": 99,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -2544,10 +2792,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8315",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8319",
        "location": "Bemidji, MN"
       },
@@ -2597,6 +2841,10 @@
       },
       {
        "number": "+1 218 888 8352",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8353",
        "location": "Bemidji, MN"
       },
       {
@@ -2688,39 +2936,11 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8906",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8917",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8919",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8933",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8936",
        "location": "Bemidji, MN"
       },
       {
        "number": "+1 218 888 8974",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8978",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8985",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8993",
        "location": "Bemidji, MN"
       },
       {
@@ -2776,6 +2996,16 @@
      ]
     },
     {
+     "state": "South Carolina",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 839 288 8882",
+       "location": "Columbia, SC"
+      }
+     ]
+    },
+    {
      "state": "Vermont",
      "count": 1,
      "numbers": [
@@ -2789,7 +3019,7 @@
   },
   {
    "pattern": "99999",
-   "count": 16,
+   "count": 24,
    "states": [
     {
      "state": "Alabama",
@@ -2838,6 +3068,40 @@
      ]
     },
     {
+     "state": "California",
+     "count": 7,
+     "numbers": [
+      {
+       "number": "+1 747 999 9907",
+       "location": "Los Angeles, CA"
+      },
+      {
+       "number": "+1 909 999 9337",
+       "location": "Rialto, CA"
+      },
+      {
+       "number": "+1 909 999 9412",
+       "location": "Rialto, CA"
+      },
+      {
+       "number": "+1 909 999 9425",
+       "location": "Rialto, CA"
+      },
+      {
+       "number": "+1 909 999 9510",
+       "location": "Rialto, CA"
+      },
+      {
+       "number": "+1 909 999 9568",
+       "location": "Rialto, CA"
+      },
+      {
+       "number": "+1 909 999 9836",
+       "location": "Rialto, CA"
+      }
+     ]
+    },
+    {
      "state": "Colorado",
      "count": 2,
      "numbers": [
@@ -2870,6 +3134,16 @@
      ]
     },
     {
+     "state": "New Jersey",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 848 999 9935",
+       "location": "Woodbridge Township, NJ"
+      }
+     ]
+    },
+    {
      "state": "Oregon",
      "count": 1,
      "numbers": [
@@ -2883,8 +3157,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 619,
-  "state_count": 37,
+  "total": 647,
+  "state_count": 39,
   "states": [
    {
     "state": "Alabama",
@@ -2984,7 +3258,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 7,
+    "count": 15,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -3013,12 +3287,44 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
+     },
+     {
+      "number": "+1 870 900 0012",
+      "location": "Viola, AR"
+     },
+     {
+      "number": "+1 870 900 0013",
+      "location": "Viola, AR"
+     },
+     {
+      "number": "+1 870 900 0014",
+      "location": "Viola, AR"
+     },
+     {
+      "number": "+1 870 900 0019",
+      "location": "Viola, AR"
+     },
+     {
+      "number": "+1 870 900 0022",
+      "location": "Viola, AR"
+     },
+     {
+      "number": "+1 870 900 0072",
+      "location": "Viola, AR"
+     },
+     {
+      "number": "+1 870 900 0074",
+      "location": "Viola, AR"
+     },
+     {
+      "number": "+1 870 900 0075",
+      "location": "Viola, AR"
      }
     ]
    },
    {
     "state": "California",
-    "count": 39,
+    "count": 40,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -3033,16 +3339,16 @@
       "location": "Whittier, CA"
      },
      {
+      "number": "+1 626 460 0004",
+      "location": "Pasadena, CA"
+     },
+     {
       "number": "+1 657 650 0005",
       "location": "Orange, CA"
      },
      {
       "number": "+1 661 450 0003",
       "location": "Santa Clarita, CA"
-     },
-     {
-      "number": "+1 661 750 0004",
-      "location": "Tehachapi, CA"
      },
      {
       "number": "+1 669 500 0027",
@@ -3133,6 +3439,14 @@
       "location": "Monte Rio, CA"
      },
      {
+      "number": "+1 707 690 0003",
+      "location": "Napa, CA"
+     },
+     {
+      "number": "+1 707 690 0006",
+      "location": "Napa, CA"
+     },
+     {
       "number": "+1 747 380 0007",
       "location": "Reseda, CA"
      },
@@ -3162,10 +3476,6 @@
      },
      {
       "number": "+1 909 600 0058",
-      "location": "Fontana, CA"
-     },
-     {
-      "number": "+1 909 600 0067",
       "location": "Fontana, CA"
      },
      {
@@ -3356,7 +3666,7 @@
    },
    {
     "state": "Florida",
-    "count": 35,
+    "count": 40,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -3409,6 +3719,10 @@
      {
       "number": "+1 850 940 0008",
       "location": "Ponce De Leon, FL"
+     },
+     {
+      "number": "+1 904 830 0008",
+      "location": "Jacksonville, FL"
      },
      {
       "number": "+1 941 900 0028",
@@ -3497,17 +3811,29 @@
      {
       "number": "+1 941 900 0097",
       "location": "Bradenton, FL"
+     },
+     {
+      "number": "+1 954 590 0003",
+      "location": "Fort Lauderdale, FL"
+     },
+     {
+      "number": "+1 954 590 0004",
+      "location": "Fort Lauderdale, FL"
+     },
+     {
+      "number": "+1 954 590 0007",
+      "location": "Fort Lauderdale, FL"
+     },
+     {
+      "number": "+1 954 590 0008",
+      "location": "Fort Lauderdale, FL"
      }
     ]
    },
    {
     "state": "Georgia",
-    "count": 9,
+    "count": 8,
     "numbers": [
-     {
-      "number": "+1 470 560 0004",
-      "location": "Cumming, GA"
-     },
      {
       "number": "+1 762 270 0003",
       "location": "Mc Caysville, GA"
@@ -3944,7 +4270,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 11,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -3964,10 +4290,6 @@
      },
      {
       "number": "+1 318 520 0005",
-      "location": "Castor, LA"
-     },
-     {
-      "number": "+1 318 520 0006",
       "location": "Castor, LA"
      },
      {
@@ -3993,6 +4315,16 @@
     ]
    },
    {
+    "state": "Maryland",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 443 620 0004",
+      "location": "Baltimore, MD"
+     }
+    ]
+   },
+   {
     "state": "Massachusetts",
     "count": 1,
     "numbers": [
@@ -4004,7 +4336,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 50,
+    "count": 56,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -4139,6 +4471,10 @@
       "location": "Sauk Rapids, MN"
      },
      {
+      "number": "+1 507 400 0012",
+      "location": "Faribault, MN"
+     },
+     {
       "number": "+1 507 400 0021",
       "location": "Faribault, MN"
      },
@@ -4151,11 +4487,27 @@
       "location": "Faribault, MN"
      },
      {
+      "number": "+1 507 400 0029",
+      "location": "Faribault, MN"
+     },
+     {
+      "number": "+1 507 400 0047",
+      "location": "Faribault, MN"
+     },
+     {
       "number": "+1 507 400 0056",
       "location": "Faribault, MN"
      },
      {
       "number": "+1 507 400 0064",
+      "location": "Faribault, MN"
+     },
+     {
+      "number": "+1 507 400 0067",
+      "location": "Faribault, MN"
+     },
+     {
+      "number": "+1 507 400 0076",
       "location": "Faribault, MN"
      },
      {
@@ -4168,6 +4520,10 @@
      },
      {
       "number": "+1 507 400 0089",
+      "location": "Faribault, MN"
+     },
+     {
+      "number": "+1 507 400 0097",
       "location": "Faribault, MN"
      },
      {
@@ -4252,8 +4608,12 @@
    },
    {
     "state": "Missouri",
-    "count": 2,
+    "count": 3,
     "numbers": [
+     {
+      "number": "+1 573 500 0018",
+      "location": "Campbell, MO"
+     },
      {
       "number": "+1 660 240 0006",
       "location": "Chillicothe, MO"
@@ -4266,7 +4626,7 @@
    },
    {
     "state": "Nebraska",
-    "count": 21,
+    "count": 22,
     "numbers": [
      {
       "number": "+1 531 300 0031",
@@ -4319,6 +4679,10 @@
      {
       "number": "+1 531 530 0006",
       "location": "Lincoln, NE"
+     },
+     {
+      "number": "+1 531 600 0015",
+      "location": "Omaha, NE"
      },
      {
       "number": "+1 531 810 0002",
@@ -4497,10 +4861,6 @@
       "location": "Kirkville, NY"
      },
      {
-      "number": "+1 315 840 0007",
-      "location": "Jordan, NY"
-     },
-     {
       "number": "+1 329 220 0008",
       "location": "Walden, NY"
      },
@@ -4594,6 +4954,10 @@
      },
      {
       "number": "+1 631 600 0025",
+      "location": "East Northport, NY"
+     },
+     {
+      "number": "+1 631 600 0034",
       "location": "East Northport, NY"
      },
      {
@@ -4896,7 +5260,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 35,
+    "count": 33,
     "numbers": [
      {
       "number": "+1 252 740 0005",
@@ -4905,14 +5269,6 @@
      {
       "number": "+1 252 740 0009",
       "location": "Rocky Mount, NC"
-     },
-     {
-      "number": "+1 743 230 0002",
-      "location": "Greensboro, NC"
-     },
-     {
-      "number": "+1 743 230 0005",
-      "location": "Greensboro, NC"
      },
      {
       "number": "+1 828 680 0007",
@@ -5042,8 +5398,16 @@
    },
    {
     "state": "Ohio",
-    "count": 34,
+    "count": 39,
     "numbers": [
+     {
+      "number": "+1 380 390 0006",
+      "location": "Columbus, OH"
+     },
+     {
+      "number": "+1 380 500 0056",
+      "location": "Worthington, OH"
+     },
      {
       "number": "+1 440 600 0072",
       "location": "Chagrin Falls, OH"
@@ -5065,7 +5429,15 @@
       "location": "Chagrin Falls, OH"
      },
      {
+      "number": "+1 513 760 0009",
+      "location": "Loveland, OH"
+     },
+     {
       "number": "+1 513 940 0003",
+      "location": "Batavia, OH"
+     },
+     {
+      "number": "+1 513 940 0008",
       "location": "Batavia, OH"
      },
      {
@@ -5142,6 +5514,10 @@
      },
      {
       "number": "+1 740 500 0034",
+      "location": "Circleville, OH"
+     },
+     {
+      "number": "+1 740 500 0067",
       "location": "Circleville, OH"
      },
      {
@@ -5252,7 +5628,7 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 5,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 570 500 0027",
@@ -5271,14 +5647,22 @@
       "location": "Mount Pocono, PA"
      },
      {
+      "number": "+1 570 630 0009",
+      "location": "Lake Ariel, PA"
+     },
+     {
       "number": "+1 717 340 0003",
       "location": "Millersville, PA"
+     },
+     {
+      "number": "+1 717 660 0009",
+      "location": "Chambersburg, PA"
      }
     ]
    },
    {
     "state": "Rhode Island",
-    "count": 19,
+    "count": 18,
     "numbers": [
      {
       "number": "+1 401 600 0045",
@@ -5351,10 +5735,6 @@
      {
       "number": "+1 401 830 0006",
       "location": "North Providence, RI"
-     },
-     {
-      "number": "+1 401 910 0003",
-      "location": "Providence, RI"
      }
     ]
    },
@@ -5363,8 +5743,8 @@
     "count": 5,
     "numbers": [
      {
-      "number": "+1 901 660 0003",
-      "location": "Grand Junction, TN"
+      "number": "+1 731 400 0031",
+      "location": "Savannah, TN"
      },
      {
       "number": "+1 901 660 0004",
@@ -5386,7 +5766,7 @@
    },
    {
     "state": "Texas",
-    "count": 6,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 409 710 0004",
@@ -5411,12 +5791,16 @@
      {
       "number": "+1 903 420 0008",
       "location": "Corsicana, TX"
+     },
+     {
+      "number": "+1 903 600 0078",
+      "location": "Rice, TX"
      }
     ]
    },
    {
     "state": "Utah",
-    "count": 21,
+    "count": 20,
     "numbers": [
      {
       "number": "+1 385 560 0005",
@@ -5448,10 +5832,6 @@
      },
      {
       "number": "+1 435 500 0031",
-      "location": "Delta, UT"
-     },
-     {
-      "number": "+1 435 500 0038",
       "location": "Delta, UT"
      },
      {
@@ -5516,8 +5896,16 @@
    },
    {
     "state": "Virginia",
-    "count": 1,
+    "count": 3,
     "numbers": [
+     {
+      "number": "+1 540 450 0008",
+      "location": "Winchester, VA"
+     },
+     {
+      "number": "+1 540 450 0009",
+      "location": "Winchester, VA"
+     },
      {
       "number": "+1 757 740 0003",
       "location": "Franklin, VA"
@@ -5571,6 +5959,16 @@
      {
       "number": "+1 681 440 0009",
       "location": "Farmington, WV"
+     }
+    ]
+   },
+   {
+    "state": "Wisconsin",
+    "count": 1,
+    "numbers": [
+     {
+      "number": "+1 715 600 0007",
+      "location": "Stevens Point, WI"
      }
     ]
    },
@@ -6005,10 +6403,10 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 606,
+  "total_5_in_a_row": 667,
   "patterns_with_results": 8,
-  "total_0000": 619,
-  "state_count_0000": 37,
+  "total_0000": 647,
+  "state_count_0000": 39,
   "total_aaa_bbbb": 43,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 12
