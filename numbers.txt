@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-23
-698 five-in-a-row · 653 four-zeros across 39 states · 43 AAA-BBBB across 12 of 90 combinations
+Updated: 2026-09-24
+710 five-in-a-row · 801 four-zeros across 39 states · 59 AAA-BBBB across 16 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 20 numbers ---
+--- 22222 — 21 numbers ---
 
   ILLINOIS (2)
     +1 779 222 2239   Sycamore, IL
@@ -28,8 +28,9 @@ Updated: 2026-09-23
   NEBRASKA (1)
     +1 308 422 2221   Wilsonville, NE
 
-  NEW YORK (1)
+  NEW YORK (2)
     +1 585 822 2220   East Rochester, NY
+    +1 838 222 2243   Lake Placid, NY
 
   OREGON (3)
     +1 458 322 2221   Albany, OR
@@ -48,17 +49,16 @@ Updated: 2026-09-23
     +1 802 622 2228   Barre, VT
     +1 802 822 2227   Derby Line, VT
 
---- 33333 — 31 numbers ---
+--- 33333 — 38 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
 
-  CALIFORNIA (9)
+  CALIFORNIA (8)
     +1 442 333 3341   Carlsbad, CA
     +1 442 333 3351   Carlsbad, CA
     +1 442 333 3359   Carlsbad, CA
     +1 657 333 3368   Orange, CA
-    +1 951 433 3331   Corona, CA
     +1 951 433 3335   Corona, CA
     +1 951 433 3336   Corona, CA
     +1 951 433 3337   Corona, CA
@@ -78,10 +78,18 @@ Updated: 2026-09-23
     +1 551 333 3389   Cliffside Pk, NJ
     +1 551 333 3390   Cliffside Pk, NJ
 
-  NEW YORK (3)
+  NEW YORK (11)
     +1 315 633 3338   Bridgeport, NY
+    +1 518 333 3313   Brushton, NY
+    +1 518 333 3332   Brushton, NY
+    +1 518 333 3355   Brushton, NY
+    +1 716 733 3331   Angola, NY
     +1 716 733 3332   Angola, NY
     +1 716 733 3335   Angola, NY
+    +1 838 733 3336   Round Lake, NY
+    +1 838 833 3332   Ravena, NY
+    +1 838 833 3334   Ravena, NY
+    +1 838 833 3335   Ravena, NY
 
   TENNESSEE (1)
     +1 731 333 3319   Paris, TN
@@ -99,28 +107,10 @@ Updated: 2026-09-23
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 52 numbers ---
+--- 44444 — 36 numbers ---
 
   ALABAMA (1)
     +1 938 444 4487   Decatur, AL
-
-  CALIFORNIA (16)
-    +1 424 444 4858   Compton, CA
-    +1 424 444 4862   Compton, CA
-    +1 424 444 4863   Compton, CA
-    +1 424 444 4864   Compton, CA
-    +1 424 444 4881   Compton, CA
-    +1 424 444 4886   Compton, CA
-    +1 424 444 4892   Compton, CA
-    +1 424 444 4894   Compton, CA
-    +1 424 444 4905   Compton, CA
-    +1 424 444 4968   Compton, CA
-    +1 424 444 4969   Compton, CA
-    +1 424 444 4970   Compton, CA
-    +1 424 444 4974   Compton, CA
-    +1 424 444 4977   Compton, CA
-    +1 424 444 4983   Compton, CA
-    +1 424 444 4984   Compton, CA
 
   CONNECTICUT (1)
     +1 860 744 4446   Willimantic, CT
@@ -169,7 +159,7 @@ Updated: 2026-09-23
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 17 numbers ---
+--- 55555 — 31 numbers ---
 
   FLORIDA (11)
     +1 645 255 5550   North Miami Beach, FL
@@ -184,9 +174,6 @@ Updated: 2026-09-23
     +1 863 855 5553   Lake Wales, FL
     +1 863 855 5554   Lake Wales, FL
 
-  ILLINOIS (1)
-    +1 630 755 5551   Lemont, IL
-
   MICHIGAN (1)
     +1 231 655 5552   Manistee, MI
 
@@ -194,13 +181,30 @@ Updated: 2026-09-23
     +1 218 955 5556   Breckenridge, MN
     +1 218 955 5558   Breckenridge, MN
 
+  NEW YORK (15)
+    +1 680 255 5551   Norwood, NY
+    +1 680 255 5553   Norwood, NY
+    +1 680 255 5554   Norwood, NY
+    +1 680 255 5556   Norwood, NY
+    +1 680 255 5557   Norwood, NY
+    +1 680 255 5558   Norwood, NY
+    +1 680 255 5559   Norwood, NY
+    +1 838 255 5550   Saranac Lake, NY
+    +1 838 255 5551   Saranac Lake, NY
+    +1 838 255 5553   Saranac Lake, NY
+    +1 838 255 5554   Saranac Lake, NY
+    +1 838 255 5556   Saranac Lake, NY
+    +1 838 255 5557   Saranac Lake, NY
+    +1 838 255 5558   Saranac Lake, NY
+    +1 838 255 5559   Saranac Lake, NY
+
   VERMONT (1)
     +1 802 855 5553   Rutland, VT
 
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 57 numbers ---
+--- 66666 — 58 numbers ---
 
   ALABAMA (3)
     +1 334 766 6661   Daleville, AL
@@ -249,7 +253,8 @@ Updated: 2026-09-23
     +1 318 766 6668   Waterproof, LA
     +1 318 766 6669   Waterproof, LA
 
-  MARYLAND (4)
+  MARYLAND (5)
+    +1 227 666 6618   Frederick, MD
     +1 443 266 6664   Glenwood, MD
     +1 667 966 6662   New Windsor, MD
     +1 667 966 6664   New Windsor, MD
@@ -295,7 +300,7 @@ Updated: 2026-09-23
     +1 385 666 6603   Provo, UT
     +1 385 666 6612   Provo, UT
 
---- 77777 — 211 numbers ---
+--- 77777 — 213 numbers ---
 
   CALIFORNIA (180)
     +1 657 777 7018   Buena Park, CA
@@ -505,8 +510,10 @@ Updated: 2026-09-23
     +1 531 777 7784   Omaha, NE
     +1 531 777 7786   Omaha, NE
 
-  NEW YORK (1)
+  NEW YORK (3)
+    +1 518 777 7794   Sharon Springs, NY
     +1 607 477 7771   Endicott, NY
+    +1 838 877 7770   Hudson, NY
 
   OHIO (1)
     +1 330 577 7774   Ravenna, OH
@@ -530,7 +537,7 @@ Updated: 2026-09-23
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 287 numbers ---
+--- 88888 — 288 numbers ---
 
   ALABAMA (16)
     +1 251 888 8803   Mobile, AL
@@ -557,7 +564,6 @@ Updated: 2026-09-23
     +1 858 888 8015   San Diego, CA
     +1 858 888 8016   San Diego, CA
     +1 858 888 8017   San Diego, CA
-    +1 858 888 8018   San Diego, CA
     +1 858 888 8019   San Diego, CA
     +1 858 888 8021   San Diego, CA
     +1 858 888 8022   San Diego, CA
@@ -571,6 +577,7 @@ Updated: 2026-09-23
     +1 858 888 8032   San Diego, CA
     +1 858 888 8033   San Diego, CA
     +1 858 888 8034   San Diego, CA
+    +1 858 888 8035   San Diego, CA
     +1 858 888 8102   San Diego, CA
     +1 858 888 8103   San Diego, CA
     +1 858 888 8104   San Diego, CA
@@ -765,8 +772,8 @@ Updated: 2026-09-23
     +1 218 888 8254   Bemidji, MN
     +1 218 888 8258   Bemidji, MN
     +1 218 888 8263   Bemidji, MN
-    +1 218 888 8265   Bemidji, MN
-    +1 218 888 8269   Bemidji, MN
+    +1 218 888 8286   Bemidji, MN
+    +1 218 888 8289   Bemidji, MN
     +1 218 888 8303   Bemidji, MN
     +1 218 888 8305   Bemidji, MN
     +1 218 888 8306   Bemidji, MN
@@ -813,6 +820,9 @@ Updated: 2026-09-23
     +1 218 888 8974   Bemidji, MN
     +1 320 588 8887   Finlayson, MN
 
+  NEW YORK (1)
+    +1 315 588 8880   Alexandria Bay, NY
+
   OREGON (10)
     +1 458 888 8038   Milton-Freewater, OR
     +1 458 888 8101   Milton-Freewater, OR
@@ -831,7 +841,7 @@ Updated: 2026-09-23
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 23 numbers ---
+--- 99999 — 25 numbers ---
 
   ALABAMA (10)
     +1 251 999 9913   Mobile, AL
@@ -845,8 +855,7 @@ Updated: 2026-09-23
     +1 659 799 9993   Pinson, AL
     +1 659 799 9998   Pinson, AL
 
-  CALIFORNIA (7)
-    +1 747 999 9907   Los Angeles, CA
+  CALIFORNIA (6)
     +1 909 999 9337   Rialto, CA
     +1 909 999 9412   Rialto, CA
     +1 909 999 9425   Rialto, CA
@@ -866,8 +875,13 @@ Updated: 2026-09-23
   NEW JERSEY (1)
     +1 848 999 9935   Woodbridge Township, NJ
 
+  NEW YORK (3)
+    +1 518 299 9997   Fleischmanns, NY
+    +1 838 999 9901   Plattsburgh West, NY
+    +1 838 999 9902   Plattsburgh West, NY
+
 ====================================================
-4 ZEROS — 653 numbers across 39 states
+4 ZEROS — 801 numbers across 39 states
 ====================================================
 
   ALABAMA (15)
@@ -1005,12 +1019,11 @@ Updated: 2026-09-23
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (36)
+  FLORIDA (35)
     +1 352 570 0008   Yankeetown, FL
     +1 352 830 0005   Ocala, FL
     +1 352 900 0068   Gainesville, FL
     +1 386 800 0023   Crescent City, FL
-    +1 386 800 0087   Crescent City, FL
     +1 386 800 0091   Crescent City, FL
     +1 386 800 0093   Crescent City, FL
     +1 386 800 0096   Crescent City, FL
@@ -1157,12 +1170,11 @@ Updated: 2026-09-23
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (12)
+  LOUISIANA (11)
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
     +1 225 480 0005   Denham Springs, LA
     +1 225 500 0041   Albany, LA
-    +1 225 500 0054   Albany, LA
     +1 318 520 0002   Castor, LA
     +1 318 520 0005   Castor, LA
     +1 985 570 0003   Bogalusa, LA
@@ -1171,7 +1183,16 @@ Updated: 2026-09-23
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (1)
+  MARYLAND (10)
+    +1 227 260 0002   Chesapeake Beach, MD
+    +1 227 260 0003   Chesapeake Beach, MD
+    +1 227 260 0004   Chesapeake Beach, MD
+    +1 227 260 0005   Chesapeake Beach, MD
+    +1 227 260 0007   Chesapeake Beach, MD
+    +1 227 260 0008   Chesapeake Beach, MD
+    +1 227 260 0009   Chesapeake Beach, MD
+    +1 227 770 0004   Kensington, MD
+    +1 227 770 0009   Kensington, MD
     +1 443 620 0004   Baltimore, MD
 
   MASSACHUSETTS (1)
@@ -1308,109 +1329,252 @@ Updated: 2026-09-23
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (102)
+  NEW YORK (245)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
+    +1 315 740 0005   Norwood, NY
+    +1 315 740 0006   Norwood, NY
+    +1 315 800 0014   Syracuse, NY
+    +1 315 800 0016   Syracuse, NY
+    +1 315 810 0002   Mcgraw, NY
+    +1 315 810 0004   Mcgraw, NY
+    +1 315 810 0007   Mcgraw, NY
+    +1 315 810 0008   Mcgraw, NY
+    +1 315 810 0009   Mcgraw, NY
     +1 329 220 0008   Walden, NY
     +1 329 230 0007   Woodbury, NY
     +1 329 230 0009   Woodbury, NY
+    +1 363 200 0078   Farmingdale, NY
+    +1 363 200 0081   Farmingdale, NY
+    +1 363 200 0083   Farmingdale, NY
+    +1 363 200 0084   Farmingdale, NY
+    +1 363 200 0091   Farmingdale, NY
+    +1 363 200 0094   Farmingdale, NY
+    +1 363 200 0096   Farmingdale, NY
+    +1 363 200 0097   Farmingdale, NY
     +1 516 930 0004   Manhasset, NY
     +1 516 930 0006   Manhasset, NY
+    +1 518 460 0003   Hagaman, NY
+    +1 518 460 0004   Hagaman, NY
+    +1 518 460 0005   Hagaman, NY
+    +1 518 460 0007   Hagaman, NY
+    +1 518 460 0008   Hagaman, NY
+    +1 518 500 0035   Delanson, NY
+    +1 518 500 0036   Delanson, NY
+    +1 518 500 0037   Delanson, NY
+    +1 518 500 0038   Delanson, NY
+    +1 518 500 0039   Delanson, NY
+    +1 518 500 0041   Delanson, NY
+    +1 518 500 0042   Delanson, NY
+    +1 518 500 0043   Delanson, NY
+    +1 518 500 0045   Delanson, NY
+    +1 518 500 0046   Delanson, NY
+    +1 518 500 0047   Delanson, NY
+    +1 518 500 0048   Delanson, NY
+    +1 518 500 0049   Delanson, NY
+    +1 518 500 0051   Delanson, NY
+    +1 518 500 0052   Delanson, NY
+    +1 518 500 0053   Delanson, NY
+    +1 518 500 0054   Delanson, NY
+    +1 518 500 0056   Delanson, NY
+    +1 518 500 0057   Delanson, NY
+    +1 518 500 0058   Delanson, NY
+    +1 518 500 0059   Delanson, NY
+    +1 518 500 0061   Delanson, NY
+    +1 518 500 0062   Delanson, NY
+    +1 518 500 0063   Delanson, NY
+    +1 518 500 0064   Delanson, NY
+    +1 518 500 0065   Delanson, NY
+    +1 518 500 0067   Delanson, NY
+    +1 518 500 0068   Delanson, NY
+    +1 518 500 0069   Delanson, NY
+    +1 518 500 0071   Delanson, NY
+    +1 518 500 0072   Delanson, NY
+    +1 518 500 0073   Delanson, NY
+    +1 518 500 0074   Delanson, NY
+    +1 518 500 0076   Delanson, NY
+    +1 518 500 0078   Delanson, NY
+    +1 518 500 0079   Delanson, NY
+    +1 518 500 0081   Delanson, NY
+    +1 518 500 0082   Delanson, NY
+    +1 518 500 0083   Delanson, NY
+    +1 518 500 0084   Delanson, NY
+    +1 518 500 0085   Delanson, NY
+    +1 518 500 0086   Delanson, NY
+    +1 518 500 0087   Delanson, NY
+    +1 518 500 0089   Delanson, NY
+    +1 518 500 0091   Delanson, NY
+    +1 518 500 0092   Delanson, NY
+    +1 518 500 0093   Delanson, NY
+    +1 518 500 0094   Delanson, NY
+    +1 518 500 0095   Delanson, NY
+    +1 518 500 0096   Delanson, NY
+    +1 518 500 0097   Delanson, NY
+    +1 518 500 0098   Delanson, NY
+    +1 518 600 0012   Plattsburgh West, NY
+    +1 518 600 0013   Plattsburgh West, NY
+    +1 518 600 0014   Plattsburgh West, NY
+    +1 518 600 0015   Plattsburgh West, NY
+    +1 518 600 0017   Plattsburgh West, NY
+    +1 518 600 0018   Plattsburgh West, NY
+    +1 518 600 0021   Plattsburgh West, NY
+    +1 518 600 0024   Plattsburgh West, NY
+    +1 518 600 0025   Plattsburgh West, NY
+    +1 518 600 0026   Plattsburgh West, NY
+    +1 518 600 0027   Plattsburgh West, NY
+    +1 518 650 0009   Rensselaer, NY
+    +1 518 760 0002   Glens Falls, NY
+    +1 518 760 0003   Glens Falls, NY
+    +1 518 760 0004   Glens Falls, NY
+    +1 518 760 0005   Glens Falls, NY
+    +1 518 760 0006   Glens Falls, NY
+    +1 518 760 0007   Glens Falls, NY
+    +1 518 760 0008   Glens Falls, NY
+    +1 518 760 0009   Glens Falls, NY
+    +1 518 800 0024   Hudson Falls, NY
+    +1 518 800 0027   Hudson Falls, NY
+    +1 518 800 0036   Hudson Falls, NY
+    +1 518 800 0039   Hudson Falls, NY
+    +1 518 800 0041   Hudson Falls, NY
+    +1 518 800 0043   Hudson Falls, NY
+    +1 518 800 0046   Hudson Falls, NY
+    +1 518 800 0048   Hudson Falls, NY
+    +1 518 800 0049   Hudson Falls, NY
+    +1 518 800 0051   Hudson Falls, NY
+    +1 518 800 0052   Hudson Falls, NY
+    +1 518 800 0053   Hudson Falls, NY
+    +1 518 800 0054   Hudson Falls, NY
+    +1 518 800 0057   Hudson Falls, NY
+    +1 518 800 0059   Hudson Falls, NY
+    +1 518 800 0061   Hudson Falls, NY
+    +1 518 800 0063   Hudson Falls, NY
+    +1 518 800 0064   Hudson Falls, NY
+    +1 518 800 0068   Hudson Falls, NY
+    +1 518 800 0071   Hudson Falls, NY
+    +1 518 800 0073   Hudson Falls, NY
+    +1 518 800 0074   Hudson Falls, NY
+    +1 518 800 0075   Hudson Falls, NY
+    +1 518 800 0078   Hudson Falls, NY
+    +1 518 800 0079   Hudson Falls, NY
+    +1 518 800 0082   Hudson Falls, NY
+    +1 518 800 0085   Hudson Falls, NY
+    +1 518 800 0086   Hudson Falls, NY
+    +1 518 800 0089   Hudson Falls, NY
+    +1 518 800 0091   Hudson Falls, NY
+    +1 518 800 0093   Hudson Falls, NY
+    +1 518 800 0094   Hudson Falls, NY
+    +1 518 800 0095   Hudson Falls, NY
+    +1 518 800 0097   Hudson Falls, NY
+    +1 518 800 0098   Hudson Falls, NY
+    +1 518 900 0012   Voorheesville, NY
+    +1 518 900 0014   Voorheesville, NY
+    +1 518 900 0015   Voorheesville, NY
+    +1 518 900 0019   Voorheesville, NY
+    +1 518 900 0021   Voorheesville, NY
+    +1 518 900 0023   Voorheesville, NY
+    +1 518 900 0026   Voorheesville, NY
+    +1 518 900 0027   Voorheesville, NY
+    +1 518 900 0029   Voorheesville, NY
+    +1 518 900 0032   Voorheesville, NY
+    +1 518 900 0036   Voorheesville, NY
+    +1 518 900 0037   Voorheesville, NY
+    +1 518 900 0041   Voorheesville, NY
+    +1 518 900 0042   Voorheesville, NY
+    +1 518 900 0043   Voorheesville, NY
+    +1 518 900 0045   Voorheesville, NY
+    +1 518 900 0046   Voorheesville, NY
+    +1 518 900 0047   Voorheesville, NY
+    +1 518 900 0048   Voorheesville, NY
+    +1 518 900 0049   Voorheesville, NY
+    +1 518 900 0051   Voorheesville, NY
+    +1 518 900 0052   Voorheesville, NY
+    +1 518 900 0053   Voorheesville, NY
+    +1 518 900 0061   Voorheesville, NY
+    +1 518 900 0062   Voorheesville, NY
+    +1 518 900 0064   Voorheesville, NY
+    +1 518 900 0065   Voorheesville, NY
+    +1 518 900 0067   Voorheesville, NY
+    +1 518 900 0072   Voorheesville, NY
+    +1 518 900 0074   Voorheesville, NY
+    +1 518 900 0075   Voorheesville, NY
+    +1 518 900 0076   Voorheesville, NY
+    +1 518 900 0081   Voorheesville, NY
+    +1 518 900 0082   Voorheesville, NY
+    +1 518 900 0083   Voorheesville, NY
+    +1 518 900 0084   Voorheesville, NY
+    +1 518 900 0085   Voorheesville, NY
+    +1 518 900 0086   Voorheesville, NY
+    +1 518 900 0091   Voorheesville, NY
+    +1 518 900 0092   Voorheesville, NY
+    +1 518 900 0094   Voorheesville, NY
+    +1 518 940 0002   Brushton, NY
+    +1 518 940 0007   Brushton, NY
+    +1 518 940 0008   Brushton, NY
+    +1 518 940 0009   Brushton, NY
+    +1 585 380 0001   Silver Springs, NY
+    +1 585 380 0003   Silver Springs, NY
+    +1 585 560 0006   Medina, NY
     +1 585 630 0006   Batavia, NY
     +1 585 630 0009   Batavia, NY
     +1 585 660 0004   Rochester, NY
+    +1 585 800 0022   Richburg, NY
+    +1 585 800 0023   Richburg, NY
+    +1 585 800 0030   Richburg, NY
+    +1 585 900 0020   Delevan, NY
+    +1 585 900 0022   Delevan, NY
+    +1 585 900 0023   Delevan, NY
+    +1 585 900 0036   Delevan, NY
+    +1 585 900 0038   Delevan, NY
+    +1 585 900 0039   Delevan, NY
     +1 585 910 0008   Rochester, NY
-    +1 607 800 0021   Freeville, NY
-    +1 607 800 0032   Freeville, NY
-    +1 607 800 0041   Freeville, NY
-    +1 607 800 0065   Freeville, NY
-    +1 607 800 0082   Freeville, NY
-    +1 607 800 0086   Freeville, NY
-    +1 607 800 0096   Freeville, NY
-    +1 607 800 0098   Freeville, NY
-    +1 607 900 0025   Mcgraw, NY
-    +1 607 900 0065   Mcgraw, NY
-    +1 607 900 0078   Mcgraw, NY
-    +1 607 900 0097   Mcgraw, NY
-    +1 607 940 0002   Binghamton, NY
+    +1 607 300 0013   Hammondsport, NY
+    +1 607 300 0016   Hammondsport, NY
+    +1 607 300 0019   Hammondsport, NY
+    +1 607 300 0026   Hammondsport, NY
+    +1 607 300 0028   Hammondsport, NY
+    +1 607 300 0036   Hammondsport, NY
+    +1 607 300 0040   Hammondsport, NY
+    +1 607 300 0041   Hammondsport, NY
+    +1 607 300 0045   Hammondsport, NY
+    +1 607 300 0047   Hammondsport, NY
+    +1 607 300 0053   Hammondsport, NY
+    +1 607 300 0054   Hammondsport, NY
+    +1 607 300 0057   Hammondsport, NY
+    +1 607 300 0071   Hammondsport, NY
+    +1 607 310 0009   Cortland, NY
+    +1 607 400 0022   Cooperstown, NY
+    +1 607 400 0027   Cooperstown, NY
+    +1 607 400 0032   Cooperstown, NY
+    +1 607 400 0035   Cooperstown, NY
+    +1 607 400 0036   Cooperstown, NY
+    +1 607 400 0038   Cooperstown, NY
+    +1 607 400 0040   Cooperstown, NY
+    +1 607 400 0050   Cooperstown, NY
+    +1 607 400 0059   Cooperstown, NY
+    +1 607 400 0070   Cooperstown, NY
+    +1 607 400 0078   Cooperstown, NY
+    +1 607 400 0089   Cooperstown, NY
+    +1 607 400 0098   Cooperstown, NY
+    +1 607 400 0099   Cooperstown, NY
+    +1 607 600 0011   Canaseraga, NY
+    +1 607 600 0012   Canaseraga, NY
+    +1 607 600 0018   Canaseraga, NY
+    +1 607 800 0014   Freeville, NY
     +1 631 600 0014   East Northport, NY
     +1 631 600 0025   East Northport, NY
-    +1 631 600 0034   East Northport, NY
-    +1 631 600 0094   East Northport, NY
-    +1 631 900 0012   Northport, NY
-    +1 631 900 0014   Northport, NY
-    +1 631 900 0015   Northport, NY
-    +1 631 900 0017   Northport, NY
-    +1 631 900 0023   Northport, NY
-    +1 631 900 0025   Northport, NY
-    +1 631 900 0029   Northport, NY
-    +1 631 900 0034   Northport, NY
-    +1 631 900 0035   Northport, NY
-    +1 631 900 0045   Northport, NY
-    +1 631 900 0054   Northport, NY
-    +1 631 900 0056   Northport, NY
-    +1 631 900 0059   Northport, NY
-    +1 631 900 0078   Northport, NY
-    +1 631 900 0084   Northport, NY
-    +1 631 900 0086   Northport, NY
-    +1 631 900 0096   Northport, NY
-    +1 680 230 0004   Utica, NY
-    +1 680 230 0006   Utica, NY
-    +1 680 780 0005   Central Square, NY
-    +1 680 780 0009   Central Square, NY
-    +1 716 750 0006   Buffalo, NY
-    +1 716 750 0008   Buffalo, NY
-    +1 716 750 0009   Buffalo, NY
+    +1 680 910 0002   Syracuse, NY
+    +1 680 910 0003   Syracuse, NY
+    +1 680 910 0004   Syracuse, NY
+    +1 680 910 0005   Syracuse, NY
+    +1 680 910 0006   Syracuse, NY
+    +1 680 910 0007   Syracuse, NY
+    +1 680 910 0008   Syracuse, NY
+    +1 680 910 0009   Syracuse, NY
+    +1 716 670 0007   Angola, NY
     +1 716 770 0002   Buffalo, NY
     +1 716 910 0006   Buffalo, NY
-    +1 845 930 0002   Walden, NY
-    +1 845 930 0005   Walden, NY
-    +1 845 930 0008   Walden, NY
-    +1 845 960 0002   Poughkeepsie, NY
-    +1 845 960 0003   Poughkeepsie, NY
-    +1 914 600 0021   Jefferson Valley-Yorktown, NY
-    +1 914 600 0071   Jefferson Valley-Yorktown, NY
-    +1 914 600 0079   Jefferson Valley-Yorktown, NY
-    +1 914 600 0081   Jefferson Valley-Yorktown, NY
-    +1 914 600 0085   Jefferson Valley-Yorktown, NY
-    +1 914 600 0089   Jefferson Valley-Yorktown, NY
-    +1 914 600 0092   Jefferson Valley-Yorktown, NY
-    +1 934 400 0014   Port Jefferson, NY
-    +1 934 400 0016   Port Jefferson, NY
-    +1 934 400 0024   Port Jefferson, NY
-    +1 934 400 0029   Port Jefferson, NY
-    +1 934 400 0031   Port Jefferson, NY
-    +1 934 400 0032   Port Jefferson, NY
-    +1 934 400 0034   Port Jefferson, NY
-    +1 934 400 0035   Port Jefferson, NY
-    +1 934 400 0036   Port Jefferson, NY
-    +1 934 400 0037   Port Jefferson, NY
-    +1 934 400 0038   Port Jefferson, NY
-    +1 934 400 0042   Port Jefferson, NY
-    +1 934 400 0043   Port Jefferson, NY
-    +1 934 400 0049   Port Jefferson, NY
-    +1 934 400 0052   Port Jefferson, NY
-    +1 934 400 0054   Port Jefferson, NY
-    +1 934 400 0069   Port Jefferson, NY
-    +1 934 400 0072   Port Jefferson, NY
-    +1 934 400 0073   Port Jefferson, NY
-    +1 934 400 0076   Port Jefferson, NY
-    +1 934 400 0079   Port Jefferson, NY
-    +1 934 400 0084   Port Jefferson, NY
-    +1 934 400 0085   Port Jefferson, NY
-    +1 934 400 0094   Port Jefferson, NY
-    +1 934 400 0098   Port Jefferson, NY
-    +1 934 500 0012   North Bay Shore, NY
-    +1 934 500 0016   North Bay Shore, NY
-    +1 934 500 0018   North Bay Shore, NY
-    +1 934 500 0024   North Bay Shore, NY
-    +1 934 500 0041   North Bay Shore, NY
-    +1 934 500 0046   North Bay Shore, NY
-    +1 934 500 0052   North Bay Shore, NY
-    +1 934 500 0054   North Bay Shore, NY
-    +1 934 500 0056   North Bay Shore, NY
-    +1 934 500 0094   North Bay Shore, NY
-    +1 934 500 0096   North Bay Shore, NY
+    +1 838 910 0002   Rensselaer, NY
+    +1 838 910 0006   Rensselaer, NY
 
   NORTH CAROLINA (33)
     +1 252 740 0005   Rocky Mount, NC
@@ -1447,9 +1611,7 @@ Updated: 2026-09-23
     +1 980 550 0004   Lowell, NC
     +1 980 550 0006   Lowell, NC
 
-  OHIO (41)
-    +1 216 930 0004   Cleveland, OH
-    +1 216 930 0006   Cleveland, OH
+  OHIO (39)
     +1 380 500 0056   Worthington, OH
     +1 440 600 0072   Chagrin Falls, OH
     +1 440 600 0078   Chagrin Falls, OH
@@ -1609,7 +1771,8 @@ Updated: 2026-09-23
 
 --- 222222 — No US results — Canada only ---
 
---- 333333 — No results ---
+--- 333333 — 1 US result ---
+    +1 518 333 3332   Brushton, NY
 
 --- 444444 — No results ---
 
@@ -1626,7 +1789,7 @@ Updated: 2026-09-23
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 43 numbers across 12 patterns
+AAA-BBBB — 59 numbers across 16 patterns
 ====================================================
 
 --- 555-2222 — 3 numbers ---
@@ -1635,6 +1798,21 @@ AAA-BBBB — 43 numbers across 12 patterns
     +1 385 552 2223   Kaysville, UT
     +1 385 552 2225   Kaysville, UT
     +1 385 552 2229   Kaysville, UT
+
+--- 555-3333 — 4 numbers ---
+
+  NEW YORK (4)
+    +1 585 553 3331   Batavia, NY
+    +1 585 553 3332   Batavia, NY
+    +1 585 553 3336   Batavia, NY
+    +1 585 553 3337   Batavia, NY
+
+--- 555-6666 — 3 numbers ---
+
+  NEW YORK (3)
+    +1 315 556 6662   Little Falls, NY
+    +1 315 556 6669   Little Falls, NY
+    +1 585 556 6669   Corfu, NY
 
 --- 555-7777 — 1 numbers ---
 
@@ -1671,10 +1849,19 @@ AAA-BBBB — 43 numbers across 12 patterns
     +1 716 669 9995   Akron, NY
     +1 716 669 9997   Akron, NY
 
---- 777-2222 — 6 numbers ---
+--- 777-0000 — 2 numbers ---
 
-  MARYLAND (6)
+  MARYLAND (2)
+    +1 227 770 0004   Kensington, MD
+    +1 227 770 0009   Kensington, MD
+
+--- 777-2222 — 9 numbers ---
+
+  MARYLAND (9)
     +1 227 772 2224   North Brentwood, MD
+    +1 227 772 2225   North Brentwood, MD
+    +1 227 772 2228   North Brentwood, MD
+    +1 227 772 2229   North Brentwood, MD
     +1 667 772 2221   Hampstead, MD
     +1 667 772 2224   Hampstead, MD
     +1 667 772 2227   Hampstead, MD
@@ -1708,6 +1895,14 @@ AAA-BBBB — 43 numbers across 12 patterns
     +1 218 885 5552   Nashwauk, MN
     +1 218 885 5553   Nashwauk, MN
     +1 218 885 5556   Nashwauk, MN
+
+--- 888-6666 — 4 numbers ---
+
+  NEW YORK (4)
+    +1 518 886 6660   Saratoga Springs, NY
+    +1 518 886 6661   Saratoga Springs, NY
+    +1 518 886 6663   Saratoga Springs, NY
+    +1 518 886 6667   Saratoga Springs, NY
 
 --- 888-9999 — 4 numbers ---
 

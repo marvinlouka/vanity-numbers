@@ -1,9 +1,9 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 20,
+   "count": 21,
    "states": [
     {
      "state": "Illinois",
@@ -77,11 +77,15 @@
     },
     {
      "state": "New York",
-     "count": 1,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 585 822 2220",
        "location": "East Rochester, NY"
+      },
+      {
+       "number": "+1 838 222 2243",
+       "location": "Lake Placid, NY"
       }
      ]
     },
@@ -149,7 +153,7 @@
   },
   {
    "pattern": "33333",
-   "count": 31,
+   "count": 38,
    "states": [
     {
      "state": "Alabama",
@@ -163,7 +167,7 @@
     },
     {
      "state": "California",
-     "count": 9,
+     "count": 8,
      "numbers": [
       {
        "number": "+1 442 333 3341",
@@ -180,10 +184,6 @@
       {
        "number": "+1 657 333 3368",
        "location": "Orange, CA"
-      },
-      {
-       "number": "+1 951 433 3331",
-       "location": "Corona, CA"
       },
       {
        "number": "+1 951 433 3335",
@@ -253,11 +253,27 @@
     },
     {
      "state": "New York",
-     "count": 3,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 315 633 3338",
        "location": "Bridgeport, NY"
+      },
+      {
+       "number": "+1 518 333 3313",
+       "location": "Brushton, NY"
+      },
+      {
+       "number": "+1 518 333 3332",
+       "location": "Brushton, NY"
+      },
+      {
+       "number": "+1 518 333 3355",
+       "location": "Brushton, NY"
+      },
+      {
+       "number": "+1 716 733 3331",
+       "location": "Angola, NY"
       },
       {
        "number": "+1 716 733 3332",
@@ -266,6 +282,22 @@
       {
        "number": "+1 716 733 3335",
        "location": "Angola, NY"
+      },
+      {
+       "number": "+1 838 733 3336",
+       "location": "Round Lake, NY"
+      },
+      {
+       "number": "+1 838 833 3332",
+       "location": "Ravena, NY"
+      },
+      {
+       "number": "+1 838 833 3334",
+       "location": "Ravena, NY"
+      },
+      {
+       "number": "+1 838 833 3335",
+       "location": "Ravena, NY"
       }
      ]
     },
@@ -333,7 +365,7 @@
   },
   {
    "pattern": "44444",
-   "count": 52,
+   "count": 36,
    "states": [
     {
      "state": "Alabama",
@@ -342,76 +374,6 @@
       {
        "number": "+1 938 444 4487",
        "location": "Decatur, AL"
-      }
-     ]
-    },
-    {
-     "state": "California",
-     "count": 16,
-     "numbers": [
-      {
-       "number": "+1 424 444 4858",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4862",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4863",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4864",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4881",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4886",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4892",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4894",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4905",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4968",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4969",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4970",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4974",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4977",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4983",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4984",
-       "location": "Compton, CA"
       }
      ]
     },
@@ -595,7 +557,7 @@
   },
   {
    "pattern": "55555",
-   "count": 17,
+   "count": 31,
    "states": [
     {
      "state": "Florida",
@@ -648,16 +610,6 @@
      ]
     },
     {
-     "state": "Illinois",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 630 755 5551",
-       "location": "Lemont, IL"
-      }
-     ]
-    },
-    {
      "state": "Michigan",
      "count": 1,
      "numbers": [
@@ -678,6 +630,72 @@
       {
        "number": "+1 218 955 5558",
        "location": "Breckenridge, MN"
+      }
+     ]
+    },
+    {
+     "state": "New York",
+     "count": 15,
+     "numbers": [
+      {
+       "number": "+1 680 255 5551",
+       "location": "Norwood, NY"
+      },
+      {
+       "number": "+1 680 255 5553",
+       "location": "Norwood, NY"
+      },
+      {
+       "number": "+1 680 255 5554",
+       "location": "Norwood, NY"
+      },
+      {
+       "number": "+1 680 255 5556",
+       "location": "Norwood, NY"
+      },
+      {
+       "number": "+1 680 255 5557",
+       "location": "Norwood, NY"
+      },
+      {
+       "number": "+1 680 255 5558",
+       "location": "Norwood, NY"
+      },
+      {
+       "number": "+1 680 255 5559",
+       "location": "Norwood, NY"
+      },
+      {
+       "number": "+1 838 255 5550",
+       "location": "Saranac Lake, NY"
+      },
+      {
+       "number": "+1 838 255 5551",
+       "location": "Saranac Lake, NY"
+      },
+      {
+       "number": "+1 838 255 5553",
+       "location": "Saranac Lake, NY"
+      },
+      {
+       "number": "+1 838 255 5554",
+       "location": "Saranac Lake, NY"
+      },
+      {
+       "number": "+1 838 255 5556",
+       "location": "Saranac Lake, NY"
+      },
+      {
+       "number": "+1 838 255 5557",
+       "location": "Saranac Lake, NY"
+      },
+      {
+       "number": "+1 838 255 5558",
+       "location": "Saranac Lake, NY"
+      },
+      {
+       "number": "+1 838 255 5559",
+       "location": "Saranac Lake, NY"
       }
      ]
     },
@@ -705,7 +723,7 @@
   },
   {
    "pattern": "66666",
-   "count": 57,
+   "count": 58,
    "states": [
     {
      "state": "Alabama",
@@ -881,8 +899,12 @@
     },
     {
      "state": "Maryland",
-     "count": 4,
+     "count": 5,
      "numbers": [
+      {
+       "number": "+1 227 666 6618",
+       "location": "Frederick, MD"
+      },
       {
        "number": "+1 443 266 6664",
        "location": "Glenwood, MD"
@@ -1047,7 +1069,7 @@
   },
   {
    "pattern": "77777",
-   "count": 211,
+   "count": 213,
    "states": [
     {
      "state": "California",
@@ -1873,11 +1895,19 @@
     },
     {
      "state": "New York",
-     "count": 1,
+     "count": 3,
      "numbers": [
+      {
+       "number": "+1 518 777 7794",
+       "location": "Sharon Springs, NY"
+      },
       {
        "number": "+1 607 477 7771",
        "location": "Endicott, NY"
+      },
+      {
+       "number": "+1 838 877 7770",
+       "location": "Hudson, NY"
       }
      ]
     },
@@ -1963,7 +1993,7 @@
   },
   {
    "pattern": "88888",
-   "count": 287,
+   "count": 288,
    "states": [
     {
      "state": "Alabama",
@@ -2064,10 +2094,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8018",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8019",
        "location": "San Diego, CA"
       },
@@ -2117,6 +2143,10 @@
       },
       {
        "number": "+1 858 888 8034",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8035",
        "location": "San Diego, CA"
       },
       {
@@ -2894,11 +2924,11 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8265",
+       "number": "+1 218 888 8286",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8269",
+       "number": "+1 218 888 8289",
        "location": "Bemidji, MN"
       },
       {
@@ -3084,6 +3114,16 @@
      ]
     },
     {
+     "state": "New York",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 315 588 8880",
+       "location": "Alexandria Bay, NY"
+      }
+     ]
+    },
+    {
      "state": "Oregon",
      "count": 10,
      "numbers": [
@@ -3153,7 +3193,7 @@
   },
   {
    "pattern": "99999",
-   "count": 23,
+   "count": 25,
    "states": [
     {
      "state": "Alabama",
@@ -3203,12 +3243,8 @@
     },
     {
      "state": "California",
-     "count": 7,
+     "count": 6,
      "numbers": [
-      {
-       "number": "+1 747 999 9907",
-       "location": "Los Angeles, CA"
-      },
       {
        "number": "+1 909 999 9337",
        "location": "Rialto, CA"
@@ -3276,12 +3312,30 @@
        "location": "Woodbridge Township, NJ"
       }
      ]
+    },
+    {
+     "state": "New York",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 518 299 9997",
+       "location": "Fleischmanns, NY"
+      },
+      {
+       "number": "+1 838 999 9901",
+       "location": "Plattsburgh West, NY"
+      },
+      {
+       "number": "+1 838 999 9902",
+       "location": "Plattsburgh West, NY"
+      }
+     ]
     }
    ]
   }
  ],
  "pattern_0000": {
-  "total": 653,
+  "total": 801,
   "state_count": 39,
   "states": [
    {
@@ -3814,7 +3868,7 @@
    },
    {
     "state": "Florida",
-    "count": 36,
+    "count": 35,
     "numbers": [
      {
       "number": "+1 352 570 0008",
@@ -3830,10 +3884,6 @@
      },
      {
       "number": "+1 386 800 0023",
-      "location": "Crescent City, FL"
-     },
-     {
-      "number": "+1 386 800 0087",
       "location": "Crescent City, FL"
      },
      {
@@ -4406,7 +4456,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 12,
+    "count": 11,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -4422,10 +4472,6 @@
      },
      {
       "number": "+1 225 500 0041",
-      "location": "Albany, LA"
-     },
-     {
-      "number": "+1 225 500 0054",
       "location": "Albany, LA"
      },
      {
@@ -4460,8 +4506,44 @@
    },
    {
     "state": "Maryland",
-    "count": 1,
+    "count": 10,
     "numbers": [
+     {
+      "number": "+1 227 260 0002",
+      "location": "Chesapeake Beach, MD"
+     },
+     {
+      "number": "+1 227 260 0003",
+      "location": "Chesapeake Beach, MD"
+     },
+     {
+      "number": "+1 227 260 0004",
+      "location": "Chesapeake Beach, MD"
+     },
+     {
+      "number": "+1 227 260 0005",
+      "location": "Chesapeake Beach, MD"
+     },
+     {
+      "number": "+1 227 260 0007",
+      "location": "Chesapeake Beach, MD"
+     },
+     {
+      "number": "+1 227 260 0008",
+      "location": "Chesapeake Beach, MD"
+     },
+     {
+      "number": "+1 227 260 0009",
+      "location": "Chesapeake Beach, MD"
+     },
+     {
+      "number": "+1 227 770 0004",
+      "location": "Kensington, MD"
+     },
+     {
+      "number": "+1 227 770 0009",
+      "location": "Kensington, MD"
+     },
      {
       "number": "+1 443 620 0004",
       "location": "Baltimore, MD"
@@ -4990,7 +5072,7 @@
    },
    {
     "state": "New York",
-    "count": 102,
+    "count": 245,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -4999,6 +5081,42 @@
      {
       "number": "+1 315 710 0009",
       "location": "Kirkville, NY"
+     },
+     {
+      "number": "+1 315 740 0005",
+      "location": "Norwood, NY"
+     },
+     {
+      "number": "+1 315 740 0006",
+      "location": "Norwood, NY"
+     },
+     {
+      "number": "+1 315 800 0014",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 315 800 0016",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 315 810 0002",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 315 810 0004",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 315 810 0007",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 315 810 0008",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 315 810 0009",
+      "location": "Mcgraw, NY"
      },
      {
       "number": "+1 329 220 0008",
@@ -5013,12 +5131,684 @@
       "location": "Woodbury, NY"
      },
      {
+      "number": "+1 363 200 0078",
+      "location": "Farmingdale, NY"
+     },
+     {
+      "number": "+1 363 200 0081",
+      "location": "Farmingdale, NY"
+     },
+     {
+      "number": "+1 363 200 0083",
+      "location": "Farmingdale, NY"
+     },
+     {
+      "number": "+1 363 200 0084",
+      "location": "Farmingdale, NY"
+     },
+     {
+      "number": "+1 363 200 0091",
+      "location": "Farmingdale, NY"
+     },
+     {
+      "number": "+1 363 200 0094",
+      "location": "Farmingdale, NY"
+     },
+     {
+      "number": "+1 363 200 0096",
+      "location": "Farmingdale, NY"
+     },
+     {
+      "number": "+1 363 200 0097",
+      "location": "Farmingdale, NY"
+     },
+     {
       "number": "+1 516 930 0004",
       "location": "Manhasset, NY"
      },
      {
       "number": "+1 516 930 0006",
       "location": "Manhasset, NY"
+     },
+     {
+      "number": "+1 518 460 0003",
+      "location": "Hagaman, NY"
+     },
+     {
+      "number": "+1 518 460 0004",
+      "location": "Hagaman, NY"
+     },
+     {
+      "number": "+1 518 460 0005",
+      "location": "Hagaman, NY"
+     },
+     {
+      "number": "+1 518 460 0007",
+      "location": "Hagaman, NY"
+     },
+     {
+      "number": "+1 518 460 0008",
+      "location": "Hagaman, NY"
+     },
+     {
+      "number": "+1 518 500 0035",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0036",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0037",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0038",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0039",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0041",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0042",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0043",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0045",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0046",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0047",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0048",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0049",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0051",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0052",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0053",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0054",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0056",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0057",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0058",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0059",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0061",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0062",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0063",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0064",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0065",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0067",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0068",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0069",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0071",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0072",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0073",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0074",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0076",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0078",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0079",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0081",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0082",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0083",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0084",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0085",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0086",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0087",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0089",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0091",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0092",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0093",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0094",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0095",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0096",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0097",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 500 0098",
+      "location": "Delanson, NY"
+     },
+     {
+      "number": "+1 518 600 0012",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0013",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0014",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0015",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0017",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0018",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0021",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0024",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0025",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0026",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 600 0027",
+      "location": "Plattsburgh West, NY"
+     },
+     {
+      "number": "+1 518 650 0009",
+      "location": "Rensselaer, NY"
+     },
+     {
+      "number": "+1 518 760 0002",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 760 0003",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 760 0004",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 760 0005",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 760 0006",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 760 0007",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 760 0008",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 760 0009",
+      "location": "Glens Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0024",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0027",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0036",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0039",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0041",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0043",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0046",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0048",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0049",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0051",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0052",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0053",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0054",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0057",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0059",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0061",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0063",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0064",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0068",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0071",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0073",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0074",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0075",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0078",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0079",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0082",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0085",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0086",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0089",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0091",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0093",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0094",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0095",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0097",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 800 0098",
+      "location": "Hudson Falls, NY"
+     },
+     {
+      "number": "+1 518 900 0012",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0014",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0015",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0019",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0021",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0023",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0026",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0027",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0029",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0032",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0036",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0037",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0041",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0042",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0043",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0045",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0046",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0047",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0048",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0049",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0051",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0052",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0053",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0061",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0062",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0064",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0065",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0067",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0072",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0074",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0075",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0076",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0081",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0082",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0083",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0084",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0085",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0086",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0091",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0092",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 900 0094",
+      "location": "Voorheesville, NY"
+     },
+     {
+      "number": "+1 518 940 0002",
+      "location": "Brushton, NY"
+     },
+     {
+      "number": "+1 518 940 0007",
+      "location": "Brushton, NY"
+     },
+     {
+      "number": "+1 518 940 0008",
+      "location": "Brushton, NY"
+     },
+     {
+      "number": "+1 518 940 0009",
+      "location": "Brushton, NY"
+     },
+     {
+      "number": "+1 585 380 0001",
+      "location": "Silver Springs, NY"
+     },
+     {
+      "number": "+1 585 380 0003",
+      "location": "Silver Springs, NY"
+     },
+     {
+      "number": "+1 585 560 0006",
+      "location": "Medina, NY"
      },
      {
       "number": "+1 585 630 0006",
@@ -5033,60 +5823,176 @@
       "location": "Rochester, NY"
      },
      {
+      "number": "+1 585 800 0022",
+      "location": "Richburg, NY"
+     },
+     {
+      "number": "+1 585 800 0023",
+      "location": "Richburg, NY"
+     },
+     {
+      "number": "+1 585 800 0030",
+      "location": "Richburg, NY"
+     },
+     {
+      "number": "+1 585 900 0020",
+      "location": "Delevan, NY"
+     },
+     {
+      "number": "+1 585 900 0022",
+      "location": "Delevan, NY"
+     },
+     {
+      "number": "+1 585 900 0023",
+      "location": "Delevan, NY"
+     },
+     {
+      "number": "+1 585 900 0036",
+      "location": "Delevan, NY"
+     },
+     {
+      "number": "+1 585 900 0038",
+      "location": "Delevan, NY"
+     },
+     {
+      "number": "+1 585 900 0039",
+      "location": "Delevan, NY"
+     },
+     {
       "number": "+1 585 910 0008",
       "location": "Rochester, NY"
      },
      {
-      "number": "+1 607 800 0021",
+      "number": "+1 607 300 0013",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0016",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0019",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0026",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0028",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0036",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0040",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0041",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0045",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0047",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0053",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0054",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0057",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 300 0071",
+      "location": "Hammondsport, NY"
+     },
+     {
+      "number": "+1 607 310 0009",
+      "location": "Cortland, NY"
+     },
+     {
+      "number": "+1 607 400 0022",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0027",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0032",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0035",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0036",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0038",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0040",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0050",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0059",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0070",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0078",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0089",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0098",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 400 0099",
+      "location": "Cooperstown, NY"
+     },
+     {
+      "number": "+1 607 600 0011",
+      "location": "Canaseraga, NY"
+     },
+     {
+      "number": "+1 607 600 0012",
+      "location": "Canaseraga, NY"
+     },
+     {
+      "number": "+1 607 600 0018",
+      "location": "Canaseraga, NY"
+     },
+     {
+      "number": "+1 607 800 0014",
       "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0032",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0041",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0065",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0082",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0086",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0096",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 800 0098",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 607 900 0025",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 900 0065",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 900 0078",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 900 0097",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 607 940 0002",
-      "location": "Binghamton, NY"
      },
      {
       "number": "+1 631 600 0014",
@@ -5097,108 +6003,40 @@
       "location": "East Northport, NY"
      },
      {
-      "number": "+1 631 600 0034",
-      "location": "East Northport, NY"
+      "number": "+1 680 910 0002",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 600 0094",
-      "location": "East Northport, NY"
+      "number": "+1 680 910 0003",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 900 0012",
-      "location": "Northport, NY"
+      "number": "+1 680 910 0004",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 900 0014",
-      "location": "Northport, NY"
+      "number": "+1 680 910 0005",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 900 0015",
-      "location": "Northport, NY"
+      "number": "+1 680 910 0006",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 900 0017",
-      "location": "Northport, NY"
+      "number": "+1 680 910 0007",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 900 0023",
-      "location": "Northport, NY"
+      "number": "+1 680 910 0008",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 900 0025",
-      "location": "Northport, NY"
+      "number": "+1 680 910 0009",
+      "location": "Syracuse, NY"
      },
      {
-      "number": "+1 631 900 0029",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0034",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0035",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0045",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0054",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0056",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0059",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0078",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0084",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0086",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 631 900 0096",
-      "location": "Northport, NY"
-     },
-     {
-      "number": "+1 680 230 0004",
-      "location": "Utica, NY"
-     },
-     {
-      "number": "+1 680 230 0006",
-      "location": "Utica, NY"
-     },
-     {
-      "number": "+1 680 780 0005",
-      "location": "Central Square, NY"
-     },
-     {
-      "number": "+1 680 780 0009",
-      "location": "Central Square, NY"
-     },
-     {
-      "number": "+1 716 750 0006",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 750 0008",
-      "location": "Buffalo, NY"
-     },
-     {
-      "number": "+1 716 750 0009",
-      "location": "Buffalo, NY"
+      "number": "+1 716 670 0007",
+      "location": "Angola, NY"
      },
      {
       "number": "+1 716 770 0002",
@@ -5209,196 +6047,12 @@
       "location": "Buffalo, NY"
      },
      {
-      "number": "+1 845 930 0002",
-      "location": "Walden, NY"
+      "number": "+1 838 910 0002",
+      "location": "Rensselaer, NY"
      },
      {
-      "number": "+1 845 930 0005",
-      "location": "Walden, NY"
-     },
-     {
-      "number": "+1 845 930 0008",
-      "location": "Walden, NY"
-     },
-     {
-      "number": "+1 845 960 0002",
-      "location": "Poughkeepsie, NY"
-     },
-     {
-      "number": "+1 845 960 0003",
-      "location": "Poughkeepsie, NY"
-     },
-     {
-      "number": "+1 914 600 0021",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0071",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0079",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0081",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0085",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0089",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0092",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 934 400 0014",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0016",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0024",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0029",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0031",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0032",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0034",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0035",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0036",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0037",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0038",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0042",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0043",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0049",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0052",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0054",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0069",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0072",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0073",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0076",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0079",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0084",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0085",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0094",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0098",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 500 0012",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0016",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0018",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0024",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0041",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0046",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0052",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0054",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0056",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0094",
-      "location": "North Bay Shore, NY"
-     },
-     {
-      "number": "+1 934 500 0096",
-      "location": "North Bay Shore, NY"
+      "number": "+1 838 910 0006",
+      "location": "Rensselaer, NY"
      }
     ]
    },
@@ -5542,16 +6196,8 @@
    },
    {
     "state": "Ohio",
-    "count": 41,
+    "count": 39,
     "numbers": [
-     {
-      "number": "+1 216 930 0004",
-      "location": "Cleveland, OH"
-     },
-     {
-      "number": "+1 216 930 0006",
-      "location": "Cleveland, OH"
-     },
      {
       "number": "+1 380 500 0056",
       "location": "Worthington, OH"
@@ -6143,7 +6789,19 @@
   },
   {
    "pattern": "333333",
-   "status": "No results"
+   "status": "1 US result",
+   "states": [
+    {
+     "state": "New York",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 518 333 3332",
+       "location": "Brushton, NY"
+      }
+     ]
+    }
+   ]
   },
   {
    "pattern": "444444",
@@ -6194,6 +6852,58 @@
       {
        "number": "+1 385 552 2229",
        "location": "Kaysville, UT"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "5553333",
+   "count": 4,
+   "states": [
+    {
+     "state": "New York",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 585 553 3331",
+       "location": "Batavia, NY"
+      },
+      {
+       "number": "+1 585 553 3332",
+       "location": "Batavia, NY"
+      },
+      {
+       "number": "+1 585 553 3336",
+       "location": "Batavia, NY"
+      },
+      {
+       "number": "+1 585 553 3337",
+       "location": "Batavia, NY"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "5556666",
+   "count": 3,
+   "states": [
+    {
+     "state": "New York",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 315 556 6662",
+       "location": "Little Falls, NY"
+      },
+      {
+       "number": "+1 315 556 6669",
+       "location": "Little Falls, NY"
+      },
+      {
+       "number": "+1 585 556 6669",
+       "location": "Corfu, NY"
       }
      ]
     }
@@ -6320,15 +7030,47 @@
    ]
   },
   {
-   "pattern": "7772222",
-   "count": 6,
+   "pattern": "7770000",
+   "count": 2,
    "states": [
     {
      "state": "Maryland",
-     "count": 6,
+     "count": 2,
+     "numbers": [
+      {
+       "number": "+1 227 770 0004",
+       "location": "Kensington, MD"
+      },
+      {
+       "number": "+1 227 770 0009",
+       "location": "Kensington, MD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "7772222",
+   "count": 9,
+   "states": [
+    {
+     "state": "Maryland",
+     "count": 9,
      "numbers": [
       {
        "number": "+1 227 772 2224",
+       "location": "North Brentwood, MD"
+      },
+      {
+       "number": "+1 227 772 2225",
+       "location": "North Brentwood, MD"
+      },
+      {
+       "number": "+1 227 772 2228",
+       "location": "North Brentwood, MD"
+      },
+      {
+       "number": "+1 227 772 2229",
        "location": "North Brentwood, MD"
       },
       {
@@ -6454,6 +7196,34 @@
    ]
   },
   {
+   "pattern": "8886666",
+   "count": 4,
+   "states": [
+    {
+     "state": "New York",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 518 886 6660",
+       "location": "Saratoga Springs, NY"
+      },
+      {
+       "number": "+1 518 886 6661",
+       "location": "Saratoga Springs, NY"
+      },
+      {
+       "number": "+1 518 886 6663",
+       "location": "Saratoga Springs, NY"
+      },
+      {
+       "number": "+1 518 886 6667",
+       "location": "Saratoga Springs, NY"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "pattern": "8889999",
    "count": 4,
    "states": [
@@ -6551,12 +7321,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 698,
+  "total_5_in_a_row": 710,
   "patterns_with_results": 8,
-  "total_0000": 653,
+  "total_0000": 801,
   "state_count_0000": 39,
-  "total_aaa_bbbb": 43,
+  "total_aaa_bbbb": 59,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 12
+  "aaa_bbbb_patterns_with_results": 16
  }
 }
