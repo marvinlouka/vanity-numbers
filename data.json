@@ -1,5 +1,5 @@
 {
- "date": "2026-09-25",
+ "date": "2026-09-26",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -557,7 +557,7 @@
   },
   {
    "pattern": "55555",
-   "count": 33,
+   "count": 34,
    "states": [
     {
      "state": "Florida",
@@ -619,10 +619,14 @@
     },
     {
      "state": "Michigan",
-     "count": 1,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 231 655 5552",
+       "location": "Manistee, MI"
+      },
+      {
+       "number": "+1 231 655 5556",
        "location": "Manistee, MI"
       }
      ]
@@ -731,7 +735,7 @@
   },
   {
    "pattern": "66666",
-   "count": 69,
+   "count": 58,
    "states": [
     {
      "state": "Alabama",
@@ -997,52 +1001,8 @@
     },
     {
      "state": "New York",
-     "count": 13,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 516 666 6065",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6082",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6165",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6385",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6435",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6451",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6475",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6479",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6536",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6931",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6942",
-       "location": "Floral Park, NY"
-      },
       {
        "number": "+1 716 466 6668",
        "location": "Holland, NY"
@@ -1128,7 +1088,15 @@
      "count": 180,
      "numbers": [
       {
+       "number": "+1 657 777 7012",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7013",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7016",
        "location": "Buena Park, CA"
       },
       {
@@ -1140,7 +1108,15 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7021",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7022",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7023",
        "location": "Buena Park, CA"
       },
       {
@@ -1160,7 +1136,15 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7036",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7038",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7042",
        "location": "Buena Park, CA"
       },
       {
@@ -1172,39 +1156,15 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7045",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7046",
        "location": "Buena Park, CA"
       },
       {
        "number": "+1 657 777 7047",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7051",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7053",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7054",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7058",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7063",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7064",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7068",
        "location": "Buena Park, CA"
       },
       {
@@ -1217,6 +1177,18 @@
       },
       {
        "number": "+1 657 777 7108",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7109",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7113",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7114",
        "location": "Buena Park, CA"
       },
       {
@@ -1237,6 +1209,10 @@
       },
       {
        "number": "+1 657 777 7121",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7122",
        "location": "Buena Park, CA"
       },
       {
@@ -1272,22 +1248,6 @@
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7140",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7144",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7145",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7146",
-       "location": "Buena Park, CA"
-      },
-      {
        "number": "+1 657 777 7201",
        "location": "Buena Park, CA"
       },
@@ -1309,6 +1269,10 @@
       },
       {
        "number": "+1 657 777 7207",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7213",
        "location": "Buena Park, CA"
       },
       {
@@ -1344,6 +1308,14 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7231",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7232",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7235",
        "location": "Buena Park, CA"
       },
@@ -1356,18 +1328,6 @@
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7241",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7242",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7244",
-       "location": "Buena Park, CA"
-      },
-      {
        "number": "+1 657 777 7302",
        "location": "Buena Park, CA"
       },
@@ -1376,7 +1336,19 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7305",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7306",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7307",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7313",
        "location": "Buena Park, CA"
       },
       {
@@ -1385,6 +1357,10 @@
       },
       {
        "number": "+1 657 777 7315",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7316",
        "location": "Buena Park, CA"
       },
       {
@@ -1400,6 +1376,14 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7322",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7325",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7327",
        "location": "Buena Park, CA"
       },
@@ -1412,43 +1396,23 @@
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7346",
+       "number": "+1 657 777 7340",
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7347",
+       "number": "+1 657 777 7341",
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7348",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7349",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7353",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7358",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7359",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7360",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7361",
+       "number": "+1 657 777 7344",
        "location": "Buena Park, CA"
       },
       {
        "number": "+1 657 777 7401",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7402",
        "location": "Buena Park, CA"
       },
       {
@@ -1457,6 +1421,10 @@
       },
       {
        "number": "+1 657 777 7404",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7405",
        "location": "Buena Park, CA"
       },
       {
@@ -1504,6 +1472,10 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7423",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7426",
        "location": "Buena Park, CA"
       },
@@ -1513,18 +1485,6 @@
       },
       {
        "number": "+1 657 777 7431",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7434",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7436",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7441",
        "location": "Buena Park, CA"
       },
       {
@@ -1556,6 +1516,10 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7508",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7509",
        "location": "Buena Park, CA"
       },
@@ -1580,6 +1544,10 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7519",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7520",
        "location": "Buena Park, CA"
       },
@@ -1600,14 +1568,6 @@
        "location": "Buena Park, CA"
       },
       {
-       "number": "+1 657 777 7528",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7530",
-       "location": "Buena Park, CA"
-      },
-      {
        "number": "+1 657 777 7601",
        "location": "Buena Park, CA"
       },
@@ -1620,7 +1580,19 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7604",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7605",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7606",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7608",
        "location": "Buena Park, CA"
       },
       {
@@ -1637,6 +1609,10 @@
       },
       {
        "number": "+1 657 777 7615",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7617",
        "location": "Buena Park, CA"
       },
       {
@@ -1664,27 +1640,11 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7628",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7629",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7630",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7631",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7634",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7635",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7636",
        "location": "Buena Park, CA"
       },
       {
@@ -1808,7 +1768,15 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7916",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7917",
+       "location": "Buena Park, CA"
+      },
+      {
+       "number": "+1 657 777 7918",
        "location": "Buena Park, CA"
       },
       {
@@ -1832,19 +1800,11 @@
        "location": "Buena Park, CA"
       },
       {
+       "number": "+1 657 777 7928",
+       "location": "Buena Park, CA"
+      },
+      {
        "number": "+1 657 777 7930",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7931",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7933",
-       "location": "Buena Park, CA"
-      },
-      {
-       "number": "+1 657 777 7934",
        "location": "Buena Park, CA"
       }
      ]
@@ -2087,7 +2047,7 @@
   },
   {
    "pattern": "88888",
-   "count": 289,
+   "count": 290,
    "states": [
     {
      "state": "Alabama",
@@ -2161,7 +2121,7 @@
     },
     {
      "state": "California",
-     "count": 161,
+     "count": 162,
      "numbers": [
       {
        "number": "+1 858 888 8012",
@@ -2597,6 +2557,10 @@
       },
       {
        "number": "+1 858 888 8544",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8548",
        "location": "San Diego, CA"
       },
       {
@@ -3291,11 +3255,11 @@
   },
   {
    "pattern": "99999",
-   "count": 80,
+   "count": 76,
    "states": [
     {
      "state": "Alabama",
-     "count": 10,
+     "count": 8,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -3316,14 +3280,6 @@
       {
        "number": "+1 251 999 9982",
        "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 659 599 9997",
-       "location": "Birmingham, AL"
-      },
-      {
-       "number": "+1 659 599 9998",
-       "location": "Birmingham, AL"
       },
       {
        "number": "+1 659 799 9991",
@@ -3401,7 +3357,7 @@
     },
     {
      "state": "Florida",
-     "count": 51,
+     "count": 49,
      "numbers": [
       {
        "number": "+1 239 999 9002",
@@ -3516,10 +3472,6 @@
        "location": "Fort Myers, FL"
       },
       {
-       "number": "+1 239 999 9371",
-       "location": "Fort Myers, FL"
-      },
-      {
        "number": "+1 239 999 9409",
        "location": "Fort Myers, FL"
       },
@@ -3602,10 +3554,6 @@
       {
        "number": "+1 239 999 9894",
        "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9916",
-       "location": "Fort Myers, FL"
       }
      ]
     },
@@ -3659,13 +3607,17 @@
   }
  ],
  "pattern_0000": {
-  "total": 855,
+  "total": 845,
   "state_count": 39,
   "states": [
    {
     "state": "Alabama",
-    "count": 15,
+    "count": 18,
     "numbers": [
+     {
+      "number": "+1 251 270 0006",
+      "location": "Fairhope, AL"
+     },
      {
       "number": "+1 251 800 0016",
       "location": "Mobile, AL"
@@ -3673,6 +3625,14 @@
      {
       "number": "+1 251 800 0025",
       "location": "Mobile, AL"
+     },
+     {
+      "number": "+1 256 400 0042",
+      "location": "Albertville, AL"
+     },
+     {
+      "number": "+1 256 400 0047",
+      "location": "Albertville, AL"
      },
      {
       "number": "+1 334 910 0002",
@@ -3760,7 +3720,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 17,
+    "count": 22,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -3791,6 +3751,18 @@
       "location": "Van Buren, AR"
      },
      {
+      "number": "+1 501 380 0004",
+      "location": "Searcy, AR"
+     },
+     {
+      "number": "+1 501 400 0059",
+      "location": "Little Rock, AR"
+     },
+     {
+      "number": "+1 501 400 0061",
+      "location": "Little Rock, AR"
+     },
+     {
       "number": "+1 870 900 0012",
       "location": "Viola, AR"
      },
@@ -3815,6 +3787,10 @@
       "location": "Viola, AR"
      },
      {
+      "number": "+1 870 900 0029",
+      "location": "Viola, AR"
+     },
+     {
       "number": "+1 870 900 0072",
       "location": "Viola, AR"
      },
@@ -3827,6 +3803,10 @@
       "location": "Viola, AR"
      },
      {
+      "number": "+1 870 900 0081",
+      "location": "Viola, AR"
+     },
+     {
       "number": "+1 870 900 0092",
       "location": "Viola, AR"
      }
@@ -3834,8 +3814,32 @@
    },
    {
     "state": "California",
-    "count": 51,
+    "count": 62,
     "numbers": [
+     {
+      "number": "+1 209 650 0002",
+      "location": "Tracy, CA"
+     },
+     {
+      "number": "+1 530 280 0003",
+      "location": "Quincy, CA"
+     },
+     {
+      "number": "+1 530 280 0004",
+      "location": "Quincy, CA"
+     },
+     {
+      "number": "+1 530 280 0008",
+      "location": "Quincy, CA"
+     },
+     {
+      "number": "+1 530 730 0005",
+      "location": "Bangor, CA"
+     },
+     {
+      "number": "+1 530 730 0009",
+      "location": "Bangor, CA"
+     },
      {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
@@ -3853,6 +3857,10 @@
       "location": "Orange, CA"
      },
      {
+      "number": "+1 661 320 0008",
+      "location": "Lebec, CA"
+     },
+     {
       "number": "+1 661 450 0002",
       "location": "Santa Clarita, CA"
      },
@@ -3861,11 +3869,23 @@
       "location": "Santa Clarita, CA"
      },
      {
+      "number": "+1 661 450 0004",
+      "location": "Santa Clarita, CA"
+     },
+     {
+      "number": "+1 661 450 0006",
+      "location": "Santa Clarita, CA"
+     },
+     {
       "number": "+1 661 450 0007",
       "location": "Santa Clarita, CA"
      },
      {
       "number": "+1 661 770 0002",
+      "location": "Taft, CA"
+     },
+     {
+      "number": "+1 661 770 0003",
       "location": "Taft, CA"
      },
      {
@@ -3993,12 +4013,16 @@
       "location": "Gilroy, CA"
      },
      {
-      "number": "+1 707 410 0008",
-      "location": "Fairfield, CA"
+      "number": "+1 707 390 0008",
+      "location": "Scotia, CA"
      },
      {
       "number": "+1 707 520 0004",
       "location": "Monte Rio, CA"
+     },
+     {
+      "number": "+1 707 690 0002",
+      "location": "Napa, CA"
      },
      {
       "number": "+1 707 690 0003",
@@ -4037,7 +4061,7 @@
       "location": "Fontana, CA"
      },
      {
-      "number": "+1 916 800 0032",
+      "number": "+1 916 970 0003",
       "location": "Sacramento, CA"
      }
     ]
@@ -4216,12 +4240,8 @@
    },
    {
     "state": "Florida",
-    "count": 77,
+    "count": 47,
     "numbers": [
-     {
-      "number": "+1 239 480 0006",
-      "location": "Labelle, FL"
-     },
      {
       "number": "+1 239 900 0058",
       "location": "Fort Myers, FL"
@@ -4235,22 +4255,6 @@
       "location": "Fort Myers, FL"
      },
      {
-      "number": "+1 352 320 0001",
-      "location": "Belleview, FL"
-     },
-     {
-      "number": "+1 352 320 0002",
-      "location": "Belleview, FL"
-     },
-     {
-      "number": "+1 352 320 0005",
-      "location": "Belleview, FL"
-     },
-     {
-      "number": "+1 352 320 0008",
-      "location": "Belleview, FL"
-     },
-     {
       "number": "+1 352 570 0008",
       "location": "Yankeetown, FL"
      },
@@ -4259,36 +4263,8 @@
       "location": "Ocala, FL"
      },
      {
-      "number": "+1 352 900 0018",
-      "location": "Gainesville, FL"
-     },
-     {
       "number": "+1 352 900 0068",
       "location": "Gainesville, FL"
-     },
-     {
-      "number": "+1 386 610 0001",
-      "location": "Holly Hill, FL"
-     },
-     {
-      "number": "+1 386 610 0002",
-      "location": "Holly Hill, FL"
-     },
-     {
-      "number": "+1 386 610 0003",
-      "location": "Holly Hill, FL"
-     },
-     {
-      "number": "+1 386 610 0004",
-      "location": "Holly Hill, FL"
-     },
-     {
-      "number": "+1 386 610 0005",
-      "location": "Holly Hill, FL"
-     },
-     {
-      "number": "+1 386 610 0007",
-      "location": "Holly Hill, FL"
      },
      {
       "number": "+1 386 800 0023",
@@ -4315,46 +4291,6 @@
       "location": "Greenville, FL"
      },
      {
-      "number": "+1 448 850 0007",
-      "location": "Greenville, FL"
-     },
-     {
-      "number": "+1 448 900 0048",
-      "location": "Pea Ridge, FL"
-     },
-     {
-      "number": "+1 448 900 0049",
-      "location": "Pea Ridge, FL"
-     },
-     {
-      "number": "+1 448 900 0051",
-      "location": "Pea Ridge, FL"
-     },
-     {
-      "number": "+1 656 220 0001",
-      "location": "East Lake-Orient Park, FL"
-     },
-     {
-      "number": "+1 656 220 0003",
-      "location": "East Lake-Orient Park, FL"
-     },
-     {
-      "number": "+1 656 220 0004",
-      "location": "East Lake-Orient Park, FL"
-     },
-     {
-      "number": "+1 656 220 0006",
-      "location": "East Lake-Orient Park, FL"
-     },
-     {
-      "number": "+1 656 220 0007",
-      "location": "East Lake-Orient Park, FL"
-     },
-     {
-      "number": "+1 656 270 0002",
-      "location": "Plant City, FL"
-     },
-     {
       "number": "+1 656 650 0007",
       "location": "Plant City, FL"
      },
@@ -4367,28 +4303,8 @@
       "location": "Vero Beach, FL"
      },
      {
-      "number": "+1 813 750 0003",
-      "location": "Plant City, FL"
-     },
-     {
       "number": "+1 850 690 0006",
       "location": "Perry, FL"
-     },
-     {
-      "number": "+1 850 920 0002",
-      "location": "Defuniak Springs, FL"
-     },
-     {
-      "number": "+1 850 920 0003",
-      "location": "Defuniak Springs, FL"
-     },
-     {
-      "number": "+1 850 920 0004",
-      "location": "Defuniak Springs, FL"
-     },
-     {
-      "number": "+1 850 930 0001",
-      "location": "Navarre Beach, FL"
      },
      {
       "number": "+1 850 930 0005",
@@ -4407,8 +4323,8 @@
       "location": "Ponce De Leon, FL"
      },
      {
-      "number": "+1 863 400 0085",
-      "location": "Lakeland, FL"
+      "number": "+1 904 660 0005",
+      "location": "Jacksonville, FL"
      },
      {
       "number": "+1 904 830 0004",
@@ -4417,14 +4333,6 @@
      {
       "number": "+1 904 830 0008",
       "location": "Jacksonville, FL"
-     },
-     {
-      "number": "+1 904 890 0005",
-      "location": "Fernandina Beach, FL"
-     },
-     {
-      "number": "+1 941 370 0001",
-      "location": "Punta Gorda, FL"
      },
      {
       "number": "+1 941 900 0018",
@@ -4521,10 +4429,6 @@
      {
       "number": "+1 941 900 0097",
       "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 954 930 0002",
-      "location": "Pompano Beach, FL"
      }
     ]
    },
@@ -4614,8 +4518,12 @@
    },
    {
     "state": "Illinois",
-    "count": 3,
+    "count": 5,
     "numbers": [
+     {
+      "number": "+1 224 970 0002",
+      "location": "Bartlett, IL"
+     },
      {
       "number": "+1 224 970 0003",
       "location": "Bartlett, IL"
@@ -4623,6 +4531,10 @@
      {
       "number": "+1 224 990 0008",
       "location": "Plato Center, IL"
+     },
+     {
+      "number": "+1 708 580 0009",
+      "location": "Northbrook, IL"
      },
      {
       "number": "+1 872 290 0004",
@@ -5350,16 +5262,8 @@
    },
    {
     "state": "Missouri",
-    "count": 9,
+    "count": 7,
     "numbers": [
-     {
-      "number": "+1 573 320 0002",
-      "location": "Van Buren, MO"
-     },
-     {
-      "number": "+1 573 320 0008",
-      "location": "Van Buren, MO"
-     },
      {
       "number": "+1 573 500 0013",
       "location": "Campbell, MO"
@@ -5616,7 +5520,7 @@
    },
    {
     "state": "New York",
-    "count": 244,
+    "count": 245,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -5991,6 +5895,10 @@
       "location": "Rensselaer, NY"
      },
      {
+      "number": "+1 518 660 0009",
+      "location": "Hudson, NY"
+     },
+     {
       "number": "+1 518 760 0002",
       "location": "Glens Falls, NY"
      },
@@ -6323,10 +6231,6 @@
       "location": "Voorheesville, NY"
      },
      {
-      "number": "+1 518 900 0094",
-      "location": "Voorheesville, NY"
-     },
-     {
       "number": "+1 518 940 0002",
       "location": "Brushton, NY"
      },
@@ -6540,6 +6444,10 @@
      },
      {
       "number": "+1 631 600 0014",
+      "location": "East Northport, NY"
+     },
+     {
+      "number": "+1 631 600 0025",
       "location": "East Northport, NY"
      },
      {
@@ -7365,19 +7273,7 @@
   },
   {
    "pattern": "999999",
-   "status": "1 US result",
-   "states": [
-    {
-     "state": "Florida",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 239 999 9916",
-       "location": "Fort Myers, FL"
-      }
-     ]
-    }
-   ]
+   "status": "No US results — Canada only"
   },
   {
    "pattern": "000000",
@@ -7917,9 +7813,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 788,
+  "total_5_in_a_row": 775,
   "patterns_with_results": 8,
-  "total_0000": 855,
+  "total_0000": 845,
   "state_count_0000": 39,
   "total_aaa_bbbb": 64,
   "aaa_bbbb_patterns_searched": 90,

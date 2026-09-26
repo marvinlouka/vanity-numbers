@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-25
-788 five-in-a-row · 855 four-zeros across 39 states · 64 AAA-BBBB across 18 of 90 combinations
+Updated: 2026-09-26
+775 five-in-a-row · 845 four-zeros across 39 states · 64 AAA-BBBB across 18 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -159,7 +159,7 @@ Updated: 2026-09-25
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 33 numbers ---
+--- 55555 — 34 numbers ---
 
   FLORIDA (13)
     +1 352 755 5556   Mount Dora, FL
@@ -176,8 +176,9 @@ Updated: 2026-09-25
     +1 863 855 5553   Lake Wales, FL
     +1 863 855 5554   Lake Wales, FL
 
-  MICHIGAN (1)
+  MICHIGAN (2)
     +1 231 655 5552   Manistee, MI
+    +1 231 655 5556   Manistee, MI
 
   MINNESOTA (2)
     +1 218 955 5556   Breckenridge, MN
@@ -206,7 +207,7 @@ Updated: 2026-09-25
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 69 numbers ---
+--- 66666 — 58 numbers ---
 
   ALABAMA (3)
     +1 334 766 6661   Daleville, AL
@@ -280,18 +281,7 @@ Updated: 2026-09-25
     +1 908 666 6657   Cranford, NJ
     +1 908 666 6684   Cranford, NJ
 
-  NEW YORK (13)
-    +1 516 666 6065   Floral Park, NY
-    +1 516 666 6082   Floral Park, NY
-    +1 516 666 6165   Floral Park, NY
-    +1 516 666 6385   Floral Park, NY
-    +1 516 666 6435   Floral Park, NY
-    +1 516 666 6451   Floral Park, NY
-    +1 516 666 6475   Floral Park, NY
-    +1 516 666 6479   Floral Park, NY
-    +1 516 666 6536   Floral Park, NY
-    +1 516 666 6931   Floral Park, NY
-    +1 516 666 6942   Floral Park, NY
+  NEW YORK (2)
     +1 716 466 6668   Holland, NY
     +1 716 466 6669   Holland, NY
 
@@ -316,34 +306,38 @@ Updated: 2026-09-25
 --- 77777 — 222 numbers ---
 
   CALIFORNIA (180)
+    +1 657 777 7012   Buena Park, CA
     +1 657 777 7013   Buena Park, CA
+    +1 657 777 7016   Buena Park, CA
     +1 657 777 7018   Buena Park, CA
     +1 657 777 7019   Buena Park, CA
+    +1 657 777 7021   Buena Park, CA
     +1 657 777 7022   Buena Park, CA
+    +1 657 777 7023   Buena Park, CA
     +1 657 777 7026   Buena Park, CA
     +1 657 777 7029   Buena Park, CA
     +1 657 777 7034   Buena Park, CA
     +1 657 777 7035   Buena Park, CA
+    +1 657 777 7036   Buena Park, CA
     +1 657 777 7038   Buena Park, CA
+    +1 657 777 7042   Buena Park, CA
     +1 657 777 7043   Buena Park, CA
     +1 657 777 7044   Buena Park, CA
+    +1 657 777 7045   Buena Park, CA
     +1 657 777 7046   Buena Park, CA
     +1 657 777 7047   Buena Park, CA
-    +1 657 777 7051   Buena Park, CA
-    +1 657 777 7053   Buena Park, CA
-    +1 657 777 7054   Buena Park, CA
-    +1 657 777 7058   Buena Park, CA
-    +1 657 777 7063   Buena Park, CA
-    +1 657 777 7064   Buena Park, CA
-    +1 657 777 7068   Buena Park, CA
     +1 657 777 7104   Buena Park, CA
     +1 657 777 7105   Buena Park, CA
     +1 657 777 7108   Buena Park, CA
+    +1 657 777 7109   Buena Park, CA
+    +1 657 777 7113   Buena Park, CA
+    +1 657 777 7114   Buena Park, CA
     +1 657 777 7116   Buena Park, CA
     +1 657 777 7118   Buena Park, CA
     +1 657 777 7119   Buena Park, CA
     +1 657 777 7120   Buena Park, CA
     +1 657 777 7121   Buena Park, CA
+    +1 657 777 7122   Buena Park, CA
     +1 657 777 7124   Buena Park, CA
     +1 657 777 7125   Buena Park, CA
     +1 657 777 7130   Buena Park, CA
@@ -352,16 +346,13 @@ Updated: 2026-09-25
     +1 657 777 7133   Buena Park, CA
     +1 657 777 7134   Buena Park, CA
     +1 657 777 7135   Buena Park, CA
-    +1 657 777 7140   Buena Park, CA
-    +1 657 777 7144   Buena Park, CA
-    +1 657 777 7145   Buena Park, CA
-    +1 657 777 7146   Buena Park, CA
     +1 657 777 7201   Buena Park, CA
     +1 657 777 7202   Buena Park, CA
     +1 657 777 7203   Buena Park, CA
     +1 657 777 7204   Buena Park, CA
     +1 657 777 7205   Buena Park, CA
     +1 657 777 7207   Buena Park, CA
+    +1 657 777 7213   Buena Park, CA
     +1 657 777 7215   Buena Park, CA
     +1 657 777 7216   Buena Park, CA
     +1 657 777 7217   Buena Park, CA
@@ -370,35 +361,36 @@ Updated: 2026-09-25
     +1 657 777 7221   Buena Park, CA
     +1 657 777 7224   Buena Park, CA
     +1 657 777 7229   Buena Park, CA
+    +1 657 777 7231   Buena Park, CA
+    +1 657 777 7232   Buena Park, CA
     +1 657 777 7235   Buena Park, CA
     +1 657 777 7237   Buena Park, CA
     +1 657 777 7239   Buena Park, CA
-    +1 657 777 7241   Buena Park, CA
-    +1 657 777 7242   Buena Park, CA
-    +1 657 777 7244   Buena Park, CA
     +1 657 777 7302   Buena Park, CA
     +1 657 777 7303   Buena Park, CA
+    +1 657 777 7305   Buena Park, CA
+    +1 657 777 7306   Buena Park, CA
     +1 657 777 7307   Buena Park, CA
+    +1 657 777 7313   Buena Park, CA
     +1 657 777 7314   Buena Park, CA
     +1 657 777 7315   Buena Park, CA
+    +1 657 777 7316   Buena Park, CA
     +1 657 777 7317   Buena Park, CA
     +1 657 777 7318   Buena Park, CA
     +1 657 777 7320   Buena Park, CA
+    +1 657 777 7322   Buena Park, CA
+    +1 657 777 7325   Buena Park, CA
     +1 657 777 7327   Buena Park, CA
     +1 657 777 7332   Buena Park, CA
     +1 657 777 7339   Buena Park, CA
-    +1 657 777 7346   Buena Park, CA
-    +1 657 777 7347   Buena Park, CA
-    +1 657 777 7348   Buena Park, CA
-    +1 657 777 7349   Buena Park, CA
-    +1 657 777 7353   Buena Park, CA
-    +1 657 777 7358   Buena Park, CA
-    +1 657 777 7359   Buena Park, CA
-    +1 657 777 7360   Buena Park, CA
-    +1 657 777 7361   Buena Park, CA
+    +1 657 777 7340   Buena Park, CA
+    +1 657 777 7341   Buena Park, CA
+    +1 657 777 7344   Buena Park, CA
     +1 657 777 7401   Buena Park, CA
+    +1 657 777 7402   Buena Park, CA
     +1 657 777 7403   Buena Park, CA
     +1 657 777 7404   Buena Park, CA
+    +1 657 777 7405   Buena Park, CA
     +1 657 777 7406   Buena Park, CA
     +1 657 777 7408   Buena Park, CA
     +1 657 777 7409   Buena Park, CA
@@ -410,12 +402,10 @@ Updated: 2026-09-25
     +1 657 777 7419   Buena Park, CA
     +1 657 777 7420   Buena Park, CA
     +1 657 777 7421   Buena Park, CA
+    +1 657 777 7423   Buena Park, CA
     +1 657 777 7426   Buena Park, CA
     +1 657 777 7428   Buena Park, CA
     +1 657 777 7431   Buena Park, CA
-    +1 657 777 7434   Buena Park, CA
-    +1 657 777 7436   Buena Park, CA
-    +1 657 777 7441   Buena Park, CA
     +1 657 777 7501   Buena Park, CA
     +1 657 777 7502   Buena Park, CA
     +1 657 777 7503   Buena Park, CA
@@ -423,39 +413,39 @@ Updated: 2026-09-25
     +1 657 777 7505   Buena Park, CA
     +1 657 777 7506   Buena Park, CA
     +1 657 777 7507   Buena Park, CA
+    +1 657 777 7508   Buena Park, CA
     +1 657 777 7509   Buena Park, CA
     +1 657 777 7510   Buena Park, CA
     +1 657 777 7511   Buena Park, CA
     +1 657 777 7512   Buena Park, CA
     +1 657 777 7515   Buena Park, CA
     +1 657 777 7516   Buena Park, CA
+    +1 657 777 7519   Buena Park, CA
     +1 657 777 7520   Buena Park, CA
     +1 657 777 7521   Buena Park, CA
     +1 657 777 7522   Buena Park, CA
     +1 657 777 7525   Buena Park, CA
     +1 657 777 7527   Buena Park, CA
-    +1 657 777 7528   Buena Park, CA
-    +1 657 777 7530   Buena Park, CA
     +1 657 777 7601   Buena Park, CA
     +1 657 777 7602   Buena Park, CA
     +1 657 777 7603   Buena Park, CA
+    +1 657 777 7604   Buena Park, CA
     +1 657 777 7605   Buena Park, CA
+    +1 657 777 7606   Buena Park, CA
+    +1 657 777 7608   Buena Park, CA
     +1 657 777 7610   Buena Park, CA
     +1 657 777 7613   Buena Park, CA
     +1 657 777 7614   Buena Park, CA
     +1 657 777 7615   Buena Park, CA
+    +1 657 777 7617   Buena Park, CA
     +1 657 777 7618   Buena Park, CA
     +1 657 777 7619   Buena Park, CA
     +1 657 777 7622   Buena Park, CA
     +1 657 777 7624   Buena Park, CA
     +1 657 777 7626   Buena Park, CA
     +1 657 777 7627   Buena Park, CA
+    +1 657 777 7628   Buena Park, CA
     +1 657 777 7629   Buena Park, CA
-    +1 657 777 7630   Buena Park, CA
-    +1 657 777 7631   Buena Park, CA
-    +1 657 777 7634   Buena Park, CA
-    +1 657 777 7635   Buena Park, CA
-    +1 657 777 7636   Buena Park, CA
     +1 657 777 7802   Buena Park, CA
     +1 657 777 7803   Buena Park, CA
     +1 657 777 7804   Buena Park, CA
@@ -486,16 +476,16 @@ Updated: 2026-09-25
     +1 657 777 7912   Buena Park, CA
     +1 657 777 7913   Buena Park, CA
     +1 657 777 7914   Buena Park, CA
+    +1 657 777 7916   Buena Park, CA
     +1 657 777 7917   Buena Park, CA
+    +1 657 777 7918   Buena Park, CA
     +1 657 777 7922   Buena Park, CA
     +1 657 777 7923   Buena Park, CA
     +1 657 777 7925   Buena Park, CA
     +1 657 777 7926   Buena Park, CA
     +1 657 777 7927   Buena Park, CA
+    +1 657 777 7928   Buena Park, CA
     +1 657 777 7930   Buena Park, CA
-    +1 657 777 7931   Buena Park, CA
-    +1 657 777 7933   Buena Park, CA
-    +1 657 777 7934   Buena Park, CA
 
   CONNECTICUT (3)
     +1 959 777 7723   Hartford, CT
@@ -561,7 +551,7 @@ Updated: 2026-09-25
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
---- 88888 — 289 numbers ---
+--- 88888 — 290 numbers ---
 
   ALABAMA (16)
     +1 251 888 8803   Mobile, AL
@@ -581,7 +571,7 @@ Updated: 2026-09-25
     +1 334 888 8839   Clayton, AL
     +1 334 888 8843   Clayton, AL
 
-  CALIFORNIA (161)
+  CALIFORNIA (162)
     +1 858 888 8012   San Diego, CA
     +1 858 888 8013   San Diego, CA
     +1 858 888 8014   San Diego, CA
@@ -691,6 +681,7 @@ Updated: 2026-09-25
     +1 858 888 8532   San Diego, CA
     +1 858 888 8534   San Diego, CA
     +1 858 888 8544   San Diego, CA
+    +1 858 888 8548   San Diego, CA
     +1 858 888 8551   San Diego, CA
     +1 858 888 8560   San Diego, CA
     +1 858 888 8582   San Diego, CA
@@ -866,16 +857,14 @@ Updated: 2026-09-25
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 80 numbers ---
+--- 99999 — 76 numbers ---
 
-  ALABAMA (10)
+  ALABAMA (8)
     +1 251 999 9913   Mobile, AL
     +1 251 999 9917   Mobile, AL
     +1 251 999 9963   Mobile, AL
     +1 251 999 9967   Mobile, AL
     +1 251 999 9982   Mobile, AL
-    +1 659 599 9997   Birmingham, AL
-    +1 659 599 9998   Birmingham, AL
     +1 659 799 9991   Pinson, AL
     +1 659 799 9993   Pinson, AL
     +1 659 799 9998   Pinson, AL
@@ -896,7 +885,7 @@ Updated: 2026-09-25
     +1 719 999 9296   Colorado Springs, CO
     +1 719 999 9816   Colorado Springs, CO
 
-  FLORIDA (51)
+  FLORIDA (49)
     +1 239 999 9002   Fort Myers, FL
     +1 239 999 9029   Fort Myers, FL
     +1 239 999 9062   Fort Myers, FL
@@ -925,7 +914,6 @@ Updated: 2026-09-25
     +1 239 999 9294   Fort Myers, FL
     +1 239 999 9296   Fort Myers, FL
     +1 239 999 9302   Fort Myers, FL
-    +1 239 999 9371   Fort Myers, FL
     +1 239 999 9409   Fort Myers, FL
     +1 239 999 9432   Fort Myers, FL
     +1 239 999 9483   Fort Myers, FL
@@ -947,7 +935,6 @@ Updated: 2026-09-25
     +1 239 999 9877   Fort Myers, FL
     +1 239 999 9893   Fort Myers, FL
     +1 239 999 9894   Fort Myers, FL
-    +1 239 999 9916   Fort Myers, FL
 
   MASSACHUSETTS (3)
     +1 774 399 9994   Westborough, MA
@@ -963,12 +950,15 @@ Updated: 2026-09-25
     +1 838 999 9902   Plattsburgh West, NY
 
 ====================================================
-4 ZEROS — 855 numbers across 39 states
+4 ZEROS — 845 numbers across 39 states
 ====================================================
 
-  ALABAMA (15)
+  ALABAMA (18)
+    +1 251 270 0006   Fairhope, AL
     +1 251 800 0016   Mobile, AL
     +1 251 800 0025   Mobile, AL
+    +1 256 400 0042   Albertville, AL
+    +1 256 400 0047   Albertville, AL
     +1 334 910 0002   Montgomery, AL
     +1 334 910 0003   Montgomery, AL
     +1 659 800 0091   Vernon, AL
@@ -991,7 +981,7 @@ Updated: 2026-09-25
     +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
-  ARKANSAS (17)
+  ARKANSAS (22)
     +1 479 410 0002   Van Buren, AR
     +1 479 410 0003   Van Buren, AR
     +1 479 410 0004   Van Buren, AR
@@ -999,26 +989,41 @@ Updated: 2026-09-25
     +1 479 410 0006   Van Buren, AR
     +1 479 410 0008   Van Buren, AR
     +1 479 410 0009   Van Buren, AR
+    +1 501 380 0004   Searcy, AR
+    +1 501 400 0059   Little Rock, AR
+    +1 501 400 0061   Little Rock, AR
     +1 870 900 0012   Viola, AR
     +1 870 900 0013   Viola, AR
     +1 870 900 0014   Viola, AR
     +1 870 900 0015   Viola, AR
     +1 870 900 0019   Viola, AR
     +1 870 900 0021   Viola, AR
+    +1 870 900 0029   Viola, AR
     +1 870 900 0072   Viola, AR
     +1 870 900 0074   Viola, AR
     +1 870 900 0075   Viola, AR
+    +1 870 900 0081   Viola, AR
     +1 870 900 0092   Viola, AR
 
-  CALIFORNIA (51)
+  CALIFORNIA (62)
+    +1 209 650 0002   Tracy, CA
+    +1 530 280 0003   Quincy, CA
+    +1 530 280 0004   Quincy, CA
+    +1 530 280 0008   Quincy, CA
+    +1 530 730 0005   Bangor, CA
+    +1 530 730 0009   Bangor, CA
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0054   Whittier, CA
     +1 657 650 0005   Orange, CA
+    +1 661 320 0008   Lebec, CA
     +1 661 450 0002   Santa Clarita, CA
     +1 661 450 0003   Santa Clarita, CA
+    +1 661 450 0004   Santa Clarita, CA
+    +1 661 450 0006   Santa Clarita, CA
     +1 661 450 0007   Santa Clarita, CA
     +1 661 770 0002   Taft, CA
+    +1 661 770 0003   Taft, CA
     +1 669 500 0012   Gilroy, CA
     +1 669 500 0013   Gilroy, CA
     +1 669 500 0015   Gilroy, CA
@@ -1050,8 +1055,9 @@ Updated: 2026-09-25
     +1 669 500 0093   Gilroy, CA
     +1 669 500 0094   Gilroy, CA
     +1 669 500 0097   Gilroy, CA
-    +1 707 410 0008   Fairfield, CA
+    +1 707 390 0008   Scotia, CA
     +1 707 520 0004   Monte Rio, CA
+    +1 707 690 0002   Napa, CA
     +1 707 690 0003   Napa, CA
     +1 707 690 0006   Napa, CA
     +1 747 380 0009   Reseda, CA
@@ -1061,7 +1067,7 @@ Updated: 2026-09-25
     +1 909 600 0058   Fontana, CA
     +1 909 600 0072   Fontana, CA
     +1 909 600 0076   Fontana, CA
-    +1 916 800 0032   Sacramento, CA
+    +1 916 970 0003   Sacramento, CA
 
   CONNECTICUT (33)
     +1 860 600 0041   Litchfield, CT
@@ -1107,59 +1113,30 @@ Updated: 2026-09-25
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (77)
-    +1 239 480 0006   Labelle, FL
+  FLORIDA (47)
     +1 239 900 0058   Fort Myers, FL
     +1 239 900 0071   Fort Myers, FL
     +1 239 900 0078   Fort Myers, FL
-    +1 352 320 0001   Belleview, FL
-    +1 352 320 0002   Belleview, FL
-    +1 352 320 0005   Belleview, FL
-    +1 352 320 0008   Belleview, FL
     +1 352 570 0008   Yankeetown, FL
     +1 352 830 0005   Ocala, FL
-    +1 352 900 0018   Gainesville, FL
     +1 352 900 0068   Gainesville, FL
-    +1 386 610 0001   Holly Hill, FL
-    +1 386 610 0002   Holly Hill, FL
-    +1 386 610 0003   Holly Hill, FL
-    +1 386 610 0004   Holly Hill, FL
-    +1 386 610 0005   Holly Hill, FL
-    +1 386 610 0007   Holly Hill, FL
     +1 386 800 0023   Crescent City, FL
     +1 386 800 0026   Crescent City, FL
     +1 386 800 0091   Crescent City, FL
     +1 386 800 0093   Crescent City, FL
     +1 386 800 0096   Crescent City, FL
     +1 448 850 0006   Greenville, FL
-    +1 448 850 0007   Greenville, FL
-    +1 448 900 0048   Pea Ridge, FL
-    +1 448 900 0049   Pea Ridge, FL
-    +1 448 900 0051   Pea Ridge, FL
-    +1 656 220 0001   East Lake-Orient Park, FL
-    +1 656 220 0003   East Lake-Orient Park, FL
-    +1 656 220 0004   East Lake-Orient Park, FL
-    +1 656 220 0006   East Lake-Orient Park, FL
-    +1 656 220 0007   East Lake-Orient Park, FL
-    +1 656 270 0002   Plant City, FL
     +1 656 650 0007   Plant City, FL
     +1 656 650 0008   Plant City, FL
     +1 772 610 0007   Vero Beach, FL
-    +1 813 750 0003   Plant City, FL
     +1 850 690 0006   Perry, FL
-    +1 850 920 0002   Defuniak Springs, FL
-    +1 850 920 0003   Defuniak Springs, FL
-    +1 850 920 0004   Defuniak Springs, FL
-    +1 850 930 0001   Navarre Beach, FL
     +1 850 930 0005   Navarre Beach, FL
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0007   Ponce De Leon, FL
     +1 850 940 0008   Ponce De Leon, FL
-    +1 863 400 0085   Lakeland, FL
+    +1 904 660 0005   Jacksonville, FL
     +1 904 830 0004   Jacksonville, FL
     +1 904 830 0008   Jacksonville, FL
-    +1 904 890 0005   Fernandina Beach, FL
-    +1 941 370 0001   Punta Gorda, FL
     +1 941 900 0018   Bradenton, FL
     +1 941 900 0028   Bradenton, FL
     +1 941 900 0031   Bradenton, FL
@@ -1184,7 +1161,6 @@ Updated: 2026-09-25
     +1 941 900 0095   Bradenton, FL
     +1 941 900 0096   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
-    +1 954 930 0002   Pompano Beach, FL
 
   GEORGIA (8)
     +1 762 270 0003   Mc Caysville, GA
@@ -1208,9 +1184,11 @@ Updated: 2026-09-25
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
-  ILLINOIS (3)
+  ILLINOIS (5)
+    +1 224 970 0002   Bartlett, IL
     +1 224 970 0003   Bartlett, IL
     +1 224 990 0008   Plato Center, IL
+    +1 708 580 0009   Northbrook, IL
     +1 872 290 0004   Chicago, IL
 
   INDIANA (4)
@@ -1397,9 +1375,7 @@ Updated: 2026-09-25
     +1 769 240 0007   Forest, MS
     +1 769 240 0008   Forest, MS
 
-  MISSOURI (9)
-    +1 573 320 0002   Van Buren, MO
-    +1 573 320 0008   Van Buren, MO
+  MISSOURI (7)
     +1 573 500 0013   Campbell, MO
     +1 573 500 0053   Campbell, MO
     +1 573 500 0067   Campbell, MO
@@ -1466,7 +1442,7 @@ Updated: 2026-09-25
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (244)
+  NEW YORK (245)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 740 0005   Norwood, NY
@@ -1560,6 +1536,7 @@ Updated: 2026-09-25
     +1 518 600 0026   Plattsburgh West, NY
     +1 518 600 0027   Plattsburgh West, NY
     +1 518 650 0009   Rensselaer, NY
+    +1 518 660 0009   Hudson, NY
     +1 518 760 0002   Glens Falls, NY
     +1 518 760 0003   Glens Falls, NY
     +1 518 760 0004   Glens Falls, NY
@@ -1643,7 +1620,6 @@ Updated: 2026-09-25
     +1 518 900 0086   Voorheesville, NY
     +1 518 900 0091   Voorheesville, NY
     +1 518 900 0092   Voorheesville, NY
-    +1 518 900 0094   Voorheesville, NY
     +1 518 940 0002   Brushton, NY
     +1 518 940 0007   Brushton, NY
     +1 518 940 0008   Brushton, NY
@@ -1698,6 +1674,7 @@ Updated: 2026-09-25
     +1 607 600 0018   Canaseraga, NY
     +1 607 800 0014   Freeville, NY
     +1 631 600 0014   East Northport, NY
+    +1 631 600 0025   East Northport, NY
     +1 680 910 0002   Syracuse, NY
     +1 680 910 0003   Syracuse, NY
     +1 680 910 0004   Syracuse, NY
@@ -1920,8 +1897,7 @@ Updated: 2026-09-25
 
 --- 888888 — No results ---
 
---- 999999 — 1 US result ---
-    +1 239 999 9916   Fort Myers, FL
+--- 999999 — No US results — Canada only ---
 
 --- 000000 — No results ---
 
