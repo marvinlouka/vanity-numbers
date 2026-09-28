@@ -1,5 +1,5 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -365,7 +365,7 @@
   },
   {
    "pattern": "44444",
-   "count": 47,
+   "count": 36,
    "states": [
     {
      "state": "Alabama",
@@ -374,56 +374,6 @@
       {
        "number": "+1 938 444 4487",
        "location": "Decatur, AL"
-      }
-     ]
-    },
-    {
-     "state": "California",
-     "count": 11,
-     "numbers": [
-      {
-       "number": "+1 424 444 4129",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4197",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4207",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4281",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4611",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4694",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4791",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4873",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4875",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4962",
-       "location": "Compton, CA"
-      },
-      {
-       "number": "+1 424 444 4981",
-       "location": "Compton, CA"
       }
      ]
     },
@@ -785,12 +735,16 @@
   },
   {
    "pattern": "66666",
-   "count": 63,
+   "count": 59,
    "states": [
     {
      "state": "Alabama",
-     "count": 3,
+     "count": 4,
      "numbers": [
+      {
+       "number": "+1 334 466 6667",
+       "location": "Auburn, AL"
+      },
       {
        "number": "+1 334 766 6661",
        "location": "Daleville, AL"
@@ -986,16 +940,6 @@
      ]
     },
     {
-     "state": "Michigan",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 616 666 6584",
-       "location": "Grand Rapids, MI"
-      }
-     ]
-    },
-    {
      "state": "Minnesota",
      "count": 1,
      "numbers": [
@@ -1061,24 +1005,8 @@
     },
     {
      "state": "New York",
-     "count": 6,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 516 666 6192",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6502",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6540",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6945",
-       "location": "Floral Park, NY"
-      },
       {
        "number": "+1 716 466 6668",
        "location": "Holland, NY"
@@ -3331,7 +3259,7 @@
   },
   {
    "pattern": "99999",
-   "count": 76,
+   "count": 75,
    "states": [
     {
      "state": "Alabama",
@@ -3433,12 +3361,8 @@
     },
     {
      "state": "Florida",
-     "count": 49,
+     "count": 48,
      "numbers": [
-      {
-       "number": "+1 239 999 9002",
-       "location": "Fort Myers, FL"
-      },
       {
        "number": "+1 239 999 9029",
        "location": "Fort Myers, FL"
@@ -3683,12 +3607,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 841,
+  "total": 839,
   "state_count": 39,
   "states": [
    {
     "state": "Alabama",
-    "count": 17,
+    "count": 16,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -3701,10 +3625,6 @@
      {
       "number": "+1 251 800 0025",
       "location": "Mobile, AL"
-     },
-     {
-      "number": "+1 256 400 0047",
-      "location": "Albertville, AL"
      },
      {
       "number": "+1 334 910 0002",
@@ -3878,7 +3798,7 @@
    },
    {
     "state": "California",
-    "count": 63,
+    "count": 64,
     "numbers": [
      {
       "number": "+1 530 280 0003",
@@ -4109,10 +4029,6 @@
       "location": "Fontana, CA"
      },
      {
-      "number": "+1 909 600 0054",
-      "location": "Fontana, CA"
-     },
-     {
       "number": "+1 909 600 0058",
       "location": "Fontana, CA"
      },
@@ -4131,6 +4047,14 @@
      {
       "number": "+1 925 420 0002",
       "location": "Brentwood, CA"
+     },
+     {
+      "number": "+1 925 490 0002",
+      "location": "Concord, CA"
+     },
+     {
+      "number": "+1 951 550 0007",
+      "location": "Perris, CA"
      }
     ]
    },
@@ -4308,7 +4232,7 @@
    },
    {
     "state": "Florida",
-    "count": 47,
+    "count": 46,
     "numbers": [
      {
       "number": "+1 239 900 0058",
@@ -4357,10 +4281,6 @@
      {
       "number": "+1 448 850 0006",
       "location": "Greenville, FL"
-     },
-     {
-      "number": "+1 561 600 0062",
-      "location": "Boynton Beach, FL"
      },
      {
       "number": "+1 656 650 0007",
@@ -4956,7 +4876,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 11,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 225 430 0005",
@@ -4969,10 +4889,6 @@
      {
       "number": "+1 225 480 0005",
       "location": "Denham Springs, LA"
-     },
-     {
-      "number": "+1 225 500 0041",
-      "location": "Albany, LA"
      },
      {
       "number": "+1 318 520 0002",
@@ -7877,9 +7793,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 791,
+  "total_5_in_a_row": 775,
   "patterns_with_results": 8,
-  "total_0000": 841,
+  "total_0000": 839,
   "state_count_0000": 39,
   "total_aaa_bbbb": 65,
   "aaa_bbbb_patterns_searched": 90,
