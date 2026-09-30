@@ -1,16 +1,20 @@
 {
- "date": "2026-09-29",
+ "date": "2026-09-30",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 21,
+   "count": 22,
    "states": [
     {
      "state": "Illinois",
-     "count": 2,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 779 222 2239",
+       "location": "Sycamore, IL"
+      },
+      {
+       "number": "+1 779 222 2247",
        "location": "Sycamore, IL"
       },
       {
@@ -739,16 +743,12 @@
   },
   {
    "pattern": "66666",
-   "count": 62,
+   "count": 58,
    "states": [
     {
      "state": "Alabama",
-     "count": 4,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 334 466 6667",
-       "location": "Auburn, AL"
-      },
       {
        "number": "+1 334 766 6661",
        "location": "Daleville, AL"
@@ -1009,20 +1009,8 @@
     },
     {
      "state": "New York",
-     "count": 5,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 516 666 6320",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6478",
-       "location": "Floral Park, NY"
-      },
-      {
-       "number": "+1 516 666 6538",
-       "location": "Floral Park, NY"
-      },
       {
        "number": "+1 716 466 6668",
        "location": "Holland, NY"
@@ -3624,7 +3612,7 @@
   "states": [
    {
     "state": "Alabama",
-    "count": 16,
+    "count": 15,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -3665,10 +3653,6 @@
      {
       "number": "+1 659 900 0062",
       "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 910 0002",
-      "location": "Birmingham, AL"
      },
      {
       "number": "+1 659 910 0003",
@@ -3813,14 +3797,6 @@
     "count": 64,
     "numbers": [
      {
-      "number": "+1 530 270 0005",
-      "location": "Grass Valley, CA"
-     },
-     {
-      "number": "+1 530 690 0003",
-      "location": "Red Bluff, CA"
-     },
-     {
       "number": "+1 530 730 0003",
       "location": "Bangor, CA"
      },
@@ -3843,6 +3819,14 @@
      {
       "number": "+1 562 600 0054",
       "location": "Whittier, CA"
+     },
+     {
+      "number": "+1 562 740 0005",
+      "location": "Long Beach, CA"
+     },
+     {
+      "number": "+1 562 740 0006",
+      "location": "Long Beach, CA"
      },
      {
       "number": "+1 657 650 0005",
@@ -5516,7 +5500,7 @@
    },
    {
     "state": "New York",
-    "count": 243,
+    "count": 244,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -5605,10 +5589,6 @@
      {
       "number": "+1 363 200 0097",
       "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 516 400 0091",
-      "location": "Hewlett, NY"
      },
      {
       "number": "+1 516 930 0004",
@@ -6235,6 +6215,10 @@
       "location": "Voorheesville, NY"
      },
      {
+      "number": "+1 518 900 0091",
+      "location": "Voorheesville, NY"
+     },
+     {
       "number": "+1 518 940 0002",
       "location": "Brushton, NY"
      },
@@ -6249,10 +6233,6 @@
      {
       "number": "+1 518 940 0009",
       "location": "Brushton, NY"
-     },
-     {
-      "number": "+1 518 990 0007",
-      "location": "Moira, NY"
      },
      {
       "number": "+1 585 380 0001",
@@ -6423,6 +6403,10 @@
       "location": "Cooperstown, NY"
      },
      {
+      "number": "+1 607 400 0098",
+      "location": "Cooperstown, NY"
+     },
+     {
       "number": "+1 607 600 0011",
       "location": "Canaseraga, NY"
      },
@@ -6489,6 +6473,10 @@
      {
       "number": "+1 838 910 0006",
       "location": "Rensselaer, NY"
+     },
+     {
+      "number": "+1 929 520 0004",
+      "location": "New York, NY"
      }
     ]
    },
@@ -7801,7 +7789,7 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 778,
+  "total_5_in_a_row": 775,
   "patterns_with_results": 8,
   "total_0000": 839,
   "state_count_0000": 39,

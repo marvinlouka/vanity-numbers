@@ -1,15 +1,16 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-09-29
-778 five-in-a-row · 839 four-zeros across 39 states · 64 AAA-BBBB across 18 of 90 combinations
+Updated: 2026-09-30
+775 five-in-a-row · 839 four-zeros across 39 states · 64 AAA-BBBB across 18 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 21 numbers ---
+--- 22222 — 22 numbers ---
 
-  ILLINOIS (2)
+  ILLINOIS (3)
     +1 779 222 2239   Sycamore, IL
+    +1 779 222 2247   Sycamore, IL
     +1 779 222 2269   Sycamore, IL
 
   LOUISIANA (2)
@@ -208,10 +209,9 @@ Updated: 2026-09-29
   WASHINGTON (1)
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 62 numbers ---
+--- 66666 — 58 numbers ---
 
-  ALABAMA (4)
-    +1 334 466 6667   Auburn, AL
+  ALABAMA (3)
     +1 334 766 6661   Daleville, AL
     +1 334 766 6665   Daleville, AL
     +1 334 766 6668   Daleville, AL
@@ -283,10 +283,7 @@ Updated: 2026-09-29
     +1 908 666 6657   Cranford, NJ
     +1 908 666 6684   Cranford, NJ
 
-  NEW YORK (5)
-    +1 516 666 6320   Floral Park, NY
-    +1 516 666 6478   Floral Park, NY
-    +1 516 666 6538   Floral Park, NY
+  NEW YORK (2)
     +1 716 466 6668   Holland, NY
     +1 716 466 6669   Holland, NY
 
@@ -956,7 +953,7 @@ Updated: 2026-09-29
 4 ZEROS — 839 numbers across 39 states
 ====================================================
 
-  ALABAMA (16)
+  ALABAMA (15)
     +1 251 270 0006   Fairhope, AL
     +1 251 800 0016   Mobile, AL
     +1 251 800 0025   Mobile, AL
@@ -967,7 +964,6 @@ Updated: 2026-09-29
     +1 659 900 0024   Sulligent, AL
     +1 659 900 0051   Sulligent, AL
     +1 659 900 0062   Sulligent, AL
-    +1 659 910 0002   Birmingham, AL
     +1 659 910 0003   Birmingham, AL
     +1 659 910 0006   Birmingham, AL
     +1 659 910 0007   Birmingham, AL
@@ -1005,14 +1001,14 @@ Updated: 2026-09-29
     +1 870 900 0092   Viola, AR
 
   CALIFORNIA (64)
-    +1 530 270 0005   Grass Valley, CA
-    +1 530 690 0003   Red Bluff, CA
     +1 530 730 0003   Bangor, CA
     +1 530 730 0005   Bangor, CA
     +1 530 730 0009   Bangor, CA
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0054   Whittier, CA
+    +1 562 740 0005   Long Beach, CA
+    +1 562 740 0006   Long Beach, CA
     +1 657 650 0005   Orange, CA
     +1 661 320 0007   Lebec, CA
     +1 661 320 0008   Lebec, CA
@@ -1441,7 +1437,7 @@ Updated: 2026-09-29
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (243)
+  NEW YORK (244)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 740 0005   Norwood, NY
@@ -1464,7 +1460,6 @@ Updated: 2026-09-29
     +1 363 200 0094   Farmingdale, NY
     +1 363 200 0096   Farmingdale, NY
     +1 363 200 0097   Farmingdale, NY
-    +1 516 400 0091   Hewlett, NY
     +1 516 930 0004   Manhasset, NY
     +1 516 930 0006   Manhasset, NY
     +1 518 400 0059   Round Lake, NY
@@ -1621,11 +1616,11 @@ Updated: 2026-09-29
     +1 518 900 0084   Voorheesville, NY
     +1 518 900 0085   Voorheesville, NY
     +1 518 900 0086   Voorheesville, NY
+    +1 518 900 0091   Voorheesville, NY
     +1 518 940 0002   Brushton, NY
     +1 518 940 0007   Brushton, NY
     +1 518 940 0008   Brushton, NY
     +1 518 940 0009   Brushton, NY
-    +1 518 990 0007   Moira, NY
     +1 585 380 0001   Silver Springs, NY
     +1 585 380 0003   Silver Springs, NY
     +1 585 460 0009   Caledonia, NY
@@ -1668,6 +1663,7 @@ Updated: 2026-09-29
     +1 607 400 0070   Cooperstown, NY
     +1 607 400 0078   Cooperstown, NY
     +1 607 400 0089   Cooperstown, NY
+    +1 607 400 0098   Cooperstown, NY
     +1 607 600 0011   Canaseraga, NY
     +1 607 600 0012   Canaseraga, NY
     +1 607 600 0018   Canaseraga, NY
@@ -1685,6 +1681,7 @@ Updated: 2026-09-29
     +1 716 910 0006   Buffalo, NY
     +1 838 910 0002   Rensselaer, NY
     +1 838 910 0006   Rensselaer, NY
+    +1 929 520 0004   New York, NY
 
   NORTH CAROLINA (33)
     +1 252 740 0005   Rocky Mount, NC
