@@ -1,10 +1,24 @@
 {
- "date": "2026-09-30",
+ "date": "2026-10-01",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 22,
+   "count": 24,
    "states": [
+    {
+     "state": "Alabama",
+     "count": 2,
+     "numbers": [
+      {
+       "number": "+1 659 222 2285",
+       "location": "Dora, AL"
+      },
+      {
+       "number": "+1 938 222 2201",
+       "location": "Florence, AL"
+      }
+     ]
+    },
     {
      "state": "Illinois",
      "count": 3,
@@ -373,12 +387,32 @@
   },
   {
    "pattern": "44444",
-   "count": 36,
+   "count": 41,
    "states": [
     {
      "state": "Alabama",
-     "count": 1,
+     "count": 6,
      "numbers": [
+      {
+       "number": "+1 659 444 4403",
+       "location": "Trussville, AL"
+      },
+      {
+       "number": "+1 659 444 4415",
+       "location": "Trussville, AL"
+      },
+      {
+       "number": "+1 659 444 4416",
+       "location": "Trussville, AL"
+      },
+      {
+       "number": "+1 659 444 4417",
+       "location": "Trussville, AL"
+      },
+      {
+       "number": "+1 659 444 4419",
+       "location": "Trussville, AL"
+      },
       {
        "number": "+1 938 444 4487",
        "location": "Decatur, AL"
@@ -565,11 +599,11 @@
   },
   {
    "pattern": "55555",
-   "count": 34,
+   "count": 33,
    "states": [
     {
      "state": "Florida",
-     "count": 13,
+     "count": 12,
      "numbers": [
       {
        "number": "+1 352 755 5556",
@@ -578,10 +612,6 @@
       {
        "number": "+1 386 355 5551",
        "location": "Pomona Park, FL"
-      },
-      {
-       "number": "+1 645 255 5550",
-       "location": "North Miami Beach, FL"
       },
       {
        "number": "+1 645 255 5551",
@@ -743,12 +773,36 @@
   },
   {
    "pattern": "66666",
-   "count": 58,
+   "count": 72,
    "states": [
     {
      "state": "Alabama",
-     "count": 3,
+     "count": 17,
      "numbers": [
+      {
+       "number": "+1 251 566 6663",
+       "location": "Grove Hill, AL"
+      },
+      {
+       "number": "+1 251 566 6668",
+       "location": "Grove Hill, AL"
+      },
+      {
+       "number": "+1 256 866 6661",
+       "location": "Killen, AL"
+      },
+      {
+       "number": "+1 256 866 6663",
+       "location": "Killen, AL"
+      },
+      {
+       "number": "+1 256 866 6664",
+       "location": "Killen, AL"
+      },
+      {
+       "number": "+1 334 666 6620",
+       "location": "Wetumpka, AL"
+      },
       {
        "number": "+1 334 766 6661",
        "location": "Daleville, AL"
@@ -760,6 +814,38 @@
       {
        "number": "+1 334 766 6668",
        "location": "Daleville, AL"
+      },
+      {
+       "number": "+1 659 266 6660",
+       "location": "Wilton, AL"
+      },
+      {
+       "number": "+1 659 266 6663",
+       "location": "Wilton, AL"
+      },
+      {
+       "number": "+1 659 266 6667",
+       "location": "Wilton, AL"
+      },
+      {
+       "number": "+1 659 266 6668",
+       "location": "Wilton, AL"
+      },
+      {
+       "number": "+1 659 766 6663",
+       "location": "Columbiana, AL"
+      },
+      {
+       "number": "+1 659 766 6664",
+       "location": "Columbiana, AL"
+      },
+      {
+       "number": "+1 659 766 6665",
+       "location": "Columbiana, AL"
+      },
+      {
+       "number": "+1 659 766 6668",
+       "location": "Columbiana, AL"
       }
      ]
     },
@@ -1089,7 +1175,7 @@
   },
   {
    "pattern": "77777",
-   "count": 222,
+   "count": 220,
    "states": [
     {
      "state": "California",
@@ -1837,18 +1923,10 @@
     },
     {
      "state": "Florida",
-     "count": 9,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 386 777 7710",
-       "location": "Holly Hill, FL"
-      },
-      {
-       "number": "+1 386 777 7720",
-       "location": "Holly Hill, FL"
-      },
-      {
-       "number": "+1 386 777 7730",
        "location": "Holly Hill, FL"
       },
       {
@@ -2055,18 +2133,14 @@
   },
   {
    "pattern": "88888",
-   "count": 290,
+   "count": 291,
    "states": [
     {
      "state": "Alabama",
-     "count": 16,
+     "count": 17,
      "numbers": [
       {
        "number": "+1 251 888 8803",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8810",
        "location": "Mobile, AL"
       },
       {
@@ -2102,15 +2176,15 @@
        "location": "Mobile, AL"
       },
       {
-       "number": "+1 251 888 8893",
-       "location": "Mobile, AL"
-      },
-      {
        "number": "+1 251 888 8897",
        "location": "Mobile, AL"
       },
       {
        "number": "+1 334 888 8831",
+       "location": "Clayton, AL"
+      },
+      {
+       "number": "+1 334 888 8834",
        "location": "Clayton, AL"
       },
       {
@@ -2124,6 +2198,14 @@
       {
        "number": "+1 334 888 8843",
        "location": "Clayton, AL"
+      },
+      {
+       "number": "+1 938 888 8441",
+       "location": "Killen, AL"
+      },
+      {
+       "number": "+1 938 888 8994",
+       "location": "Killen, AL"
       }
      ]
     },
@@ -3263,11 +3345,11 @@
   },
   {
    "pattern": "99999",
-   "count": 74,
+   "count": 169,
    "states": [
     {
      "state": "Alabama",
-     "count": 8,
+     "count": 103,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -3286,8 +3368,60 @@
        "location": "Mobile, AL"
       },
       {
-       "number": "+1 251 999 9982",
-       "location": "Mobile, AL"
+       "number": "+1 256 999 9903",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9906",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9914",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9915",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9916",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9917",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9925",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9930",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9940",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9961",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 256 999 9974",
+       "location": "Scottsboro, AL"
+      },
+      {
+       "number": "+1 334 999 9923",
+       "location": "Deatsville, AL"
+      },
+      {
+       "number": "+1 334 999 9934",
+       "location": "Deatsville, AL"
+      },
+      {
+       "number": "+1 334 999 9938",
+       "location": "Deatsville, AL"
       },
       {
        "number": "+1 659 799 9991",
@@ -3298,8 +3432,336 @@
        "location": "Pinson, AL"
       },
       {
+       "number": "+1 659 799 9994",
+       "location": "Pinson, AL"
+      },
+      {
        "number": "+1 659 799 9998",
        "location": "Pinson, AL"
+      },
+      {
+       "number": "+1 659 999 9008",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9018",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9024",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9035",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9052",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9054",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9057",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9067",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9068",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9080",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9095",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9128",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9147",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9148",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9161",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9162",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9170",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9180",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9185",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9186",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9204",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9209",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9214",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9221",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9226",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9263",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9285",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9289",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9290",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9301",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9316",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9326",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9328",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9330",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9331",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9365",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9372",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9382",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9392",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9396",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9428",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9451",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9455",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9462",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9469",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9474",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9476",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9477",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9479",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9508",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9510",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9518",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9530",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9537",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9553",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9560",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9572",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9575",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9588",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9624",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9630",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9645",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9647",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9649",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9683",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9690",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9692",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9719",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9720",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9833",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9842",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9854",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9859",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9862",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9863",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9876",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9877",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9882",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 659 999 9883",
+       "location": "Winfield, AL"
+      },
+      {
+       "number": "+1 938 999 9947",
+       "location": "Attalla, AL"
+      },
+      {
+       "number": "+1 938 999 9974",
+       "location": "Attalla, AL"
       }
      ]
     },
@@ -3607,16 +4069,24 @@
   }
  ],
  "pattern_0000": {
-  "total": 839,
+  "total": 847,
   "state_count": 39,
   "states": [
    {
     "state": "Alabama",
-    "count": 15,
+    "count": 27,
     "numbers": [
      {
       "number": "+1 251 270 0006",
       "location": "Fairhope, AL"
+     },
+     {
+      "number": "+1 251 530 0005",
+      "location": "Pine Apple, AL"
+     },
+     {
+      "number": "+1 251 530 0008",
+      "location": "Pine Apple, AL"
      },
      {
       "number": "+1 251 800 0016",
@@ -3627,12 +4097,28 @@
       "location": "Mobile, AL"
      },
      {
+      "number": "+1 334 640 0004",
+      "location": "Tallassee, AL"
+     },
+     {
+      "number": "+1 334 810 0008",
+      "location": "Orrville, AL"
+     },
+     {
       "number": "+1 334 910 0002",
       "location": "Montgomery, AL"
      },
      {
       "number": "+1 334 910 0003",
       "location": "Montgomery, AL"
+     },
+     {
+      "number": "+1 659 300 0047",
+      "location": "Berry, AL"
+     },
+     {
+      "number": "+1 659 800 0054",
+      "location": "Vernon, AL"
      },
      {
       "number": "+1 659 800 0091",
@@ -3647,11 +4133,35 @@
       "location": "Sulligent, AL"
      },
      {
+      "number": "+1 659 900 0025",
+      "location": "Sulligent, AL"
+     },
+     {
+      "number": "+1 659 900 0038",
+      "location": "Sulligent, AL"
+     },
+     {
+      "number": "+1 659 900 0041",
+      "location": "Sulligent, AL"
+     },
+     {
+      "number": "+1 659 900 0046",
+      "location": "Sulligent, AL"
+     },
+     {
       "number": "+1 659 900 0051",
       "location": "Sulligent, AL"
      },
      {
+      "number": "+1 659 900 0060",
+      "location": "Sulligent, AL"
+     },
+     {
       "number": "+1 659 900 0062",
+      "location": "Sulligent, AL"
+     },
+     {
+      "number": "+1 659 900 0085",
       "location": "Sulligent, AL"
      },
      {
@@ -3708,7 +4218,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 20,
+    "count": 22,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -3737,6 +4247,14 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
+     },
+     {
+      "number": "+1 870 600 0014",
+      "location": "Ashdown, AR"
+     },
+     {
+      "number": "+1 870 600 0072",
+      "location": "Ashdown, AR"
      },
      {
       "number": "+1 870 900 0012",
@@ -3794,7 +4312,7 @@
    },
    {
     "state": "California",
-    "count": 64,
+    "count": 62,
     "numbers": [
      {
       "number": "+1 530 730 0003",
@@ -4037,16 +4555,8 @@
       "location": "Fontana, CA"
      },
      {
-      "number": "+1 916 970 0003",
-      "location": "Sacramento, CA"
-     },
-     {
       "number": "+1 916 970 0009",
       "location": "Sacramento, CA"
-     },
-     {
-      "number": "+1 925 420 0002",
-      "location": "Brentwood, CA"
      },
      {
       "number": "+1 951 550 0007",
@@ -4228,7 +4738,7 @@
    },
    {
     "state": "Florida",
-    "count": 47,
+    "count": 43,
     "numbers": [
      {
       "number": "+1 239 900 0058",
@@ -4275,10 +4785,6 @@
       "location": "Crescent City, FL"
      },
      {
-      "number": "+1 448 850 0006",
-      "location": "Greenville, FL"
-     },
-     {
       "number": "+1 656 650 0007",
       "location": "Plant City, FL"
      },
@@ -4313,14 +4819,6 @@
      {
       "number": "+1 850 940 0008",
       "location": "Ponce De Leon, FL"
-     },
-     {
-      "number": "+1 904 830 0004",
-      "location": "Jacksonville, FL"
-     },
-     {
-      "number": "+1 904 830 0008",
-      "location": "Jacksonville, FL"
      },
      {
       "number": "+1 941 900 0018",
@@ -4368,10 +4866,6 @@
      },
      {
       "number": "+1 941 900 0053",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0057",
       "location": "Bradenton, FL"
      },
      {
@@ -5871,16 +6365,12 @@
       "location": "Plattsburgh West, NY"
      },
      {
+      "number": "+1 518 600 0027",
+      "location": "Plattsburgh West, NY"
+     },
+     {
       "number": "+1 518 650 0009",
       "location": "Rensselaer, NY"
-     },
-     {
-      "number": "+1 518 660 0002",
-      "location": "Hudson, NY"
-     },
-     {
-      "number": "+1 518 660 0009",
-      "location": "Hudson, NY"
      },
      {
       "number": "+1 518 760 0002",
@@ -6219,6 +6709,10 @@
       "location": "Voorheesville, NY"
      },
      {
+      "number": "+1 518 900 0092",
+      "location": "Voorheesville, NY"
+     },
+     {
       "number": "+1 518 940 0002",
       "location": "Brushton, NY"
      },
@@ -6423,6 +6917,10 @@
       "location": "Freeville, NY"
      },
      {
+      "number": "+1 631 600 0014",
+      "location": "East Northport, NY"
+     },
+     {
       "number": "+1 680 910 0002",
       "location": "Syracuse, NY"
      },
@@ -6473,10 +6971,6 @@
      {
       "number": "+1 838 910 0006",
       "location": "Rensselaer, NY"
-     },
-     {
-      "number": "+1 929 520 0004",
-      "location": "New York, NY"
      }
     ]
    },
@@ -7298,6 +7792,22 @@
    ]
   },
   {
+   "pattern": "4447777",
+   "count": 1,
+   "states": [
+    {
+     "state": "Alabama",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 334 447 7776",
+       "location": "Enterprise, AL"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "pattern": "5552222",
    "count": 3,
    "states": [
@@ -7471,8 +7981,22 @@
   },
   {
    "pattern": "6669999",
-   "count": 4,
+   "count": 6,
    "states": [
+    {
+     "state": "Alabama",
+     "count": 2,
+     "numbers": [
+      {
+       "number": "+1 256 669 9993",
+       "location": "North Courtland, AL"
+      },
+      {
+       "number": "+1 256 669 9995",
+       "location": "North Courtland, AL"
+      }
+     ]
+    },
     {
      "state": "New York",
      "count": 4,
@@ -7789,12 +8313,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 775,
+  "total_5_in_a_row": 889,
   "patterns_with_results": 8,
-  "total_0000": 839,
+  "total_0000": 847,
   "state_count_0000": 39,
-  "total_aaa_bbbb": 64,
+  "total_aaa_bbbb": 67,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 18
+  "aaa_bbbb_patterns_with_results": 19
  }
 }
