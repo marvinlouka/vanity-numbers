@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -3345,11 +3345,11 @@
   },
   {
    "pattern": "99999",
-   "count": 169,
+   "count": 167,
    "states": [
     {
      "state": "Alabama",
-     "count": 103,
+     "count": 102,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -3740,10 +3740,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9876",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9877",
        "location": "Winfield, AL"
       },
@@ -3827,7 +3823,7 @@
     },
     {
      "state": "Florida",
-     "count": 47,
+     "count": 46,
      "numbers": [
       {
        "number": "+1 239 999 9029",
@@ -3994,10 +3990,6 @@
        "location": "Fort Myers, FL"
       },
       {
-       "number": "+1 239 999 9816",
-       "location": "Fort Myers, FL"
-      },
-      {
        "number": "+1 239 999 9821",
        "location": "Fort Myers, FL"
       },
@@ -4069,12 +4061,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 847,
+  "total": 845,
   "state_count": 39,
   "states": [
    {
     "state": "Alabama",
-    "count": 27,
+    "count": 26,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -4150,10 +4142,6 @@
      },
      {
       "number": "+1 659 900 0051",
-      "location": "Sulligent, AL"
-     },
-     {
-      "number": "+1 659 900 0060",
       "location": "Sulligent, AL"
      },
      {
@@ -4312,12 +4300,8 @@
    },
    {
     "state": "California",
-    "count": 62,
+    "count": 61,
     "numbers": [
-     {
-      "number": "+1 530 730 0003",
-      "location": "Bangor, CA"
-     },
      {
       "number": "+1 530 730 0005",
       "location": "Bangor, CA"
@@ -8313,9 +8297,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 889,
+  "total_5_in_a_row": 887,
   "patterns_with_results": 8,
-  "total_0000": 847,
+  "total_0000": 845,
   "state_count_0000": 39,
   "total_aaa_bbbb": 67,
   "aaa_bbbb_patterns_searched": 90,

@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-10-01
-889 five-in-a-row · 847 four-zeros across 39 states · 67 AAA-BBBB across 19 of 90 combinations
+Updated: 2026-10-02
+887 five-in-a-row · 845 four-zeros across 39 states · 67 AAA-BBBB across 19 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -880,9 +880,9 @@ Updated: 2026-10-01
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 169 numbers ---
+--- 99999 — 167 numbers ---
 
-  ALABAMA (103)
+  ALABAMA (102)
     +1 251 999 9913   Mobile, AL
     +1 251 999 9917   Mobile, AL
     +1 251 999 9963   Mobile, AL
@@ -980,7 +980,6 @@ Updated: 2026-10-01
     +1 659 999 9859   Winfield, AL
     +1 659 999 9862   Winfield, AL
     +1 659 999 9863   Winfield, AL
-    +1 659 999 9876   Winfield, AL
     +1 659 999 9877   Winfield, AL
     +1 659 999 9882   Winfield, AL
     +1 659 999 9883   Winfield, AL
@@ -1003,7 +1002,7 @@ Updated: 2026-10-01
     +1 719 999 9296   Colorado Springs, CO
     +1 719 999 9816   Colorado Springs, CO
 
-  FLORIDA (47)
+  FLORIDA (46)
     +1 239 999 9029   Fort Myers, FL
     +1 239 999 9062   Fort Myers, FL
     +1 239 999 9064   Fort Myers, FL
@@ -1045,7 +1044,6 @@ Updated: 2026-10-01
     +1 239 999 9746   Fort Myers, FL
     +1 239 999 9807   Fort Myers, FL
     +1 239 999 9810   Fort Myers, FL
-    +1 239 999 9816   Fort Myers, FL
     +1 239 999 9821   Fort Myers, FL
     +1 239 999 9825   Fort Myers, FL
     +1 239 999 9877   Fort Myers, FL
@@ -1066,10 +1064,10 @@ Updated: 2026-10-01
     +1 838 999 9902   Plattsburgh West, NY
 
 ====================================================
-4 ZEROS — 847 numbers across 39 states
+4 ZEROS — 845 numbers across 39 states
 ====================================================
 
-  ALABAMA (27)
+  ALABAMA (26)
     +1 251 270 0006   Fairhope, AL
     +1 251 530 0005   Pine Apple, AL
     +1 251 530 0008   Pine Apple, AL
@@ -1089,7 +1087,6 @@ Updated: 2026-10-01
     +1 659 900 0041   Sulligent, AL
     +1 659 900 0046   Sulligent, AL
     +1 659 900 0051   Sulligent, AL
-    +1 659 900 0060   Sulligent, AL
     +1 659 900 0062   Sulligent, AL
     +1 659 900 0085   Sulligent, AL
     +1 659 910 0003   Birmingham, AL
@@ -1130,8 +1127,7 @@ Updated: 2026-10-01
     +1 870 900 0081   Viola, AR
     +1 870 900 0092   Viola, AR
 
-  CALIFORNIA (62)
-    +1 530 730 0003   Bangor, CA
+  CALIFORNIA (61)
     +1 530 730 0005   Bangor, CA
     +1 530 730 0009   Bangor, CA
     +1 562 580 0004   Long Beach, CA
