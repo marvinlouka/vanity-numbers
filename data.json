@@ -1,5 +1,5 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -171,7 +171,7 @@
   },
   {
    "pattern": "33333",
-   "count": 39,
+   "count": 37,
    "states": [
     {
      "state": "Alabama",
@@ -185,23 +185,15 @@
     },
     {
      "state": "California",
-     "count": 9,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 442 333 3341",
        "location": "Carlsbad, CA"
       },
       {
-       "number": "+1 442 333 3351",
-       "location": "Carlsbad, CA"
-      },
-      {
        "number": "+1 442 333 3359",
        "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 657 233 3336",
-       "location": "Garden Grove, CA"
       },
       {
        "number": "+1 657 333 3368",
@@ -599,11 +591,11 @@
   },
   {
    "pattern": "55555",
-   "count": 33,
+   "count": 26,
    "states": [
     {
      "state": "Florida",
-     "count": 12,
+     "count": 5,
      "numbers": [
       {
        "number": "+1 352 755 5556",
@@ -612,34 +604,6 @@
       {
        "number": "+1 386 355 5551",
        "location": "Pomona Park, FL"
-      },
-      {
-       "number": "+1 645 255 5551",
-       "location": "North Miami Beach, FL"
-      },
-      {
-       "number": "+1 645 255 5553",
-       "location": "North Miami Beach, FL"
-      },
-      {
-       "number": "+1 645 255 5554",
-       "location": "North Miami Beach, FL"
-      },
-      {
-       "number": "+1 645 255 5556",
-       "location": "North Miami Beach, FL"
-      },
-      {
-       "number": "+1 645 255 5557",
-       "location": "North Miami Beach, FL"
-      },
-      {
-       "number": "+1 645 255 5558",
-       "location": "North Miami Beach, FL"
-      },
-      {
-       "number": "+1 645 255 5559",
-       "location": "North Miami Beach, FL"
       },
       {
        "number": "+1 863 855 5551",
@@ -4061,7 +4025,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 845,
+  "total": 843,
   "state_count": 39,
   "states": [
    {
@@ -4300,7 +4264,7 @@
    },
    {
     "state": "California",
-    "count": 61,
+    "count": 60,
     "numbers": [
      {
       "number": "+1 530 730 0005",
@@ -4539,10 +4503,6 @@
       "location": "Fontana, CA"
      },
      {
-      "number": "+1 916 970 0009",
-      "location": "Sacramento, CA"
-     },
-     {
       "number": "+1 951 550 0007",
       "location": "Perris, CA"
      }
@@ -4722,7 +4682,7 @@
    },
    {
     "state": "Florida",
-    "count": 43,
+    "count": 42,
     "numbers": [
      {
       "number": "+1 239 900 0058",
@@ -4886,10 +4846,6 @@
      },
      {
       "number": "+1 941 900 0095",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0096",
       "location": "Bradenton, FL"
      },
      {
@@ -8297,9 +8253,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 887,
+  "total_5_in_a_row": 878,
   "patterns_with_results": 8,
-  "total_0000": 845,
+  "total_0000": 843,
   "state_count_0000": 39,
   "total_aaa_bbbb": 67,
   "aaa_bbbb_patterns_searched": 90,

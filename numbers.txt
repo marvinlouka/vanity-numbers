@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-10-02
-887 five-in-a-row · 845 four-zeros across 39 states · 67 AAA-BBBB across 19 of 90 combinations
+Updated: 2026-10-03
+878 five-in-a-row · 843 four-zeros across 39 states · 67 AAA-BBBB across 19 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -54,16 +54,14 @@ Updated: 2026-10-02
     +1 802 622 2228   Barre, VT
     +1 802 822 2227   Derby Line, VT
 
---- 33333 — 39 numbers ---
+--- 33333 — 37 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
 
-  CALIFORNIA (9)
+  CALIFORNIA (7)
     +1 442 333 3341   Carlsbad, CA
-    +1 442 333 3351   Carlsbad, CA
     +1 442 333 3359   Carlsbad, CA
-    +1 657 233 3336   Garden Grove, CA
     +1 657 333 3368   Orange, CA
     +1 951 433 3335   Corona, CA
     +1 951 433 3336   Corona, CA
@@ -170,18 +168,11 @@ Updated: 2026-10-02
     +1 540 444 4458   Salem, VA
     +1 540 444 4459   Salem, VA
 
---- 55555 — 33 numbers ---
+--- 55555 — 26 numbers ---
 
-  FLORIDA (12)
+  FLORIDA (5)
     +1 352 755 5556   Mount Dora, FL
     +1 386 355 5551   Pomona Park, FL
-    +1 645 255 5551   North Miami Beach, FL
-    +1 645 255 5553   North Miami Beach, FL
-    +1 645 255 5554   North Miami Beach, FL
-    +1 645 255 5556   North Miami Beach, FL
-    +1 645 255 5557   North Miami Beach, FL
-    +1 645 255 5558   North Miami Beach, FL
-    +1 645 255 5559   North Miami Beach, FL
     +1 863 855 5551   Lake Wales, FL
     +1 863 855 5553   Lake Wales, FL
     +1 863 855 5554   Lake Wales, FL
@@ -1064,7 +1055,7 @@ Updated: 2026-10-02
     +1 838 999 9902   Plattsburgh West, NY
 
 ====================================================
-4 ZEROS — 845 numbers across 39 states
+4 ZEROS — 843 numbers across 39 states
 ====================================================
 
   ALABAMA (26)
@@ -1127,7 +1118,7 @@ Updated: 2026-10-02
     +1 870 900 0081   Viola, AR
     +1 870 900 0092   Viola, AR
 
-  CALIFORNIA (61)
+  CALIFORNIA (60)
     +1 530 730 0005   Bangor, CA
     +1 530 730 0009   Bangor, CA
     +1 562 580 0004   Long Beach, CA
@@ -1187,7 +1178,6 @@ Updated: 2026-10-02
     +1 909 600 0048   Fontana, CA
     +1 909 600 0058   Fontana, CA
     +1 909 600 0072   Fontana, CA
-    +1 916 970 0009   Sacramento, CA
     +1 951 550 0007   Perris, CA
 
   CONNECTICUT (33)
@@ -1234,7 +1224,7 @@ Updated: 2026-10-02
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (43)
+  FLORIDA (42)
     +1 239 900 0058   Fort Myers, FL
     +1 239 900 0071   Fort Myers, FL
     +1 239 900 0078   Fort Myers, FL
@@ -1276,7 +1266,6 @@ Updated: 2026-10-02
     +1 941 900 0082   Bradenton, FL
     +1 941 900 0091   Bradenton, FL
     +1 941 900 0095   Bradenton, FL
-    +1 941 900 0096   Bradenton, FL
     +1 941 900 0097   Bradenton, FL
 
   GEORGIA (8)
