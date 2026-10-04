@@ -1,18 +1,14 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 24,
+   "count": 23,
    "states": [
     {
      "state": "Alabama",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 659 222 2285",
-       "location": "Dora, AL"
-      },
       {
        "number": "+1 938 222 2201",
        "location": "Florence, AL"
@@ -171,7 +167,7 @@
   },
   {
    "pattern": "33333",
-   "count": 37,
+   "count": 36,
    "states": [
     {
      "state": "Alabama",
@@ -185,7 +181,7 @@
     },
     {
      "state": "California",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 442 333 3341",
@@ -194,10 +190,6 @@
       {
        "number": "+1 442 333 3359",
        "location": "Carlsbad, CA"
-      },
-      {
-       "number": "+1 657 333 3368",
-       "location": "Orange, CA"
       },
       {
        "number": "+1 951 433 3335",
@@ -4025,12 +4017,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 843,
+  "total": 840,
   "state_count": 39,
   "states": [
    {
     "state": "Alabama",
-    "count": 26,
+    "count": 27,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -4067,6 +4059,10 @@
      {
       "number": "+1 334 910 0003",
       "location": "Montgomery, AL"
+     },
+     {
+      "number": "+1 659 260 0004",
+      "location": "Montevallo, AL"
      },
      {
       "number": "+1 659 300 0047",
@@ -4682,23 +4678,15 @@
    },
    {
     "state": "Florida",
-    "count": 42,
+    "count": 40,
     "numbers": [
      {
       "number": "+1 239 900 0058",
       "location": "Fort Myers, FL"
      },
      {
-      "number": "+1 239 900 0071",
-      "location": "Fort Myers, FL"
-     },
-     {
       "number": "+1 239 900 0078",
       "location": "Fort Myers, FL"
-     },
-     {
-      "number": "+1 352 570 0008",
-      "location": "Yankeetown, FL"
      },
      {
       "number": "+1 352 830 0005",
@@ -5934,7 +5922,7 @@
    },
    {
     "state": "New York",
-    "count": 244,
+    "count": 242,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -6305,12 +6293,12 @@
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0027",
-      "location": "Plattsburgh West, NY"
-     },
-     {
       "number": "+1 518 650 0009",
       "location": "Rensselaer, NY"
+     },
+     {
+      "number": "+1 518 750 0001",
+      "location": "Preston-Potter Hollow, NY"
      },
      {
       "number": "+1 518 760 0002",
@@ -6693,10 +6681,6 @@
       "location": "Batavia, NY"
      },
      {
-      "number": "+1 585 660 0004",
-      "location": "Rochester, NY"
-     },
-     {
       "number": "+1 585 800 0022",
       "location": "Richburg, NY"
      },
@@ -6735,6 +6719,10 @@
      {
       "number": "+1 585 910 0008",
       "location": "Rochester, NY"
+     },
+     {
+      "number": "+1 607 210 0002",
+      "location": "Watkins Glen, NY"
      },
      {
       "number": "+1 607 300 0013",
@@ -6853,11 +6841,7 @@
       "location": "Canaseraga, NY"
      },
      {
-      "number": "+1 607 800 0014",
-      "location": "Freeville, NY"
-     },
-     {
-      "number": "+1 631 600 0014",
+      "number": "+1 631 600 0025",
       "location": "East Northport, NY"
      },
      {
@@ -6906,10 +6890,6 @@
      },
      {
       "number": "+1 838 910 0002",
-      "location": "Rensselaer, NY"
-     },
-     {
-      "number": "+1 838 910 0006",
       "location": "Rensselaer, NY"
      }
     ]
@@ -8253,9 +8233,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 878,
+  "total_5_in_a_row": 876,
   "patterns_with_results": 8,
-  "total_0000": 843,
+  "total_0000": 840,
   "state_count_0000": 39,
   "total_aaa_bbbb": 67,
   "aaa_bbbb_patterns_searched": 90,
