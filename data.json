@@ -1,17 +1,65 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 23,
+   "count": 72,
    "states": [
     {
-     "state": "Alabama",
+     "state": "Colorado",
+     "count": 6,
+     "numbers": [
+      {
+       "number": "+1 970 722 2221",
+       "location": "Fraser, CO"
+      },
+      {
+       "number": "+1 970 722 2223",
+       "location": "Fraser, CO"
+      },
+      {
+       "number": "+1 970 722 2224",
+       "location": "Fraser, CO"
+      },
+      {
+       "number": "+1 970 722 2225",
+       "location": "Fraser, CO"
+      },
+      {
+       "number": "+1 970 722 2226",
+       "location": "Fraser, CO"
+      },
+      {
+       "number": "+1 970 722 2228",
+       "location": "Fraser, CO"
+      }
+     ]
+    },
+    {
+     "state": "Connecticut",
      "count": 1,
      "numbers": [
       {
-       "number": "+1 938 222 2201",
-       "location": "Florence, AL"
+       "number": "+1 475 522 2221",
+       "location": "Madison Center, CT"
+      }
+     ]
+    },
+    {
+     "state": "Georgia",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 229 222 2215",
+       "location": "Ashburn, GA"
+      },
+      {
+       "number": "+1 229 222 2261",
+       "location": "Ashburn, GA"
+      },
+      {
+       "number": "+1 762 422 2223",
+       "location": "Mccaysville, GA"
       }
      ]
     },
@@ -71,30 +119,160 @@
     },
     {
      "state": "Minnesota",
-     "count": 1,
+     "count": 3,
      "numbers": [
       {
+       "number": "+1 507 922 2224",
+       "location": "Spring Valley, MN"
+      },
+      {
        "number": "+1 507 922 2225",
+       "location": "Spring Valley, MN"
+      },
+      {
+       "number": "+1 507 922 2226",
        "location": "Spring Valley, MN"
       }
      ]
     },
     {
      "state": "Nebraska",
-     "count": 1,
+     "count": 15,
      "numbers": [
       {
        "number": "+1 308 422 2221",
        "location": "Wilsonville, NE"
+      },
+      {
+       "number": "+1 531 222 2206",
+       "location": "Omaha, NE"
+      },
+      {
+       "number": "+1 531 222 2216",
+       "location": "Omaha, NE"
+      },
+      {
+       "number": "+1 531 222 2246",
+       "location": "Omaha, NE"
+      },
+      {
+       "number": "+1 531 222 2269",
+       "location": "Omaha, NE"
+      },
+      {
+       "number": "+1 531 222 2281",
+       "location": "Omaha, NE"
+      },
+      {
+       "number": "+1 531 222 2290",
+       "location": "Omaha, NE"
+      },
+      {
+       "number": "+1 531 322 2220",
+       "location": "Ceresco, NE"
+      },
+      {
+       "number": "+1 531 322 2221",
+       "location": "Ceresco, NE"
+      },
+      {
+       "number": "+1 531 322 2224",
+       "location": "Ceresco, NE"
+      },
+      {
+       "number": "+1 531 322 2225",
+       "location": "Ceresco, NE"
+      },
+      {
+       "number": "+1 531 322 2226",
+       "location": "Ceresco, NE"
+      },
+      {
+       "number": "+1 531 322 2227",
+       "location": "Ceresco, NE"
+      },
+      {
+       "number": "+1 531 322 2228",
+       "location": "Ceresco, NE"
+      },
+      {
+       "number": "+1 531 322 2229",
+       "location": "Ceresco, NE"
+      }
+     ]
+    },
+    {
+     "state": "Nevada",
+     "count": 14,
+     "numbers": [
+      {
+       "number": "+1 775 522 2220",
+       "location": "Ely, NV"
+      },
+      {
+       "number": "+1 775 522 2221",
+       "location": "Ely, NV"
+      },
+      {
+       "number": "+1 775 522 2223",
+       "location": "Ely, NV"
+      },
+      {
+       "number": "+1 775 522 2226",
+       "location": "Ely, NV"
+      },
+      {
+       "number": "+1 775 522 2227",
+       "location": "Ely, NV"
+      },
+      {
+       "number": "+1 775 522 2228",
+       "location": "Ely, NV"
+      },
+      {
+       "number": "+1 775 522 2229",
+       "location": "Ely, NV"
+      },
+      {
+       "number": "+1 775 822 2220",
+       "location": "Yerington, NV"
+      },
+      {
+       "number": "+1 775 822 2221",
+       "location": "Yerington, NV"
+      },
+      {
+       "number": "+1 775 822 2223",
+       "location": "Yerington, NV"
+      },
+      {
+       "number": "+1 775 822 2225",
+       "location": "Yerington, NV"
+      },
+      {
+       "number": "+1 775 822 2226",
+       "location": "Yerington, NV"
+      },
+      {
+       "number": "+1 775 822 2227",
+       "location": "Yerington, NV"
+      },
+      {
+       "number": "+1 775 822 2229",
+       "location": "Yerington, NV"
       }
      ]
     },
     {
      "state": "New York",
-     "count": 2,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 585 822 2220",
+       "location": "East Rochester, NY"
+      },
+      {
+       "number": "+1 585 822 2226",
        "location": "East Rochester, NY"
       },
       {
@@ -105,26 +283,22 @@
     },
     {
      "state": "Oregon",
-     "count": 3,
+     "count": 1,
      "numbers": [
       {
-       "number": "+1 458 322 2221",
-       "location": "Albany, OR"
-      },
-      {
        "number": "+1 458 322 2226",
-       "location": "Albany, OR"
-      },
-      {
-       "number": "+1 458 322 2229",
        "location": "Albany, OR"
       }
      ]
     },
     {
      "state": "Rhode Island",
-     "count": 1,
+     "count": 2,
      "numbers": [
+      {
+       "number": "+1 401 422 2223",
+       "location": "Pawtucket, RI"
+      },
       {
        "number": "+1 401 422 2225",
        "location": "Pawtucket, RI"
@@ -158,8 +332,54 @@
        "location": "Barre, VT"
       },
       {
-       "number": "+1 802 822 2227",
+       "number": "+1 802 822 2221",
        "location": "Derby Line, VT"
+      }
+     ]
+    },
+    {
+     "state": "Washington",
+     "count": 10,
+     "numbers": [
+      {
+       "number": "+1 253 322 2227",
+       "location": "Tacoma, WA"
+      },
+      {
+       "number": "+1 253 322 2228",
+       "location": "Tacoma, WA"
+      },
+      {
+       "number": "+1 253 322 2229",
+       "location": "Tacoma, WA"
+      },
+      {
+       "number": "+1 425 222 2208",
+       "location": "Snoqualmie, WA"
+      },
+      {
+       "number": "+1 509 722 2221",
+       "location": "Chewelah, WA"
+      },
+      {
+       "number": "+1 509 722 2223",
+       "location": "Chewelah, WA"
+      },
+      {
+       "number": "+1 509 722 2225",
+       "location": "Chewelah, WA"
+      },
+      {
+       "number": "+1 509 722 2226",
+       "location": "Chewelah, WA"
+      },
+      {
+       "number": "+1 509 722 2228",
+       "location": "Chewelah, WA"
+      },
+      {
+       "number": "+1 509 722 2229",
+       "location": "Chewelah, WA"
       }
      ]
     }
@@ -167,7 +387,7 @@
   },
   {
    "pattern": "33333",
-   "count": 36,
+   "count": 45,
    "states": [
     {
      "state": "Alabama",
@@ -211,11 +431,53 @@
     },
     {
      "state": "Connecticut",
-     "count": 1,
+     "count": 7,
      "numbers": [
+      {
+       "number": "+1 959 933 3331",
+       "location": "New Hartford Center, CT"
+      },
+      {
+       "number": "+1 959 933 3332",
+       "location": "New Hartford Center, CT"
+      },
+      {
+       "number": "+1 959 933 3334",
+       "location": "New Hartford Center, CT"
+      },
+      {
+       "number": "+1 959 933 3335",
+       "location": "New Hartford Center, CT"
+      },
+      {
+       "number": "+1 959 933 3336",
+       "location": "New Hartford Center, CT"
+      },
+      {
+       "number": "+1 959 933 3337",
+       "location": "New Hartford Center, CT"
+      },
       {
        "number": "+1 959 933 3338",
        "location": "New Hartford Center, CT"
+      }
+     ]
+    },
+    {
+     "state": "Georgia",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 912 333 3347",
+       "location": "Hazlehurst, GA"
+      },
+      {
+       "number": "+1 912 333 3352",
+       "location": "Hazlehurst, GA"
+      },
+      {
+       "number": "+1 912 333 3371",
+       "location": "Hazlehurst, GA"
       }
      ]
     },
@@ -231,11 +493,19 @@
     },
     {
      "state": "Nebraska",
-     "count": 1,
+     "count": 3,
      "numbers": [
       {
-       "number": "+1 531 333 3391",
-       "location": "Lincoln, NE"
+       "number": "+1 402 433 3331",
+       "location": "Western, NE"
+      },
+      {
+       "number": "+1 402 433 3337",
+       "location": "Western, NE"
+      },
+      {
+       "number": "+1 402 433 3338",
+       "location": "Western, NE"
       }
      ]
     },
@@ -259,23 +529,11 @@
     },
     {
      "state": "New York",
-     "count": 11,
+     "count": 8,
      "numbers": [
       {
        "number": "+1 315 633 3338",
        "location": "Bridgeport, NY"
-      },
-      {
-       "number": "+1 518 333 3313",
-       "location": "Brushton, NY"
-      },
-      {
-       "number": "+1 518 333 3332",
-       "location": "Brushton, NY"
-      },
-      {
-       "number": "+1 518 333 3355",
-       "location": "Brushton, NY"
       },
       {
        "number": "+1 716 733 3331",
@@ -304,6 +562,16 @@
       {
        "number": "+1 838 833 3335",
        "location": "Ravena, NY"
+      }
+     ]
+    },
+    {
+     "state": "South Dakota",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 605 633 3339",
+       "location": "Egan, SD"
       }
      ]
     },
@@ -371,7 +639,7 @@
   },
   {
    "pattern": "44444",
-   "count": 41,
+   "count": 61,
    "states": [
     {
      "state": "Alabama",
@@ -405,11 +673,69 @@
     },
     {
      "state": "Connecticut",
-     "count": 1,
+     "count": 8,
      "numbers": [
       {
        "number": "+1 860 744 4446",
        "location": "Willimantic, CT"
+      },
+      {
+       "number": "+1 959 244 4440",
+       "location": "New Britain, CT"
+      },
+      {
+       "number": "+1 959 244 4441",
+       "location": "New Britain, CT"
+      },
+      {
+       "number": "+1 959 244 4443",
+       "location": "New Britain, CT"
+      },
+      {
+       "number": "+1 959 244 4445",
+       "location": "New Britain, CT"
+      },
+      {
+       "number": "+1 959 244 4446",
+       "location": "New Britain, CT"
+      },
+      {
+       "number": "+1 959 244 4447",
+       "location": "New Britain, CT"
+      },
+      {
+       "number": "+1 959 244 4448",
+       "location": "New Britain, CT"
+      }
+     ]
+    },
+    {
+     "state": "Georgia",
+     "count": 6,
+     "numbers": [
+      {
+       "number": "+1 478 344 4446",
+       "location": "Milledgeville, GA"
+      },
+      {
+       "number": "+1 762 344 4445",
+       "location": "Dalton, GA"
+      },
+      {
+       "number": "+1 943 244 4441",
+       "location": "Jonesboro, GA"
+      },
+      {
+       "number": "+1 943 244 4445",
+       "location": "Jonesboro, GA"
+      },
+      {
+       "number": "+1 943 244 4447",
+       "location": "Jonesboro, GA"
+      },
+      {
+       "number": "+1 943 244 4449",
+       "location": "Jonesboro, GA"
       }
      ]
     },
@@ -420,6 +746,16 @@
       {
        "number": "+1 765 344 4446",
        "location": "Rockville, IN"
+      }
+     ]
+    },
+    {
+     "state": "Maryland",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 240 844 4445",
+       "location": "Leonardtown, MD"
       }
      ]
     },
@@ -446,6 +782,26 @@
       {
        "number": "+1 320 844 4443",
        "location": "Avon, MN"
+      }
+     ]
+    },
+    {
+     "state": "Nevada",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 775 244 4441",
+       "location": "Carlin, NV"
+      }
+     ]
+    },
+    {
+     "state": "Oregon",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 541 644 4443",
+       "location": "Harrisburg, OR"
       }
      ]
     },
@@ -578,12 +934,34 @@
        "location": "Salem, VA"
       }
      ]
+    },
+    {
+     "state": "Washington",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 425 944 4442",
+       "location": "Clyde Hill, WA"
+      },
+      {
+       "number": "+1 425 944 4443",
+       "location": "Clyde Hill, WA"
+      },
+      {
+       "number": "+1 425 944 4446",
+       "location": "Clyde Hill, WA"
+      },
+      {
+       "number": "+1 425 944 4447",
+       "location": "Clyde Hill, WA"
+      }
+     ]
     }
    ]
   },
   {
    "pattern": "55555",
-   "count": 26,
+   "count": 46,
    "states": [
     {
      "state": "Florida",
@@ -612,6 +990,24 @@
      ]
     },
     {
+     "state": "Maryland",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 240 955 5551",
+       "location": "La Plata, MD"
+      },
+      {
+       "number": "+1 240 955 5554",
+       "location": "La Plata, MD"
+      },
+      {
+       "number": "+1 240 955 5557",
+       "location": "La Plata, MD"
+      }
+     ]
+    },
+    {
      "state": "Michigan",
      "count": 2,
      "numbers": [
@@ -636,6 +1032,44 @@
       {
        "number": "+1 218 955 5558",
        "location": "Breckenridge, MN"
+      }
+     ]
+    },
+    {
+     "state": "Nevada",
+     "count": 8,
+     "numbers": [
+      {
+       "number": "+1 775 255 5550",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 255 5551",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 255 5553",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 255 5554",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 255 5556",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 255 5557",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 255 5559",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 855 5551",
+       "location": "Ely, NV"
       }
      ]
     },
@@ -706,6 +1140,28 @@
      ]
     },
     {
+     "state": "Oregon",
+     "count": 4,
+     "numbers": [
+      {
+       "number": "+1 971 455 5552",
+       "location": "Woodburn, OR"
+      },
+      {
+       "number": "+1 971 455 5553",
+       "location": "Woodburn, OR"
+      },
+      {
+       "number": "+1 971 455 5558",
+       "location": "Woodburn, OR"
+      },
+      {
+       "number": "+1 971 455 5559",
+       "location": "Woodburn, OR"
+      }
+     ]
+    },
+    {
      "state": "Vermont",
      "count": 1,
      "numbers": [
@@ -717,8 +1173,28 @@
     },
     {
      "state": "Washington",
-     "count": 1,
+     "count": 6,
      "numbers": [
+      {
+       "number": "+1 425 955 5558",
+       "location": "Clyde Hill, WA"
+      },
+      {
+       "number": "+1 509 355 5558",
+       "location": "Spokane, WA"
+      },
+      {
+       "number": "+1 509 955 5551",
+       "location": "Yakima, WA"
+      },
+      {
+       "number": "+1 509 955 5553",
+       "location": "Yakima, WA"
+      },
+      {
+       "number": "+1 509 955 5554",
+       "location": "Yakima, WA"
+      },
       {
        "number": "+1 509 955 5557",
        "location": "Yakima, WA"
@@ -729,11 +1205,11 @@
   },
   {
    "pattern": "66666",
-   "count": 72,
+   "count": 122,
    "states": [
     {
      "state": "Alabama",
-     "count": 17,
+     "count": 16,
      "numbers": [
       {
        "number": "+1 251 566 6663",
@@ -780,10 +1256,6 @@
        "location": "Wilton, AL"
       },
       {
-       "number": "+1 659 266 6667",
-       "location": "Wilton, AL"
-      },
-      {
        "number": "+1 659 266 6668",
        "location": "Wilton, AL"
       },
@@ -821,14 +1293,34 @@
     },
     {
      "state": "Colorado",
-     "count": 3,
+     "count": 8,
      "numbers": [
+      {
+       "number": "+1 719 666 6625",
+       "location": "Colorado Springs, CO"
+      },
+      {
+       "number": "+1 719 666 6651",
+       "location": "Colorado Springs, CO"
+      },
+      {
+       "number": "+1 719 966 6663",
+       "location": "Buena Vista, CO"
+      },
       {
        "number": "+1 970 866 6661",
        "location": "La Salle, CO"
       },
       {
        "number": "+1 970 866 6662",
+       "location": "La Salle, CO"
+      },
+      {
+       "number": "+1 970 866 6663",
+       "location": "La Salle, CO"
+      },
+      {
+       "number": "+1 970 866 6664",
        "location": "La Salle, CO"
       },
       {
@@ -839,10 +1331,34 @@
     },
     {
      "state": "Connecticut",
-     "count": 1,
+     "count": 7,
      "numbers": [
       {
+       "number": "+1 959 666 6650",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 666 6652",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 666 6659",
+       "location": "Hartford, CT"
+      },
+      {
        "number": "+1 959 666 6681",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 666 6682",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 666 6685",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 666 6693",
        "location": "Hartford, CT"
       }
      ]
@@ -866,6 +1382,150 @@
       {
        "number": "+1 863 466 6665",
        "location": "Okeechobee, FL"
+      }
+     ]
+    },
+    {
+     "state": "Georgia",
+     "count": 32,
+     "numbers": [
+      {
+       "number": "+1 229 466 6661",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 478 666 6659",
+       "location": "Centerville, GA"
+      },
+      {
+       "number": "+1 478 666 6698",
+       "location": "Centerville, GA"
+      },
+      {
+       "number": "+1 706 666 6007",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6063",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6080",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6169",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6170",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6171",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6172",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6173",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6289",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6721",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6722",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6723",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6724",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6725",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6727",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6729",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6730",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6731",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6734",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6736",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6738",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6740",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6743",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6744",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6745",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6746",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6747",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6748",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6749",
+       "location": "Watkinsville, GA"
+      }
+     ]
+    },
+    {
+     "state": "Idaho",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 986 266 6661",
+       "location": "Nampa, ID"
       }
      ]
     },
@@ -930,46 +1590,12 @@
      ]
     },
     {
-     "state": "Louisiana",
-     "count": 6,
-     "numbers": [
-      {
-       "number": "+1 318 766 6661",
-       "location": "Waterproof, LA"
-      },
-      {
-       "number": "+1 318 766 6662",
-       "location": "Waterproof, LA"
-      },
-      {
-       "number": "+1 318 766 6664",
-       "location": "Waterproof, LA"
-      },
-      {
-       "number": "+1 318 766 6665",
-       "location": "Waterproof, LA"
-      },
-      {
-       "number": "+1 318 766 6668",
-       "location": "Waterproof, LA"
-      },
-      {
-       "number": "+1 318 766 6669",
-       "location": "Waterproof, LA"
-      }
-     ]
-    },
-    {
      "state": "Maryland",
-     "count": 5,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 227 666 6618",
        "location": "Frederick, MD"
-      },
-      {
-       "number": "+1 443 266 6664",
-       "location": "Glenwood, MD"
       },
       {
        "number": "+1 667 966 6662",
@@ -977,10 +1603,6 @@
       },
       {
        "number": "+1 667 966 6664",
-       "location": "New Windsor, MD"
-      },
-      {
-       "number": "+1 667 966 6665",
        "location": "New Windsor, MD"
       }
      ]
@@ -1012,6 +1634,40 @@
       {
        "number": "+1 531 366 6669",
        "location": "Omaha, NE"
+      }
+     ]
+    },
+    {
+     "state": "Nevada",
+     "count": 7,
+     "numbers": [
+      {
+       "number": "+1 775 366 6660",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 366 6661",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 366 6662",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 366 6664",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 366 6665",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 366 6667",
+       "location": "Fernley, NV"
+      },
+      {
+       "number": "+1 775 366 6669",
+       "location": "Fernley, NV"
       }
      ]
     },
@@ -1082,8 +1738,42 @@
      ]
     },
     {
+     "state": "North Dakota",
+     "count": 7,
+     "numbers": [
+      {
+       "number": "+1 701 666 6614",
+       "location": "Minto, ND"
+      },
+      {
+       "number": "+1 701 666 6617",
+       "location": "Minto, ND"
+      },
+      {
+       "number": "+1 701 666 6620",
+       "location": "Minto, ND"
+      },
+      {
+       "number": "+1 701 666 6642",
+       "location": "Minto, ND"
+      },
+      {
+       "number": "+1 701 666 6654",
+       "location": "Minto, ND"
+      },
+      {
+       "number": "+1 701 666 6675",
+       "location": "Minto, ND"
+      },
+      {
+       "number": "+1 701 666 6685",
+       "location": "Minto, ND"
+      }
+     ]
+    },
+    {
      "state": "Oregon",
-     "count": 2,
+     "count": 3,
      "numbers": [
       {
        "number": "+1 541 866 6661",
@@ -1091,6 +1781,10 @@
       },
       {
        "number": "+1 541 866 6662",
+       "location": "Glendale, OR"
+      },
+      {
+       "number": "+1 541 866 6663",
        "location": "Glendale, OR"
       }
      ]
@@ -1131,7 +1825,7 @@
   },
   {
    "pattern": "77777",
-   "count": 220,
+   "count": 243,
    "states": [
     {
      "state": "California",
@@ -1861,10 +2555,42 @@
     },
     {
      "state": "Connecticut",
-     "count": 3,
+     "count": 16,
      "numbers": [
       {
+       "number": "+1 475 477 7776",
+       "location": "Stamford, CT"
+      },
+      {
+       "number": "+1 475 477 7779",
+       "location": "Stamford, CT"
+      },
+      {
+       "number": "+1 959 777 7701",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7702",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7703",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7718",
+       "location": "Hartford, CT"
+      },
+      {
        "number": "+1 959 777 7723",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7734",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7736",
        "location": "Hartford, CT"
       },
       {
@@ -1872,7 +2598,27 @@
        "location": "Hartford, CT"
       },
       {
+       "number": "+1 959 777 7753",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7768",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7781",
+       "location": "Hartford, CT"
+      },
+      {
        "number": "+1 959 777 7792",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7793",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 777 7794",
        "location": "Hartford, CT"
       }
      ]
@@ -1923,12 +2669,8 @@
     },
     {
      "state": "Maryland",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 240 977 7773",
-       "location": "Forest Heights, MD"
-      },
       {
        "number": "+1 240 977 7776",
        "location": "Forest Heights, MD"
@@ -1937,7 +2679,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 12,
+     "count": 11,
      "numbers": [
       {
        "number": "+1 531 777 7705",
@@ -1982,10 +2724,6 @@
       {
        "number": "+1 531 777 7784",
        "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7786",
-       "location": "Omaha, NE"
       }
      ]
     },
@@ -2008,49 +2746,57 @@
      ]
     },
     {
-     "state": "Ohio",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 330 577 7774",
-       "location": "Ravenna, OH"
-      }
-     ]
-    },
-    {
      "state": "Oregon",
-     "count": 2,
+     "count": 6,
      "numbers": [
       {
-       "number": "+1 458 777 7745",
+       "number": "+1 458 777 7709",
+       "location": "Jefferson, OR"
+      },
+      {
+       "number": "+1 458 777 7719",
+       "location": "Jefferson, OR"
+      },
+      {
+       "number": "+1 458 777 7736",
        "location": "Jefferson, OR"
       },
       {
        "number": "+1 458 777 7759",
        "location": "Jefferson, OR"
-      }
-     ]
-    },
-    {
-     "state": "Pennsylvania",
-     "count": 1,
-     "numbers": [
+      },
       {
-       "number": "+1 267 777 7133",
-       "location": "Philadelphia, PA"
+       "number": "+1 458 777 7792",
+       "location": "Jefferson, OR"
+      },
+      {
+       "number": "+1 458 777 7795",
+       "location": "Jefferson, OR"
       }
      ]
     },
     {
      "state": "Rhode Island",
-     "count": 4,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 401 777 7742",
        "location": "Newport East, RI"
       },
       {
+       "number": "+1 401 777 7752",
+       "location": "Newport East, RI"
+      },
+      {
+       "number": "+1 401 777 7753",
+       "location": "Newport East, RI"
+      },
+      {
        "number": "+1 401 777 7765",
+       "location": "Newport East, RI"
+      },
+      {
+       "number": "+1 401 777 7781",
        "location": "Newport East, RI"
       },
       {
@@ -2084,12 +2830,46 @@
        "location": "Brian Head, UT"
       }
      ]
+    },
+    {
+     "state": "Washington",
+     "count": 7,
+     "numbers": [
+      {
+       "number": "+1 360 777 7725",
+       "location": "Long Beach, WA"
+      },
+      {
+       "number": "+1 360 777 7751",
+       "location": "Long Beach, WA"
+      },
+      {
+       "number": "+1 360 777 7792",
+       "location": "Long Beach, WA"
+      },
+      {
+       "number": "+1 425 977 7776",
+       "location": "Mountlake Terrace, WA"
+      },
+      {
+       "number": "+1 509 277 7771",
+       "location": "Spokane, WA"
+      },
+      {
+       "number": "+1 509 677 7771",
+       "location": "Lind, WA"
+      },
+      {
+       "number": "+1 509 677 7773",
+       "location": "Lind, WA"
+      }
+     ]
     }
    ]
   },
   {
    "pattern": "88888",
-   "count": 291,
+   "count": 692,
    "states": [
     {
      "state": "Alabama",
@@ -2820,8 +3600,428 @@
      ]
     },
     {
+     "state": "Connecticut",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 475 388 8886",
+       "location": "Stamford, CT"
+      }
+     ]
+    },
+    {
+     "state": "Georgia",
+     "count": 101,
+     "numbers": [
+      {
+       "number": "+1 478 888 8002",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8014",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8023",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8025",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8031",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8037",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8056",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8062",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8066",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8068",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8069",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8072",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8113",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8119",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8124",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8136",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8140",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8142",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8167",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8168",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8176",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8194",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8205",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8207",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8215",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8225",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8257",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8260",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8281",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8291",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8310",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8323",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8358",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8392",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8401",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8403",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8412",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8422",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8431",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8435",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8441",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8455",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8458",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8476",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8480",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8486",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8495",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8507",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8514",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8525",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8535",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8542",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8549",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8559",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8574",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8580",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8587",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8590",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8594",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8596",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8608",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8610",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8614",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8620",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8624",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8630",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8644",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8651",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8657",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8659",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8662",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8672",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8699",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8701",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8706",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8709",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8717",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8735",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8742",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8747",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8752",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8755",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8773",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8780",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8784",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8794",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8799",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8908",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8911",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8921",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8926",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8930",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8941",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8945",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8950",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8964",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8976",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8978",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8986",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8991",
+       "location": "Sandersville, GA"
+      },
+      {
+       "number": "+1 478 888 8993",
+       "location": "Sandersville, GA"
+      }
+     ]
+    },
+    {
      "state": "Minnesota",
-     "count": 99,
+     "count": 174,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -2841,6 +4041,10 @@
       },
       {
        "number": "+1 218 888 8017",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8018",
        "location": "Bemidji, MN"
       },
       {
@@ -2876,19 +4080,11 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8098",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8112",
        "location": "Bemidji, MN"
       },
       {
        "number": "+1 218 888 8115",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8117",
        "location": "Bemidji, MN"
       },
       {
@@ -2928,10 +4124,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8145",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8149",
        "location": "Bemidji, MN"
       },
@@ -2960,6 +4152,14 @@
        "location": "Bemidji, MN"
       },
       {
+       "number": "+1 218 888 8174",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8179",
+       "location": "Bemidji, MN"
+      },
+      {
        "number": "+1 218 888 8201",
        "location": "Bemidji, MN"
       },
@@ -2977,6 +4177,10 @@
       },
       {
        "number": "+1 218 888 8215",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8216",
        "location": "Bemidji, MN"
       },
       {
@@ -3032,11 +4236,7 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8286",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8289",
+       "number": "+1 218 888 8285",
        "location": "Bemidji, MN"
       },
       {
@@ -3076,11 +4276,11 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8328",
+       "number": "+1 218 888 8332",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8332",
+       "number": "+1 218 888 8335",
        "location": "Bemidji, MN"
       },
       {
@@ -3120,6 +4320,38 @@
        "location": "Bemidji, MN"
       },
       {
+       "number": "+1 218 888 8403",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8404",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8405",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8407",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8408",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8409",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8410",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8411",
+       "location": "Bemidji, MN"
+      },
+      {
        "number": "+1 218 888 8412",
        "location": "Bemidji, MN"
       },
@@ -3128,7 +4360,23 @@
        "location": "Bemidji, MN"
       },
       {
+       "number": "+1 218 888 8419",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8422",
+       "location": "Bemidji, MN"
+      },
+      {
        "number": "+1 218 888 8424",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8426",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8427",
        "location": "Bemidji, MN"
       },
       {
@@ -3136,11 +4384,31 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8458",
+       "number": "+1 218 888 8431",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8470",
+       "number": "+1 218 888 8433",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8434",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8435",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8501",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8502",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8503",
        "location": "Bemidji, MN"
       },
       {
@@ -3148,7 +4416,39 @@
        "location": "Bemidji, MN"
       },
       {
+       "number": "+1 218 888 8505",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8506",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8508",
+       "location": "Bemidji, MN"
+      },
+      {
        "number": "+1 218 888 8509",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8511",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8513",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8514",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8516",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8519",
        "location": "Bemidji, MN"
       },
       {
@@ -3156,7 +4456,99 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8594",
+       "number": "+1 218 888 8525",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8526",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8527",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8530",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8531",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8532",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8604",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8607",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8609",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8611",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8614",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8615",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8616",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8617",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8619",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8620",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8621",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8622",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8626",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8630",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8631",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8632",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8634",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8636",
        "location": "Bemidji, MN"
       },
       {
@@ -3164,43 +4556,91 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8641",
+       "number": "+1 218 888 8639",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8645",
+       "number": "+1 218 888 8701",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8651",
+       "number": "+1 218 888 8702",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8656",
+       "number": "+1 218 888 8703",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8664",
+       "number": "+1 218 888 8704",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8693",
+       "number": "+1 218 888 8705",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8738",
+       "number": "+1 218 888 8706",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8749",
+       "number": "+1 218 888 8709",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8750",
+       "number": "+1 218 888 8710",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8772",
+       "number": "+1 218 888 8711",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8716",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8717",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8718",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8720",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8721",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8724",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8725",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8727",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8729",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8730",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8735",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8901",
        "location": "Bemidji, MN"
       },
       {
@@ -3208,35 +4648,475 @@
        "location": "Bemidji, MN"
       },
       {
+       "number": "+1 218 888 8908",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8909",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8911",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8913",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8914",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8915",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8921",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8922",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8923",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8924",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8925",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8927",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8928",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8930",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8932",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8934",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8935",
+       "location": "Bemidji, MN"
+      },
+      {
        "number": "+1 218 888 8936",
        "location": "Bemidji, MN"
+      }
+     ]
+    },
+    {
+     "state": "Nebraska",
+     "count": 71,
+     "numbers": [
+      {
+       "number": "+1 308 888 8021",
+       "location": "Chappell, NE"
       },
       {
-       "number": "+1 218 888 8974",
-       "location": "Bemidji, MN"
+       "number": "+1 308 888 8024",
+       "location": "Chappell, NE"
       },
       {
-       "number": "+1 320 588 8887",
-       "location": "Finlayson, MN"
+       "number": "+1 308 888 8025",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8027",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8029",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8031",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8035",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8041",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8042",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8045",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8052",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8056",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8057",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8058",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8059",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8061",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8062",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8065",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8066",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8067",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8203",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8204",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8206",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8207",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8208",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8209",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8211",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8213",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8214",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8215",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8219",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8401",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8402",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8404",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8414",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8418",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8419",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8421",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8432",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8433",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8442",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8570",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8582",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8583",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8604",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8613",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8615",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8616",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8637",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8642",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8714",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8715",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8717",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8742",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8745",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8757",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8760",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8770",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8929",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8936",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8938",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8947",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8957",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8959",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8965",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8978",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8979",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8981",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8986",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8991",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8997",
+       "location": "Chappell, NE"
+      }
+     ]
+    },
+    {
+     "state": "Nevada",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 775 288 8885",
+       "location": "Lovelock, NV"
       }
      ]
     },
     {
      "state": "New York",
-     "count": 1,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 315 588 8880",
        "location": "Alexandria Bay, NY"
+      },
+      {
+       "number": "+1 585 788 8886",
+       "location": "Bloomfield, NY"
       }
      ]
     },
     {
      "state": "Oregon",
-     "count": 10,
+     "count": 162,
      "numbers": [
       {
+       "number": "+1 458 888 8002",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8014",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8016",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8028",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8029",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8031",
+       "location": "Milton-Freewater, OR"
+      },
+      {
        "number": "+1 458 888 8038",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8040",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8043",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8053",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8056",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8059",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8061",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8064",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8071",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8073",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8075",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8083",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8084",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8092",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3244,7 +5124,95 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8196",
+       "number": "+1 458 888 8102",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8103",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8104",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8110",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8115",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8119",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8120",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8127",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8133",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8137",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8147",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8148",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8153",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8156",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8157",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8173",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8184",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8190",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8191",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8202",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8204",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8213",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8224",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3252,7 +5220,43 @@
        "location": "Milton-Freewater, OR"
       },
       {
+       "number": "+1 458 888 8230",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8233",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8236",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8247",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8252",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8261",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8264",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8268",
+       "location": "Milton-Freewater, OR"
+      },
+      {
        "number": "+1 458 888 8276",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8281",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3260,7 +5264,355 @@
        "location": "Milton-Freewater, OR"
       },
       {
+       "number": "+1 458 888 8293",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8295",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8312",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8320",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8325",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8337",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8351",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8374",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8379",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8382",
+       "location": "Milton-Freewater, OR"
+      },
+      {
        "number": "+1 458 888 8398",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8405",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8408",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8410",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8418",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8436",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8438",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8447",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8452",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8458",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8460",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8461",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8464",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8466",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8470",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8492",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8495",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8496",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8504",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8505",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8512",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8522",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8524",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8537",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8540",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8545",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8549",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8556",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8557",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8562",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8566",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8571",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8573",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8575",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8580",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8581",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8583",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8589",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8602",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8607",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8608",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8609",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8610",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8611",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8612",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8614",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8615",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8616",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8619",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8622",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8638",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8652",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8656",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8660",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8667",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8669",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8677",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8710",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8713",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8714",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8717",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8723",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8729",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8742",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8752",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8753",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8755",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8762",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8763",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8769",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8773",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8774",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8780",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8797",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8903",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8905",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8908",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8911",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -3268,22 +5620,72 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8951",
+       "number": "+1 458 888 8915",
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8953",
+       "number": "+1 458 888 8921",
        "location": "Milton-Freewater, OR"
-      }
-     ]
-    },
-    {
-     "state": "South Carolina",
-     "count": 1,
-     "numbers": [
+      },
       {
-       "number": "+1 839 288 8882",
-       "location": "Columbia, SC"
+       "number": "+1 458 888 8925",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8932",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8936",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8938",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8943",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8948",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8956",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8958",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8961",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8965",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8969",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8974",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 458 888 8985",
+       "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 541 588 8883",
+       "location": "Sisters, OR"
+      },
+      {
+       "number": "+1 541 588 8887",
+       "location": "Sisters, OR"
       }
      ]
     },
@@ -3301,11 +5703,11 @@
   },
   {
    "pattern": "99999",
-   "count": 167,
+   "count": 339,
    "states": [
     {
      "state": "Alabama",
-     "count": 102,
+     "count": 101,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -3708,10 +6110,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 938 999 9947",
-       "location": "Attalla, AL"
-      },
-      {
        "number": "+1 938 999 9974",
        "location": "Attalla, AL"
       }
@@ -3765,15 +6163,269 @@
     },
     {
      "state": "Colorado",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 719 999 9296",
        "location": "Colorado Springs, CO"
+      }
+     ]
+    },
+    {
+     "state": "Connecticut",
+     "count": 63,
+     "numbers": [
+      {
+       "number": "+1 959 999 9185",
+       "location": "Hartford, CT"
       },
       {
-       "number": "+1 719 999 9816",
-       "location": "Colorado Springs, CO"
+       "number": "+1 959 999 9578",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9593",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9610",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9622",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9625",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9628",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9644",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9646",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9654",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9662",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9665",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9667",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9670",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9676",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9679",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9685",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9690",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9691",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9693",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9697",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9701",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9702",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9703",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9706",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9711",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9716",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9733",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9740",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9746",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9747",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9755",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9770",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9771",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9773",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9774",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9780",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9787",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9788",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9790",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9791",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9801",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9804",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9809",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9810",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9811",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9812",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9813",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9819",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9823",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9824",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9828",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9830",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9845",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9850",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9852",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9853",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9854",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9856",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9859",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9860",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9908",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9912",
+       "location": "Hartford, CT"
       }
      ]
     },
@@ -3968,20 +6620,432 @@
      ]
     },
     {
-     "state": "Massachusetts",
-     "count": 3,
+     "state": "Georgia",
+     "count": 78,
      "numbers": [
       {
-       "number": "+1 774 399 9994",
-       "location": "Westborough, MA"
+       "number": "+1 229 999 9002",
+       "location": "Fort Gaines, GA"
       },
       {
-       "number": "+1 774 399 9995",
-       "location": "Westborough, MA"
+       "number": "+1 229 999 9004",
+       "location": "Fort Gaines, GA"
       },
       {
-       "number": "+1 774 399 9996",
-       "location": "Westborough, MA"
+       "number": "+1 229 999 9005",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9022",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9027",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9034",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9076",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9092",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9132",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9134",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9135",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9152",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9163",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9166",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9177",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9181",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9196",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9198",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9209",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9215",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9242",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9246",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9251",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9260",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9264",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9285",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9290",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9308",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9331",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9337",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9341",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9347",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9409",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9459",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9514",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9567",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9598",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9610",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9653",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9697",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9717",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9719",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9725",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9746",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9748",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9750",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9751",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9753",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9754",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9755",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9756",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9760",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9831",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9868",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 229 999 9879",
+       "location": "Fort Gaines, GA"
+      },
+      {
+       "number": "+1 470 999 9914",
+       "location": "Cedartown, GA"
+      },
+      {
+       "number": "+1 470 999 9937",
+       "location": "Cedartown, GA"
+      },
+      {
+       "number": "+1 470 999 9954",
+       "location": "Cedartown, GA"
+      },
+      {
+       "number": "+1 470 999 9981",
+       "location": "Cedartown, GA"
+      },
+      {
+       "number": "+1 478 699 9992",
+       "location": "Byron, GA"
+      },
+      {
+       "number": "+1 478 999 9978",
+       "location": "Forsyth, GA"
+      },
+      {
+       "number": "+1 478 999 9987",
+       "location": "Forsyth, GA"
+      },
+      {
+       "number": "+1 762 999 9904",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9914",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9915",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9927",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9928",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9931",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9934",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9938",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9942",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9943",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9946",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9948",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9957",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9963",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9971",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 762 999 9984",
+       "location": "Watkinsville, GA"
+      }
+     ]
+    },
+    {
+     "state": "Maryland",
+     "count": 17,
+     "numbers": [
+      {
+       "number": "+1 667 999 9904",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9910",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9920",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9924",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9927",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9930",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9932",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9940",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9950",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9953",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9960",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9965",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9970",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9972",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9980",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9985",
+       "location": "Fort Meade, MD"
+      },
+      {
+       "number": "+1 667 999 9987",
+       "location": "Fort Meade, MD"
+      }
+     ]
+    },
+    {
+     "state": "Minnesota",
+     "count": 8,
+     "numbers": [
+      {
+       "number": "+1 952 999 9903",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 999 9907",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 999 9908",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 999 9912",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 999 9913",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 999 9918",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 999 9935",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 952 999 9945",
+       "location": "Hilltop, MN"
       }
      ]
     },
@@ -4012,17 +7076,73 @@
        "location": "Plattsburgh West, NY"
       }
      ]
+    },
+    {
+     "state": "Oregon",
+     "count": 6,
+     "numbers": [
+      {
+       "number": "+1 458 999 9908",
+       "location": "Umatilla, OR"
+      },
+      {
+       "number": "+1 458 999 9942",
+       "location": "Umatilla, OR"
+      },
+      {
+       "number": "+1 458 999 9954",
+       "location": "Umatilla, OR"
+      },
+      {
+       "number": "+1 458 999 9956",
+       "location": "Umatilla, OR"
+      },
+      {
+       "number": "+1 458 999 9984",
+       "location": "Umatilla, OR"
+      },
+      {
+       "number": "+1 971 999 9956",
+       "location": "Yamhill, OR"
+      }
+     ]
+    },
+    {
+     "state": "Washington",
+     "count": 5,
+     "numbers": [
+      {
+       "number": "+1 253 399 9991",
+       "location": "Tacoma, WA"
+      },
+      {
+       "number": "+1 253 399 9994",
+       "location": "Tacoma, WA"
+      },
+      {
+       "number": "+1 253 399 9995",
+       "location": "Tacoma, WA"
+      },
+      {
+       "number": "+1 509 299 9993",
+       "location": "Medical Lake, WA"
+      },
+      {
+       "number": "+1 509 299 9995",
+       "location": "Medical Lake, WA"
+      }
+     ]
     }
    ]
   }
  ],
  "pattern_0000": {
-  "total": 840,
-  "state_count": 39,
+  "total": 1232,
+  "state_count": 42,
   "states": [
    {
     "state": "Alabama",
-    "count": 27,
+    "count": 26,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -4059,10 +7179,6 @@
      {
       "number": "+1 334 910 0003",
       "location": "Montgomery, AL"
-     },
-     {
-      "number": "+1 659 260 0004",
-      "location": "Montevallo, AL"
      },
      {
       "number": "+1 659 300 0047",
@@ -4136,8 +7252,40 @@
    },
    {
     "state": "Arizona",
-    "count": 6,
+    "count": 14,
     "numbers": [
+     {
+      "number": "+1 520 800 0017",
+      "location": "South Tucson, AZ"
+     },
+     {
+      "number": "+1 520 800 0031",
+      "location": "South Tucson, AZ"
+     },
+     {
+      "number": "+1 520 800 0035",
+      "location": "South Tucson, AZ"
+     },
+     {
+      "number": "+1 520 800 0059",
+      "location": "South Tucson, AZ"
+     },
+     {
+      "number": "+1 520 800 0075",
+      "location": "South Tucson, AZ"
+     },
+     {
+      "number": "+1 520 800 0094",
+      "location": "South Tucson, AZ"
+     },
+     {
+      "number": "+1 520 800 0095",
+      "location": "South Tucson, AZ"
+     },
+     {
+      "number": "+1 520 800 0098",
+      "location": "South Tucson, AZ"
+     },
      {
       "number": "+1 928 800 0024",
       "location": "Prescott, AZ"
@@ -4260,14 +7408,10 @@
    },
    {
     "state": "California",
-    "count": 60,
+    "count": 59,
     "numbers": [
      {
       "number": "+1 530 730 0005",
-      "location": "Bangor, CA"
-     },
-     {
-      "number": "+1 530 730 0009",
       "location": "Bangor, CA"
      },
      {
@@ -4505,9 +7649,203 @@
     ]
    },
    {
-    "state": "Connecticut",
-    "count": 33,
+    "state": "Colorado",
+    "count": 30,
     "numbers": [
+     {
+      "number": "+1 719 800 0017",
+      "location": "Calhan, CO"
+     },
+     {
+      "number": "+1 719 800 0036",
+      "location": "Calhan, CO"
+     },
+     {
+      "number": "+1 970 400 0032",
+      "location": "Garden City, CO"
+     },
+     {
+      "number": "+1 970 400 0035",
+      "location": "Garden City, CO"
+     },
+     {
+      "number": "+1 970 400 0037",
+      "location": "Garden City, CO"
+     },
+     {
+      "number": "+1 970 400 0076",
+      "location": "Garden City, CO"
+     },
+     {
+      "number": "+1 970 400 0092",
+      "location": "Garden City, CO"
+     },
+     {
+      "number": "+1 970 500 0015",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0025",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0028",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0032",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0034",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0043",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0047",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0049",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0052",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0063",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0065",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0069",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0071",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0078",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0091",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0095",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 500 0097",
+      "location": "Jackson Lake, CO"
+     },
+     {
+      "number": "+1 970 550 0004",
+      "location": "Craig, CO"
+     },
+     {
+      "number": "+1 970 550 0007",
+      "location": "Craig, CO"
+     },
+     {
+      "number": "+1 970 610 0006",
+      "location": "Fruita, CO"
+     },
+     {
+      "number": "+1 970 660 0008",
+      "location": "Johnstown, CO"
+     },
+     {
+      "number": "+1 970 900 0051",
+      "location": "Fort Collins, CO"
+     },
+     {
+      "number": "+1 970 980 0009",
+      "location": "Fort Collins, CO"
+     }
+    ]
+   },
+   {
+    "state": "Connecticut",
+    "count": 149,
+    "numbers": [
+     {
+      "number": "+1 475 340 0008",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 450 0007",
+      "location": "Bridgeport, CT"
+     },
+     {
+      "number": "+1 475 470 0005",
+      "location": "Norwalk, CT"
+     },
+     {
+      "number": "+1 475 500 0028",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 500 0029",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 500 0032",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 500 0035",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 500 0042",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 500 0093",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 500 0094",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 500 0095",
+      "location": "Stamford, CT"
+     },
+     {
+      "number": "+1 475 600 0082",
+      "location": "Ansonia, CT"
+     },
+     {
+      "number": "+1 475 600 0083",
+      "location": "Ansonia, CT"
+     },
+     {
+      "number": "+1 475 600 0085",
+      "location": "Ansonia, CT"
+     },
+     {
+      "number": "+1 475 600 0086",
+      "location": "Ansonia, CT"
+     },
+     {
+      "number": "+1 475 800 0064",
+      "location": "New Haven, CT"
+     },
+     {
+      "number": "+1 475 850 0009",
+      "location": "Norwalk, CT"
+     },
      {
       "number": "+1 860 600 0041",
       "location": "Litchfield, CT"
@@ -4529,7 +7867,255 @@
       "location": "Litchfield, CT"
      },
      {
+      "number": "+1 860 960 0006",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 210 0004",
+      "location": "Norwich, CT"
+     },
+     {
+      "number": "+1 959 210 0006",
+      "location": "Norwich, CT"
+     },
+     {
+      "number": "+1 959 210 0007",
+      "location": "Norwich, CT"
+     },
+     {
+      "number": "+1 959 230 0002",
+      "location": "Hartford, CT"
+     },
+     {
+      "number": "+1 959 300 0018",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0019",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0020",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0021",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0023",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0024",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0025",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0026",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0027",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0029",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0034",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0037",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0039",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0040",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0042",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0043",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0045",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0053",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0060",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0065",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0067",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0068",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0074",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0078",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0084",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0085",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0092",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0097",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 300 0098",
+      "location": "Bantam, CT"
+     },
+     {
+      "number": "+1 959 400 0010",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0013",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0014",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0015",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0016",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0017",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0018",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0019",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0021",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0023",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0025",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0026",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0027",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0028",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0029",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0030",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0032",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0034",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0035",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0039",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0042",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0043",
+      "location": "Torrington, CT"
+     },
+     {
       "number": "+1 959 400 0047",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0048",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0050",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0051",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0052",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0054",
+      "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 400 0061",
       "location": "Torrington, CT"
      },
      {
@@ -4549,6 +8135,10 @@
       "location": "Torrington, CT"
      },
      {
+      "number": "+1 959 400 0073",
+      "location": "Torrington, CT"
+     },
+     {
       "number": "+1 959 400 0075",
       "location": "Torrington, CT"
      },
@@ -4561,8 +8151,16 @@
       "location": "Torrington, CT"
      },
      {
+      "number": "+1 959 400 0081",
+      "location": "Torrington, CT"
+     },
+     {
       "number": "+1 959 400 0098",
       "location": "Torrington, CT"
+     },
+     {
+      "number": "+1 959 500 0012",
+      "location": "Oxoboxo River, CT"
      },
      {
       "number": "+1 959 600 0012",
@@ -4573,7 +8171,55 @@
       "location": "Plainfield Village, CT"
      },
      {
+      "number": "+1 959 600 0014",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0015",
+      "location": "Plainfield Village, CT"
+     },
+     {
       "number": "+1 959 600 0018",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0019",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0021",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0023",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0024",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0025",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0026",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0027",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0028",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0030",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0031",
       "location": "Plainfield Village, CT"
      },
      {
@@ -4581,7 +8227,59 @@
       "location": "Plainfield Village, CT"
      },
      {
+      "number": "+1 959 600 0051",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0053",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0054",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0056",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0057",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0058",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0061",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0062",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0063",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0065",
+      "location": "Plainfield Village, CT"
+     },
+     {
       "number": "+1 959 600 0067",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0068",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0069",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0070",
       "location": "Plainfield Village, CT"
      },
      {
@@ -4597,47 +8295,83 @@
       "location": "Plainfield Village, CT"
      },
      {
-      "number": "+1 959 800 0034",
+      "number": "+1 959 600 0079",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0082",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0083",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0087",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0089",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0092",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0093",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0095",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0097",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0098",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 800 0014",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0036",
+      "number": "+1 959 800 0024",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0042",
+      "number": "+1 959 800 0029",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0045",
+      "number": "+1 959 800 0049",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0051",
+      "number": "+1 959 800 0061",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0057",
+      "number": "+1 959 800 0073",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0063",
+      "number": "+1 959 800 0075",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0069",
+      "number": "+1 959 800 0087",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0082",
+      "number": "+1 959 800 0096",
       "location": "Bethlehem Village, CT"
      },
      {
-      "number": "+1 959 800 0093",
-      "location": "Bethlehem Village, CT"
-     },
-     {
-      "number": "+1 959 800 0094",
+      "number": "+1 959 800 0097",
       "location": "Bethlehem Village, CT"
      }
     ]
@@ -4844,15 +8578,331 @@
    },
    {
     "state": "Georgia",
-    "count": 8,
+    "count": 93,
     "numbers": [
+     {
+      "number": "+1 229 210 0008",
+      "location": "Arlington, GA"
+     },
+     {
+      "number": "+1 229 210 0009",
+      "location": "Arlington, GA"
+     },
+     {
+      "number": "+1 229 350 0002",
+      "location": "Sparks, GA"
+     },
+     {
+      "number": "+1 229 490 0004",
+      "location": "Rebecca, GA"
+     },
+     {
+      "number": "+1 229 800 0045",
+      "location": "Albany, GA"
+     },
+     {
+      "number": "+1 229 910 0002",
+      "location": "Rebecca, GA"
+     },
+     {
+      "number": "+1 229 910 0003",
+      "location": "Rebecca, GA"
+     },
+     {
+      "number": "+1 229 910 0004",
+      "location": "Rebecca, GA"
+     },
+     {
+      "number": "+1 470 900 0096",
+      "location": "Winder, GA"
+     },
+     {
+      "number": "+1 478 280 0002",
+      "location": "Gray, GA"
+     },
+     {
+      "number": "+1 478 280 0003",
+      "location": "Gray, GA"
+     },
+     {
+      "number": "+1 478 280 0006",
+      "location": "Gray, GA"
+     },
+     {
+      "number": "+1 478 280 0007",
+      "location": "Gray, GA"
+     },
+     {
+      "number": "+1 478 280 0008",
+      "location": "Gray, GA"
+     },
+     {
+      "number": "+1 478 280 0009",
+      "location": "Gray, GA"
+     },
+     {
+      "number": "+1 478 370 0002",
+      "location": "Macon, GA"
+     },
+     {
+      "number": "+1 478 380 0003",
+      "location": "Montezuma, GA"
+     },
+     {
+      "number": "+1 478 380 0004",
+      "location": "Montezuma, GA"
+     },
+     {
+      "number": "+1 478 380 0005",
+      "location": "Montezuma, GA"
+     },
+     {
+      "number": "+1 478 380 0006",
+      "location": "Montezuma, GA"
+     },
+     {
+      "number": "+1 478 380 0007",
+      "location": "Montezuma, GA"
+     },
+     {
+      "number": "+1 478 380 0009",
+      "location": "Montezuma, GA"
+     },
+     {
+      "number": "+1 478 480 0003",
+      "location": "Wadley, GA"
+     },
+     {
+      "number": "+1 478 480 0004",
+      "location": "Wadley, GA"
+     },
+     {
+      "number": "+1 478 480 0005",
+      "location": "Wadley, GA"
+     },
+     {
+      "number": "+1 478 480 0006",
+      "location": "Wadley, GA"
+     },
+     {
+      "number": "+1 478 480 0007",
+      "location": "Wadley, GA"
+     },
+     {
+      "number": "+1 478 480 0009",
+      "location": "Wadley, GA"
+     },
+     {
+      "number": "+1 478 910 0007",
+      "location": "Macon, GA"
+     },
+     {
+      "number": "+1 478 910 0008",
+      "location": "Macon, GA"
+     },
+     {
+      "number": "+1 478 910 0009",
+      "location": "Macon, GA"
+     },
+     {
+      "number": "+1 706 770 0006",
+      "location": "Young Harris, GA"
+     },
+     {
+      "number": "+1 706 770 0009",
+      "location": "Young Harris, GA"
+     },
      {
       "number": "+1 762 270 0003",
       "location": "Mc Caysville, GA"
      },
      {
+      "number": "+1 762 300 0014",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0016",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0018",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0019",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0023",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0037",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0043",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0068",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0084",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0086",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0094",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 300 0097",
+      "location": "Gay, GA"
+     },
+     {
+      "number": "+1 762 330 0004",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 330 0005",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 330 0006",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 330 0008",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 360 0002",
+      "location": "Thomaston, GA"
+     },
+     {
+      "number": "+1 762 360 0007",
+      "location": "Thomaston, GA"
+     },
+     {
+      "number": "+1 762 400 0072",
+      "location": "Athens, GA"
+     },
+     {
+      "number": "+1 762 400 0097",
+      "location": "Athens, GA"
+     },
+     {
+      "number": "+1 762 440 0007",
+      "location": "Lafayette, GA"
+     },
+     {
+      "number": "+1 762 470 0003",
+      "location": "Rome, GA"
+     },
+     {
+      "number": "+1 762 470 0005",
+      "location": "Rome, GA"
+     },
+     {
+      "number": "+1 762 470 0008",
+      "location": "Rome, GA"
+     },
+     {
+      "number": "+1 762 470 0009",
+      "location": "Rome, GA"
+     },
+     {
+      "number": "+1 762 500 0013",
+      "location": "Hiawassee, GA"
+     },
+     {
+      "number": "+1 762 500 0076",
+      "location": "Hiawassee, GA"
+     },
+     {
+      "number": "+1 762 500 0079",
+      "location": "Hiawassee, GA"
+     },
+     {
+      "number": "+1 762 600 0013",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0023",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0028",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0032",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0038",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0041",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0043",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0056",
+      "location": "Monticello, GA"
+     },
+     {
       "number": "+1 762 600 0062",
       "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0078",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0081",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0082",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0092",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0093",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 600 0096",
+      "location": "Monticello, GA"
+     },
+     {
+      "number": "+1 762 760 0005",
+      "location": "Tunnel Hill, GA"
+     },
+     {
+      "number": "+1 762 770 0005",
+      "location": "Cleveland, GA"
+     },
+     {
+      "number": "+1 762 770 0006",
+      "location": "Cleveland, GA"
+     },
+     {
+      "number": "+1 762 770 0009",
+      "location": "Cleveland, GA"
      },
      {
       "number": "+1 762 800 0041",
@@ -4863,12 +8913,36 @@
       "location": "Augusta, GA"
      },
      {
+      "number": "+1 762 900 0014",
+      "location": "Pendergrass, GA"
+     },
+     {
+      "number": "+1 762 900 0065",
+      "location": "Pendergrass, GA"
+     },
+     {
+      "number": "+1 762 900 0094",
+      "location": "Pendergrass, GA"
+     },
+     {
       "number": "+1 762 930 0004",
       "location": "Augusta, GA"
      },
      {
       "number": "+1 762 930 0006",
       "location": "Augusta, GA"
+     },
+     {
+      "number": "+1 912 820 0005",
+      "location": "Flemington, GA"
+     },
+     {
+      "number": "+1 912 820 0007",
+      "location": "Flemington, GA"
+     },
+     {
+      "number": "+1 912 820 0009",
+      "location": "Flemington, GA"
      },
      {
       "number": "+1 943 990 0004",
@@ -4882,8 +8956,12 @@
    },
    {
     "state": "Idaho",
-    "count": 10,
+    "count": 11,
     "numbers": [
+     {
+      "number": "+1 208 800 0036",
+      "location": "Nampa, ID"
+     },
      {
       "number": "+1 208 800 0059",
       "location": "Nampa, ID"
@@ -4905,15 +8983,15 @@
       "location": "Nampa, ID"
      },
      {
+      "number": "+1 208 800 0084",
+      "location": "Nampa, ID"
+     },
+     {
       "number": "+1 986 910 0003",
       "location": "Garden City, ID"
      },
      {
       "number": "+1 986 910 0005",
-      "location": "Garden City, ID"
-     },
-     {
-      "number": "+1 986 910 0006",
       "location": "Garden City, ID"
      },
      {
@@ -4958,8 +9036,36 @@
    },
    {
     "state": "Indiana",
-    "count": 4,
+    "count": 11,
     "numbers": [
+     {
+      "number": "+1 765 400 0013",
+      "location": "Anderson, IN"
+     },
+     {
+      "number": "+1 765 410 0002",
+      "location": "Paragon, IN"
+     },
+     {
+      "number": "+1 765 410 0004",
+      "location": "Paragon, IN"
+     },
+     {
+      "number": "+1 765 410 0005",
+      "location": "Paragon, IN"
+     },
+     {
+      "number": "+1 765 630 0002",
+      "location": "Greencastle, IN"
+     },
+     {
+      "number": "+1 765 630 0003",
+      "location": "Greencastle, IN"
+     },
+     {
+      "number": "+1 765 630 0008",
+      "location": "Greencastle, IN"
+     },
      {
       "number": "+1 765 710 0002",
       "location": "Eaton, IN"
@@ -4980,7 +9086,7 @@
    },
    {
     "state": "Iowa",
-    "count": 72,
+    "count": 73,
     "numbers": [
      {
       "number": "+1 563 300 0012",
@@ -5269,6 +9375,10 @@
      {
       "number": "+1 563 300 0098",
       "location": "Davenport, IA"
+     },
+     {
+      "number": "+1 712 800 0076",
+      "location": "Glenwood, IA"
      }
     ]
    },
@@ -5298,8 +9408,16 @@
    },
    {
     "state": "Louisiana",
-    "count": 10,
+    "count": 15,
     "numbers": [
+     {
+      "number": "+1 225 380 0009",
+      "location": "Denham Springs, LA"
+     },
+     {
+      "number": "+1 225 430 0002",
+      "location": "Donaldsonville, LA"
+     },
      {
       "number": "+1 225 430 0005",
       "location": "Donaldsonville, LA"
@@ -5309,16 +9427,28 @@
       "location": "Donaldsonville, LA"
      },
      {
+      "number": "+1 225 470 0008",
+      "location": "White Castle, LA"
+     },
+     {
+      "number": "+1 225 480 0002",
+      "location": "Denham Springs, LA"
+     },
+     {
+      "number": "+1 225 480 0003",
+      "location": "Denham Springs, LA"
+     },
+     {
       "number": "+1 225 480 0005",
       "location": "Denham Springs, LA"
      },
      {
-      "number": "+1 318 520 0002",
-      "location": "Castor, LA"
+      "number": "+1 225 480 0006",
+      "location": "Denham Springs, LA"
      },
      {
-      "number": "+1 318 520 0005",
-      "location": "Castor, LA"
+      "number": "+1 225 480 0008",
+      "location": "Denham Springs, LA"
      },
      {
       "number": "+1 985 570 0003",
@@ -5347,10 +9477,6 @@
     "count": 10,
     "numbers": [
      {
-      "number": "+1 227 260 0002",
-      "location": "Chesapeake Beach, MD"
-     },
-     {
       "number": "+1 227 260 0003",
       "location": "Chesapeake Beach, MD"
      },
@@ -5360,14 +9486,6 @@
      },
      {
       "number": "+1 227 260 0005",
-      "location": "Chesapeake Beach, MD"
-     },
-     {
-      "number": "+1 227 260 0007",
-      "location": "Chesapeake Beach, MD"
-     },
-     {
-      "number": "+1 227 260 0008",
       "location": "Chesapeake Beach, MD"
      },
      {
@@ -5383,8 +9501,20 @@
       "location": "Kensington, MD"
      },
      {
-      "number": "+1 443 620 0004",
-      "location": "Baltimore, MD"
+      "number": "+1 667 480 0003",
+      "location": "Fort Meade, MD"
+     },
+     {
+      "number": "+1 667 480 0006",
+      "location": "Fort Meade, MD"
+     },
+     {
+      "number": "+1 667 670 0002",
+      "location": "Sudlersville, MD"
+     },
+     {
+      "number": "+1 667 670 0006",
+      "location": "Sudlersville, MD"
      }
     ]
    },
@@ -5400,7 +9530,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 56,
+    "count": 61,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -5443,7 +9573,11 @@
       "location": "Barnum, MN"
      },
      {
-      "number": "+1 218 660 0007",
+      "number": "+1 218 660 0008",
+      "location": "Carlton, MN"
+     },
+     {
+      "number": "+1 218 660 0009",
       "location": "Carlton, MN"
      },
      {
@@ -5519,10 +9653,6 @@
       "location": "Olivia, MN"
      },
      {
-      "number": "+1 320 400 0094",
-      "location": "Olivia, MN"
-     },
-     {
       "number": "+1 320 400 0095",
       "location": "Olivia, MN"
      },
@@ -5531,11 +9661,23 @@
       "location": "Olivia, MN"
      },
      {
+      "number": "+1 320 910 0005",
+      "location": "Sauk Rapids, MN"
+     },
+     {
+      "number": "+1 320 910 0006",
+      "location": "Sauk Rapids, MN"
+     },
+     {
       "number": "+1 320 910 0009",
       "location": "Sauk Rapids, MN"
      },
      {
       "number": "+1 507 400 0012",
+      "location": "Faribault, MN"
+     },
+     {
+      "number": "+1 507 400 0018",
       "location": "Faribault, MN"
      },
      {
@@ -5551,11 +9693,19 @@
       "location": "Faribault, MN"
      },
      {
+      "number": "+1 507 400 0027",
+      "location": "Faribault, MN"
+     },
+     {
       "number": "+1 507 400 0029",
       "location": "Faribault, MN"
      },
      {
       "number": "+1 507 400 0047",
+      "location": "Faribault, MN"
+     },
+     {
+      "number": "+1 507 400 0053",
       "location": "Faribault, MN"
      },
      {
@@ -5571,11 +9721,19 @@
       "location": "Faribault, MN"
      },
      {
+      "number": "+1 507 400 0072",
+      "location": "Faribault, MN"
+     },
+     {
       "number": "+1 507 400 0076",
       "location": "Faribault, MN"
      },
      {
       "number": "+1 507 400 0084",
+      "location": "Faribault, MN"
+     },
+     {
+      "number": "+1 507 400 0086",
       "location": "Faribault, MN"
      },
      {
@@ -5607,10 +9765,6 @@
       "location": "Elgin, MN"
      },
      {
-      "number": "+1 507 580 0009",
-      "location": "Elgin, MN"
-     },
-     {
       "number": "+1 507 800 0074",
       "location": "Jackson, MN"
      },
@@ -5621,10 +9775,6 @@
      {
       "number": "+1 507 910 0002",
       "location": "Rochester, MN"
-     },
-     {
-      "number": "+1 507 910 0007",
-      "location": "Rochester, MN"
      }
     ]
    },
@@ -5632,6 +9782,10 @@
     "state": "Mississippi",
     "count": 9,
     "numbers": [
+     {
+      "number": "+1 601 640 0006",
+      "location": "Jackson, MS"
+     },
      {
       "number": "+1 662 270 0006",
       "location": "Starkville, MS"
@@ -5651,10 +9805,6 @@
      {
       "number": "+1 662 740 0009",
       "location": "Iuka, MS"
-     },
-     {
-      "number": "+1 662 780 0005",
-      "location": "Ashland, MS"
      },
      {
       "number": "+1 769 240 0004",
@@ -5698,8 +9848,112 @@
    },
    {
     "state": "Nebraska",
-    "count": 22,
+    "count": 52,
     "numbers": [
+     {
+      "number": "+1 308 300 0017",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0019",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0042",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0046",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0049",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0056",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0065",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0067",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0068",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0071",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0072",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0074",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0076",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0078",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0079",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0085",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0091",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0093",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0094",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0095",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 300 0096",
+      "location": "Chappell, NE"
+     },
+     {
+      "number": "+1 308 400 0023",
+      "location": "Ord, NE"
+     },
+     {
+      "number": "+1 308 910 0002",
+      "location": "Grand Island, NE"
+     },
+     {
+      "number": "+1 308 910 0004",
+      "location": "Grand Island, NE"
+     },
+     {
+      "number": "+1 308 910 0005",
+      "location": "Grand Island, NE"
+     },
+     {
+      "number": "+1 308 910 0007",
+      "location": "Grand Island, NE"
+     },
      {
       "number": "+1 531 300 0031",
       "location": "Creston, NE"
@@ -5717,15 +9971,15 @@
       "location": "Creston, NE"
      },
      {
+      "number": "+1 531 300 0042",
+      "location": "Creston, NE"
+     },
+     {
       "number": "+1 531 300 0043",
       "location": "Creston, NE"
      },
      {
       "number": "+1 531 300 0047",
-      "location": "Creston, NE"
-     },
-     {
-      "number": "+1 531 300 0049",
       "location": "Creston, NE"
      },
      {
@@ -5741,6 +9995,10 @@
       "location": "Creston, NE"
      },
      {
+      "number": "+1 531 360 0002",
+      "location": "Albion, NE"
+     },
+     {
       "number": "+1 531 430 0005",
       "location": "Omaha, NE"
      },
@@ -5749,12 +10007,20 @@
       "location": "Omaha, NE"
      },
      {
-      "number": "+1 531 530 0006",
+      "number": "+1 531 530 0002",
       "location": "Lincoln, NE"
      },
      {
-      "number": "+1 531 600 0015",
-      "location": "Omaha, NE"
+      "number": "+1 531 530 0003",
+      "location": "Lincoln, NE"
+     },
+     {
+      "number": "+1 531 530 0004",
+      "location": "Lincoln, NE"
+     },
+     {
+      "number": "+1 531 530 0006",
+      "location": "Lincoln, NE"
      },
      {
       "number": "+1 531 810 0002",
@@ -5762,6 +10028,10 @@
      },
      {
       "number": "+1 531 810 0003",
+      "location": "Lincoln, NE"
+     },
+     {
+      "number": "+1 531 810 0005",
       "location": "Lincoln, NE"
      },
      {
@@ -5785,22 +10055,146 @@
       "location": "Omaha, NE"
      },
      {
-      "number": "+1 531 910 0009",
+      "number": "+1 531 910 0008",
       "location": "Omaha, NE"
      }
     ]
    },
    {
     "state": "Nevada",
-    "count": 6,
+    "count": 38,
     "numbers": [
      {
-      "number": "+1 725 800 0015",
-      "location": "Boulder City, NV"
+      "number": "+1 775 310 0006",
+      "location": "Ely, NV"
+     },
+     {
+      "number": "+1 775 310 0008",
+      "location": "Ely, NV"
+     },
+     {
+      "number": "+1 775 330 0004",
+      "location": "Yerington, NV"
+     },
+     {
+      "number": "+1 775 330 0005",
+      "location": "Yerington, NV"
+     },
+     {
+      "number": "+1 775 330 0007",
+      "location": "Yerington, NV"
+     },
+     {
+      "number": "+1 775 330 0008",
+      "location": "Yerington, NV"
+     },
+     {
+      "number": "+1 775 600 0017",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0024",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0026",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0027",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0028",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0031",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0035",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0037",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0038",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0041",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0042",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0043",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0045",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0046",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0058",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0062",
+      "location": "Carson City, NV"
+     },
+     {
+      "number": "+1 775 600 0094",
+      "location": "Carson City, NV"
      },
      {
       "number": "+1 775 640 0002",
       "location": "Ely, NV"
+     },
+     {
+      "number": "+1 775 800 0023",
+      "location": "Reno, NV"
+     },
+     {
+      "number": "+1 775 800 0028",
+      "location": "Reno, NV"
+     },
+     {
+      "number": "+1 775 800 0069",
+      "location": "Reno, NV"
+     },
+     {
+      "number": "+1 775 800 0071",
+      "location": "Reno, NV"
+     },
+     {
+      "number": "+1 775 800 0072",
+      "location": "Reno, NV"
+     },
+     {
+      "number": "+1 775 860 0003",
+      "location": "Fallon Station, NV"
+     },
+     {
+      "number": "+1 775 860 0006",
+      "location": "Fallon Station, NV"
+     },
+     {
+      "number": "+1 775 860 0007",
+      "location": "Fallon Station, NV"
+     },
+     {
+      "number": "+1 775 860 0008",
+      "location": "Fallon Station, NV"
      },
      {
       "number": "+1 775 900 0016",
@@ -5808,6 +10202,10 @@
      },
      {
       "number": "+1 775 900 0017",
+      "location": "Reno, NV"
+     },
+     {
+      "number": "+1 775 900 0081",
       "location": "Reno, NV"
      },
      {
@@ -5822,7 +10220,7 @@
    },
    {
     "state": "New Jersey",
-    "count": 17,
+    "count": 22,
     "numbers": [
      {
       "number": "+1 848 310 0006",
@@ -5853,6 +10251,10 @@
       "location": "Somerville, NJ"
      },
      {
+      "number": "+1 908 800 0052",
+      "location": "Somerville, NJ"
+     },
+     {
       "number": "+1 908 800 0053",
       "location": "Somerville, NJ"
      },
@@ -5862,6 +10264,10 @@
      },
      {
       "number": "+1 908 800 0058",
+      "location": "Somerville, NJ"
+     },
+     {
+      "number": "+1 908 800 0067",
       "location": "Somerville, NJ"
      },
      {
@@ -5891,16 +10297,32 @@
      {
       "number": "+1 908 800 0079",
       "location": "Somerville, NJ"
+     },
+     {
+      "number": "+1 908 800 0093",
+      "location": "Somerville, NJ"
+     },
+     {
+      "number": "+1 908 980 0004",
+      "location": "Long Valley, NJ"
+     },
+     {
+      "number": "+1 908 980 0008",
+      "location": "Long Valley, NJ"
      }
     ]
    },
    {
     "state": "New Mexico",
-    "count": 5,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 575 500 0081",
       "location": "Roswell, NM"
+     },
+     {
+      "number": "+1 575 530 0009",
+      "location": "Clovis, NM"
      },
      {
       "number": "+1 575 800 0082",
@@ -5922,7 +10344,7 @@
    },
    {
     "state": "New York",
-    "count": 242,
+    "count": 193,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -5937,35 +10359,19 @@
       "location": "Norwood, NY"
      },
      {
-      "number": "+1 315 740 0006",
-      "location": "Norwood, NY"
-     },
-     {
       "number": "+1 315 800 0014",
       "location": "Syracuse, NY"
      },
      {
-      "number": "+1 315 800 0016",
+      "number": "+1 315 800 0049",
       "location": "Syracuse, NY"
      },
      {
-      "number": "+1 315 810 0002",
-      "location": "Mcgraw, NY"
+      "number": "+1 315 800 0057",
+      "location": "Syracuse, NY"
      },
      {
       "number": "+1 315 810 0004",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 315 810 0007",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 315 810 0008",
-      "location": "Mcgraw, NY"
-     },
-     {
-      "number": "+1 315 810 0009",
       "location": "Mcgraw, NY"
      },
      {
@@ -5973,44 +10379,8 @@
       "location": "Walden, NY"
      },
      {
-      "number": "+1 329 230 0007",
-      "location": "Woodbury, NY"
-     },
-     {
       "number": "+1 329 230 0009",
       "location": "Woodbury, NY"
-     },
-     {
-      "number": "+1 363 200 0078",
-      "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 363 200 0081",
-      "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 363 200 0083",
-      "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 363 200 0084",
-      "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 363 200 0091",
-      "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 363 200 0094",
-      "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 363 200 0096",
-      "location": "Farmingdale, NY"
-     },
-     {
-      "number": "+1 363 200 0097",
-      "location": "Farmingdale, NY"
      },
      {
       "number": "+1 516 930 0004",
@@ -6025,32 +10395,8 @@
       "location": "Round Lake, NY"
      },
      {
-      "number": "+1 518 460 0003",
-      "location": "Hagaman, NY"
-     },
-     {
-      "number": "+1 518 460 0004",
-      "location": "Hagaman, NY"
-     },
-     {
       "number": "+1 518 460 0005",
       "location": "Hagaman, NY"
-     },
-     {
-      "number": "+1 518 460 0007",
-      "location": "Hagaman, NY"
-     },
-     {
-      "number": "+1 518 460 0008",
-      "location": "Hagaman, NY"
-     },
-     {
-      "number": "+1 518 500 0035",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0036",
-      "location": "Delanson, NY"
      },
      {
       "number": "+1 518 500 0037",
@@ -6061,103 +10407,11 @@
       "location": "Delanson, NY"
      },
      {
-      "number": "+1 518 500 0039",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0041",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0042",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0043",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0045",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0046",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0047",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0048",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0049",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0051",
-      "location": "Delanson, NY"
-     },
-     {
       "number": "+1 518 500 0052",
       "location": "Delanson, NY"
      },
      {
-      "number": "+1 518 500 0053",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0054",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0056",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0057",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0058",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0059",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0061",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0062",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0063",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0064",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0065",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0067",
-      "location": "Delanson, NY"
-     },
-     {
       "number": "+1 518 500 0068",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0069",
       "location": "Delanson, NY"
      },
      {
@@ -6169,35 +10423,11 @@
       "location": "Delanson, NY"
      },
      {
-      "number": "+1 518 500 0073",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0074",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0076",
-      "location": "Delanson, NY"
-     },
-     {
       "number": "+1 518 500 0078",
       "location": "Delanson, NY"
      },
      {
-      "number": "+1 518 500 0079",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0081",
-      "location": "Delanson, NY"
-     },
-     {
       "number": "+1 518 500 0082",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0083",
       "location": "Delanson, NY"
      },
      {
@@ -6209,31 +10439,11 @@
       "location": "Delanson, NY"
      },
      {
-      "number": "+1 518 500 0086",
-      "location": "Delanson, NY"
-     },
-     {
       "number": "+1 518 500 0087",
       "location": "Delanson, NY"
      },
      {
-      "number": "+1 518 500 0089",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0091",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0092",
-      "location": "Delanson, NY"
-     },
-     {
       "number": "+1 518 500 0093",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 500 0094",
       "location": "Delanson, NY"
      },
      {
@@ -6249,119 +10459,63 @@
       "location": "Delanson, NY"
      },
      {
-      "number": "+1 518 500 0098",
-      "location": "Delanson, NY"
-     },
-     {
-      "number": "+1 518 600 0012",
-      "location": "Plattsburgh West, NY"
+      "number": "+1 518 510 0004",
+      "location": "Valley Falls, NY"
      },
      {
       "number": "+1 518 600 0013",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0014",
+      "number": "+1 518 600 0027",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0015",
+      "number": "+1 518 600 0048",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0017",
+      "number": "+1 518 600 0049",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0018",
+      "number": "+1 518 600 0051",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0021",
+      "number": "+1 518 600 0058",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0024",
+      "number": "+1 518 600 0061",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0025",
+      "number": "+1 518 600 0065",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 600 0026",
+      "number": "+1 518 600 0072",
       "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 650 0009",
-      "location": "Rensselaer, NY"
+      "number": "+1 518 600 0078",
+      "location": "Plattsburgh West, NY"
      },
      {
-      "number": "+1 518 750 0001",
-      "location": "Preston-Potter Hollow, NY"
-     },
-     {
-      "number": "+1 518 760 0002",
-      "location": "Glens Falls, NY"
-     },
-     {
-      "number": "+1 518 760 0003",
-      "location": "Glens Falls, NY"
-     },
-     {
-      "number": "+1 518 760 0004",
-      "location": "Glens Falls, NY"
-     },
-     {
-      "number": "+1 518 760 0005",
-      "location": "Glens Falls, NY"
-     },
-     {
-      "number": "+1 518 760 0006",
-      "location": "Glens Falls, NY"
+      "number": "+1 518 600 0082",
+      "location": "Plattsburgh West, NY"
      },
      {
       "number": "+1 518 760 0007",
       "location": "Glens Falls, NY"
      },
      {
-      "number": "+1 518 760 0008",
-      "location": "Glens Falls, NY"
-     },
-     {
-      "number": "+1 518 760 0009",
-      "location": "Glens Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0024",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0027",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0036",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0039",
-      "location": "Hudson Falls, NY"
-     },
-     {
       "number": "+1 518 800 0041",
       "location": "Hudson Falls, NY"
      },
      {
-      "number": "+1 518 800 0043",
-      "location": "Hudson Falls, NY"
-     },
-     {
       "number": "+1 518 800 0046",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0048",
       "location": "Hudson Falls, NY"
      },
      {
@@ -6377,19 +10531,7 @@
       "location": "Hudson Falls, NY"
      },
      {
-      "number": "+1 518 800 0053",
-      "location": "Hudson Falls, NY"
-     },
-     {
       "number": "+1 518 800 0054",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0057",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0059",
       "location": "Hudson Falls, NY"
      },
      {
@@ -6409,15 +10551,7 @@
       "location": "Hudson Falls, NY"
      },
      {
-      "number": "+1 518 800 0071",
-      "location": "Hudson Falls, NY"
-     },
-     {
       "number": "+1 518 800 0073",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0074",
       "location": "Hudson Falls, NY"
      },
      {
@@ -6429,31 +10563,11 @@
       "location": "Hudson Falls, NY"
      },
      {
-      "number": "+1 518 800 0079",
-      "location": "Hudson Falls, NY"
-     },
-     {
       "number": "+1 518 800 0082",
       "location": "Hudson Falls, NY"
      },
      {
-      "number": "+1 518 800 0085",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0086",
-      "location": "Hudson Falls, NY"
-     },
-     {
       "number": "+1 518 800 0089",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0091",
-      "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0093",
       "location": "Hudson Falls, NY"
      },
      {
@@ -6481,6 +10595,10 @@
       "location": "East Berne, NY"
      },
      {
+      "number": "+1 518 840 0007",
+      "location": "Glens Falls North, NY"
+     },
+     {
       "number": "+1 518 900 0012",
       "location": "Voorheesville, NY"
      },
@@ -6501,35 +10619,11 @@
       "location": "Voorheesville, NY"
      },
      {
-      "number": "+1 518 900 0023",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0026",
-      "location": "Voorheesville, NY"
-     },
-     {
       "number": "+1 518 900 0027",
       "location": "Voorheesville, NY"
      },
      {
-      "number": "+1 518 900 0029",
-      "location": "Voorheesville, NY"
-     },
-     {
       "number": "+1 518 900 0032",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0036",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0037",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0041",
       "location": "Voorheesville, NY"
      },
      {
@@ -6541,35 +10635,7 @@
       "location": "Voorheesville, NY"
      },
      {
-      "number": "+1 518 900 0045",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0046",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0047",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0048",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0049",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0051",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0052",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0053",
+      "number": "+1 518 900 0057",
       "location": "Voorheesville, NY"
      },
      {
@@ -6577,67 +10643,11 @@
       "location": "Voorheesville, NY"
      },
      {
-      "number": "+1 518 900 0062",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0064",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0065",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0067",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0072",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0074",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0075",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0076",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0081",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0082",
-      "location": "Voorheesville, NY"
-     },
-     {
       "number": "+1 518 900 0083",
       "location": "Voorheesville, NY"
      },
      {
-      "number": "+1 518 900 0084",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0085",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0086",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0091",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0092",
+      "number": "+1 518 900 0089",
       "location": "Voorheesville, NY"
      },
      {
@@ -6645,24 +10655,8 @@
       "location": "Brushton, NY"
      },
      {
-      "number": "+1 518 940 0007",
-      "location": "Brushton, NY"
-     },
-     {
-      "number": "+1 518 940 0008",
-      "location": "Brushton, NY"
-     },
-     {
       "number": "+1 518 940 0009",
       "location": "Brushton, NY"
-     },
-     {
-      "number": "+1 585 380 0001",
-      "location": "Silver Springs, NY"
-     },
-     {
-      "number": "+1 585 380 0003",
-      "location": "Silver Springs, NY"
      },
      {
       "number": "+1 585 460 0009",
@@ -6681,40 +10675,16 @@
       "location": "Batavia, NY"
      },
      {
-      "number": "+1 585 800 0022",
-      "location": "Richburg, NY"
-     },
-     {
-      "number": "+1 585 800 0023",
-      "location": "Richburg, NY"
-     },
-     {
-      "number": "+1 585 800 0030",
-      "location": "Richburg, NY"
-     },
-     {
-      "number": "+1 585 900 0020",
+      "number": "+1 585 650 0004",
       "location": "Delevan, NY"
      },
      {
-      "number": "+1 585 900 0022",
+      "number": "+1 585 650 0009",
       "location": "Delevan, NY"
      },
      {
-      "number": "+1 585 900 0023",
-      "location": "Delevan, NY"
-     },
-     {
-      "number": "+1 585 900 0036",
-      "location": "Delevan, NY"
-     },
-     {
-      "number": "+1 585 900 0038",
-      "location": "Delevan, NY"
-     },
-     {
-      "number": "+1 585 900 0039",
-      "location": "Delevan, NY"
+      "number": "+1 585 660 0004",
+      "location": "Rochester, NY"
      },
      {
       "number": "+1 585 910 0008",
@@ -6725,179 +10695,475 @@
       "location": "Watkins Glen, NY"
      },
      {
-      "number": "+1 607 300 0013",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0016",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0016",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0021",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0019",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0025",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0026",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0032",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0028",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0036",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0036",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0038",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0040",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0039",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0041",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0041",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0045",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0042",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0047",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0045",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0053",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0049",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 300 0054",
-      "location": "Hammondsport, NY"
+      "number": "+1 607 800 0052",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 310 0009",
-      "location": "Cortland, NY"
+      "number": "+1 607 800 0053",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0022",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0057",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0027",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0064",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0032",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0065",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0035",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0073",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0036",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0075",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0038",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0078",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0040",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0079",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0050",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0081",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0059",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0082",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0070",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0086",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0078",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 800 0098",
+      "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 400 0089",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 900 0017",
+      "location": "Mcgraw, NY"
      },
      {
-      "number": "+1 607 400 0098",
-      "location": "Cooperstown, NY"
+      "number": "+1 607 900 0025",
+      "location": "Mcgraw, NY"
      },
      {
-      "number": "+1 607 600 0011",
-      "location": "Canaseraga, NY"
+      "number": "+1 607 900 0032",
+      "location": "Mcgraw, NY"
      },
      {
-      "number": "+1 607 600 0012",
-      "location": "Canaseraga, NY"
+      "number": "+1 607 900 0034",
+      "location": "Mcgraw, NY"
      },
      {
-      "number": "+1 607 600 0018",
-      "location": "Canaseraga, NY"
+      "number": "+1 607 900 0037",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0038",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0039",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0042",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0043",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0051",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0052",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0053",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0056",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0064",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0065",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0072",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0078",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0087",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0092",
+      "location": "Mcgraw, NY"
+     },
+     {
+      "number": "+1 607 900 0097",
+      "location": "Mcgraw, NY"
      },
      {
       "number": "+1 631 600 0025",
       "location": "East Northport, NY"
      },
      {
-      "number": "+1 680 910 0002",
+      "number": "+1 631 600 0034",
+      "location": "East Northport, NY"
+     },
+     {
+      "number": "+1 631 600 0094",
+      "location": "East Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0015",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0017",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0023",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0025",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0029",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0034",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0035",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0045",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0054",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0056",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0078",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0084",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0086",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 631 900 0096",
+      "location": "Northport, NY"
+     },
+     {
+      "number": "+1 680 230 0004",
+      "location": "Utica, NY"
+     },
+     {
+      "number": "+1 680 230 0006",
+      "location": "Utica, NY"
+     },
+     {
+      "number": "+1 680 800 0012",
       "location": "Syracuse, NY"
      },
      {
-      "number": "+1 680 910 0003",
-      "location": "Syracuse, NY"
+      "number": "+1 716 750 0006",
+      "location": "Buffalo, NY"
      },
      {
-      "number": "+1 680 910 0004",
-      "location": "Syracuse, NY"
+      "number": "+1 716 750 0008",
+      "location": "Buffalo, NY"
      },
      {
-      "number": "+1 680 910 0005",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 910 0006",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 910 0007",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 910 0008",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 910 0009",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 716 670 0007",
-      "location": "Angola, NY"
+      "number": "+1 716 750 0009",
+      "location": "Buffalo, NY"
      },
      {
       "number": "+1 716 770 0002",
       "location": "Buffalo, NY"
      },
      {
-      "number": "+1 716 910 0006",
-      "location": "Buffalo, NY"
+      "number": "+1 838 300 0015",
+      "location": "Saranac Lake, NY"
+     },
+     {
+      "number": "+1 838 300 0016",
+      "location": "Saranac Lake, NY"
+     },
+     {
+      "number": "+1 838 300 0017",
+      "location": "Saranac Lake, NY"
+     },
+     {
+      "number": "+1 838 300 0018",
+      "location": "Saranac Lake, NY"
+     },
+     {
+      "number": "+1 838 300 0038",
+      "location": "Saranac Lake, NY"
+     },
+     {
+      "number": "+1 838 300 0064",
+      "location": "Saranac Lake, NY"
+     },
+     {
+      "number": "+1 838 300 0086",
+      "location": "Saranac Lake, NY"
      },
      {
       "number": "+1 838 910 0002",
       "location": "Rensselaer, NY"
+     },
+     {
+      "number": "+1 838 910 0006",
+      "location": "Rensselaer, NY"
+     },
+     {
+      "number": "+1 838 910 0007",
+      "location": "Rensselaer, NY"
+     },
+     {
+      "number": "+1 838 910 0009",
+      "location": "Rensselaer, NY"
+     },
+     {
+      "number": "+1 845 930 0002",
+      "location": "Walden, NY"
+     },
+     {
+      "number": "+1 845 930 0005",
+      "location": "Walden, NY"
+     },
+     {
+      "number": "+1 845 930 0008",
+      "location": "Walden, NY"
+     },
+     {
+      "number": "+1 845 960 0002",
+      "location": "Poughkeepsie, NY"
+     },
+     {
+      "number": "+1 845 960 0003",
+      "location": "Poughkeepsie, NY"
+     },
+     {
+      "number": "+1 914 440 0003",
+      "location": "Yorktown Heights, NY"
+     },
+     {
+      "number": "+1 914 440 0005",
+      "location": "Yorktown Heights, NY"
+     },
+     {
+      "number": "+1 914 440 0009",
+      "location": "Yorktown Heights, NY"
+     },
+     {
+      "number": "+1 914 600 0021",
+      "location": "Jefferson Valley-Yorktown, NY"
+     },
+     {
+      "number": "+1 914 600 0071",
+      "location": "Jefferson Valley-Yorktown, NY"
+     },
+     {
+      "number": "+1 914 600 0079",
+      "location": "Jefferson Valley-Yorktown, NY"
+     },
+     {
+      "number": "+1 934 400 0014",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0024",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0025",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0026",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0029",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0031",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0032",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0034",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0035",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0036",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0038",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0042",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0069",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 500 0012",
+      "location": "North Bay Shore, NY"
+     },
+     {
+      "number": "+1 934 500 0016",
+      "location": "North Bay Shore, NY"
+     },
+     {
+      "number": "+1 934 500 0018",
+      "location": "North Bay Shore, NY"
      }
     ]
    },
    {
     "state": "North Carolina",
-    "count": 33,
+    "count": 45,
     "numbers": [
+     {
+      "number": "+1 252 260 0002",
+      "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 260 0008",
+      "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 380 0002",
+      "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 380 0006",
+      "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 380 0007",
+      "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 380 0009",
+      "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 490 0009",
+      "location": "Colerain, NC"
+     },
+     {
+      "number": "+1 252 590 0003",
+      "location": "Henderson, NC"
+     },
+     {
+      "number": "+1 252 590 0004",
+      "location": "Henderson, NC"
+     },
+     {
+      "number": "+1 252 590 0008",
+      "location": "Henderson, NC"
+     },
      {
       "number": "+1 252 740 0005",
       "location": "Rocky Mount, NC"
@@ -6912,10 +11178,6 @@
      },
      {
       "number": "+1 828 900 0016",
-      "location": "Black Mountain, NC"
-     },
-     {
-      "number": "+1 828 900 0019",
       "location": "Black Mountain, NC"
      },
      {
@@ -6936,6 +11198,10 @@
      },
      {
       "number": "+1 828 900 0054",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0058",
       "location": "Black Mountain, NC"
      },
      {
@@ -7019,6 +11285,14 @@
       "location": "Black Mountain, NC"
      },
      {
+      "number": "+1 910 460 0003",
+      "location": "Newton Grove, NC"
+     },
+     {
+      "number": "+1 910 460 0008",
+      "location": "Newton Grove, NC"
+     },
+     {
       "number": "+1 980 550 0002",
       "location": "Lowell, NC"
      },
@@ -7033,9 +11307,83 @@
     ]
    },
    {
-    "state": "Ohio",
-    "count": 39,
+    "state": "North Dakota",
+    "count": 10,
     "numbers": [
+     {
+      "number": "+1 701 800 0034",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0039",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0052",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0061",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0063",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0065",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0068",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0073",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0076",
+      "location": "Leonard, ND"
+     },
+     {
+      "number": "+1 701 800 0079",
+      "location": "Leonard, ND"
+     }
+    ]
+   },
+   {
+    "state": "Ohio",
+    "count": 59,
+    "numbers": [
+     {
+      "number": "+1 234 270 0008",
+      "location": "Uniontown, OH"
+     },
+     {
+      "number": "+1 234 720 0002",
+      "location": "Atwater, OH"
+     },
+     {
+      "number": "+1 234 720 0003",
+      "location": "Atwater, OH"
+     },
+     {
+      "number": "+1 234 770 0003",
+      "location": "New Franklin, OH"
+     },
+     {
+      "number": "+1 234 770 0004",
+      "location": "New Franklin, OH"
+     },
+     {
+      "number": "+1 234 980 0003",
+      "location": "Louisville, OH"
+     },
+     {
+      "number": "+1 234 980 0007",
+      "location": "Louisville, OH"
+     },
      {
       "number": "+1 380 500 0056",
       "location": "Worthington, OH"
@@ -7061,11 +11409,39 @@
       "location": "Chagrin Falls, OH"
      },
      {
+      "number": "+1 513 750 0008",
+      "location": "Cincinnati, OH"
+     },
+     {
       "number": "+1 513 760 0009",
       "location": "Loveland, OH"
      },
      {
+      "number": "+1 513 790 0002",
+      "location": "Hamilton, OH"
+     },
+     {
+      "number": "+1 513 790 0004",
+      "location": "Hamilton, OH"
+     },
+     {
+      "number": "+1 513 790 0005",
+      "location": "Hamilton, OH"
+     },
+     {
+      "number": "+1 513 940 0002",
+      "location": "Batavia, OH"
+     },
+     {
       "number": "+1 513 940 0003",
+      "location": "Batavia, OH"
+     },
+     {
+      "number": "+1 513 940 0005",
+      "location": "Batavia, OH"
+     },
+     {
+      "number": "+1 513 940 0007",
       "location": "Batavia, OH"
      },
      {
@@ -7077,6 +11453,10 @@
       "location": "Batavia, OH"
      },
      {
+      "number": "+1 513 970 0005",
+      "location": "Lebanon, OH"
+     },
+     {
       "number": "+1 513 970 0007",
       "location": "Lebanon, OH"
      },
@@ -7086,6 +11466,10 @@
      },
      {
       "number": "+1 567 260 0008",
+      "location": "Tiffin, OH"
+     },
+     {
+      "number": "+1 567 260 0009",
       "location": "Tiffin, OH"
      },
      {
@@ -7101,7 +11485,15 @@
       "location": "Genoa, OH"
      },
      {
+      "number": "+1 567 400 0026",
+      "location": "Genoa, OH"
+     },
+     {
       "number": "+1 567 400 0028",
+      "location": "Genoa, OH"
+     },
+     {
+      "number": "+1 567 400 0036",
       "location": "Genoa, OH"
      },
      {
@@ -7125,6 +11517,10 @@
       "location": "Genoa, OH"
      },
      {
+      "number": "+1 567 400 0073",
+      "location": "Genoa, OH"
+     },
+     {
       "number": "+1 567 400 0075",
       "location": "Genoa, OH"
      },
@@ -7137,20 +11533,16 @@
       "location": "Genoa, OH"
      },
      {
-      "number": "+1 740 300 0046",
-      "location": "Nelsonville, OH"
+      "number": "+1 614 710 0005",
+      "location": "Hilliard, OH"
      },
      {
-      "number": "+1 740 500 0012",
-      "location": "Circleville, OH"
+      "number": "+1 740 400 0031",
+      "location": "Baltimore, OH"
      },
      {
-      "number": "+1 740 500 0032",
-      "location": "Circleville, OH"
-     },
-     {
-      "number": "+1 740 500 0034",
-      "location": "Circleville, OH"
+      "number": "+1 740 400 0054",
+      "location": "Baltimore, OH"
      },
      {
       "number": "+1 740 500 0067",
@@ -7185,12 +11577,20 @@
       "location": "Marietta, OH"
      },
      {
+      "number": "+1 740 860 0005",
+      "location": "Parkersburg, OH"
+     },
+     {
       "number": "+1 740 860 0007",
       "location": "Parkersburg, OH"
      },
      {
-      "number": "+1 937 400 0038",
+      "number": "+1 937 400 0071",
       "location": "Jackson Center, OH"
+     },
+     {
+      "number": "+1 937 870 0004",
+      "location": "New Lebanon, OH"
      }
     ]
    },
@@ -7214,8 +11614,12 @@
    },
    {
     "state": "Oregon",
-    "count": 11,
+    "count": 12,
     "numbers": [
+     {
+      "number": "+1 458 230 0006",
+      "location": "Coos Bay, OR"
+     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -7257,15 +11661,27 @@
       "location": "Salem, OR"
      },
      {
-      "number": "+1 971 800 0083",
+      "number": "+1 971 800 0051",
       "location": "Mill City, OR"
      }
     ]
    },
    {
     "state": "Pennsylvania",
-    "count": 7,
+    "count": 8,
     "numbers": [
+     {
+      "number": "+1 272 240 0008",
+      "location": "Mcadoo, PA"
+     },
+     {
+      "number": "+1 484 290 0006",
+      "location": "Kutztown, PA"
+     },
+     {
+      "number": "+1 484 290 0008",
+      "location": "Kutztown, PA"
+     },
      {
       "number": "+1 570 500 0027",
       "location": "Shamokin, PA"
@@ -7283,29 +11699,17 @@
       "location": "Mount Pocono, PA"
      },
      {
-      "number": "+1 570 630 0009",
-      "location": "Lake Ariel, PA"
-     },
-     {
-      "number": "+1 717 340 0003",
-      "location": "Millersville, PA"
-     },
-     {
-      "number": "+1 717 660 0009",
-      "location": "Chambersburg, PA"
+      "number": "+1 724 800 0026",
+      "location": "New Castle, PA"
      }
     ]
    },
    {
     "state": "Rhode Island",
-    "count": 18,
+    "count": 28,
     "numbers": [
      {
       "number": "+1 401 600 0045",
-      "location": "Providence, RI"
-     },
-     {
-      "number": "+1 401 600 0075",
       "location": "Providence, RI"
      },
      {
@@ -7321,6 +11725,10 @@
       "location": "Providence, RI"
      },
      {
+      "number": "+1 401 620 0008",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
       "number": "+1 401 740 0002",
       "location": "Wakefield-Peacedale, RI"
      },
@@ -7333,11 +11741,39 @@
       "location": "Wakefield-Peacedale, RI"
      },
      {
+      "number": "+1 401 800 0017",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
       "number": "+1 401 800 0025",
       "location": "Wakefield-Peacedale, RI"
      },
      {
       "number": "+1 401 800 0028",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0029",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0035",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0036",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0038",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0043",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0046",
       "location": "Wakefield-Peacedale, RI"
      },
      {
@@ -7353,7 +11789,15 @@
       "location": "Wakefield-Peacedale, RI"
      },
      {
+      "number": "+1 401 800 0063",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
       "number": "+1 401 800 0064",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0073",
       "location": "Wakefield-Peacedale, RI"
      },
      {
@@ -7362,6 +11806,10 @@
      },
      {
       "number": "+1 401 800 0076",
+      "location": "Wakefield-Peacedale, RI"
+     },
+     {
+      "number": "+1 401 800 0084",
       "location": "Wakefield-Peacedale, RI"
      },
      {
@@ -7376,10 +11824,22 @@
    },
    {
     "state": "Tennessee",
-    "count": 5,
+    "count": 9,
     "numbers": [
      {
-      "number": "+1 731 400 0031",
+      "number": "+1 731 400 0003",
+      "location": "Savannah, TN"
+     },
+     {
+      "number": "+1 731 400 0018",
+      "location": "Savannah, TN"
+     },
+     {
+      "number": "+1 731 400 0023",
+      "location": "Savannah, TN"
+     },
+     {
+      "number": "+1 731 400 0032",
       "location": "Savannah, TN"
      },
      {
@@ -7389,6 +11849,10 @@
      {
       "number": "+1 901 660 0007",
       "location": "Grand Junction, TN"
+     },
+     {
+      "number": "+1 931 350 0009",
+      "location": "Columbia, TN"
      },
      {
       "number": "+1 931 410 0002",
@@ -7402,7 +11866,7 @@
    },
    {
     "state": "Texas",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 409 710 0004",
@@ -7414,10 +11878,6 @@
      },
      {
       "number": "+1 806 680 0004",
-      "location": "Amarillo, TX"
-     },
-     {
-      "number": "+1 806 680 0006",
       "location": "Amarillo, TX"
      },
      {
@@ -7436,10 +11896,10 @@
    },
    {
     "state": "Utah",
-    "count": 20,
+    "count": 23,
     "numbers": [
      {
-      "number": "+1 385 560 0005",
+      "number": "+1 385 560 0009",
       "location": "Murray, UT"
      },
      {
@@ -7448,6 +11908,26 @@
      },
      {
       "number": "+1 385 900 0018",
+      "location": "West Jordan, UT"
+     },
+     {
+      "number": "+1 385 900 0058",
+      "location": "West Jordan, UT"
+     },
+     {
+      "number": "+1 385 900 0073",
+      "location": "West Jordan, UT"
+     },
+     {
+      "number": "+1 385 900 0074",
+      "location": "West Jordan, UT"
+     },
+     {
+      "number": "+1 385 900 0095",
+      "location": "West Jordan, UT"
+     },
+     {
+      "number": "+1 385 900 0097",
       "location": "West Jordan, UT"
      },
      {
@@ -7479,23 +11959,15 @@
       "location": "Delta, UT"
      },
      {
+      "number": "+1 435 500 0045",
+      "location": "Delta, UT"
+     },
+     {
       "number": "+1 435 500 0046",
       "location": "Delta, UT"
      },
      {
       "number": "+1 435 500 0052",
-      "location": "Delta, UT"
-     },
-     {
-      "number": "+1 435 500 0062",
-      "location": "Delta, UT"
-     },
-     {
-      "number": "+1 435 500 0072",
-      "location": "Delta, UT"
-     },
-     {
-      "number": "+1 435 500 0078",
       "location": "Delta, UT"
      },
      {
@@ -7522,18 +11994,106 @@
    },
    {
     "state": "Vermont",
-    "count": 1,
+    "count": 20,
     "numbers": [
+     {
+      "number": "+1 802 300 0013",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0015",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0017",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0018",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0021",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0036",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0046",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0052",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0061",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0062",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0063",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0065",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0067",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0068",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0072",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0092",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0095",
+      "location": "Perkinsville, VT"
+     },
+     {
+      "number": "+1 802 300 0098",
+      "location": "Perkinsville, VT"
+     },
      {
       "number": "+1 802 520 0009",
       "location": "Alburg, VT"
+     },
+     {
+      "number": "+1 802 910 0005",
+      "location": "South Burlington, VT"
      }
     ]
    },
    {
     "state": "Virginia",
-    "count": 2,
+    "count": 5,
     "numbers": [
+     {
+      "number": "+1 540 360 0009",
+      "location": "Orange, VA"
+     },
+     {
+      "number": "+1 540 390 0006",
+      "location": "Roanoke, VA"
+     },
+     {
+      "number": "+1 540 390 0008",
+      "location": "Roanoke, VA"
+     },
      {
       "number": "+1 540 450 0008",
       "location": "Winchester, VA"
@@ -7545,17 +12105,127 @@
     ]
    },
    {
-    "state": "West Virginia",
-    "count": 11,
+    "state": "Washington",
+    "count": 28,
     "numbers": [
      {
-      "number": "+1 681 230 0007",
-      "location": "District 4, WV"
+      "number": "+1 253 270 0008",
+      "location": "Kent, WA"
      },
      {
-      "number": "+1 681 230 0009",
-      "location": "District 4, WV"
+      "number": "+1 253 300 0098",
+      "location": "Tacoma, WA"
      },
+     {
+      "number": "+1 253 390 0007",
+      "location": "Tacoma, WA"
+     },
+     {
+      "number": "+1 253 540 0002",
+      "location": "Tacoma, WA"
+     },
+     {
+      "number": "+1 253 540 0005",
+      "location": "Tacoma, WA"
+     },
+     {
+      "number": "+1 253 540 0006",
+      "location": "Tacoma, WA"
+     },
+     {
+      "number": "+1 253 650 0005",
+      "location": "Tacoma, WA"
+     },
+     {
+      "number": "+1 253 650 0008",
+      "location": "Tacoma, WA"
+     },
+     {
+      "number": "+1 253 660 0004",
+      "location": "Tacoma, WA"
+     },
+     {
+      "number": "+1 360 900 0023",
+      "location": "Bangor Base, WA"
+     },
+     {
+      "number": "+1 360 900 0063",
+      "location": "Bangor Base, WA"
+     },
+     {
+      "number": "+1 360 900 0065",
+      "location": "Bangor Base, WA"
+     },
+     {
+      "number": "+1 360 900 0081",
+      "location": "Bangor Base, WA"
+     },
+     {
+      "number": "+1 425 740 0003",
+      "location": "Everett, WA"
+     },
+     {
+      "number": "+1 425 790 0006",
+      "location": "Clyde Hill, WA"
+     },
+     {
+      "number": "+1 425 880 0003",
+      "location": "Carnation, WA"
+     },
+     {
+      "number": "+1 425 880 0004",
+      "location": "Carnation, WA"
+     },
+     {
+      "number": "+1 425 920 0004",
+      "location": "Clyde Hill, WA"
+     },
+     {
+      "number": "+1 425 930 0002",
+      "location": "Clyde Hill, WA"
+     },
+     {
+      "number": "+1 425 940 0005",
+      "location": "Clyde Hill, WA"
+     },
+     {
+      "number": "+1 509 300 0092",
+      "location": "Wenatchee, WA"
+     },
+     {
+      "number": "+1 509 300 0093",
+      "location": "Wenatchee, WA"
+     },
+     {
+      "number": "+1 509 320 0005",
+      "location": "Starbuck, WA"
+     },
+     {
+      "number": "+1 509 600 0016",
+      "location": "Bridgeport, WA"
+     },
+     {
+      "number": "+1 509 600 0019",
+      "location": "Bridgeport, WA"
+     },
+     {
+      "number": "+1 509 600 0079",
+      "location": "Bridgeport, WA"
+     },
+     {
+      "number": "+1 509 620 0004",
+      "location": "Coulee Dam, WA"
+     },
+     {
+      "number": "+1 509 620 0009",
+      "location": "Coulee Dam, WA"
+     }
+    ]
+   },
+   {
+    "state": "West Virginia",
+    "count": 9,
+    "numbers": [
      {
       "number": "+1 681 370 0003",
       "location": "Rivesville, WV"
@@ -7606,11 +12276,47 @@
    },
    {
     "state": "Wyoming",
-    "count": 1,
+    "count": 10,
     "numbers": [
+     {
+      "number": "+1 307 420 0003",
+      "location": "Lingle, WY"
+     },
+     {
+      "number": "+1 307 420 0004",
+      "location": "Lingle, WY"
+     },
+     {
+      "number": "+1 307 420 0006",
+      "location": "Lingle, WY"
+     },
      {
       "number": "+1 307 430 0006",
       "location": "Jackson, WY"
+     },
+     {
+      "number": "+1 307 800 0016",
+      "location": "Diamondville, WY"
+     },
+     {
+      "number": "+1 307 800 0024",
+      "location": "Diamondville, WY"
+     },
+     {
+      "number": "+1 307 800 0028",
+      "location": "Diamondville, WY"
+     },
+     {
+      "number": "+1 307 800 0036",
+      "location": "Diamondville, WY"
+     },
+     {
+      "number": "+1 307 800 0087",
+      "location": "Diamondville, WY"
+     },
+     {
+      "number": "+1 307 800 0096",
+      "location": "Diamondville, WY"
      }
     ]
    }
@@ -7627,19 +12333,7 @@
   },
   {
    "pattern": "333333",
-   "status": "1 US result",
-   "states": [
-    {
-     "state": "New York",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 518 333 3332",
-       "location": "Brushton, NY"
-      }
-     ]
-    }
-   ]
+   "status": "No results"
   },
   {
    "pattern": "444444",
@@ -7663,7 +12357,23 @@
   },
   {
    "pattern": "999999",
-   "status": "No US results — Canada only"
+   "status": "2 US results",
+   "states": [
+    {
+     "state": "Connecticut",
+     "count": 2,
+     "numbers": [
+      {
+       "number": "+1 959 999 9908",
+       "location": "Hartford, CT"
+      },
+      {
+       "number": "+1 959 999 9912",
+       "location": "Hartford, CT"
+      }
+     ]
+    }
+   ]
   },
   {
    "pattern": "000000",
@@ -7671,6 +12381,22 @@
   }
  ],
  "patterns_ab": [
+  {
+   "pattern": "2225555",
+   "count": 1,
+   "states": [
+    {
+     "state": "Georgia",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 912 225 5554",
+       "location": "Statesboro, GA"
+      }
+     ]
+    }
+   ]
+  },
   {
    "pattern": "3334444",
    "count": 1,
@@ -7712,24 +12438,8 @@
    ]
   },
   {
-   "pattern": "4447777",
-   "count": 1,
-   "states": [
-    {
-     "state": "Alabama",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 334 447 7776",
-       "location": "Enterprise, AL"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "pattern": "5552222",
-   "count": 3,
+   "count": 6,
    "states": [
     {
      "state": "Utah",
@@ -7746,6 +12456,24 @@
       {
        "number": "+1 385 552 2229",
        "location": "Kaysville, UT"
+      }
+     ]
+    },
+    {
+     "state": "Washington",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 425 552 2221",
+       "location": "Mill Creek, WA"
+      },
+      {
+       "number": "+1 425 552 2228",
+       "location": "Mill Creek, WA"
+      },
+      {
+       "number": "+1 425 552 2229",
+       "location": "Mill Creek, WA"
       }
      ]
     }
@@ -7821,8 +12549,26 @@
   },
   {
    "pattern": "5558888",
-   "count": 2,
+   "count": 5,
    "states": [
+    {
+     "state": "Connecticut",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 475 558 8881",
+       "location": "Norwalk, CT"
+      },
+      {
+       "number": "+1 475 558 8885",
+       "location": "Norwalk, CT"
+      },
+      {
+       "number": "+1 475 558 8886",
+       "location": "Norwalk, CT"
+      }
+     ]
+    },
     {
      "state": "Utah",
      "count": 2,
@@ -7963,11 +12709,11 @@
   },
   {
    "pattern": "7772222",
-   "count": 9,
+   "count": 10,
    "states": [
     {
      "state": "Maryland",
-     "count": 9,
+     "count": 10,
      "numbers": [
       {
        "number": "+1 227 772 2224",
@@ -7986,11 +12732,19 @@
        "location": "North Brentwood, MD"
       },
       {
+       "number": "+1 667 772 2220",
+       "location": "Hampstead, MD"
+      },
+      {
        "number": "+1 667 772 2221",
        "location": "Hampstead, MD"
       },
       {
-       "number": "+1 667 772 2224",
+       "number": "+1 667 772 2223",
+       "location": "Hampstead, MD"
+      },
+      {
+       "number": "+1 667 772 2226",
        "location": "Hampstead, MD"
       },
       {
@@ -7999,10 +12753,6 @@
       },
       {
        "number": "+1 667 772 2228",
-       "location": "Hampstead, MD"
-      },
-      {
-       "number": "+1 667 772 2229",
        "location": "Hampstead, MD"
       }
      ]
@@ -8109,26 +12859,14 @@
   },
   {
    "pattern": "8886666",
-   "count": 4,
+   "count": 1,
    "states": [
     {
      "state": "New York",
-     "count": 4,
+     "count": 1,
      "numbers": [
       {
-       "number": "+1 518 886 6660",
-       "location": "Saratoga Springs, NY"
-      },
-      {
-       "number": "+1 518 886 6661",
-       "location": "Saratoga Springs, NY"
-      },
-      {
        "number": "+1 518 886 6663",
-       "location": "Saratoga Springs, NY"
-      },
-      {
-       "number": "+1 518 886 6667",
        "location": "Saratoga Springs, NY"
       }
      ]
@@ -8158,6 +12896,22 @@
       {
        "number": "+1 928 889 9997",
        "location": "Lake Havasu City, AZ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "9991111",
+   "count": 1,
+   "states": [
+    {
+     "state": "Connecticut",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 959 991 1110",
+       "location": "Madison Center, CT"
       }
      ]
     }
@@ -8233,12 +12987,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 876,
+  "total_5_in_a_row": 1620,
   "patterns_with_results": 8,
-  "total_0000": 840,
-  "state_count_0000": 39,
-  "total_aaa_bbbb": 67,
+  "total_0000": 1232,
+  "state_count_0000": 42,
+  "total_aaa_bbbb": 72,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 19
+  "aaa_bbbb_patterns_with_results": 20
  }
 }
