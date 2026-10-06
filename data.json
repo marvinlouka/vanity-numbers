@@ -1,5 +1,5 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -387,7 +387,7 @@
   },
   {
    "pattern": "33333",
-   "count": 45,
+   "count": 44,
    "states": [
     {
      "state": "Alabama",
@@ -401,12 +401,8 @@
     },
     {
      "state": "California",
-     "count": 6,
+     "count": 5,
      "numbers": [
-      {
-       "number": "+1 442 333 3341",
-       "location": "Carlsbad, CA"
-      },
       {
        "number": "+1 442 333 3359",
        "location": "Carlsbad, CA"
@@ -1205,7 +1201,7 @@
   },
   {
    "pattern": "66666",
-   "count": 122,
+   "count": 121,
    "states": [
     {
      "state": "Alabama",
@@ -1541,14 +1537,10 @@
     },
     {
      "state": "Indiana",
-     "count": 11,
+     "count": 10,
      "numbers": [
       {
        "number": "+1 260 366 6661",
-       "location": "Huntington, IN"
-      },
-      {
-       "number": "+1 260 366 6662",
        "location": "Huntington, IN"
       },
       {
@@ -1809,15 +1801,21 @@
     },
     {
      "state": "Utah",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 385 666 6603",
-       "location": "Provo, UT"
-      },
       {
        "number": "+1 385 666 6612",
        "location": "Provo, UT"
+      }
+     ]
+    },
+    {
+     "state": "Washington",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 253 466 6669",
+       "location": "Puyallup, WA"
       }
      ]
     }
@@ -2869,11 +2867,11 @@
   },
   {
    "pattern": "88888",
-   "count": 692,
+   "count": 690,
    "states": [
     {
      "state": "Alabama",
-     "count": 17,
+     "count": 16,
      "numbers": [
       {
        "number": "+1 251 888 8803",
@@ -2921,10 +2919,6 @@
       },
       {
        "number": "+1 334 888 8834",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 334 888 8837",
        "location": "Clayton, AL"
       },
       {
@@ -5023,12 +5017,8 @@
     },
     {
      "state": "New York",
-     "count": 2,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 315 588 8880",
-       "location": "Alexandria Bay, NY"
-      },
       {
        "number": "+1 585 788 8886",
        "location": "Bloomfield, NY"
@@ -5703,7 +5693,7 @@
   },
   {
    "pattern": "99999",
-   "count": 339,
+   "count": 330,
    "states": [
     {
      "state": "Alabama",
@@ -6621,7 +6611,7 @@
     },
     {
      "state": "Georgia",
-     "count": 78,
+     "count": 77,
      "numbers": [
       {
        "number": "+1 229 999 9002",
@@ -6892,10 +6882,6 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 762 999 9931",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 762 999 9934",
        "location": "Watkinsville, GA"
       },
@@ -7012,44 +6998,6 @@
      ]
     },
     {
-     "state": "Minnesota",
-     "count": 8,
-     "numbers": [
-      {
-       "number": "+1 952 999 9903",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 999 9907",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 999 9908",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 999 9912",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 999 9913",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 999 9918",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 999 9935",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 952 999 9945",
-       "location": "Hilltop, MN"
-      }
-     ]
-    },
-    {
      "state": "New Jersey",
      "count": 1,
      "numbers": [
@@ -7137,12 +7085,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 1232,
+  "total": 1222,
   "state_count": 42,
   "states": [
    {
     "state": "Alabama",
-    "count": 26,
+    "count": 27,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -7163,6 +7111,10 @@
      {
       "number": "+1 251 800 0025",
       "location": "Mobile, AL"
+     },
+     {
+      "number": "+1 256 600 0019",
+      "location": "Jacksonville, AL"
      },
      {
       "number": "+1 334 640 0004",
@@ -7252,40 +7204,8 @@
    },
    {
     "state": "Arizona",
-    "count": 14,
+    "count": 6,
     "numbers": [
-     {
-      "number": "+1 520 800 0017",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 800 0031",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 800 0035",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 800 0059",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 800 0075",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 800 0094",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 800 0095",
-      "location": "South Tucson, AZ"
-     },
-     {
-      "number": "+1 520 800 0098",
-      "location": "South Tucson, AZ"
-     },
      {
       "number": "+1 928 800 0024",
       "location": "Prescott, AZ"
@@ -7411,10 +7331,6 @@
     "count": 59,
     "numbers": [
      {
-      "number": "+1 530 730 0005",
-      "location": "Bangor, CA"
-     },
-     {
       "number": "+1 562 580 0004",
       "location": "Long Beach, CA"
      },
@@ -7433,6 +7349,10 @@
      {
       "number": "+1 562 740 0006",
       "location": "Long Beach, CA"
+     },
+     {
+      "number": "+1 626 340 0007",
+      "location": "Los Angeles, CA"
      },
      {
       "number": "+1 657 650 0005",
@@ -8578,7 +8498,7 @@
    },
    {
     "state": "Georgia",
-    "count": 93,
+    "count": 92,
     "numbers": [
      {
       "number": "+1 229 210 0008",
@@ -8711,10 +8631,6 @@
      {
       "number": "+1 706 770 0009",
       "location": "Young Harris, GA"
-     },
-     {
-      "number": "+1 762 270 0003",
-      "location": "Mc Caysville, GA"
      },
      {
       "number": "+1 762 300 0014",
@@ -9530,7 +9446,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 61,
+    "count": 60,
     "numbers": [
      {
       "number": "+1 218 500 0018",
@@ -9574,10 +9490,6 @@
      },
      {
       "number": "+1 218 660 0008",
-      "location": "Carlton, MN"
-     },
-     {
-      "number": "+1 218 660 0009",
       "location": "Carlton, MN"
      },
      {
@@ -10344,7 +10256,7 @@
    },
    {
     "state": "New York",
-    "count": 193,
+    "count": 190,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -10585,10 +10497,6 @@
      {
       "number": "+1 518 800 0098",
       "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 830 0003",
-      "location": "East Berne, NY"
      },
      {
       "number": "+1 518 830 0009",
@@ -10947,6 +10855,38 @@
       "location": "Utica, NY"
      },
      {
+      "number": "+1 680 340 0002",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 680 340 0003",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 680 340 0004",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 680 340 0005",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 680 340 0006",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 680 340 0007",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 680 340 0008",
+      "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 680 340 0009",
+      "location": "Syracuse, NY"
+     },
+     {
       "number": "+1 680 800 0012",
       "location": "Syracuse, NY"
      },
@@ -11051,10 +10991,6 @@
       "location": "Jefferson Valley-Yorktown, NY"
      },
      {
-      "number": "+1 914 600 0079",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
       "number": "+1 934 400 0014",
       "location": "Port Jefferson, NY"
      },
@@ -11068,42 +11004,6 @@
      },
      {
       "number": "+1 934 400 0026",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0029",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0031",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0032",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0034",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0035",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0036",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0038",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0042",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0069",
       "location": "Port Jefferson, NY"
      },
      {
@@ -11824,7 +11724,7 @@
    },
    {
     "state": "Tennessee",
-    "count": 9,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 731 400 0003",
@@ -11840,6 +11740,10 @@
      },
      {
       "number": "+1 731 400 0032",
+      "location": "Savannah, TN"
+     },
+     {
+      "number": "+1 731 400 0037",
       "location": "Savannah, TN"
      },
      {
@@ -11866,7 +11770,7 @@
    },
    {
     "state": "Texas",
-    "count": 6,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 409 710 0004",
@@ -11875,6 +11779,10 @@
      {
       "number": "+1 409 710 0008",
       "location": "Beaumont, TX"
+     },
+     {
+      "number": "+1 469 300 0026",
+      "location": "Bardwell, TX"
      },
      {
       "number": "+1 806 680 0004",
@@ -12392,22 +12300,6 @@
       {
        "number": "+1 912 225 5554",
        "location": "Statesboro, GA"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "pattern": "3334444",
-   "count": 1,
-   "states": [
-    {
-     "state": "Florida",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 863 334 4441",
-       "location": "Haines City, FL"
       }
      ]
     }
@@ -12987,12 +12879,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1620,
+  "total_5_in_a_row": 1607,
   "patterns_with_results": 8,
-  "total_0000": 1232,
+  "total_0000": 1222,
   "state_count_0000": 42,
-  "total_aaa_bbbb": 72,
+  "total_aaa_bbbb": 71,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 20
+  "aaa_bbbb_patterns_with_results": 19
  }
 }
