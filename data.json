@@ -1,9 +1,9 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 72,
+   "count": 71,
    "states": [
     {
      "state": "Colorado",
@@ -339,7 +339,7 @@
     },
     {
      "state": "Washington",
-     "count": 10,
+     "count": 9,
      "numbers": [
       {
        "number": "+1 253 322 2227",
@@ -352,10 +352,6 @@
       {
        "number": "+1 253 322 2229",
        "location": "Tacoma, WA"
-      },
-      {
-       "number": "+1 425 222 2208",
-       "location": "Snoqualmie, WA"
       },
       {
        "number": "+1 509 722 2221",
@@ -387,7 +383,7 @@
   },
   {
    "pattern": "33333",
-   "count": 44,
+   "count": 43,
    "states": [
     {
      "state": "Alabama",
@@ -461,7 +457,7 @@
     },
     {
      "state": "Georgia",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 912 333 3347",
@@ -469,10 +465,6 @@
       },
       {
        "number": "+1 912 333 3352",
-       "location": "Hazlehurst, GA"
-      },
-      {
-       "number": "+1 912 333 3371",
        "location": "Hazlehurst, GA"
       }
      ]
@@ -1201,11 +1193,11 @@
   },
   {
    "pattern": "66666",
-   "count": 121,
+   "count": 118,
    "states": [
     {
      "state": "Alabama",
-     "count": 16,
+     "count": 15,
      "numbers": [
       {
        "number": "+1 251 566 6663",
@@ -1226,10 +1218,6 @@
       {
        "number": "+1 256 866 6664",
        "location": "Killen, AL"
-      },
-      {
-       "number": "+1 334 666 6620",
-       "location": "Wetumpka, AL"
       },
       {
        "number": "+1 334 766 6661",
@@ -1583,12 +1571,8 @@
     },
     {
      "state": "Maryland",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 227 666 6618",
-       "location": "Frederick, MD"
-      },
       {
        "number": "+1 667 966 6662",
        "location": "New Windsor, MD"
@@ -1806,16 +1790,6 @@
       {
        "number": "+1 385 666 6612",
        "location": "Provo, UT"
-      }
-     ]
-    },
-    {
-     "state": "Washington",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 253 466 6669",
-       "location": "Puyallup, WA"
       }
      ]
     }
@@ -2867,7 +2841,7 @@
   },
   {
    "pattern": "88888",
-   "count": 690,
+   "count": 671,
    "states": [
     {
      "state": "Alabama",
@@ -3605,12 +3579,8 @@
     },
     {
      "state": "Georgia",
-     "count": 101,
+     "count": 82,
      "numbers": [
-      {
-       "number": "+1 478 888 8002",
-       "location": "Sandersville, GA"
-      },
       {
        "number": "+1 478 888 8014",
        "location": "Sandersville, GA"
@@ -3636,10 +3606,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8062",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8066",
        "location": "Sandersville, GA"
       },
@@ -3649,10 +3615,6 @@
       },
       {
        "number": "+1 478 888 8069",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8072",
        "location": "Sandersville, GA"
       },
       {
@@ -3700,10 +3662,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8207",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8215",
        "location": "Sandersville, GA"
       },
@@ -3736,15 +3694,7 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8358",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8392",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8401",
        "location": "Sandersville, GA"
       },
       {
@@ -3757,10 +3707,6 @@
       },
       {
        "number": "+1 478 888 8422",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8431",
        "location": "Sandersville, GA"
       },
       {
@@ -3788,10 +3734,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8486",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8495",
        "location": "Sandersville, GA"
       },
@@ -3809,10 +3751,6 @@
       },
       {
        "number": "+1 478 888 8535",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8542",
        "location": "Sandersville, GA"
       },
       {
@@ -3844,19 +3782,7 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8596",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8608",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8610",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8614",
        "location": "Sandersville, GA"
       },
       {
@@ -3908,14 +3834,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8709",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8717",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8735",
        "location": "Sandersville, GA"
       },
@@ -3929,10 +3847,6 @@
       },
       {
        "number": "+1 478 888 8752",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8755",
        "location": "Sandersville, GA"
       },
       {
@@ -3956,23 +3870,7 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8908",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8911",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8921",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8926",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8930",
        "location": "Sandersville, GA"
       },
       {
@@ -4334,10 +4232,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8409",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8410",
        "location": "Bemidji, MN"
       },
@@ -4370,10 +4264,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8427",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8429",
        "location": "Bemidji, MN"
       },
@@ -4391,6 +4281,14 @@
       },
       {
        "number": "+1 218 888 8435",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8436",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8437",
        "location": "Bemidji, MN"
       },
       {
@@ -4482,10 +4380,6 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8609",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8611",
        "location": "Bemidji, MN"
       },
@@ -4502,19 +4396,11 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8617",
-       "location": "Bemidji, MN"
-      },
-      {
        "number": "+1 218 888 8619",
        "location": "Bemidji, MN"
       },
       {
        "number": "+1 218 888 8620",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8621",
        "location": "Bemidji, MN"
       },
       {
@@ -4550,7 +4436,19 @@
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8639",
+       "number": "+1 218 888 8641",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8643",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8644",
+       "location": "Bemidji, MN"
+      },
+      {
+       "number": "+1 218 888 8645",
        "location": "Bemidji, MN"
       },
       {
@@ -5693,11 +5591,11 @@
   },
   {
    "pattern": "99999",
-   "count": 330,
+   "count": 211,
    "states": [
     {
      "state": "Alabama",
-     "count": 101,
+     "count": 100,
      "numbers": [
       {
        "number": "+1 251 999 9913",
@@ -5972,10 +5870,6 @@
        "location": "Winfield, AL"
       },
       {
-       "number": "+1 659 999 9476",
-       "location": "Winfield, AL"
-      },
-      {
        "number": "+1 659 999 9477",
        "location": "Winfield, AL"
       },
@@ -6158,264 +6052,6 @@
       {
        "number": "+1 719 999 9296",
        "location": "Colorado Springs, CO"
-      }
-     ]
-    },
-    {
-     "state": "Connecticut",
-     "count": 63,
-     "numbers": [
-      {
-       "number": "+1 959 999 9185",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9578",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9593",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9610",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9622",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9625",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9628",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9644",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9646",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9654",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9662",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9665",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9667",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9670",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9676",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9679",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9685",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9690",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9691",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9693",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9697",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9701",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9702",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9703",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9706",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9711",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9716",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9733",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9740",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9746",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9747",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9755",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9770",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9771",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9773",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9774",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9780",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9787",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9788",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9790",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9791",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9801",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9804",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9809",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9810",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9811",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9812",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9813",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9819",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9823",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9824",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9828",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9830",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9845",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9850",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9852",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9853",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9854",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9856",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9859",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9860",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9908",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9912",
-       "location": "Hartford, CT"
       }
      ]
     },
@@ -6611,228 +6247,8 @@
     },
     {
      "state": "Georgia",
-     "count": 77,
+     "count": 22,
      "numbers": [
-      {
-       "number": "+1 229 999 9002",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9004",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9005",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9022",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9027",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9034",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9076",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9092",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9132",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9134",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9135",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9152",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9163",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9166",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9177",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9181",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9196",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9198",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9209",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9215",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9242",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9246",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9251",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9260",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9264",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9285",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9290",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9308",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9331",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9337",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9341",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9347",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9409",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9459",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9514",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9567",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9598",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9610",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9653",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9697",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9717",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9719",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9725",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9746",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9748",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9750",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9751",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9753",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9754",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9755",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9756",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9760",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9831",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9868",
-       "location": "Fort Gaines, GA"
-      },
-      {
-       "number": "+1 229 999 9879",
-       "location": "Fort Gaines, GA"
-      },
       {
        "number": "+1 470 999 9914",
        "location": "Cedartown, GA"
@@ -7085,12 +6501,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 1222,
+  "total": 1221,
   "state_count": 42,
   "states": [
    {
     "state": "Alabama",
-    "count": 27,
+    "count": 26,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -7111,10 +6527,6 @@
      {
       "number": "+1 251 800 0025",
       "location": "Mobile, AL"
-     },
-     {
-      "number": "+1 256 600 0019",
-      "location": "Jacksonville, AL"
      },
      {
       "number": "+1 334 640 0004",
@@ -7328,7 +6740,7 @@
    },
    {
     "state": "California",
-    "count": 59,
+    "count": 58,
     "numbers": [
      {
       "number": "+1 562 580 0004",
@@ -7349,10 +6761,6 @@
      {
       "number": "+1 562 740 0006",
       "location": "Long Beach, CA"
-     },
-     {
-      "number": "+1 626 340 0007",
-      "location": "Los Angeles, CA"
      },
      {
       "number": "+1 657 650 0005",
@@ -7696,7 +7104,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 149,
+    "count": 139,
     "numbers": [
      {
       "number": "+1 475 340 0008",
@@ -7815,10 +7223,6 @@
       "location": "Bantam, CT"
      },
      {
-      "number": "+1 959 300 0020",
-      "location": "Bantam, CT"
-     },
-     {
       "number": "+1 959 300 0021",
       "location": "Bantam, CT"
      },
@@ -7859,10 +7263,6 @@
       "location": "Bantam, CT"
      },
      {
-      "number": "+1 959 300 0040",
-      "location": "Bantam, CT"
-     },
-     {
       "number": "+1 959 300 0042",
       "location": "Bantam, CT"
      },
@@ -7876,10 +7276,6 @@
      },
      {
       "number": "+1 959 300 0053",
-      "location": "Bantam, CT"
-     },
-     {
-      "number": "+1 959 300 0060",
       "location": "Bantam, CT"
      },
      {
@@ -7921,10 +7317,6 @@
      {
       "number": "+1 959 300 0098",
       "location": "Bantam, CT"
-     },
-     {
-      "number": "+1 959 400 0010",
-      "location": "Torrington, CT"
      },
      {
       "number": "+1 959 400 0013",
@@ -7983,10 +7375,6 @@
       "location": "Torrington, CT"
      },
      {
-      "number": "+1 959 400 0030",
-      "location": "Torrington, CT"
-     },
-     {
       "number": "+1 959 400 0032",
       "location": "Torrington, CT"
      },
@@ -8016,10 +7404,6 @@
      },
      {
       "number": "+1 959 400 0048",
-      "location": "Torrington, CT"
-     },
-     {
-      "number": "+1 959 400 0050",
       "location": "Torrington, CT"
      },
      {
@@ -8127,18 +7511,6 @@
       "location": "Plainfield Village, CT"
      },
      {
-      "number": "+1 959 600 0027",
-      "location": "Plainfield Village, CT"
-     },
-     {
-      "number": "+1 959 600 0028",
-      "location": "Plainfield Village, CT"
-     },
-     {
-      "number": "+1 959 600 0030",
-      "location": "Plainfield Village, CT"
-     },
-     {
       "number": "+1 959 600 0031",
       "location": "Plainfield Village, CT"
      },
@@ -8196,10 +7568,6 @@
      },
      {
       "number": "+1 959 600 0069",
-      "location": "Plainfield Village, CT"
-     },
-     {
-      "number": "+1 959 600 0070",
       "location": "Plainfield Village, CT"
      },
      {
@@ -8332,16 +7700,8 @@
    },
    {
     "state": "Florida",
-    "count": 40,
+    "count": 38,
     "numbers": [
-     {
-      "number": "+1 239 900 0058",
-      "location": "Fort Myers, FL"
-     },
-     {
-      "number": "+1 239 900 0078",
-      "location": "Fort Myers, FL"
-     },
      {
       "number": "+1 352 830 0005",
       "location": "Ocala, FL"
@@ -8952,10 +8312,22 @@
    },
    {
     "state": "Indiana",
-    "count": 11,
+    "count": 14,
     "numbers": [
      {
       "number": "+1 765 400 0013",
+      "location": "Anderson, IN"
+     },
+     {
+      "number": "+1 765 400 0072",
+      "location": "Anderson, IN"
+     },
+     {
+      "number": "+1 765 400 0097",
+      "location": "Anderson, IN"
+     },
+     {
+      "number": "+1 765 400 0098",
       "location": "Anderson, IN"
      },
      {
@@ -9324,12 +8696,8 @@
    },
    {
     "state": "Louisiana",
-    "count": 15,
+    "count": 14,
     "numbers": [
-     {
-      "number": "+1 225 380 0009",
-      "location": "Denham Springs, LA"
-     },
      {
       "number": "+1 225 430 0002",
       "location": "Donaldsonville, LA"
@@ -9446,8 +8814,12 @@
    },
    {
     "state": "Minnesota",
-    "count": 60,
+    "count": 73,
     "numbers": [
+     {
+      "number": "+1 218 480 0004",
+      "location": "Stephen, MN"
+     },
      {
       "number": "+1 218 500 0018",
       "location": "Kettle River, MN"
@@ -9525,6 +8897,26 @@
       "location": "Saint Cloud, MN"
      },
      {
+      "number": "+1 320 400 0014",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0017",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0018",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0025",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0027",
+      "location": "Olivia, MN"
+     },
+     {
       "number": "+1 320 400 0028",
       "location": "Olivia, MN"
      },
@@ -9537,11 +8929,31 @@
       "location": "Olivia, MN"
      },
      {
+      "number": "+1 320 400 0043",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0045",
+      "location": "Olivia, MN"
+     },
+     {
       "number": "+1 320 400 0046",
       "location": "Olivia, MN"
      },
      {
+      "number": "+1 320 400 0048",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0049",
+      "location": "Olivia, MN"
+     },
+     {
       "number": "+1 320 400 0052",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0053",
       "location": "Olivia, MN"
      },
      {
@@ -9558,6 +8970,10 @@
      },
      {
       "number": "+1 320 400 0075",
+      "location": "Olivia, MN"
+     },
+     {
+      "number": "+1 320 400 0078",
       "location": "Olivia, MN"
      },
      {
@@ -9671,6 +9087,10 @@
      {
       "number": "+1 507 570 0007",
       "location": "Green Isle, MN"
+     },
+     {
+      "number": "+1 507 580 0004",
+      "location": "Elgin, MN"
      },
      {
       "number": "+1 507 580 0006",
@@ -10256,7 +9676,7 @@
    },
    {
     "state": "New York",
-    "count": 190,
+    "count": 192,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -10301,10 +9721,6 @@
      {
       "number": "+1 516 930 0006",
       "location": "Manhasset, NY"
-     },
-     {
-      "number": "+1 518 400 0059",
-      "location": "Round Lake, NY"
      },
      {
       "number": "+1 518 460 0005",
@@ -10831,6 +10247,10 @@
       "location": "Northport, NY"
      },
      {
+      "number": "+1 631 900 0059",
+      "location": "Northport, NY"
+     },
+     {
       "number": "+1 631 900 0078",
       "location": "Northport, NY"
      },
@@ -10853,38 +10273,6 @@
      {
       "number": "+1 680 230 0006",
       "location": "Utica, NY"
-     },
-     {
-      "number": "+1 680 340 0002",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 340 0003",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 340 0004",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 340 0005",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 340 0006",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 340 0007",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 340 0008",
-      "location": "Syracuse, NY"
-     },
-     {
-      "number": "+1 680 340 0009",
-      "location": "Syracuse, NY"
      },
      {
       "number": "+1 680 800 0012",
@@ -10951,10 +10339,6 @@
       "location": "Rensselaer, NY"
      },
      {
-      "number": "+1 845 930 0002",
-      "location": "Walden, NY"
-     },
-     {
       "number": "+1 845 930 0005",
       "location": "Walden, NY"
      },
@@ -10991,6 +10375,10 @@
       "location": "Jefferson Valley-Yorktown, NY"
      },
      {
+      "number": "+1 914 600 0079",
+      "location": "Jefferson Valley-Yorktown, NY"
+     },
+     {
       "number": "+1 934 400 0014",
       "location": "Port Jefferson, NY"
      },
@@ -11004,6 +10392,46 @@
      },
      {
       "number": "+1 934 400 0026",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0029",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0031",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0032",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0034",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0035",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0036",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0038",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0042",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0043",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0069",
       "location": "Port Jefferson, NY"
      },
      {
@@ -11770,7 +11198,7 @@
    },
    {
     "state": "Texas",
-    "count": 7,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 409 710 0004",
@@ -11779,14 +11207,6 @@
      {
       "number": "+1 409 710 0008",
       "location": "Beaumont, TX"
-     },
-     {
-      "number": "+1 469 300 0026",
-      "location": "Bardwell, TX"
-     },
-     {
-      "number": "+1 806 680 0004",
-      "location": "Amarillo, TX"
      },
      {
       "number": "+1 903 420 0007",
@@ -11988,7 +11408,7 @@
    },
    {
     "state": "Virginia",
-    "count": 5,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 540 360 0009",
@@ -12001,14 +11421,6 @@
      {
       "number": "+1 540 390 0008",
       "location": "Roanoke, VA"
-     },
-     {
-      "number": "+1 540 450 0008",
-      "location": "Winchester, VA"
-     },
-     {
-      "number": "+1 540 450 0009",
-      "location": "Winchester, VA"
      }
     ]
    },
@@ -12265,23 +11677,7 @@
   },
   {
    "pattern": "999999",
-   "status": "2 US results",
-   "states": [
-    {
-     "state": "Connecticut",
-     "count": 2,
-     "numbers": [
-      {
-       "number": "+1 959 999 9908",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 999 9912",
-       "location": "Hartford, CT"
-      }
-     ]
-    }
-   ]
+   "status": "No US results — Canada only"
   },
   {
    "pattern": "000000",
@@ -12879,9 +12275,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1607,
+  "total_5_in_a_row": 1464,
   "patterns_with_results": 8,
-  "total_0000": 1222,
+  "total_0000": 1221,
   "state_count_0000": 42,
   "total_aaa_bbbb": 71,
   "aaa_bbbb_patterns_searched": 90,

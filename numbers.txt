@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-10-06
-1607 five-in-a-row · 1222 four-zeros across 42 states · 71 AAA-BBBB across 19 of 90 combinations
+Updated: 2026-10-07
+1464 five-in-a-row · 1221 four-zeros across 42 states · 71 AAA-BBBB across 19 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 72 numbers ---
+--- 22222 — 71 numbers ---
 
   COLORADO (6)
     +1 970 722 2221   Fraser, CO
@@ -98,11 +98,10 @@ Updated: 2026-10-06
     +1 802 622 2228   Barre, VT
     +1 802 822 2221   Derby Line, VT
 
-  WASHINGTON (10)
+  WASHINGTON (9)
     +1 253 322 2227   Tacoma, WA
     +1 253 322 2228   Tacoma, WA
     +1 253 322 2229   Tacoma, WA
-    +1 425 222 2208   Snoqualmie, WA
     +1 509 722 2221   Chewelah, WA
     +1 509 722 2223   Chewelah, WA
     +1 509 722 2225   Chewelah, WA
@@ -110,7 +109,7 @@ Updated: 2026-10-06
     +1 509 722 2228   Chewelah, WA
     +1 509 722 2229   Chewelah, WA
 
---- 33333 — 44 numbers ---
+--- 33333 — 43 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
@@ -131,10 +130,9 @@ Updated: 2026-10-06
     +1 959 933 3337   New Hartford Center, CT
     +1 959 933 3338   New Hartford Center, CT
 
-  GEORGIA (3)
+  GEORGIA (2)
     +1 912 333 3347   Hazlehurst, GA
     +1 912 333 3352   Hazlehurst, GA
-    +1 912 333 3371   Hazlehurst, GA
 
   MINNESOTA (1)
     +1 320 633 3331   Belgrade, MN
@@ -331,15 +329,14 @@ Updated: 2026-10-06
     +1 509 955 5554   Yakima, WA
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 121 numbers ---
+--- 66666 — 118 numbers ---
 
-  ALABAMA (16)
+  ALABAMA (15)
     +1 251 566 6663   Grove Hill, AL
     +1 251 566 6668   Grove Hill, AL
     +1 256 866 6661   Killen, AL
     +1 256 866 6663   Killen, AL
     +1 256 866 6664   Killen, AL
-    +1 334 666 6620   Wetumpka, AL
     +1 334 766 6661   Daleville, AL
     +1 334 766 6665   Daleville, AL
     +1 334 766 6668   Daleville, AL
@@ -432,8 +429,7 @@ Updated: 2026-10-06
     +1 765 566 6667   Bringhurst, IN
     +1 765 566 6669   Bringhurst, IN
 
-  MARYLAND (3)
-    +1 227 666 6618   Frederick, MD
+  MARYLAND (2)
     +1 667 966 6662   New Windsor, MD
     +1 667 966 6664   New Windsor, MD
 
@@ -494,9 +490,6 @@ Updated: 2026-10-06
 
   UTAH (1)
     +1 385 666 6612   Provo, UT
-
-  WASHINGTON (1)
-    +1 253 466 6669   Puyallup, WA
 
 --- 77777 — 243 numbers ---
 
@@ -765,7 +758,7 @@ Updated: 2026-10-06
     +1 509 677 7771   Lind, WA
     +1 509 677 7773   Lind, WA
 
---- 88888 — 690 numbers ---
+--- 88888 — 671 numbers ---
 
   ALABAMA (16)
     +1 251 888 8803   Mobile, AL
@@ -952,19 +945,16 @@ Updated: 2026-10-06
   CONNECTICUT (1)
     +1 475 388 8886   Stamford, CT
 
-  GEORGIA (101)
-    +1 478 888 8002   Sandersville, GA
+  GEORGIA (82)
     +1 478 888 8014   Sandersville, GA
     +1 478 888 8023   Sandersville, GA
     +1 478 888 8025   Sandersville, GA
     +1 478 888 8031   Sandersville, GA
     +1 478 888 8037   Sandersville, GA
     +1 478 888 8056   Sandersville, GA
-    +1 478 888 8062   Sandersville, GA
     +1 478 888 8066   Sandersville, GA
     +1 478 888 8068   Sandersville, GA
     +1 478 888 8069   Sandersville, GA
-    +1 478 888 8072   Sandersville, GA
     +1 478 888 8113   Sandersville, GA
     +1 478 888 8119   Sandersville, GA
     +1 478 888 8124   Sandersville, GA
@@ -976,7 +966,6 @@ Updated: 2026-10-06
     +1 478 888 8176   Sandersville, GA
     +1 478 888 8194   Sandersville, GA
     +1 478 888 8205   Sandersville, GA
-    +1 478 888 8207   Sandersville, GA
     +1 478 888 8215   Sandersville, GA
     +1 478 888 8225   Sandersville, GA
     +1 478 888 8257   Sandersville, GA
@@ -985,26 +974,21 @@ Updated: 2026-10-06
     +1 478 888 8291   Sandersville, GA
     +1 478 888 8310   Sandersville, GA
     +1 478 888 8323   Sandersville, GA
-    +1 478 888 8358   Sandersville, GA
     +1 478 888 8392   Sandersville, GA
-    +1 478 888 8401   Sandersville, GA
     +1 478 888 8403   Sandersville, GA
     +1 478 888 8412   Sandersville, GA
     +1 478 888 8422   Sandersville, GA
-    +1 478 888 8431   Sandersville, GA
     +1 478 888 8435   Sandersville, GA
     +1 478 888 8441   Sandersville, GA
     +1 478 888 8455   Sandersville, GA
     +1 478 888 8458   Sandersville, GA
     +1 478 888 8476   Sandersville, GA
     +1 478 888 8480   Sandersville, GA
-    +1 478 888 8486   Sandersville, GA
     +1 478 888 8495   Sandersville, GA
     +1 478 888 8507   Sandersville, GA
     +1 478 888 8514   Sandersville, GA
     +1 478 888 8525   Sandersville, GA
     +1 478 888 8535   Sandersville, GA
-    +1 478 888 8542   Sandersville, GA
     +1 478 888 8549   Sandersville, GA
     +1 478 888 8559   Sandersville, GA
     +1 478 888 8574   Sandersville, GA
@@ -1012,10 +996,7 @@ Updated: 2026-10-06
     +1 478 888 8587   Sandersville, GA
     +1 478 888 8590   Sandersville, GA
     +1 478 888 8594   Sandersville, GA
-    +1 478 888 8596   Sandersville, GA
-    +1 478 888 8608   Sandersville, GA
     +1 478 888 8610   Sandersville, GA
-    +1 478 888 8614   Sandersville, GA
     +1 478 888 8620   Sandersville, GA
     +1 478 888 8624   Sandersville, GA
     +1 478 888 8630   Sandersville, GA
@@ -1028,23 +1009,16 @@ Updated: 2026-10-06
     +1 478 888 8699   Sandersville, GA
     +1 478 888 8701   Sandersville, GA
     +1 478 888 8706   Sandersville, GA
-    +1 478 888 8709   Sandersville, GA
-    +1 478 888 8717   Sandersville, GA
     +1 478 888 8735   Sandersville, GA
     +1 478 888 8742   Sandersville, GA
     +1 478 888 8747   Sandersville, GA
     +1 478 888 8752   Sandersville, GA
-    +1 478 888 8755   Sandersville, GA
     +1 478 888 8773   Sandersville, GA
     +1 478 888 8780   Sandersville, GA
     +1 478 888 8784   Sandersville, GA
     +1 478 888 8794   Sandersville, GA
     +1 478 888 8799   Sandersville, GA
-    +1 478 888 8908   Sandersville, GA
-    +1 478 888 8911   Sandersville, GA
-    +1 478 888 8921   Sandersville, GA
     +1 478 888 8926   Sandersville, GA
-    +1 478 888 8930   Sandersville, GA
     +1 478 888 8941   Sandersville, GA
     +1 478 888 8945   Sandersville, GA
     +1 478 888 8950   Sandersville, GA
@@ -1135,7 +1109,6 @@ Updated: 2026-10-06
     +1 218 888 8405   Bemidji, MN
     +1 218 888 8407   Bemidji, MN
     +1 218 888 8408   Bemidji, MN
-    +1 218 888 8409   Bemidji, MN
     +1 218 888 8410   Bemidji, MN
     +1 218 888 8411   Bemidji, MN
     +1 218 888 8412   Bemidji, MN
@@ -1144,12 +1117,13 @@ Updated: 2026-10-06
     +1 218 888 8422   Bemidji, MN
     +1 218 888 8424   Bemidji, MN
     +1 218 888 8426   Bemidji, MN
-    +1 218 888 8427   Bemidji, MN
     +1 218 888 8429   Bemidji, MN
     +1 218 888 8431   Bemidji, MN
     +1 218 888 8433   Bemidji, MN
     +1 218 888 8434   Bemidji, MN
     +1 218 888 8435   Bemidji, MN
+    +1 218 888 8436   Bemidji, MN
+    +1 218 888 8437   Bemidji, MN
     +1 218 888 8501   Bemidji, MN
     +1 218 888 8502   Bemidji, MN
     +1 218 888 8503   Bemidji, MN
@@ -1172,15 +1146,12 @@ Updated: 2026-10-06
     +1 218 888 8532   Bemidji, MN
     +1 218 888 8604   Bemidji, MN
     +1 218 888 8607   Bemidji, MN
-    +1 218 888 8609   Bemidji, MN
     +1 218 888 8611   Bemidji, MN
     +1 218 888 8614   Bemidji, MN
     +1 218 888 8615   Bemidji, MN
     +1 218 888 8616   Bemidji, MN
-    +1 218 888 8617   Bemidji, MN
     +1 218 888 8619   Bemidji, MN
     +1 218 888 8620   Bemidji, MN
-    +1 218 888 8621   Bemidji, MN
     +1 218 888 8622   Bemidji, MN
     +1 218 888 8626   Bemidji, MN
     +1 218 888 8630   Bemidji, MN
@@ -1189,7 +1160,10 @@ Updated: 2026-10-06
     +1 218 888 8634   Bemidji, MN
     +1 218 888 8636   Bemidji, MN
     +1 218 888 8637   Bemidji, MN
-    +1 218 888 8639   Bemidji, MN
+    +1 218 888 8641   Bemidji, MN
+    +1 218 888 8643   Bemidji, MN
+    +1 218 888 8644   Bemidji, MN
+    +1 218 888 8645   Bemidji, MN
     +1 218 888 8701   Bemidji, MN
     +1 218 888 8702   Bemidji, MN
     +1 218 888 8703   Bemidji, MN
@@ -1477,9 +1451,9 @@ Updated: 2026-10-06
   VERMONT (1)
     +1 802 788 8882   Barre, VT
 
---- 99999 — 330 numbers ---
+--- 99999 — 211 numbers ---
 
-  ALABAMA (101)
+  ALABAMA (100)
     +1 251 999 9913   Mobile, AL
     +1 251 999 9917   Mobile, AL
     +1 251 999 9963   Mobile, AL
@@ -1548,7 +1522,6 @@ Updated: 2026-10-06
     +1 659 999 9462   Winfield, AL
     +1 659 999 9469   Winfield, AL
     +1 659 999 9474   Winfield, AL
-    +1 659 999 9476   Winfield, AL
     +1 659 999 9477   Winfield, AL
     +1 659 999 9479   Winfield, AL
     +1 659 999 9508   Winfield, AL
@@ -1596,71 +1569,6 @@ Updated: 2026-10-06
 
   COLORADO (1)
     +1 719 999 9296   Colorado Springs, CO
-
-  CONNECTICUT (63)
-    +1 959 999 9185   Hartford, CT
-    +1 959 999 9578   Hartford, CT
-    +1 959 999 9593   Hartford, CT
-    +1 959 999 9610   Hartford, CT
-    +1 959 999 9622   Hartford, CT
-    +1 959 999 9625   Hartford, CT
-    +1 959 999 9628   Hartford, CT
-    +1 959 999 9644   Hartford, CT
-    +1 959 999 9646   Hartford, CT
-    +1 959 999 9654   Hartford, CT
-    +1 959 999 9662   Hartford, CT
-    +1 959 999 9665   Hartford, CT
-    +1 959 999 9667   Hartford, CT
-    +1 959 999 9670   Hartford, CT
-    +1 959 999 9676   Hartford, CT
-    +1 959 999 9679   Hartford, CT
-    +1 959 999 9685   Hartford, CT
-    +1 959 999 9690   Hartford, CT
-    +1 959 999 9691   Hartford, CT
-    +1 959 999 9693   Hartford, CT
-    +1 959 999 9697   Hartford, CT
-    +1 959 999 9701   Hartford, CT
-    +1 959 999 9702   Hartford, CT
-    +1 959 999 9703   Hartford, CT
-    +1 959 999 9706   Hartford, CT
-    +1 959 999 9711   Hartford, CT
-    +1 959 999 9716   Hartford, CT
-    +1 959 999 9733   Hartford, CT
-    +1 959 999 9740   Hartford, CT
-    +1 959 999 9746   Hartford, CT
-    +1 959 999 9747   Hartford, CT
-    +1 959 999 9755   Hartford, CT
-    +1 959 999 9770   Hartford, CT
-    +1 959 999 9771   Hartford, CT
-    +1 959 999 9773   Hartford, CT
-    +1 959 999 9774   Hartford, CT
-    +1 959 999 9780   Hartford, CT
-    +1 959 999 9787   Hartford, CT
-    +1 959 999 9788   Hartford, CT
-    +1 959 999 9790   Hartford, CT
-    +1 959 999 9791   Hartford, CT
-    +1 959 999 9801   Hartford, CT
-    +1 959 999 9804   Hartford, CT
-    +1 959 999 9809   Hartford, CT
-    +1 959 999 9810   Hartford, CT
-    +1 959 999 9811   Hartford, CT
-    +1 959 999 9812   Hartford, CT
-    +1 959 999 9813   Hartford, CT
-    +1 959 999 9819   Hartford, CT
-    +1 959 999 9823   Hartford, CT
-    +1 959 999 9824   Hartford, CT
-    +1 959 999 9828   Hartford, CT
-    +1 959 999 9830   Hartford, CT
-    +1 959 999 9845   Hartford, CT
-    +1 959 999 9850   Hartford, CT
-    +1 959 999 9852   Hartford, CT
-    +1 959 999 9853   Hartford, CT
-    +1 959 999 9854   Hartford, CT
-    +1 959 999 9856   Hartford, CT
-    +1 959 999 9859   Hartford, CT
-    +1 959 999 9860   Hartford, CT
-    +1 959 999 9908   Hartford, CT
-    +1 959 999 9912   Hartford, CT
 
   FLORIDA (46)
     +1 239 999 9029   Fort Myers, FL
@@ -1710,62 +1618,7 @@ Updated: 2026-10-06
     +1 239 999 9893   Fort Myers, FL
     +1 239 999 9894   Fort Myers, FL
 
-  GEORGIA (77)
-    +1 229 999 9002   Fort Gaines, GA
-    +1 229 999 9004   Fort Gaines, GA
-    +1 229 999 9005   Fort Gaines, GA
-    +1 229 999 9022   Fort Gaines, GA
-    +1 229 999 9027   Fort Gaines, GA
-    +1 229 999 9034   Fort Gaines, GA
-    +1 229 999 9076   Fort Gaines, GA
-    +1 229 999 9092   Fort Gaines, GA
-    +1 229 999 9132   Fort Gaines, GA
-    +1 229 999 9134   Fort Gaines, GA
-    +1 229 999 9135   Fort Gaines, GA
-    +1 229 999 9152   Fort Gaines, GA
-    +1 229 999 9163   Fort Gaines, GA
-    +1 229 999 9166   Fort Gaines, GA
-    +1 229 999 9177   Fort Gaines, GA
-    +1 229 999 9181   Fort Gaines, GA
-    +1 229 999 9196   Fort Gaines, GA
-    +1 229 999 9198   Fort Gaines, GA
-    +1 229 999 9209   Fort Gaines, GA
-    +1 229 999 9215   Fort Gaines, GA
-    +1 229 999 9242   Fort Gaines, GA
-    +1 229 999 9246   Fort Gaines, GA
-    +1 229 999 9251   Fort Gaines, GA
-    +1 229 999 9260   Fort Gaines, GA
-    +1 229 999 9264   Fort Gaines, GA
-    +1 229 999 9285   Fort Gaines, GA
-    +1 229 999 9290   Fort Gaines, GA
-    +1 229 999 9308   Fort Gaines, GA
-    +1 229 999 9331   Fort Gaines, GA
-    +1 229 999 9337   Fort Gaines, GA
-    +1 229 999 9341   Fort Gaines, GA
-    +1 229 999 9347   Fort Gaines, GA
-    +1 229 999 9409   Fort Gaines, GA
-    +1 229 999 9459   Fort Gaines, GA
-    +1 229 999 9514   Fort Gaines, GA
-    +1 229 999 9567   Fort Gaines, GA
-    +1 229 999 9598   Fort Gaines, GA
-    +1 229 999 9610   Fort Gaines, GA
-    +1 229 999 9653   Fort Gaines, GA
-    +1 229 999 9697   Fort Gaines, GA
-    +1 229 999 9717   Fort Gaines, GA
-    +1 229 999 9719   Fort Gaines, GA
-    +1 229 999 9725   Fort Gaines, GA
-    +1 229 999 9746   Fort Gaines, GA
-    +1 229 999 9748   Fort Gaines, GA
-    +1 229 999 9750   Fort Gaines, GA
-    +1 229 999 9751   Fort Gaines, GA
-    +1 229 999 9753   Fort Gaines, GA
-    +1 229 999 9754   Fort Gaines, GA
-    +1 229 999 9755   Fort Gaines, GA
-    +1 229 999 9756   Fort Gaines, GA
-    +1 229 999 9760   Fort Gaines, GA
-    +1 229 999 9831   Fort Gaines, GA
-    +1 229 999 9868   Fort Gaines, GA
-    +1 229 999 9879   Fort Gaines, GA
+  GEORGIA (22)
     +1 470 999 9914   Cedartown, GA
     +1 470 999 9937   Cedartown, GA
     +1 470 999 9954   Cedartown, GA
@@ -1832,16 +1685,15 @@ Updated: 2026-10-06
     +1 509 299 9995   Medical Lake, WA
 
 ====================================================
-4 ZEROS — 1222 numbers across 42 states
+4 ZEROS — 1221 numbers across 42 states
 ====================================================
 
-  ALABAMA (27)
+  ALABAMA (26)
     +1 251 270 0006   Fairhope, AL
     +1 251 530 0005   Pine Apple, AL
     +1 251 530 0008   Pine Apple, AL
     +1 251 800 0016   Mobile, AL
     +1 251 800 0025   Mobile, AL
-    +1 256 600 0019   Jacksonville, AL
     +1 334 640 0004   Tallassee, AL
     +1 334 810 0008   Orrville, AL
     +1 334 910 0002   Montgomery, AL
@@ -1896,13 +1748,12 @@ Updated: 2026-10-06
     +1 870 900 0081   Viola, AR
     +1 870 900 0092   Viola, AR
 
-  CALIFORNIA (59)
+  CALIFORNIA (58)
     +1 562 580 0004   Long Beach, CA
     +1 562 580 0005   Long Beach, CA
     +1 562 600 0054   Whittier, CA
     +1 562 740 0005   Long Beach, CA
     +1 562 740 0006   Long Beach, CA
-    +1 626 340 0007   Los Angeles, CA
     +1 657 650 0005   Orange, CA
     +1 661 320 0007   Lebec, CA
     +1 661 320 0008   Lebec, CA
@@ -1989,7 +1840,7 @@ Updated: 2026-10-06
     +1 970 900 0051   Fort Collins, CO
     +1 970 980 0009   Fort Collins, CO
 
-  CONNECTICUT (149)
+  CONNECTICUT (139)
     +1 475 340 0008   Stamford, CT
     +1 475 450 0007   Bridgeport, CT
     +1 475 470 0005   Norwalk, CT
@@ -2019,7 +1870,6 @@ Updated: 2026-10-06
     +1 959 230 0002   Hartford, CT
     +1 959 300 0018   Bantam, CT
     +1 959 300 0019   Bantam, CT
-    +1 959 300 0020   Bantam, CT
     +1 959 300 0021   Bantam, CT
     +1 959 300 0023   Bantam, CT
     +1 959 300 0024   Bantam, CT
@@ -2030,12 +1880,10 @@ Updated: 2026-10-06
     +1 959 300 0034   Bantam, CT
     +1 959 300 0037   Bantam, CT
     +1 959 300 0039   Bantam, CT
-    +1 959 300 0040   Bantam, CT
     +1 959 300 0042   Bantam, CT
     +1 959 300 0043   Bantam, CT
     +1 959 300 0045   Bantam, CT
     +1 959 300 0053   Bantam, CT
-    +1 959 300 0060   Bantam, CT
     +1 959 300 0065   Bantam, CT
     +1 959 300 0067   Bantam, CT
     +1 959 300 0068   Bantam, CT
@@ -2046,7 +1894,6 @@ Updated: 2026-10-06
     +1 959 300 0092   Bantam, CT
     +1 959 300 0097   Bantam, CT
     +1 959 300 0098   Bantam, CT
-    +1 959 400 0010   Torrington, CT
     +1 959 400 0013   Torrington, CT
     +1 959 400 0014   Torrington, CT
     +1 959 400 0015   Torrington, CT
@@ -2061,7 +1908,6 @@ Updated: 2026-10-06
     +1 959 400 0027   Torrington, CT
     +1 959 400 0028   Torrington, CT
     +1 959 400 0029   Torrington, CT
-    +1 959 400 0030   Torrington, CT
     +1 959 400 0032   Torrington, CT
     +1 959 400 0034   Torrington, CT
     +1 959 400 0035   Torrington, CT
@@ -2070,7 +1916,6 @@ Updated: 2026-10-06
     +1 959 400 0043   Torrington, CT
     +1 959 400 0047   Torrington, CT
     +1 959 400 0048   Torrington, CT
-    +1 959 400 0050   Torrington, CT
     +1 959 400 0051   Torrington, CT
     +1 959 400 0052   Torrington, CT
     +1 959 400 0054   Torrington, CT
@@ -2097,9 +1942,6 @@ Updated: 2026-10-06
     +1 959 600 0024   Plainfield Village, CT
     +1 959 600 0025   Plainfield Village, CT
     +1 959 600 0026   Plainfield Village, CT
-    +1 959 600 0027   Plainfield Village, CT
-    +1 959 600 0028   Plainfield Village, CT
-    +1 959 600 0030   Plainfield Village, CT
     +1 959 600 0031   Plainfield Village, CT
     +1 959 600 0041   Plainfield Village, CT
     +1 959 600 0051   Plainfield Village, CT
@@ -2115,7 +1957,6 @@ Updated: 2026-10-06
     +1 959 600 0067   Plainfield Village, CT
     +1 959 600 0068   Plainfield Village, CT
     +1 959 600 0069   Plainfield Village, CT
-    +1 959 600 0070   Plainfield Village, CT
     +1 959 600 0073   Plainfield Village, CT
     +1 959 600 0074   Plainfield Village, CT
     +1 959 600 0076   Plainfield Village, CT
@@ -2149,9 +1990,7 @@ Updated: 2026-10-06
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (40)
-    +1 239 900 0058   Fort Myers, FL
-    +1 239 900 0078   Fort Myers, FL
+  FLORIDA (38)
     +1 352 830 0005   Ocala, FL
     +1 352 900 0068   Gainesville, FL
     +1 386 800 0023   Crescent City, FL
@@ -2306,8 +2145,11 @@ Updated: 2026-10-06
     +1 708 580 0009   Northbrook, IL
     +1 872 290 0004   Chicago, IL
 
-  INDIANA (11)
+  INDIANA (14)
     +1 765 400 0013   Anderson, IN
+    +1 765 400 0072   Anderson, IN
+    +1 765 400 0097   Anderson, IN
+    +1 765 400 0098   Anderson, IN
     +1 765 410 0002   Paragon, IN
     +1 765 410 0004   Paragon, IN
     +1 765 410 0005   Paragon, IN
@@ -2401,8 +2243,7 @@ Updated: 2026-10-06
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (15)
-    +1 225 380 0009   Denham Springs, LA
+  LOUISIANA (14)
     +1 225 430 0002   Donaldsonville, LA
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
@@ -2433,7 +2274,8 @@ Updated: 2026-10-06
   MASSACHUSETTS (1)
     +1 978 680 0005   Concord, MA
 
-  MINNESOTA (60)
+  MINNESOTA (73)
+    +1 218 480 0004   Stephen, MN
     +1 218 500 0018   Kettle River, MN
     +1 218 500 0074   Kettle River, MN
     +1 218 500 0092   Kettle River, MN
@@ -2453,15 +2295,26 @@ Updated: 2026-10-06
     +1 320 380 0006   Saint Cloud, MN
     +1 320 380 0007   Saint Cloud, MN
     +1 320 380 0009   Saint Cloud, MN
+    +1 320 400 0014   Olivia, MN
+    +1 320 400 0017   Olivia, MN
+    +1 320 400 0018   Olivia, MN
+    +1 320 400 0025   Olivia, MN
+    +1 320 400 0027   Olivia, MN
     +1 320 400 0028   Olivia, MN
     +1 320 400 0036   Olivia, MN
     +1 320 400 0041   Olivia, MN
+    +1 320 400 0043   Olivia, MN
+    +1 320 400 0045   Olivia, MN
     +1 320 400 0046   Olivia, MN
+    +1 320 400 0048   Olivia, MN
+    +1 320 400 0049   Olivia, MN
     +1 320 400 0052   Olivia, MN
+    +1 320 400 0053   Olivia, MN
     +1 320 400 0054   Olivia, MN
     +1 320 400 0061   Olivia, MN
     +1 320 400 0072   Olivia, MN
     +1 320 400 0075   Olivia, MN
+    +1 320 400 0078   Olivia, MN
     +1 320 400 0079   Olivia, MN
     +1 320 400 0095   Olivia, MN
     +1 320 400 0098   Olivia, MN
@@ -2490,6 +2343,7 @@ Updated: 2026-10-06
     +1 507 550 0007   St Peter, MN
     +1 507 570 0004   Green Isle, MN
     +1 507 570 0007   Green Isle, MN
+    +1 507 580 0004   Elgin, MN
     +1 507 580 0006   Elgin, MN
     +1 507 800 0074   Jackson, MN
     +1 507 850 0009   Northfield, MN
@@ -2639,7 +2493,7 @@ Updated: 2026-10-06
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (190)
+  NEW YORK (192)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 740 0005   Norwood, NY
@@ -2651,7 +2505,6 @@ Updated: 2026-10-06
     +1 329 230 0009   Woodbury, NY
     +1 516 930 0004   Manhasset, NY
     +1 516 930 0006   Manhasset, NY
-    +1 518 400 0059   Round Lake, NY
     +1 518 460 0005   Hagaman, NY
     +1 518 500 0037   Delanson, NY
     +1 518 500 0038   Delanson, NY
@@ -2783,20 +2636,13 @@ Updated: 2026-10-06
     +1 631 900 0045   Northport, NY
     +1 631 900 0054   Northport, NY
     +1 631 900 0056   Northport, NY
+    +1 631 900 0059   Northport, NY
     +1 631 900 0078   Northport, NY
     +1 631 900 0084   Northport, NY
     +1 631 900 0086   Northport, NY
     +1 631 900 0096   Northport, NY
     +1 680 230 0004   Utica, NY
     +1 680 230 0006   Utica, NY
-    +1 680 340 0002   Syracuse, NY
-    +1 680 340 0003   Syracuse, NY
-    +1 680 340 0004   Syracuse, NY
-    +1 680 340 0005   Syracuse, NY
-    +1 680 340 0006   Syracuse, NY
-    +1 680 340 0007   Syracuse, NY
-    +1 680 340 0008   Syracuse, NY
-    +1 680 340 0009   Syracuse, NY
     +1 680 800 0012   Syracuse, NY
     +1 716 750 0006   Buffalo, NY
     +1 716 750 0008   Buffalo, NY
@@ -2813,7 +2659,6 @@ Updated: 2026-10-06
     +1 838 910 0006   Rensselaer, NY
     +1 838 910 0007   Rensselaer, NY
     +1 838 910 0009   Rensselaer, NY
-    +1 845 930 0002   Walden, NY
     +1 845 930 0005   Walden, NY
     +1 845 930 0008   Walden, NY
     +1 845 960 0002   Poughkeepsie, NY
@@ -2823,10 +2668,21 @@ Updated: 2026-10-06
     +1 914 440 0009   Yorktown Heights, NY
     +1 914 600 0021   Jefferson Valley-Yorktown, NY
     +1 914 600 0071   Jefferson Valley-Yorktown, NY
+    +1 914 600 0079   Jefferson Valley-Yorktown, NY
     +1 934 400 0014   Port Jefferson, NY
     +1 934 400 0024   Port Jefferson, NY
     +1 934 400 0025   Port Jefferson, NY
     +1 934 400 0026   Port Jefferson, NY
+    +1 934 400 0029   Port Jefferson, NY
+    +1 934 400 0031   Port Jefferson, NY
+    +1 934 400 0032   Port Jefferson, NY
+    +1 934 400 0034   Port Jefferson, NY
+    +1 934 400 0035   Port Jefferson, NY
+    +1 934 400 0036   Port Jefferson, NY
+    +1 934 400 0038   Port Jefferson, NY
+    +1 934 400 0042   Port Jefferson, NY
+    +1 934 400 0043   Port Jefferson, NY
+    +1 934 400 0069   Port Jefferson, NY
     +1 934 500 0012   North Bay Shore, NY
     +1 934 500 0016   North Bay Shore, NY
     +1 934 500 0018   North Bay Shore, NY
@@ -3022,11 +2878,9 @@ Updated: 2026-10-06
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (7)
+  TEXAS (5)
     +1 409 710 0004   Beaumont, TX
     +1 409 710 0008   Beaumont, TX
-    +1 469 300 0026   Bardwell, TX
-    +1 806 680 0004   Amarillo, TX
     +1 903 420 0007   Corsicana, TX
     +1 903 420 0008   Corsicana, TX
     +1 903 600 0078   Rice, TX
@@ -3078,12 +2932,10 @@ Updated: 2026-10-06
     +1 802 520 0009   Alburg, VT
     +1 802 910 0005   South Burlington, VT
 
-  VIRGINIA (5)
+  VIRGINIA (3)
     +1 540 360 0009   Orange, VA
     +1 540 390 0006   Roanoke, VA
     +1 540 390 0008   Roanoke, VA
-    +1 540 450 0008   Winchester, VA
-    +1 540 450 0009   Winchester, VA
 
   WASHINGTON (28)
     +1 253 270 0008   Kent, WA
@@ -3161,9 +3013,7 @@ Updated: 2026-10-06
 
 --- 888888 — No results ---
 
---- 999999 — 2 US results ---
-    +1 959 999 9908   Hartford, CT
-    +1 959 999 9912   Hartford, CT
+--- 999999 — No US results — Canada only ---
 
 --- 000000 — No results ---
 
