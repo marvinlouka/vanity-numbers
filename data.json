@@ -1,5 +1,5 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -383,7 +383,7 @@
   },
   {
    "pattern": "33333",
-   "count": 43,
+   "count": 42,
    "states": [
     {
      "state": "Alabama",
@@ -397,12 +397,8 @@
     },
     {
      "state": "California",
-     "count": 5,
+     "count": 4,
      "numbers": [
-      {
-       "number": "+1 442 333 3359",
-       "location": "Carlsbad, CA"
-      },
       {
        "number": "+1 951 433 3335",
        "location": "Corona, CA"
@@ -1797,7 +1793,7 @@
   },
   {
    "pattern": "77777",
-   "count": 243,
+   "count": 242,
    "states": [
     {
      "state": "California",
@@ -2805,14 +2801,10 @@
     },
     {
      "state": "Washington",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 360 777 7725",
-       "location": "Long Beach, WA"
-      },
-      {
-       "number": "+1 360 777 7751",
        "location": "Long Beach, WA"
       },
       {
@@ -2841,11 +2833,11 @@
   },
   {
    "pattern": "88888",
-   "count": 671,
+   "count": 668,
    "states": [
     {
      "state": "Alabama",
-     "count": 16,
+     "count": 15,
      "numbers": [
       {
        "number": "+1 251 888 8803",
@@ -2893,10 +2885,6 @@
       },
       {
        "number": "+1 334 888 8834",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 334 888 8839",
        "location": "Clayton, AL"
       },
       {
@@ -3913,7 +3901,7 @@
     },
     {
      "state": "Minnesota",
-     "count": 174,
+     "count": 173,
      "numbers": [
       {
        "number": "+1 218 888 8009",
@@ -3933,10 +3921,6 @@
       },
       {
        "number": "+1 218 888 8017",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8018",
        "location": "Bemidji, MN"
       },
       {
@@ -4910,16 +4894,6 @@
       {
        "number": "+1 775 288 8885",
        "location": "Lovelock, NV"
-      }
-     ]
-    },
-    {
-     "state": "New York",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 585 788 8886",
-       "location": "Bloomfield, NY"
       }
      ]
     },
@@ -6501,7 +6475,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 1221,
+  "total": 1216,
   "state_count": 42,
   "states": [
    {
@@ -6646,7 +6620,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 22,
+    "count": 21,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -6675,10 +6649,6 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
-     },
-     {
-      "number": "+1 870 600 0014",
-      "location": "Ashdown, AR"
      },
      {
       "number": "+1 870 600 0072",
@@ -8282,7 +8252,7 @@
    },
    {
     "state": "Illinois",
-    "count": 6,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 224 970 0002",
@@ -8301,6 +8271,10 @@
       "location": "Plato Center, IL"
      },
      {
+      "number": "+1 708 580 0005",
+      "location": "Northbrook, IL"
+     },
+     {
       "number": "+1 708 580 0009",
       "location": "Northbrook, IL"
      },
@@ -8312,12 +8286,8 @@
    },
    {
     "state": "Indiana",
-    "count": 14,
+    "count": 13,
     "numbers": [
-     {
-      "number": "+1 765 400 0013",
-      "location": "Anderson, IN"
-     },
      {
       "number": "+1 765 400 0072",
       "location": "Anderson, IN"
@@ -10450,7 +10420,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 45,
+    "count": 44,
     "numbers": [
      {
       "number": "+1 252 260 0002",
@@ -10475,10 +10445,6 @@
      {
       "number": "+1 252 380 0009",
       "location": "Moyock, NC"
-     },
-     {
-      "number": "+1 252 490 0009",
-      "location": "Colerain, NC"
      },
      {
       "number": "+1 252 590 0003",
@@ -10682,7 +10648,7 @@
    },
    {
     "state": "Ohio",
-    "count": 59,
+    "count": 58,
     "numbers": [
      {
       "number": "+1 234 270 0008",
@@ -10859,10 +10825,6 @@
      {
       "number": "+1 567 400 0079",
       "location": "Genoa, OH"
-     },
-     {
-      "number": "+1 614 710 0005",
-      "location": "Hilliard, OH"
      },
      {
       "number": "+1 740 400 0031",
@@ -11426,7 +11388,7 @@
    },
    {
     "state": "Washington",
-    "count": 28,
+    "count": 26,
     "numbers": [
      {
       "number": "+1 253 270 0008",
@@ -11507,14 +11469,6 @@
      {
       "number": "+1 425 940 0005",
       "location": "Clyde Hill, WA"
-     },
-     {
-      "number": "+1 509 300 0092",
-      "location": "Wenatchee, WA"
-     },
-     {
-      "number": "+1 509 300 0093",
-      "location": "Wenatchee, WA"
      },
      {
       "number": "+1 509 320 0005",
@@ -12275,9 +12229,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1464,
+  "total_5_in_a_row": 1459,
   "patterns_with_results": 8,
-  "total_0000": 1221,
+  "total_0000": 1216,
   "state_count_0000": 42,
   "total_aaa_bbbb": 71,
   "aaa_bbbb_patterns_searched": 90,

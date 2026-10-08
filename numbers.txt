@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-10-07
-1464 five-in-a-row · 1221 four-zeros across 42 states · 71 AAA-BBBB across 19 of 90 combinations
+Updated: 2026-10-08
+1459 five-in-a-row · 1216 four-zeros across 42 states · 71 AAA-BBBB across 19 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -109,13 +109,12 @@ Updated: 2026-10-07
     +1 509 722 2228   Chewelah, WA
     +1 509 722 2229   Chewelah, WA
 
---- 33333 — 43 numbers ---
+--- 33333 — 42 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
 
-  CALIFORNIA (5)
-    +1 442 333 3359   Carlsbad, CA
+  CALIFORNIA (4)
     +1 951 433 3335   Corona, CA
     +1 951 433 3336   Corona, CA
     +1 951 433 3337   Corona, CA
@@ -491,7 +490,7 @@ Updated: 2026-10-07
   UTAH (1)
     +1 385 666 6612   Provo, UT
 
---- 77777 — 243 numbers ---
+--- 77777 — 242 numbers ---
 
   CALIFORNIA (180)
     +1 657 777 7012   Buena Park, CA
@@ -749,18 +748,17 @@ Updated: 2026-10-07
     +1 435 677 7778   Brian Head, UT
     +1 435 677 7779   Brian Head, UT
 
-  WASHINGTON (7)
+  WASHINGTON (6)
     +1 360 777 7725   Long Beach, WA
-    +1 360 777 7751   Long Beach, WA
     +1 360 777 7792   Long Beach, WA
     +1 425 977 7776   Mountlake Terrace, WA
     +1 509 277 7771   Spokane, WA
     +1 509 677 7771   Lind, WA
     +1 509 677 7773   Lind, WA
 
---- 88888 — 671 numbers ---
+--- 88888 — 668 numbers ---
 
-  ALABAMA (16)
+  ALABAMA (15)
     +1 251 888 8803   Mobile, AL
     +1 251 888 8819   Mobile, AL
     +1 251 888 8830   Mobile, AL
@@ -773,7 +771,6 @@ Updated: 2026-10-07
     +1 251 888 8897   Mobile, AL
     +1 334 888 8831   Clayton, AL
     +1 334 888 8834   Clayton, AL
-    +1 334 888 8839   Clayton, AL
     +1 334 888 8843   Clayton, AL
     +1 938 888 8441   Killen, AL
     +1 938 888 8994   Killen, AL
@@ -1029,13 +1026,12 @@ Updated: 2026-10-07
     +1 478 888 8991   Sandersville, GA
     +1 478 888 8993   Sandersville, GA
 
-  MINNESOTA (174)
+  MINNESOTA (173)
     +1 218 888 8009   Bemidji, MN
     +1 218 888 8010   Bemidji, MN
     +1 218 888 8015   Bemidji, MN
     +1 218 888 8016   Bemidji, MN
     +1 218 888 8017   Bemidji, MN
-    +1 218 888 8018   Bemidji, MN
     +1 218 888 8019   Bemidji, MN
     +1 218 888 8020   Bemidji, MN
     +1 218 888 8021   Bemidji, MN
@@ -1280,9 +1276,6 @@ Updated: 2026-10-07
 
   NEVADA (1)
     +1 775 288 8885   Lovelock, NV
-
-  NEW YORK (1)
-    +1 585 788 8886   Bloomfield, NY
 
   OREGON (162)
     +1 458 888 8002   Milton-Freewater, OR
@@ -1685,7 +1678,7 @@ Updated: 2026-10-07
     +1 509 299 9995   Medical Lake, WA
 
 ====================================================
-4 ZEROS — 1221 numbers across 42 states
+4 ZEROS — 1216 numbers across 42 states
 ====================================================
 
   ALABAMA (26)
@@ -1724,7 +1717,7 @@ Updated: 2026-10-07
     +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
-  ARKANSAS (22)
+  ARKANSAS (21)
     +1 479 410 0002   Van Buren, AR
     +1 479 410 0003   Van Buren, AR
     +1 479 410 0004   Van Buren, AR
@@ -1732,7 +1725,6 @@ Updated: 2026-10-07
     +1 479 410 0006   Van Buren, AR
     +1 479 410 0008   Van Buren, AR
     +1 479 410 0009   Van Buren, AR
-    +1 870 600 0014   Ashdown, AR
     +1 870 600 0072   Ashdown, AR
     +1 870 900 0012   Viola, AR
     +1 870 900 0013   Viola, AR
@@ -2137,16 +2129,16 @@ Updated: 2026-10-07
     +1 986 910 0008   Garden City, ID
     +1 986 910 0009   Garden City, ID
 
-  ILLINOIS (6)
+  ILLINOIS (7)
     +1 224 970 0002   Bartlett, IL
     +1 224 970 0003   Bartlett, IL
     +1 224 970 0009   Bartlett, IL
     +1 224 990 0008   Plato Center, IL
+    +1 708 580 0005   Northbrook, IL
     +1 708 580 0009   Northbrook, IL
     +1 872 290 0004   Chicago, IL
 
-  INDIANA (14)
-    +1 765 400 0013   Anderson, IN
+  INDIANA (13)
     +1 765 400 0072   Anderson, IN
     +1 765 400 0097   Anderson, IN
     +1 765 400 0098   Anderson, IN
@@ -2687,14 +2679,13 @@ Updated: 2026-10-07
     +1 934 500 0016   North Bay Shore, NY
     +1 934 500 0018   North Bay Shore, NY
 
-  NORTH CAROLINA (45)
+  NORTH CAROLINA (44)
     +1 252 260 0002   Moyock, NC
     +1 252 260 0008   Moyock, NC
     +1 252 380 0002   Moyock, NC
     +1 252 380 0006   Moyock, NC
     +1 252 380 0007   Moyock, NC
     +1 252 380 0009   Moyock, NC
-    +1 252 490 0009   Colerain, NC
     +1 252 590 0003   Henderson, NC
     +1 252 590 0004   Henderson, NC
     +1 252 590 0008   Henderson, NC
@@ -2746,7 +2737,7 @@ Updated: 2026-10-07
     +1 701 800 0076   Leonard, ND
     +1 701 800 0079   Leonard, ND
 
-  OHIO (59)
+  OHIO (58)
     +1 234 270 0008   Uniontown, OH
     +1 234 720 0002   Atwater, OH
     +1 234 720 0003   Atwater, OH
@@ -2791,7 +2782,6 @@ Updated: 2026-10-07
     +1 567 400 0075   Genoa, OH
     +1 567 400 0078   Genoa, OH
     +1 567 400 0079   Genoa, OH
-    +1 614 710 0005   Hilliard, OH
     +1 740 400 0031   Baltimore, OH
     +1 740 400 0054   Baltimore, OH
     +1 740 500 0067   Circleville, OH
@@ -2937,7 +2927,7 @@ Updated: 2026-10-07
     +1 540 390 0006   Roanoke, VA
     +1 540 390 0008   Roanoke, VA
 
-  WASHINGTON (28)
+  WASHINGTON (26)
     +1 253 270 0008   Kent, WA
     +1 253 300 0098   Tacoma, WA
     +1 253 390 0007   Tacoma, WA
@@ -2958,8 +2948,6 @@ Updated: 2026-10-07
     +1 425 920 0004   Clyde Hill, WA
     +1 425 930 0002   Clyde Hill, WA
     +1 425 940 0005   Clyde Hill, WA
-    +1 509 300 0092   Wenatchee, WA
-    +1 509 300 0093   Wenatchee, WA
     +1 509 320 0005   Starbuck, WA
     +1 509 600 0016   Bridgeport, WA
     +1 509 600 0019   Bridgeport, WA
