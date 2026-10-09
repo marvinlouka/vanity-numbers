@@ -1,9 +1,9 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 71,
+   "count": 70,
    "states": [
     {
      "state": "Colorado",
@@ -265,12 +265,8 @@
     },
     {
      "state": "New York",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 585 822 2220",
-       "location": "East Rochester, NY"
-      },
       {
        "number": "+1 585 822 2226",
        "location": "East Rochester, NY"
@@ -383,7 +379,7 @@
   },
   {
    "pattern": "33333",
-   "count": 42,
+   "count": 41,
    "states": [
     {
      "state": "Alabama",
@@ -513,12 +509,8 @@
     },
     {
      "state": "New York",
-     "count": 8,
+     "count": 7,
      "numbers": [
-      {
-       "number": "+1 315 633 3338",
-       "location": "Bridgeport, NY"
-      },
       {
        "number": "+1 716 733 3331",
        "location": "Angola, NY"
@@ -1793,7 +1785,7 @@
   },
   {
    "pattern": "77777",
-   "count": 242,
+   "count": 240,
    "states": [
     {
      "state": "California",
@@ -2647,22 +2639,14 @@
     },
     {
      "state": "Nebraska",
-     "count": 11,
+     "count": 9,
      "numbers": [
-      {
-       "number": "+1 531 777 7705",
-       "location": "Omaha, NE"
-      },
       {
        "number": "+1 531 777 7706",
        "location": "Omaha, NE"
       },
       {
        "number": "+1 531 777 7708",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7725",
        "location": "Omaha, NE"
       },
       {
@@ -2833,7 +2817,7 @@
   },
   {
    "pattern": "88888",
-   "count": 668,
+   "count": 667,
    "states": [
     {
      "state": "Alabama",
@@ -3294,15 +3278,15 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8420",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8421",
        "location": "San Diego, CA"
       },
       {
        "number": "+1 858 888 8422",
+       "location": "San Diego, CA"
+      },
+      {
+       "number": "+1 858 888 8423",
        "location": "San Diego, CA"
       },
       {
@@ -3567,7 +3551,7 @@
     },
     {
      "state": "Georgia",
-     "count": 82,
+     "count": 81,
      "numbers": [
       {
        "number": "+1 478 888 8014",
@@ -3663,10 +3647,6 @@
       },
       {
        "number": "+1 478 888 8260",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8281",
        "location": "Sandersville, GA"
       },
       {
@@ -5565,7 +5545,7 @@
   },
   {
    "pattern": "99999",
-   "count": 211,
+   "count": 209,
    "states": [
     {
      "state": "Alabama",
@@ -6020,16 +6000,6 @@
      ]
     },
     {
-     "state": "Colorado",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 719 999 9296",
-       "location": "Colorado Springs, CO"
-      }
-     ]
-    },
-    {
      "state": "Florida",
      "count": 46,
      "numbers": [
@@ -6315,7 +6285,7 @@
     },
     {
      "state": "Maryland",
-     "count": 17,
+     "count": 16,
      "numbers": [
       {
        "number": "+1 667 999 9904",
@@ -6351,10 +6321,6 @@
       },
       {
        "number": "+1 667 999 9950",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9953",
        "location": "Fort Meade, MD"
       },
       {
@@ -6475,12 +6441,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 1216,
+  "total": 1214,
   "state_count": 42,
   "states": [
    {
     "state": "Alabama",
-    "count": 26,
+    "count": 25,
     "numbers": [
      {
       "number": "+1 251 270 0006",
@@ -6493,10 +6459,6 @@
      {
       "number": "+1 251 530 0008",
       "location": "Pine Apple, AL"
-     },
-     {
-      "number": "+1 251 800 0016",
-      "location": "Mobile, AL"
      },
      {
       "number": "+1 251 800 0025",
@@ -7074,7 +7036,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 139,
+    "count": 138,
     "numbers": [
      {
       "number": "+1 475 340 0008",
@@ -7143,18 +7105,6 @@
      {
       "number": "+1 475 850 0009",
       "location": "Norwalk, CT"
-     },
-     {
-      "number": "+1 860 600 0041",
-      "location": "Litchfield, CT"
-     },
-     {
-      "number": "+1 860 600 0042",
-      "location": "Litchfield, CT"
-     },
-     {
-      "number": "+1 860 600 0045",
-      "location": "Litchfield, CT"
      },
      {
       "number": "+1 860 600 0068",
@@ -7478,6 +7428,14 @@
      },
      {
       "number": "+1 959 600 0026",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0027",
+      "location": "Plainfield Village, CT"
+     },
+     {
+      "number": "+1 959 600 0028",
       "location": "Plainfield Village, CT"
      },
      {
@@ -9646,7 +9604,7 @@
    },
    {
     "state": "New York",
-    "count": 192,
+    "count": 191,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9883,10 +9841,6 @@
      {
       "number": "+1 518 800 0098",
       "location": "Hudson Falls, NY"
-     },
-     {
-      "number": "+1 518 830 0009",
-      "location": "East Berne, NY"
      },
      {
       "number": "+1 518 840 0007",
@@ -10245,6 +10199,10 @@
       "location": "Utica, NY"
      },
      {
+      "number": "+1 680 780 0009",
+      "location": "Central Square, NY"
+     },
+     {
       "number": "+1 680 800 0012",
       "location": "Syracuse, NY"
      },
@@ -10307,10 +10265,6 @@
      {
       "number": "+1 838 910 0009",
       "location": "Rensselaer, NY"
-     },
-     {
-      "number": "+1 845 930 0005",
-      "location": "Walden, NY"
      },
      {
       "number": "+1 845 930 0008",
@@ -10420,7 +10374,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 44,
+    "count": 47,
     "numbers": [
      {
       "number": "+1 252 260 0002",
@@ -10445,6 +10399,10 @@
      {
       "number": "+1 252 380 0009",
       "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 490 0009",
+      "location": "Colerain, NC"
      },
      {
       "number": "+1 252 590 0003",
@@ -10488,6 +10446,14 @@
      },
      {
       "number": "+1 828 900 0043",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0046",
+      "location": "Black Mountain, NC"
+     },
+     {
+      "number": "+1 828 900 0047",
       "location": "Black Mountain, NC"
      },
      {
@@ -11114,12 +11080,8 @@
    },
    {
     "state": "Tennessee",
-    "count": 10,
+    "count": 8,
     "numbers": [
-     {
-      "number": "+1 731 400 0003",
-      "location": "Savannah, TN"
-     },
      {
       "number": "+1 731 400 0018",
       "location": "Savannah, TN"
@@ -11143,10 +11105,6 @@
      {
       "number": "+1 901 660 0007",
       "location": "Grand Junction, TN"
-     },
-     {
-      "number": "+1 931 350 0009",
-      "location": "Columbia, TN"
      },
      {
       "number": "+1 931 410 0002",
@@ -12229,9 +12187,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1459,
+  "total_5_in_a_row": 1452,
   "patterns_with_results": 8,
-  "total_0000": 1216,
+  "total_0000": 1214,
   "state_count_0000": 42,
   "total_aaa_bbbb": 71,
   "aaa_bbbb_patterns_searched": 90,
