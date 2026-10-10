@@ -1,5 +1,5 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -6441,8 +6441,8 @@
   }
  ],
  "pattern_0000": {
-  "total": 1214,
-  "state_count": 42,
+  "total": 1213,
+  "state_count": 41,
   "states": [
    {
     "state": "Alabama",
@@ -8742,7 +8742,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 73,
+    "count": 72,
     "numbers": [
      {
       "number": "+1 218 480 0004",
@@ -8799,10 +8799,6 @@
      {
       "number": "+1 218 960 0005",
       "location": "Alvarado, MN"
-     },
-     {
-      "number": "+1 320 380 0002",
-      "location": "Saint Cloud, MN"
      },
      {
       "number": "+1 320 380 0004",
@@ -9604,7 +9600,7 @@
    },
    {
     "state": "New York",
-    "count": 191,
+    "count": 188,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9639,20 +9635,12 @@
       "location": "Walden, NY"
      },
      {
-      "number": "+1 329 230 0009",
-      "location": "Woodbury, NY"
-     },
-     {
       "number": "+1 516 930 0004",
       "location": "Manhasset, NY"
      },
      {
       "number": "+1 516 930 0006",
       "location": "Manhasset, NY"
-     },
-     {
-      "number": "+1 518 460 0005",
-      "location": "Hagaman, NY"
      },
      {
       "number": "+1 518 500 0037",
@@ -9765,10 +9753,6 @@
      {
       "number": "+1 518 760 0007",
       "location": "Glens Falls, NY"
-     },
-     {
-      "number": "+1 518 800 0041",
-      "location": "Hudson Falls, NY"
      },
      {
       "number": "+1 518 800 0046",
@@ -10139,10 +10123,6 @@
       "location": "Northport, NY"
      },
      {
-      "number": "+1 631 900 0023",
-      "location": "Northport, NY"
-     },
-     {
       "number": "+1 631 900 0025",
       "location": "Northport, NY"
      },
@@ -10191,12 +10171,12 @@
       "location": "Northport, NY"
      },
      {
-      "number": "+1 680 230 0004",
+      "number": "+1 680 230 0006",
       "location": "Utica, NY"
      },
      {
-      "number": "+1 680 230 0006",
-      "location": "Utica, NY"
+      "number": "+1 680 780 0005",
+      "location": "Central Square, NY"
      },
      {
       "number": "+1 680 780 0009",
@@ -10368,6 +10348,10 @@
      },
      {
       "number": "+1 934 500 0018",
+      "location": "North Bay Shore, NY"
+     },
+     {
+      "number": "+1 934 500 0024",
       "location": "North Bay Shore, NY"
      }
     ]
@@ -10614,7 +10598,7 @@
    },
    {
     "state": "Ohio",
-    "count": 58,
+    "count": 59,
     "numbers": [
      {
       "number": "+1 234 270 0008",
@@ -10667,6 +10651,10 @@
      {
       "number": "+1 440 600 0097",
       "location": "Chagrin Falls, OH"
+     },
+     {
+      "number": "+1 513 750 0003",
+      "location": "Cincinnati, OH"
      },
      {
       "number": "+1 513 750 0008",
@@ -11080,7 +11068,7 @@
    },
    {
     "state": "Tennessee",
-    "count": 8,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 731 400 0018",
@@ -11107,6 +11095,10 @@
       "location": "Grand Junction, TN"
      },
      {
+      "number": "+1 931 350 0008",
+      "location": "Columbia, TN"
+     },
+     {
       "number": "+1 931 410 0002",
       "location": "Clarksville, TN"
      },
@@ -11118,7 +11110,7 @@
    },
    {
     "state": "Texas",
-    "count": 5,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 409 710 0004",
@@ -11127,6 +11119,10 @@
      {
       "number": "+1 409 710 0008",
       "location": "Beaumont, TX"
+     },
+     {
+      "number": "+1 830 850 0002",
+      "location": "Bandera, TX"
      },
      {
       "number": "+1 903 420 0007",
@@ -11456,8 +11452,12 @@
    },
    {
     "state": "West Virginia",
-    "count": 9,
+    "count": 10,
     "numbers": [
+     {
+      "number": "+1 304 900 0017",
+      "location": "Fayetteville, WV"
+     },
      {
       "number": "+1 681 370 0003",
       "location": "Rivesville, WV"
@@ -11493,16 +11493,6 @@
      {
       "number": "+1 681 440 0009",
       "location": "Farmington, WV"
-     }
-    ]
-   },
-   {
-    "state": "Wisconsin",
-    "count": 1,
-    "numbers": [
-     {
-      "number": "+1 715 600 0007",
-      "location": "Stevens Point, WI"
      }
     ]
    },
@@ -12189,8 +12179,8 @@
  "summary": {
   "total_5_in_a_row": 1452,
   "patterns_with_results": 8,
-  "total_0000": 1214,
-  "state_count_0000": 42,
+  "total_0000": 1213,
+  "state_count_0000": 41,
   "total_aaa_bbbb": 71,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 19
