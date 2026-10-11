@@ -1,5 +1,5 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -1785,7 +1785,7 @@
   },
   {
    "pattern": "77777",
-   "count": 240,
+   "count": 237,
    "states": [
     {
      "state": "California",
@@ -2515,7 +2515,7 @@
     },
     {
      "state": "Connecticut",
-     "count": 16,
+     "count": 14,
      "numbers": [
       {
        "number": "+1 475 477 7776",
@@ -2535,10 +2535,6 @@
       },
       {
        "number": "+1 959 777 7703",
-       "location": "Hartford, CT"
-      },
-      {
-       "number": "+1 959 777 7718",
        "location": "Hartford, CT"
       },
       {
@@ -2562,10 +2558,6 @@
        "location": "Hartford, CT"
       },
       {
-       "number": "+1 959 777 7768",
-       "location": "Hartford, CT"
-      },
-      {
        "number": "+1 959 777 7781",
        "location": "Hartford, CT"
       },
@@ -2585,14 +2577,10 @@
     },
     {
      "state": "Florida",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 386 777 7710",
-       "location": "Holly Hill, FL"
-      },
-      {
-       "number": "+1 386 777 7738",
        "location": "Holly Hill, FL"
       },
       {
@@ -2817,52 +2805,12 @@
   },
   {
    "pattern": "88888",
-   "count": 667,
+   "count": 655,
    "states": [
     {
      "state": "Alabama",
-     "count": 15,
+     "count": 5,
      "numbers": [
-      {
-       "number": "+1 251 888 8803",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8819",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8830",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8832",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8835",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8842",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8871",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8875",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8876",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 888 8897",
-       "location": "Mobile, AL"
-      },
       {
        "number": "+1 334 888 8831",
        "location": "Clayton, AL"
@@ -4879,7 +4827,7 @@
     },
     {
      "state": "Oregon",
-     "count": 162,
+     "count": 160,
      "numbers": [
       {
        "number": "+1 458 888 8002",
@@ -5520,14 +5468,6 @@
       {
        "number": "+1 458 888 8985",
        "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 541 588 8883",
-       "location": "Sisters, OR"
-      },
-      {
-       "number": "+1 541 588 8887",
-       "location": "Sisters, OR"
       }
      ]
     },
@@ -5545,7 +5485,7 @@
   },
   {
    "pattern": "99999",
-   "count": 209,
+   "count": 207,
    "states": [
     {
      "state": "Alabama",
@@ -6191,7 +6131,7 @@
     },
     {
      "state": "Georgia",
-     "count": 22,
+     "count": 20,
      "numbers": [
       {
        "number": "+1 470 999 9914",
@@ -6238,15 +6178,7 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 762 999 9928",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 762 999 9934",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9938",
        "location": "Watkinsville, GA"
       },
       {
@@ -6441,7 +6373,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 1213,
+  "total": 1214,
   "state_count": 41,
   "states": [
    {
@@ -6582,7 +6514,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 21,
+    "count": 22,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -6611,6 +6543,10 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
+     },
+     {
+      "number": "+1 870 600 0016",
+      "location": "Ashdown, AR"
      },
      {
       "number": "+1 870 600 0072",
@@ -8732,8 +8668,12 @@
    },
    {
     "state": "Massachusetts",
-    "count": 1,
+    "count": 2,
     "numbers": [
+     {
+      "number": "+1 508 470 0009",
+      "location": "Dennis, MA"
+     },
      {
       "number": "+1 978 680 0005",
       "location": "Concord, MA"
@@ -10598,7 +10538,7 @@
    },
    {
     "state": "Ohio",
-    "count": 59,
+    "count": 58,
     "numbers": [
      {
       "number": "+1 234 270 0008",
@@ -10659,10 +10599,6 @@
      {
       "number": "+1 513 750 0008",
       "location": "Cincinnati, OH"
-     },
-     {
-      "number": "+1 513 760 0009",
-      "location": "Loveland, OH"
      },
      {
       "number": "+1 513 790 0002",
@@ -11628,6 +11564,22 @@
    ]
   },
   {
+   "pattern": "4447777",
+   "count": 1,
+   "states": [
+    {
+     "state": "Florida",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 904 447 7778",
+       "location": "Fernandina Beach, FL"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "pattern": "5552222",
    "count": 6,
    "states": [
@@ -12177,12 +12129,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1452,
+  "total_5_in_a_row": 1435,
   "patterns_with_results": 8,
-  "total_0000": 1213,
+  "total_0000": 1214,
   "state_count_0000": 41,
-  "total_aaa_bbbb": 71,
+  "total_aaa_bbbb": 72,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 19
+  "aaa_bbbb_patterns_with_results": 20
  }
 }
