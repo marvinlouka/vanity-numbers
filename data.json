@@ -1,9 +1,9 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 70,
+   "count": 66,
    "states": [
     {
      "state": "Colorado",
@@ -32,16 +32,6 @@
       {
        "number": "+1 970 722 2228",
        "location": "Fraser, CO"
-      }
-     ]
-    },
-    {
-     "state": "Connecticut",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 475 522 2221",
-       "location": "Madison Center, CT"
       }
      ]
     },
@@ -137,7 +127,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 15,
+     "count": 12,
      "numbers": [
       {
        "number": "+1 308 422 2221",
@@ -185,18 +175,6 @@
       },
       {
        "number": "+1 531 322 2226",
-       "location": "Ceresco, NE"
-      },
-      {
-       "number": "+1 531 322 2227",
-       "location": "Ceresco, NE"
-      },
-      {
-       "number": "+1 531 322 2228",
-       "location": "Ceresco, NE"
-      },
-      {
-       "number": "+1 531 322 2229",
        "location": "Ceresco, NE"
       }
      ]
@@ -937,7 +915,7 @@
   },
   {
    "pattern": "55555",
-   "count": 46,
+   "count": 45,
    "states": [
     {
      "state": "Florida",
@@ -1013,7 +991,7 @@
     },
     {
      "state": "Nevada",
-     "count": 8,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 775 255 5550",
@@ -1037,10 +1015,6 @@
       },
       {
        "number": "+1 775 255 5557",
-       "location": "Fernley, NV"
-      },
-      {
-       "number": "+1 775 255 5559",
        "location": "Fernley, NV"
       },
       {
@@ -1181,7 +1155,7 @@
   },
   {
    "pattern": "66666",
-   "count": 118,
+   "count": 117,
    "states": [
     {
      "state": "Alabama",
@@ -1450,10 +1424,6 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 706 666 6736",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 706 666 6738",
        "location": "Watkinsville, GA"
       },
@@ -1487,6 +1457,10 @@
       },
       {
        "number": "+1 706 666 6749",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6751",
        "location": "Watkinsville, GA"
       }
      ]
@@ -1603,7 +1577,7 @@
     },
     {
      "state": "Nevada",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 775 366 6660",
@@ -1611,10 +1585,6 @@
       },
       {
        "number": "+1 775 366 6661",
-       "location": "Fernley, NV"
-      },
-      {
-       "number": "+1 775 366 6662",
        "location": "Fernley, NV"
       },
       {
@@ -2805,24 +2775,12 @@
   },
   {
    "pattern": "88888",
-   "count": 655,
+   "count": 644,
    "states": [
     {
      "state": "Alabama",
-     "count": 5,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 334 888 8831",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 334 888 8834",
-       "location": "Clayton, AL"
-      },
-      {
-       "number": "+1 334 888 8843",
-       "location": "Clayton, AL"
-      },
       {
        "number": "+1 938 888 8441",
        "location": "Killen, AL"
@@ -3488,18 +3446,8 @@
      ]
     },
     {
-     "state": "Connecticut",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 475 388 8886",
-       "location": "Stamford, CT"
-      }
-     ]
-    },
-    {
      "state": "Georgia",
-     "count": 81,
+     "count": 76,
      "numbers": [
       {
        "number": "+1 478 888 8014",
@@ -3570,10 +3518,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8176",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8194",
        "location": "Sandersville, GA"
       },
@@ -3607,10 +3551,6 @@
       },
       {
        "number": "+1 478 888 8323",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8392",
        "location": "Sandersville, GA"
       },
       {
@@ -3790,10 +3730,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8941",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8945",
        "location": "Sandersville, GA"
       },
@@ -3810,15 +3746,7 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8978",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8986",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8991",
        "location": "Sandersville, GA"
       },
       {
@@ -4816,16 +4744,6 @@
      ]
     },
     {
-     "state": "Nevada",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 775 288 8885",
-       "location": "Lovelock, NV"
-      }
-     ]
-    },
-    {
      "state": "Oregon",
      "count": 160,
      "numbers": [
@@ -5470,99 +5388,17 @@
        "location": "Milton-Freewater, OR"
       }
      ]
-    },
-    {
-     "state": "Vermont",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 802 788 8882",
-       "location": "Barre, VT"
-      }
-     ]
     }
    ]
   },
   {
    "pattern": "99999",
-   "count": 207,
+   "count": 140,
    "states": [
     {
      "state": "Alabama",
-     "count": 100,
+     "count": 81,
      "numbers": [
-      {
-       "number": "+1 251 999 9913",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 999 9917",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 999 9963",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 251 999 9967",
-       "location": "Mobile, AL"
-      },
-      {
-       "number": "+1 256 999 9903",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9906",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9914",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9915",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9916",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9917",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9925",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9930",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9940",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9961",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 256 999 9974",
-       "location": "Scottsboro, AL"
-      },
-      {
-       "number": "+1 334 999 9923",
-       "location": "Deatsville, AL"
-      },
-      {
-       "number": "+1 334 999 9934",
-       "location": "Deatsville, AL"
-      },
-      {
-       "number": "+1 334 999 9938",
-       "location": "Deatsville, AL"
-      },
       {
        "number": "+1 659 799 9991",
        "location": "Pinson, AL"
@@ -5886,16 +5722,12 @@
       {
        "number": "+1 659 999 9883",
        "location": "Winfield, AL"
-      },
-      {
-       "number": "+1 938 999 9974",
-       "location": "Attalla, AL"
       }
      ]
     },
     {
      "state": "California",
-     "count": 10,
+     "count": 9,
      "numbers": [
       {
        "number": "+1 909 999 9337",
@@ -5919,10 +5751,6 @@
       },
       {
        "number": "+1 909 999 9568",
-       "location": "Rialto, CA"
-      },
-      {
-       "number": "+1 909 999 9697",
        "location": "Rialto, CA"
       },
       {
@@ -6131,157 +5959,11 @@
     },
     {
      "state": "Georgia",
-     "count": 20,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 470 999 9914",
-       "location": "Cedartown, GA"
-      },
-      {
-       "number": "+1 470 999 9937",
-       "location": "Cedartown, GA"
-      },
-      {
-       "number": "+1 470 999 9954",
-       "location": "Cedartown, GA"
-      },
-      {
-       "number": "+1 470 999 9981",
-       "location": "Cedartown, GA"
-      },
       {
        "number": "+1 478 699 9992",
        "location": "Byron, GA"
-      },
-      {
-       "number": "+1 478 999 9978",
-       "location": "Forsyth, GA"
-      },
-      {
-       "number": "+1 478 999 9987",
-       "location": "Forsyth, GA"
-      },
-      {
-       "number": "+1 762 999 9904",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9914",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9915",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9927",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9934",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9942",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9943",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9946",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9948",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9957",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9963",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9971",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 762 999 9984",
-       "location": "Watkinsville, GA"
-      }
-     ]
-    },
-    {
-     "state": "Maryland",
-     "count": 16,
-     "numbers": [
-      {
-       "number": "+1 667 999 9904",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9910",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9920",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9924",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9927",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9930",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9932",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9940",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9950",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9960",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9965",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9970",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9972",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9980",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9985",
-       "location": "Fort Meade, MD"
-      },
-      {
-       "number": "+1 667 999 9987",
-       "location": "Fort Meade, MD"
       }
      ]
     },
@@ -6297,12 +5979,8 @@
     },
     {
      "state": "New York",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 518 299 9997",
-       "location": "Fleischmanns, NY"
-      },
       {
        "number": "+1 838 999 9901",
        "location": "Plattsburgh West, NY"
@@ -6312,68 +5990,12 @@
        "location": "Plattsburgh West, NY"
       }
      ]
-    },
-    {
-     "state": "Oregon",
-     "count": 6,
-     "numbers": [
-      {
-       "number": "+1 458 999 9908",
-       "location": "Umatilla, OR"
-      },
-      {
-       "number": "+1 458 999 9942",
-       "location": "Umatilla, OR"
-      },
-      {
-       "number": "+1 458 999 9954",
-       "location": "Umatilla, OR"
-      },
-      {
-       "number": "+1 458 999 9956",
-       "location": "Umatilla, OR"
-      },
-      {
-       "number": "+1 458 999 9984",
-       "location": "Umatilla, OR"
-      },
-      {
-       "number": "+1 971 999 9956",
-       "location": "Yamhill, OR"
-      }
-     ]
-    },
-    {
-     "state": "Washington",
-     "count": 5,
-     "numbers": [
-      {
-       "number": "+1 253 399 9991",
-       "location": "Tacoma, WA"
-      },
-      {
-       "number": "+1 253 399 9994",
-       "location": "Tacoma, WA"
-      },
-      {
-       "number": "+1 253 399 9995",
-       "location": "Tacoma, WA"
-      },
-      {
-       "number": "+1 509 299 9993",
-       "location": "Medical Lake, WA"
-      },
-      {
-       "number": "+1 509 299 9995",
-       "location": "Medical Lake, WA"
-      }
-     ]
     }
    ]
   }
  ],
  "pattern_0000": {
-  "total": 1214,
+  "total": 1202,
   "state_count": 41,
   "states": [
    {
@@ -6608,12 +6230,8 @@
    },
    {
     "state": "California",
-    "count": 58,
+    "count": 55,
     "numbers": [
-     {
-      "number": "+1 562 580 0004",
-      "location": "Long Beach, CA"
-     },
      {
       "number": "+1 562 580 0005",
       "location": "Long Beach, CA"
@@ -6676,10 +6294,6 @@
      },
      {
       "number": "+1 669 500 0013",
-      "location": "Gilroy, CA"
-     },
-     {
-      "number": "+1 669 500 0015",
       "location": "Gilroy, CA"
      },
      {
@@ -6824,10 +6438,6 @@
      },
      {
       "number": "+1 909 600 0042",
-      "location": "Fontana, CA"
-     },
-     {
-      "number": "+1 909 600 0048",
       "location": "Fontana, CA"
      },
      {
@@ -8146,7 +7756,7 @@
    },
    {
     "state": "Illinois",
-    "count": 7,
+    "count": 6,
     "numbers": [
      {
       "number": "+1 224 970 0002",
@@ -8163,10 +7773,6 @@
      {
       "number": "+1 224 990 0008",
       "location": "Plato Center, IL"
-     },
-     {
-      "number": "+1 708 580 0005",
-      "location": "Northbrook, IL"
      },
      {
       "number": "+1 708 580 0009",
@@ -8622,7 +8228,7 @@
    },
    {
     "state": "Maryland",
-    "count": 10,
+    "count": 9,
     "numbers": [
      {
       "number": "+1 227 260 0003",
@@ -8658,10 +8264,6 @@
      },
      {
       "number": "+1 667 670 0002",
-      "location": "Sudlersville, MD"
-     },
-     {
-      "number": "+1 667 670 0006",
       "location": "Sudlersville, MD"
      }
     ]
@@ -9540,7 +9142,7 @@
    },
    {
     "state": "New York",
-    "count": 188,
+    "count": 186,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9808,10 +9410,6 @@
      },
      {
       "number": "+1 518 900 0057",
-      "location": "Voorheesville, NY"
-     },
-     {
-      "number": "+1 518 900 0061",
       "location": "Voorheesville, NY"
      },
      {
@@ -10211,18 +9809,6 @@
       "location": "Yorktown Heights, NY"
      },
      {
-      "number": "+1 914 600 0021",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0071",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
-      "number": "+1 914 600 0079",
-      "location": "Jefferson Valley-Yorktown, NY"
-     },
-     {
       "number": "+1 934 400 0014",
       "location": "Port Jefferson, NY"
      },
@@ -10276,6 +9862,14 @@
      },
      {
       "number": "+1 934 400 0069",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0072",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0073",
       "location": "Port Jefferson, NY"
      },
      {
@@ -10538,15 +10132,11 @@
    },
    {
     "state": "Ohio",
-    "count": 58,
+    "count": 56,
     "numbers": [
      {
       "number": "+1 234 270 0008",
       "location": "Uniontown, OH"
-     },
-     {
-      "number": "+1 234 720 0002",
-      "location": "Atwater, OH"
      },
      {
       "number": "+1 234 720 0003",
@@ -10562,10 +10152,6 @@
      },
      {
       "number": "+1 234 980 0003",
-      "location": "Louisville, OH"
-     },
-     {
-      "number": "+1 234 980 0007",
       "location": "Louisville, OH"
      },
      {
@@ -10794,12 +10380,8 @@
    },
    {
     "state": "Oregon",
-    "count": 12,
+    "count": 11,
     "numbers": [
-     {
-      "number": "+1 458 230 0006",
-      "location": "Coos Bay, OR"
-     },
      {
       "number": "+1 971 600 0012",
       "location": "Salem, OR"
@@ -10848,12 +10430,8 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 8,
+    "count": 7,
     "numbers": [
-     {
-      "number": "+1 272 240 0008",
-      "location": "Mcadoo, PA"
-     },
      {
       "number": "+1 484 290 0006",
       "location": "Kutztown, PA"
@@ -11004,7 +10582,7 @@
    },
    {
     "state": "Tennessee",
-    "count": 9,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 731 400 0018",
@@ -11029,10 +10607,6 @@
      {
       "number": "+1 901 660 0007",
       "location": "Grand Junction, TN"
-     },
-     {
-      "number": "+1 931 350 0008",
-      "location": "Columbia, TN"
      },
      {
       "number": "+1 931 410 0002",
@@ -12129,9 +11703,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1435,
+  "total_5_in_a_row": 1351,
   "patterns_with_results": 8,
-  "total_0000": 1214,
+  "total_0000": 1202,
   "state_count_0000": 41,
   "total_aaa_bbbb": 72,
   "aaa_bbbb_patterns_searched": 90,
