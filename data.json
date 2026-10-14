@@ -1,5 +1,5 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -55,12 +55,8 @@
     },
     {
      "state": "Illinois",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 779 222 2239",
-       "location": "Sycamore, IL"
-      },
       {
        "number": "+1 779 222 2247",
        "location": "Sycamore, IL"
@@ -127,7 +123,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 12,
+     "count": 14,
      "numbers": [
       {
        "number": "+1 308 422 2221",
@@ -146,7 +142,15 @@
        "location": "Omaha, NE"
       },
       {
+       "number": "+1 531 222 2260",
+       "location": "Omaha, NE"
+      },
+      {
        "number": "+1 531 222 2269",
+       "location": "Omaha, NE"
+      },
+      {
+       "number": "+1 531 222 2276",
        "location": "Omaha, NE"
       },
       {
@@ -181,7 +185,7 @@
     },
     {
      "state": "Nevada",
-     "count": 14,
+     "count": 13,
      "numbers": [
       {
        "number": "+1 775 522 2220",
@@ -210,10 +214,6 @@
       {
        "number": "+1 775 522 2229",
        "location": "Ely, NV"
-      },
-      {
-       "number": "+1 775 822 2220",
-       "location": "Yerington, NV"
       },
       {
        "number": "+1 775 822 2221",
@@ -357,7 +357,7 @@
   },
   {
    "pattern": "33333",
-   "count": 41,
+   "count": 42,
    "states": [
     {
      "state": "Alabama",
@@ -422,6 +422,16 @@
       {
        "number": "+1 959 933 3338",
        "location": "New Hartford Center, CT"
+      }
+     ]
+    },
+    {
+     "state": "Florida",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 645 233 3338",
+       "location": "Miami, FL"
       }
      ]
     },
@@ -593,12 +603,16 @@
   },
   {
    "pattern": "44444",
-   "count": 61,
+   "count": 62,
    "states": [
     {
      "state": "Alabama",
-     "count": 6,
+     "count": 7,
      "numbers": [
+      {
+       "number": "+1 251 444 4487",
+       "location": "Mobile, AL"
+      },
       {
        "number": "+1 659 444 4403",
        "location": "Trussville, AL"
@@ -1155,11 +1169,11 @@
   },
   {
    "pattern": "66666",
-   "count": 117,
+   "count": 124,
    "states": [
     {
      "state": "Alabama",
-     "count": 15,
+     "count": 17,
      "numbers": [
       {
        "number": "+1 251 566 6663",
@@ -1168,6 +1182,14 @@
       {
        "number": "+1 251 566 6668",
        "location": "Grove Hill, AL"
+      },
+      {
+       "number": "+1 256 666 6585",
+       "location": "Huntsville, AL"
+      },
+      {
+       "number": "+1 256 666 6801",
+       "location": "Huntsville, AL"
       },
       {
        "number": "+1 256 866 6661",
@@ -1239,10 +1261,22 @@
     },
     {
      "state": "Colorado",
-     "count": 8,
+     "count": 11,
      "numbers": [
       {
+       "number": "+1 719 666 6617",
+       "location": "Colorado Springs, CO"
+      },
+      {
        "number": "+1 719 666 6625",
+       "location": "Colorado Springs, CO"
+      },
+      {
+       "number": "+1 719 666 6630",
+       "location": "Colorado Springs, CO"
+      },
+      {
+       "number": "+1 719 666 6645",
        "location": "Colorado Springs, CO"
       },
       {
@@ -1532,6 +1566,16 @@
      ]
     },
     {
+     "state": "Maine",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 207 466 6667",
+       "location": "Rockland, ME"
+      }
+     ]
+    },
+    {
      "state": "Maryland",
      "count": 2,
      "numbers": [
@@ -1547,11 +1591,15 @@
     },
     {
      "state": "Minnesota",
-     "count": 1,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 320 566 6662",
        "location": "Rush City, MN"
+      },
+      {
+       "number": "+1 952 666 6604",
+       "location": "Hilltop, MN"
       }
      ]
     },
@@ -2775,7 +2823,7 @@
   },
   {
    "pattern": "88888",
-   "count": 642,
+   "count": 474,
    "states": [
     {
      "state": "Alabama",
@@ -3753,699 +3801,19 @@
     },
     {
      "state": "Minnesota",
-     "count": 173,
+     "count": 3,
      "numbers": [
       {
-       "number": "+1 218 888 8009",
+       "number": "+1 218 888 8477",
        "location": "Bemidji, MN"
       },
       {
-       "number": "+1 218 888 8010",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8015",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8016",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8017",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8019",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8020",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8021",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8023",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8024",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8031",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8045",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8096",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8112",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8115",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8122",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8127",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8129",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8130",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8132",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8135",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8138",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8140",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8143",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8149",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8158",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8159",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8162",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8164",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8170",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8172",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8174",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8179",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8201",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8205",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8207",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8210",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8215",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8216",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8217",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8225",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8231",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8240",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8241",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8244",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8245",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8247",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8251",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8253",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8254",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8258",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8263",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8285",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8303",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8305",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8306",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8307",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8312",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8314",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8319",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8322",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8323",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8332",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8335",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8336",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8340",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8344",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8345",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8348",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8349",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8351",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8352",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8353",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8403",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8404",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8405",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8407",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8408",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8410",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8411",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8412",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8417",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8419",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8422",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8424",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8426",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8429",
-       "location": "Bemidji, MN"
+       "number": "+1 651 788 8881",
+       "location": "Hilltop, MN"
       },
       {
-       "number": "+1 218 888 8431",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8433",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8434",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8435",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8436",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8437",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8501",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8502",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8503",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8504",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8505",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8506",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8508",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8509",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8511",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8513",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8514",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8516",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8519",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8521",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8525",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8526",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8527",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8530",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8531",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8532",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8604",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8607",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8611",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8614",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8615",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8616",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8619",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8620",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8622",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8626",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8630",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8631",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8632",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8634",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8636",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8637",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8641",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8643",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8644",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8645",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8701",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8702",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8703",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8704",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8705",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8706",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8709",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8710",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8711",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8716",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8717",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8718",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8720",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8721",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8724",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8725",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8727",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8729",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8730",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8735",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8901",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8905",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8908",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8909",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8911",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8913",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8914",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8915",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8921",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8922",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8923",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8924",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8925",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8927",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8928",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8930",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8932",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8934",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8935",
-       "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 218 888 8936",
-       "location": "Bemidji, MN"
+       "number": "+1 651 788 8886",
+       "location": "Hilltop, MN"
       }
      ]
     },
@@ -4741,7 +4109,7 @@
     },
     {
      "state": "Oregon",
-     "count": 159,
+     "count": 161,
      "numbers": [
       {
        "number": "+1 458 888 8002",
@@ -5378,6 +4746,14 @@
       {
        "number": "+1 458 888 8985",
        "location": "Milton-Freewater, OR"
+      },
+      {
+       "number": "+1 971 888 8813",
+       "location": "West Haven-Sylvan, OR"
+      },
+      {
+       "number": "+1 971 888 8875",
+       "location": "West Haven-Sylvan, OR"
       }
      ]
     }
@@ -5385,12 +4761,16 @@
   },
   {
    "pattern": "99999",
-   "count": 139,
+   "count": 152,
    "states": [
     {
      "state": "Alabama",
-     "count": 81,
+     "count": 82,
      "numbers": [
+      {
+       "number": "+1 251 999 9908",
+       "location": "Mobile, AL"
+      },
       {
        "number": "+1 659 799 9991",
        "location": "Pinson, AL"
@@ -5956,6 +5336,60 @@
      ]
     },
     {
+     "state": "Minnesota",
+     "count": 12,
+     "numbers": [
+      {
+       "number": "+1 612 999 9904",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 612 999 9918",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 612 999 9921",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 612 999 9932",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 612 999 9935",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 612 999 9968",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 999 9901",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 999 9907",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 999 9928",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 999 9931",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 999 9968",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 999 9976",
+       "location": "Hilltop, MN"
+      }
+     ]
+    },
+    {
      "state": "New Jersey",
      "count": 1,
      "numbers": [
@@ -5983,16 +5417,20 @@
   }
  ],
  "pattern_0000": {
-  "total": 1186,
+  "total": 1220,
   "state_count": 41,
   "states": [
    {
     "state": "Alabama",
-    "count": 25,
+    "count": 33,
     "numbers": [
      {
-      "number": "+1 251 270 0006",
-      "location": "Fairhope, AL"
+      "number": "+1 205 900 0032",
+      "location": "Birmingham, AL"
+     },
+     {
+      "number": "+1 205 900 0042",
+      "location": "Birmingham, AL"
      },
      {
       "number": "+1 251 530 0005",
@@ -6003,7 +5441,27 @@
       "location": "Pine Apple, AL"
      },
      {
+      "number": "+1 251 800 0021",
+      "location": "Mobile, AL"
+     },
+     {
+      "number": "+1 251 800 0024",
+      "location": "Mobile, AL"
+     },
+     {
       "number": "+1 251 800 0025",
+      "location": "Mobile, AL"
+     },
+     {
+      "number": "+1 251 800 0086",
+      "location": "Mobile, AL"
+     },
+     {
+      "number": "+1 251 910 0004",
+      "location": "Mobile, AL"
+     },
+     {
+      "number": "+1 251 910 0006",
       "location": "Mobile, AL"
      },
      {
@@ -6072,6 +5530,14 @@
      },
      {
       "number": "+1 659 910 0003",
+      "location": "Birmingham, AL"
+     },
+     {
+      "number": "+1 659 910 0004",
+      "location": "Birmingham, AL"
+     },
+     {
+      "number": "+1 659 910 0005",
       "location": "Birmingham, AL"
      },
      {
@@ -6365,10 +5831,6 @@
       "location": "Gilroy, CA"
      },
      {
-      "number": "+1 669 500 0091",
-      "location": "Gilroy, CA"
-     },
-     {
       "number": "+1 669 500 0092",
       "location": "Gilroy, CA"
      },
@@ -6415,6 +5877,10 @@
      {
       "number": "+1 707 690 0006",
       "location": "Napa, CA"
+     },
+     {
+      "number": "+1 909 600 0018",
+      "location": "Fontana, CA"
      },
      {
       "number": "+1 909 600 0042",
@@ -7120,27 +6586,15 @@
    },
    {
     "state": "Delaware",
-    "count": 8,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 302 620 0007",
       "location": "New Castle, DE"
      },
      {
-      "number": "+1 302 630 0002",
-      "location": "Seaford, DE"
-     },
-     {
-      "number": "+1 302 640 0002",
-      "location": "Georgetown, DE"
-     },
-     {
       "number": "+1 302 640 0003",
       "location": "Georgetown, DE"
-     },
-     {
-      "number": "+1 302 710 0002",
-      "location": "Dover, DE"
      },
      {
       "number": "+1 302 810 0003",
@@ -7158,8 +6612,16 @@
    },
    {
     "state": "Florida",
-    "count": 37,
+    "count": 32,
     "numbers": [
+     {
+      "number": "+1 239 800 0078",
+      "location": "Cape Coral, FL"
+     },
+     {
+      "number": "+1 239 800 0083",
+      "location": "Cape Coral, FL"
+     },
      {
       "number": "+1 352 830 0005",
       "location": "Ocala, FL"
@@ -7189,6 +6651,10 @@
       "location": "Crescent City, FL"
      },
      {
+      "number": "+1 656 230 0005",
+      "location": "Tampa, FL"
+     },
+     {
       "number": "+1 656 650 0007",
       "location": "Plant City, FL"
      },
@@ -7199,6 +6665,10 @@
      {
       "number": "+1 772 610 0007",
       "location": "Vero Beach, FL"
+     },
+     {
+      "number": "+1 786 840 0005",
+      "location": "Miami, FL"
      },
      {
       "number": "+1 850 690 0006",
@@ -7221,6 +6691,10 @@
       "location": "Ponce De Leon, FL"
      },
      {
+      "number": "+1 904 990 0003",
+      "location": "Jacksonville, FL"
+     },
+     {
       "number": "+1 941 900 0018",
       "location": "Bradenton, FL"
      },
@@ -7237,14 +6711,6 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0038",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0039",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0041",
       "location": "Bradenton, FL"
      },
@@ -7257,10 +6723,6 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0051",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0052",
       "location": "Bradenton, FL"
      },
@@ -7269,15 +6731,7 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0063",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0064",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0068",
       "location": "Bradenton, FL"
      },
      {
@@ -7285,43 +6739,15 @@
       "location": "Bradenton, FL"
      },
      {
-      "number": "+1 941 900 0074",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0075",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0082",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0091",
-      "location": "Bradenton, FL"
-     },
-     {
       "number": "+1 941 900 0095",
-      "location": "Bradenton, FL"
-     },
-     {
-      "number": "+1 941 900 0097",
       "location": "Bradenton, FL"
      }
     ]
    },
    {
     "state": "Georgia",
-    "count": 91,
+    "count": 109,
     "numbers": [
-     {
-      "number": "+1 229 210 0008",
-      "location": "Arlington, GA"
-     },
-     {
-      "number": "+1 229 210 0009",
-      "location": "Arlington, GA"
-     },
      {
       "number": "+1 229 350 0002",
       "location": "Sparks, GA"
@@ -7345,6 +6771,82 @@
      {
       "number": "+1 229 910 0004",
       "location": "Rebecca, GA"
+     },
+     {
+      "number": "+1 470 740 0002",
+      "location": "Lilburn, GA"
+     },
+     {
+      "number": "+1 470 740 0003",
+      "location": "Lilburn, GA"
+     },
+     {
+      "number": "+1 470 740 0007",
+      "location": "Lilburn, GA"
+     },
+     {
+      "number": "+1 470 740 0008",
+      "location": "Lilburn, GA"
+     },
+     {
+      "number": "+1 470 800 0013",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0028",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0046",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0049",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0057",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0059",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0062",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0063",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0073",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0084",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0086",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0094",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 800 0098",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 870 0004",
+      "location": "Atlanta, GA"
+     },
+     {
+      "number": "+1 470 870 0008",
+      "location": "Atlanta, GA"
      },
      {
       "number": "+1 478 280 0002",
@@ -7523,10 +7025,6 @@
       "location": "Athens, GA"
      },
      {
-      "number": "+1 762 440 0007",
-      "location": "Lafayette, GA"
-     },
-     {
       "number": "+1 762 470 0003",
       "location": "Rome, GA"
      },
@@ -7659,6 +7157,14 @@
       "location": "Augusta, GA"
      },
      {
+      "number": "+1 912 800 0012",
+      "location": "Thunderbolt, GA"
+     },
+     {
+      "number": "+1 912 800 0089",
+      "location": "Thunderbolt, GA"
+     },
+     {
       "number": "+1 912 820 0005",
       "location": "Flemington, GA"
      },
@@ -7682,35 +7188,15 @@
    },
    {
     "state": "Idaho",
-    "count": 11,
+    "count": 6,
     "numbers": [
      {
-      "number": "+1 208 800 0036",
-      "location": "Nampa, ID"
+      "number": "+1 208 330 0005",
+      "location": "Garden City, ID"
      },
      {
-      "number": "+1 208 800 0059",
-      "location": "Nampa, ID"
-     },
-     {
-      "number": "+1 208 800 0061",
-      "location": "Nampa, ID"
-     },
-     {
-      "number": "+1 208 800 0062",
-      "location": "Nampa, ID"
-     },
-     {
-      "number": "+1 208 800 0063",
-      "location": "Nampa, ID"
-     },
-     {
-      "number": "+1 208 800 0067",
-      "location": "Nampa, ID"
-     },
-     {
-      "number": "+1 208 800 0084",
-      "location": "Nampa, ID"
+      "number": "+1 986 280 0009",
+      "location": "Garden City, ID"
      },
      {
       "number": "+1 986 910 0003",
@@ -7732,27 +7218,11 @@
    },
    {
     "state": "Illinois",
-    "count": 6,
+    "count": 2,
     "numbers": [
-     {
-      "number": "+1 224 970 0002",
-      "location": "Bartlett, IL"
-     },
-     {
-      "number": "+1 224 970 0003",
-      "location": "Bartlett, IL"
-     },
-     {
-      "number": "+1 224 970 0009",
-      "location": "Bartlett, IL"
-     },
      {
       "number": "+1 224 990 0008",
       "location": "Plato Center, IL"
-     },
-     {
-      "number": "+1 708 580 0009",
-      "location": "Northbrook, IL"
      },
      {
       "number": "+1 872 290 0004",
@@ -8203,10 +7673,6 @@
     "count": 9,
     "numbers": [
      {
-      "number": "+1 227 260 0003",
-      "location": "Chesapeake Beach, MD"
-     },
-     {
       "number": "+1 227 260 0004",
       "location": "Chesapeake Beach, MD"
      },
@@ -8227,8 +7693,12 @@
       "location": "Kensington, MD"
      },
      {
-      "number": "+1 667 480 0003",
-      "location": "Fort Meade, MD"
+      "number": "+1 667 260 0008",
+      "location": "Baltimore, MD"
+     },
+     {
+      "number": "+1 667 400 0051",
+      "location": "Baltimore, MD"
      },
      {
       "number": "+1 667 480 0006",
@@ -8252,27 +7722,11 @@
    },
    {
     "state": "Minnesota",
-    "count": 71,
+    "count": 83,
     "numbers": [
      {
       "number": "+1 218 480 0004",
       "location": "Stephen, MN"
-     },
-     {
-      "number": "+1 218 500 0018",
-      "location": "Kettle River, MN"
-     },
-     {
-      "number": "+1 218 500 0074",
-      "location": "Kettle River, MN"
-     },
-     {
-      "number": "+1 218 500 0092",
-      "location": "Kettle River, MN"
-     },
-     {
-      "number": "+1 218 500 0096",
-      "location": "Kettle River, MN"
      },
      {
       "number": "+1 218 610 0004",
@@ -8537,6 +7991,70 @@
      {
       "number": "+1 507 910 0002",
       "location": "Rochester, MN"
+     },
+     {
+      "number": "+1 763 600 0013",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0025",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0031",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0032",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0046",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0056",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0064",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0065",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0069",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0078",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0079",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0083",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0084",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0091",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0092",
+      "location": "Hilltop, MN"
+     },
+     {
+      "number": "+1 763 600 0098",
+      "location": "Hilltop, MN"
      }
     ]
    },
@@ -8606,7 +8124,7 @@
    },
    {
     "state": "Nebraska",
-    "count": 51,
+    "count": 49,
     "numbers": [
      {
       "number": "+1 308 300 0017",
@@ -8749,14 +8267,6 @@
       "location": "Creston, NE"
      },
      {
-      "number": "+1 531 360 0002",
-      "location": "Albion, NE"
-     },
-     {
-      "number": "+1 531 430 0005",
-      "location": "Omaha, NE"
-     },
-     {
       "number": "+1 531 430 0009",
       "location": "Omaha, NE"
      },
@@ -8816,8 +8326,20 @@
    },
    {
     "state": "Nevada",
-    "count": 38,
+    "count": 40,
     "numbers": [
+     {
+      "number": "+1 725 500 0067",
+      "location": "Nellis Afb, NV"
+     },
+     {
+      "number": "+1 725 500 0091",
+      "location": "Nellis Afb, NV"
+     },
+     {
+      "number": "+1 725 600 0029",
+      "location": "Nellis Afb, NV"
+     },
      {
       "number": "+1 775 310 0006",
       "location": "Ely, NV"
@@ -8933,10 +8455,6 @@
      {
       "number": "+1 775 800 0072",
       "location": "Reno, NV"
-     },
-     {
-      "number": "+1 775 860 0003",
-      "location": "Fallon Station, NV"
      },
      {
       "number": "+1 775 860 0006",
@@ -9098,7 +8616,7 @@
    },
    {
     "state": "New York",
-    "count": 184,
+    "count": 185,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -9417,10 +8935,6 @@
       "location": "Rochester, NY"
      },
      {
-      "number": "+1 607 210 0002",
-      "location": "Watkins Glen, NY"
-     },
-     {
       "number": "+1 607 800 0016",
       "location": "Freeville, NY"
      },
@@ -9657,10 +9171,6 @@
       "location": "Northport, NY"
      },
      {
-      "number": "+1 680 230 0006",
-      "location": "Utica, NY"
-     },
-     {
       "number": "+1 680 780 0005",
       "location": "Central Square, NY"
      },
@@ -9671,6 +9181,10 @@
      {
       "number": "+1 680 800 0012",
       "location": "Syracuse, NY"
+     },
+     {
+      "number": "+1 716 610 0005",
+      "location": "Lakewood, NY"
      },
      {
       "number": "+1 716 750 0006",
@@ -9686,6 +9200,18 @@
      },
      {
       "number": "+1 716 770 0002",
+      "location": "Buffalo, NY"
+     },
+     {
+      "number": "+1 716 910 0002",
+      "location": "Buffalo, NY"
+     },
+     {
+      "number": "+1 716 910 0004",
+      "location": "Buffalo, NY"
+     },
+     {
+      "number": "+1 716 910 0007",
       "location": "Buffalo, NY"
      },
      {
@@ -9814,10 +9340,6 @@
      },
      {
       "number": "+1 934 400 0072",
-      "location": "Port Jefferson, NY"
-     },
-     {
-      "number": "+1 934 400 0073",
       "location": "Port Jefferson, NY"
      },
      {
@@ -10370,7 +9892,7 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 6,
+    "count": 7,
     "numbers": [
      {
       "number": "+1 484 290 0006",
@@ -10378,6 +9900,10 @@
      },
      {
       "number": "+1 570 500 0027",
+      "location": "Shamokin, PA"
+     },
+     {
+      "number": "+1 570 500 0032",
       "location": "Shamokin, PA"
      },
      {
@@ -10400,10 +9926,18 @@
    },
    {
     "state": "Rhode Island",
-    "count": 27,
+    "count": 29,
     "numbers": [
      {
+      "number": "+1 401 600 0035",
+      "location": "Providence, RI"
+     },
+     {
       "number": "+1 401 600 0045",
+      "location": "Providence, RI"
+     },
+     {
+      "number": "+1 401 600 0056",
       "location": "Providence, RI"
      },
      {
@@ -10514,12 +10048,8 @@
    },
    {
     "state": "Tennessee",
-    "count": 8,
+    "count": 7,
     "numbers": [
-     {
-      "number": "+1 731 400 0018",
-      "location": "Savannah, TN"
-     },
      {
       "number": "+1 731 400 0023",
       "location": "Savannah, TN"
@@ -10552,7 +10082,7 @@
    },
    {
     "state": "Texas",
-    "count": 6,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 409 710 0004",
@@ -10561,10 +10091,6 @@
      {
       "number": "+1 409 710 0008",
       "location": "Beaumont, TX"
-     },
-     {
-      "number": "+1 830 850 0002",
-      "location": "Bandera, TX"
      },
      {
       "number": "+1 903 420 0007",
@@ -10582,8 +10108,40 @@
    },
    {
     "state": "Utah",
-    "count": 23,
+    "count": 34,
     "numbers": [
+     {
+      "number": "+1 385 300 0028",
+      "location": "Bountiful, UT"
+     },
+     {
+      "number": "+1 385 300 0038",
+      "location": "Bountiful, UT"
+     },
+     {
+      "number": "+1 385 300 0048",
+      "location": "Bountiful, UT"
+     },
+     {
+      "number": "+1 385 300 0057",
+      "location": "Bountiful, UT"
+     },
+     {
+      "number": "+1 385 300 0078",
+      "location": "Bountiful, UT"
+     },
+     {
+      "number": "+1 385 300 0081",
+      "location": "Bountiful, UT"
+     },
+     {
+      "number": "+1 385 300 0087",
+      "location": "Bountiful, UT"
+     },
+     {
+      "number": "+1 385 550 0007",
+      "location": "Bountiful, UT"
+     },
      {
       "number": "+1 385 560 0009",
       "location": "Murray, UT"
@@ -10618,6 +10176,10 @@
      },
      {
       "number": "+1 385 910 0003",
+      "location": "Salt Lake City, UT"
+     },
+     {
+      "number": "+1 385 910 0004",
       "location": "Salt Lake City, UT"
      },
      {
@@ -10675,6 +10237,14 @@
      {
       "number": "+1 435 800 0083",
       "location": "Park City, UT"
+     },
+     {
+      "number": "+1 801 880 0002",
+      "location": "Salt Lake City, UT"
+     },
+     {
+      "number": "+1 801 880 0003",
+      "location": "Salt Lake City, UT"
      }
     ]
    },
@@ -11038,6 +10608,30 @@
    ]
   },
   {
+   "pattern": "3334444",
+   "count": 3,
+   "states": [
+    {
+     "state": "Minnesota",
+     "count": 3,
+     "numbers": [
+      {
+       "number": "+1 763 334 4441",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 334 4442",
+       "location": "Hilltop, MN"
+      },
+      {
+       "number": "+1 763 334 4445",
+       "location": "Hilltop, MN"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "pattern": "4440000",
    "count": 3,
    "states": [
@@ -11056,6 +10650,22 @@
       {
        "number": "+1 914 440 0009",
        "location": "Yorktown Heights, NY"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "5550000",
+   "count": 1,
+   "states": [
+    {
+     "state": "Utah",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 385 550 0007",
+       "location": "Bountiful, UT"
       }
      ]
     }
@@ -11611,12 +11221,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1348,
+  "total_5_in_a_row": 1202,
   "patterns_with_results": 8,
-  "total_0000": 1186,
+  "total_0000": 1220,
   "state_count_0000": 41,
-  "total_aaa_bbbb": 71,
+  "total_aaa_bbbb": 75,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 19
+  "aaa_bbbb_patterns_with_results": 21
  }
 }
