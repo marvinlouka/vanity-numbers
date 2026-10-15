@@ -1,5 +1,5 @@
 {
- "date": "2026-10-14",
+ "date": "2026-10-15",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -603,16 +603,12 @@
   },
   {
    "pattern": "44444",
-   "count": 62,
+   "count": 61,
    "states": [
     {
      "state": "Alabama",
-     "count": 7,
+     "count": 6,
      "numbers": [
-      {
-       "number": "+1 251 444 4487",
-       "location": "Mobile, AL"
-      },
       {
        "number": "+1 659 444 4403",
        "location": "Trussville, AL"
@@ -929,7 +925,7 @@
   },
   {
    "pattern": "55555",
-   "count": 45,
+   "count": 43,
    "states": [
     {
      "state": "Florida",
@@ -1039,7 +1035,7 @@
     },
     {
      "state": "New York",
-     "count": 15,
+     "count": 13,
      "numbers": [
       {
        "number": "+1 680 255 5551",
@@ -1051,10 +1047,6 @@
       },
       {
        "number": "+1 680 255 5554",
-       "location": "Norwood, NY"
-      },
-      {
-       "number": "+1 680 255 5556",
        "location": "Norwood, NY"
       },
       {
@@ -1075,10 +1067,6 @@
       },
       {
        "number": "+1 838 255 5551",
-       "location": "Saranac Lake, NY"
-      },
-      {
-       "number": "+1 838 255 5553",
        "location": "Saranac Lake, NY"
       },
       {
@@ -1169,7 +1157,7 @@
   },
   {
    "pattern": "66666",
-   "count": 124,
+   "count": 117,
    "states": [
     {
      "state": "Alabama",
@@ -1367,7 +1355,7 @@
     },
     {
      "state": "Georgia",
-     "count": 32,
+     "count": 28,
      "numbers": [
       {
        "number": "+1 229 466 6661",
@@ -1382,14 +1370,6 @@
        "location": "Centerville, GA"
       },
       {
-       "number": "+1 706 666 6007",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6063",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 706 666 6080",
        "location": "Watkinsville, GA"
       },
@@ -1402,15 +1382,7 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 706 666 6171",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 706 666 6172",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6173",
        "location": "Watkinsville, GA"
       },
       {
@@ -1430,15 +1402,7 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 706 666 6724",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 706 666 6725",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6727",
        "location": "Watkinsville, GA"
       },
       {
@@ -1455,10 +1419,6 @@
       },
       {
        "number": "+1 706 666 6734",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6738",
        "location": "Watkinsville, GA"
       },
       {
@@ -1495,6 +1455,18 @@
       },
       {
        "number": "+1 706 666 6751",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6753",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6754",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6755",
        "location": "Watkinsville, GA"
       }
      ]
@@ -1566,16 +1538,6 @@
      ]
     },
     {
-     "state": "Maine",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 207 466 6667",
-       "location": "Rockland, ME"
-      }
-     ]
-    },
-    {
      "state": "Maryland",
      "count": 2,
      "numbers": [
@@ -1591,15 +1553,11 @@
     },
     {
      "state": "Minnesota",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 320 566 6662",
        "location": "Rush City, MN"
-      },
-      {
-       "number": "+1 952 666 6604",
-       "location": "Hilltop, MN"
       }
      ]
     },
@@ -1689,14 +1647,10 @@
     },
     {
      "state": "New York",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 716 466 6668",
-       "location": "Holland, NY"
-      },
-      {
-       "number": "+1 716 466 6669",
        "location": "Holland, NY"
       }
      ]
@@ -1803,7 +1757,7 @@
   },
   {
    "pattern": "77777",
-   "count": 237,
+   "count": 235,
    "states": [
     {
      "state": "California",
@@ -2645,7 +2599,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 9,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 531 777 7706",
@@ -2673,14 +2627,6 @@
       },
       {
        "number": "+1 531 777 7759",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7781",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 777 7784",
        "location": "Omaha, NE"
       }
      ]
@@ -2823,7 +2769,7 @@
   },
   {
    "pattern": "88888",
-   "count": 474,
+   "count": 470,
    "states": [
     {
      "state": "Alabama",
@@ -3491,7 +3437,7 @@
     },
     {
      "state": "Georgia",
-     "count": 76,
+     "count": 74,
      "numbers": [
       {
        "number": "+1 478 888 8014",
@@ -3570,10 +3516,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8215",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8225",
        "location": "Sandersville, GA"
       },
@@ -3643,10 +3585,6 @@
       },
       {
        "number": "+1 478 888 8514",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8525",
        "location": "Sandersville, GA"
       },
       {
@@ -4109,7 +4047,7 @@
     },
     {
      "state": "Oregon",
-     "count": 161,
+     "count": 159,
      "numbers": [
       {
        "number": "+1 458 888 8002",
@@ -4432,10 +4370,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 458 888 8470",
-       "location": "Milton-Freewater, OR"
-      },
-      {
        "number": "+1 458 888 8492",
        "location": "Milton-Freewater, OR"
       },
@@ -4521,10 +4455,6 @@
       },
       {
        "number": "+1 458 888 8589",
-       "location": "Milton-Freewater, OR"
-      },
-      {
-       "number": "+1 458 888 8602",
        "location": "Milton-Freewater, OR"
       },
       {
@@ -4761,7 +4691,7 @@
   },
   {
    "pattern": "99999",
-   "count": 152,
+   "count": 150,
    "states": [
     {
      "state": "Alabama",
@@ -5137,7 +5067,7 @@
     },
     {
      "state": "Florida",
-     "count": 46,
+     "count": 44,
      "numbers": [
       {
        "number": "+1 239 999 9029",
@@ -5268,10 +5198,6 @@
        "location": "Fort Myers, FL"
       },
       {
-       "number": "+1 239 999 9524",
-       "location": "Fort Myers, FL"
-      },
-      {
        "number": "+1 239 999 9684",
        "location": "Fort Myers, FL"
       },
@@ -5309,10 +5235,6 @@
       },
       {
        "number": "+1 239 999 9825",
-       "location": "Fort Myers, FL"
-      },
-      {
-       "number": "+1 239 999 9877",
        "location": "Fort Myers, FL"
       },
       {
@@ -5417,17 +5339,13 @@
   }
  ],
  "pattern_0000": {
-  "total": 1220,
+  "total": 1202,
   "state_count": 41,
   "states": [
    {
     "state": "Alabama",
-    "count": 33,
+    "count": 32,
     "numbers": [
-     {
-      "number": "+1 205 900 0032",
-      "location": "Birmingham, AL"
-     },
      {
       "number": "+1 205 900 0042",
       "location": "Birmingham, AL"
@@ -5684,8 +5602,12 @@
    },
    {
     "state": "California",
-    "count": 53,
+    "count": 54,
     "numbers": [
+     {
+      "number": "+1 408 430 0002",
+      "location": "Gilroy, CA"
+     },
      {
       "number": "+1 562 580 0005",
       "location": "Long Beach, CA"
@@ -6028,7 +5950,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 138,
+    "count": 137,
     "numbers": [
      {
       "number": "+1 475 340 0008",
@@ -6148,10 +6070,6 @@
      },
      {
       "number": "+1 959 300 0025",
-      "location": "Bantam, CT"
-     },
-     {
-      "number": "+1 959 300 0026",
       "location": "Bantam, CT"
      },
      {
@@ -6612,7 +6530,7 @@
    },
    {
     "state": "Florida",
-    "count": 32,
+    "count": 30,
     "numbers": [
      {
       "number": "+1 239 800 0078",
@@ -6651,10 +6569,6 @@
       "location": "Crescent City, FL"
      },
      {
-      "number": "+1 656 230 0005",
-      "location": "Tampa, FL"
-     },
-     {
       "number": "+1 656 650 0007",
       "location": "Plant City, FL"
      },
@@ -6681,10 +6595,6 @@
      {
       "number": "+1 850 930 0007",
       "location": "Navarre Beach, FL"
-     },
-     {
-      "number": "+1 850 940 0007",
-      "location": "Ponce De Leon, FL"
      },
      {
       "number": "+1 850 940 0008",
@@ -6746,7 +6656,7 @@
    },
    {
     "state": "Georgia",
-    "count": 109,
+    "count": 108,
     "numbers": [
      {
       "number": "+1 229 350 0002",
@@ -6771,22 +6681,6 @@
      {
       "number": "+1 229 910 0004",
       "location": "Rebecca, GA"
-     },
-     {
-      "number": "+1 470 740 0002",
-      "location": "Lilburn, GA"
-     },
-     {
-      "number": "+1 470 740 0003",
-      "location": "Lilburn, GA"
-     },
-     {
-      "number": "+1 470 740 0007",
-      "location": "Lilburn, GA"
-     },
-     {
-      "number": "+1 470 740 0008",
-      "location": "Lilburn, GA"
      },
      {
       "number": "+1 470 800 0013",
@@ -6826,26 +6720,6 @@
      },
      {
       "number": "+1 470 800 0084",
-      "location": "Atlanta, GA"
-     },
-     {
-      "number": "+1 470 800 0086",
-      "location": "Atlanta, GA"
-     },
-     {
-      "number": "+1 470 800 0094",
-      "location": "Atlanta, GA"
-     },
-     {
-      "number": "+1 470 800 0098",
-      "location": "Atlanta, GA"
-     },
-     {
-      "number": "+1 470 870 0004",
-      "location": "Atlanta, GA"
-     },
-     {
-      "number": "+1 470 870 0008",
       "location": "Atlanta, GA"
      },
      {
@@ -7177,6 +7051,38 @@
       "location": "Flemington, GA"
      },
      {
+      "number": "+1 943 320 0002",
+      "location": "Jonesboro, GA"
+     },
+     {
+      "number": "+1 943 320 0003",
+      "location": "Jonesboro, GA"
+     },
+     {
+      "number": "+1 943 320 0004",
+      "location": "Jonesboro, GA"
+     },
+     {
+      "number": "+1 943 320 0005",
+      "location": "Jonesboro, GA"
+     },
+     {
+      "number": "+1 943 320 0006",
+      "location": "Jonesboro, GA"
+     },
+     {
+      "number": "+1 943 320 0007",
+      "location": "Jonesboro, GA"
+     },
+     {
+      "number": "+1 943 320 0008",
+      "location": "Jonesboro, GA"
+     },
+     {
+      "number": "+1 943 320 0009",
+      "location": "Jonesboro, GA"
+     },
+     {
       "number": "+1 943 990 0004",
       "location": "Flowery Branch, GA"
      },
@@ -7188,12 +7094,8 @@
    },
    {
     "state": "Idaho",
-    "count": 6,
+    "count": 5,
     "numbers": [
-     {
-      "number": "+1 208 330 0005",
-      "location": "Garden City, ID"
-     },
      {
       "number": "+1 986 280 0009",
       "location": "Garden City, ID"
@@ -7722,7 +7624,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 83,
+    "count": 82,
     "numbers": [
      {
       "number": "+1 218 480 0004",
@@ -8041,10 +7943,6 @@
       "location": "Hilltop, MN"
      },
      {
-      "number": "+1 763 600 0084",
-      "location": "Hilltop, MN"
-     },
-     {
       "number": "+1 763 600 0091",
       "location": "Hilltop, MN"
      },
@@ -8124,7 +8022,7 @@
    },
    {
     "state": "Nebraska",
-    "count": 49,
+    "count": 48,
     "numbers": [
      {
       "number": "+1 308 300 0017",
@@ -8209,10 +8107,6 @@
      {
       "number": "+1 308 400 0023",
       "location": "Ord, NE"
-     },
-     {
-      "number": "+1 308 910 0002",
-      "location": "Grand Island, NE"
      },
      {
       "number": "+1 308 910 0004",
@@ -8326,20 +8220,8 @@
    },
    {
     "state": "Nevada",
-    "count": 40,
+    "count": 37,
     "numbers": [
-     {
-      "number": "+1 725 500 0067",
-      "location": "Nellis Afb, NV"
-     },
-     {
-      "number": "+1 725 500 0091",
-      "location": "Nellis Afb, NV"
-     },
-     {
-      "number": "+1 725 600 0029",
-      "location": "Nellis Afb, NV"
-     },
      {
       "number": "+1 775 310 0006",
       "location": "Ely, NV"
@@ -8616,7 +8498,7 @@
    },
    {
     "state": "New York",
-    "count": 185,
+    "count": 186,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -8933,6 +8815,10 @@
      {
       "number": "+1 585 910 0008",
       "location": "Rochester, NY"
+     },
+     {
+      "number": "+1 607 210 0004",
+      "location": "Watkins Glen, NY"
      },
      {
       "number": "+1 607 800 0016",
@@ -9598,7 +9484,7 @@
    },
    {
     "state": "Ohio",
-    "count": 55,
+    "count": 54,
     "numbers": [
      {
       "number": "+1 234 270 0008",
@@ -9807,10 +9693,6 @@
      {
       "number": "+1 740 860 0007",
       "location": "Parkersburg, OH"
-     },
-     {
-      "number": "+1 937 400 0053",
-      "location": "Jackson Center, OH"
      },
      {
       "number": "+1 937 400 0071",
@@ -10082,16 +9964,8 @@
    },
    {
     "state": "Texas",
-    "count": 5,
+    "count": 4,
     "numbers": [
-     {
-      "number": "+1 409 710 0004",
-      "location": "Beaumont, TX"
-     },
-     {
-      "number": "+1 409 710 0008",
-      "location": "Beaumont, TX"
-     },
      {
       "number": "+1 903 420 0007",
       "location": "Corsicana, TX"
@@ -10103,41 +9977,17 @@
      {
       "number": "+1 903 600 0078",
       "location": "Rice, TX"
+     },
+     {
+      "number": "+1 903 600 0092",
+      "location": "Rice, TX"
      }
     ]
    },
    {
     "state": "Utah",
-    "count": 34,
+    "count": 27,
     "numbers": [
-     {
-      "number": "+1 385 300 0028",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0038",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0048",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0057",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0078",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0081",
-      "location": "Bountiful, UT"
-     },
-     {
-      "number": "+1 385 300 0087",
-      "location": "Bountiful, UT"
-     },
      {
       "number": "+1 385 550 0007",
       "location": "Bountiful, UT"
@@ -10609,11 +10459,11 @@
   },
   {
    "pattern": "3334444",
-   "count": 3,
+   "count": 2,
    "states": [
     {
      "state": "Minnesota",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 763 334 4441",
@@ -10621,10 +10471,6 @@
       },
       {
        "number": "+1 763 334 4442",
-       "location": "Hilltop, MN"
-      },
-      {
-       "number": "+1 763 334 4445",
        "location": "Hilltop, MN"
       }
      ]
@@ -10881,18 +10727,14 @@
   },
   {
    "pattern": "6669999",
-   "count": 6,
+   "count": 5,
    "states": [
     {
      "state": "Alabama",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 256 669 9993",
-       "location": "North Courtland, AL"
-      },
-      {
-       "number": "+1 256 669 9995",
        "location": "North Courtland, AL"
       }
      ]
@@ -11221,11 +11063,11 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1202,
+  "total_5_in_a_row": 1184,
   "patterns_with_results": 8,
-  "total_0000": 1220,
+  "total_0000": 1202,
   "state_count_0000": 41,
-  "total_aaa_bbbb": 75,
+  "total_aaa_bbbb": 73,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 21
  }
