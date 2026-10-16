@@ -1,5 +1,5 @@
 {
- "date": "2026-10-15",
+ "date": "2026-10-16",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -357,7 +357,7 @@
   },
   {
    "pattern": "33333",
-   "count": 42,
+   "count": 41,
    "states": [
     {
      "state": "Alabama",
@@ -422,16 +422,6 @@
       {
        "number": "+1 959 933 3338",
        "location": "New Hartford Center, CT"
-      }
-     ]
-    },
-    {
-     "state": "Florida",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 645 233 3338",
-       "location": "Miami, FL"
       }
      ]
     },
@@ -1157,11 +1147,11 @@
   },
   {
    "pattern": "66666",
-   "count": 117,
+   "count": 114,
    "states": [
     {
      "state": "Alabama",
-     "count": 17,
+     "count": 16,
      "numbers": [
       {
        "number": "+1 251 566 6663",
@@ -1170,10 +1160,6 @@
       {
        "number": "+1 251 566 6668",
        "location": "Grove Hill, AL"
-      },
-      {
-       "number": "+1 256 666 6585",
-       "location": "Huntsville, AL"
       },
       {
        "number": "+1 256 666 6801",
@@ -1390,10 +1376,6 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 706 666 6721",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 706 666 6722",
        "location": "Watkinsville, GA"
       },
@@ -1414,19 +1396,7 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 706 666 6731",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6734",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 706 666 6740",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6743",
        "location": "Watkinsville, GA"
       },
       {
@@ -1467,6 +1437,22 @@
       },
       {
        "number": "+1 706 666 6755",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6756",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6757",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6759",
+       "location": "Watkinsville, GA"
+      },
+      {
+       "number": "+1 706 666 6760",
        "location": "Watkinsville, GA"
       }
      ]
@@ -1675,12 +1661,8 @@
     },
     {
      "state": "North Dakota",
-     "count": 7,
+     "count": 6,
      "numbers": [
-      {
-       "number": "+1 701 666 6614",
-       "location": "Minto, ND"
-      },
       {
        "number": "+1 701 666 6617",
        "location": "Minto, ND"
@@ -1709,7 +1691,7 @@
     },
     {
      "state": "Oregon",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 541 866 6661",
@@ -1717,10 +1699,6 @@
       },
       {
        "number": "+1 541 866 6662",
-       "location": "Glendale, OR"
-      },
-      {
-       "number": "+1 541 866 6663",
        "location": "Glendale, OR"
       }
      ]
@@ -1757,7 +1735,7 @@
   },
   {
    "pattern": "77777",
-   "count": 235,
+   "count": 236,
    "states": [
     {
      "state": "California",
@@ -2549,7 +2527,7 @@
     },
     {
      "state": "Florida",
-     "count": 6,
+     "count": 7,
      "numbers": [
       {
        "number": "+1 386 777 7710",
@@ -2574,6 +2552,10 @@
       {
        "number": "+1 386 777 7790",
        "location": "Holly Hill, FL"
+      },
+      {
+       "number": "+1 727 777 7226",
+       "location": "New Port Richey, FL"
       }
      ]
     },
@@ -2769,7 +2751,7 @@
   },
   {
    "pattern": "88888",
-   "count": 470,
+   "count": 468,
    "states": [
     {
      "state": "Alabama",
@@ -3437,7 +3419,7 @@
     },
     {
      "state": "Georgia",
-     "count": 74,
+     "count": 72,
      "numbers": [
       {
        "number": "+1 478 888 8014",
@@ -3449,10 +3431,6 @@
       },
       {
        "number": "+1 478 888 8025",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8031",
        "location": "Sandersville, GA"
       },
       {
@@ -3545,10 +3523,6 @@
       },
       {
        "number": "+1 478 888 8412",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8422",
        "location": "Sandersville, GA"
       },
       {
@@ -5339,12 +5313,12 @@
   }
  ],
  "pattern_0000": {
-  "total": 1202,
+  "total": 1182,
   "state_count": 41,
   "states": [
    {
     "state": "Alabama",
-    "count": 32,
+    "count": 31,
     "numbers": [
      {
       "number": "+1 205 900 0042",
@@ -5364,10 +5338,6 @@
      },
      {
       "number": "+1 251 800 0024",
-      "location": "Mobile, AL"
-     },
-     {
-      "number": "+1 251 800 0025",
       "location": "Mobile, AL"
      },
      {
@@ -5508,7 +5478,7 @@
    },
    {
     "state": "Arkansas",
-    "count": 22,
+    "count": 21,
     "numbers": [
      {
       "number": "+1 479 410 0002",
@@ -5537,10 +5507,6 @@
      {
       "number": "+1 479 410 0009",
       "location": "Van Buren, AR"
-     },
-     {
-      "number": "+1 870 600 0016",
-      "location": "Ashdown, AR"
      },
      {
       "number": "+1 870 600 0072",
@@ -5602,12 +5568,8 @@
    },
    {
     "state": "California",
-    "count": 54,
+    "count": 52,
     "numbers": [
-     {
-      "number": "+1 408 430 0002",
-      "location": "Gilroy, CA"
-     },
      {
       "number": "+1 562 580 0005",
       "location": "Long Beach, CA"
@@ -5802,10 +5764,6 @@
      },
      {
       "number": "+1 909 600 0018",
-      "location": "Fontana, CA"
-     },
-     {
-      "number": "+1 909 600 0042",
       "location": "Fontana, CA"
      },
      {
@@ -6656,7 +6614,7 @@
    },
    {
     "state": "Georgia",
-    "count": 108,
+    "count": 100,
     "numbers": [
      {
       "number": "+1 229 350 0002",
@@ -7051,38 +7009,6 @@
       "location": "Flemington, GA"
      },
      {
-      "number": "+1 943 320 0002",
-      "location": "Jonesboro, GA"
-     },
-     {
-      "number": "+1 943 320 0003",
-      "location": "Jonesboro, GA"
-     },
-     {
-      "number": "+1 943 320 0004",
-      "location": "Jonesboro, GA"
-     },
-     {
-      "number": "+1 943 320 0005",
-      "location": "Jonesboro, GA"
-     },
-     {
-      "number": "+1 943 320 0006",
-      "location": "Jonesboro, GA"
-     },
-     {
-      "number": "+1 943 320 0007",
-      "location": "Jonesboro, GA"
-     },
-     {
-      "number": "+1 943 320 0008",
-      "location": "Jonesboro, GA"
-     },
-     {
-      "number": "+1 943 320 0009",
-      "location": "Jonesboro, GA"
-     },
-     {
       "number": "+1 943 990 0004",
       "location": "Flowery Branch, GA"
      },
@@ -7134,7 +7060,7 @@
    },
    {
     "state": "Indiana",
-    "count": 13,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 765 400 0072",
@@ -7142,10 +7068,6 @@
      },
      {
       "number": "+1 765 400 0097",
-      "location": "Anderson, IN"
-     },
-     {
-      "number": "+1 765 400 0098",
       "location": "Anderson, IN"
      },
      {
@@ -7192,7 +7114,7 @@
    },
    {
     "state": "Iowa",
-    "count": 72,
+    "count": 69,
     "numbers": [
      {
       "number": "+1 563 300 0012",
@@ -7203,15 +7125,7 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0014",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0015",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0016",
       "location": "Davenport, IA"
      },
      {
@@ -7288,10 +7202,6 @@
      },
      {
       "number": "+1 563 300 0039",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0041",
       "location": "Davenport, IA"
      },
      {
@@ -9248,7 +9158,7 @@
    },
    {
     "state": "North Carolina",
-    "count": 46,
+    "count": 45,
     "numbers": [
      {
       "number": "+1 252 260 0002",
@@ -9415,10 +9325,6 @@
       "location": "Black Mountain, NC"
      },
      {
-      "number": "+1 910 460 0003",
-      "location": "Newton Grove, NC"
-     },
-     {
       "number": "+1 910 460 0008",
       "location": "Newton Grove, NC"
      },
@@ -9484,7 +9390,7 @@
    },
    {
     "state": "Ohio",
-    "count": 54,
+    "count": 52,
     "numbers": [
      {
       "number": "+1 234 270 0008",
@@ -9505,14 +9411,6 @@
      {
       "number": "+1 234 980 0003",
       "location": "Louisville, OH"
-     },
-     {
-      "number": "+1 440 600 0072",
-      "location": "Chagrin Falls, OH"
-     },
-     {
-      "number": "+1 440 600 0078",
-      "location": "Chagrin Falls, OH"
      },
      {
       "number": "+1 440 600 0082",
@@ -9986,7 +9884,7 @@
    },
    {
     "state": "Utah",
-    "count": 27,
+    "count": 26,
     "numbers": [
      {
       "number": "+1 385 550 0007",
@@ -10087,10 +9985,6 @@
      {
       "number": "+1 435 800 0083",
       "location": "Park City, UT"
-     },
-     {
-      "number": "+1 801 880 0002",
-      "location": "Salt Lake City, UT"
      },
      {
       "number": "+1 801 880 0003",
@@ -11063,9 +10957,9 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1184,
+  "total_5_in_a_row": 1179,
   "patterns_with_results": 8,
-  "total_0000": 1202,
+  "total_0000": 1182,
   "state_count_0000": 41,
   "total_aaa_bbbb": 73,
   "aaa_bbbb_patterns_searched": 90,
