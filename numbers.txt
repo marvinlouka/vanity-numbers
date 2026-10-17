@@ -1,6 +1,6 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-10-16
-1179 five-in-a-row · 1182 four-zeros across 41 states · 73 AAA-BBBB across 21 of 90 combinations
+Updated: 2026-10-17
+1178 five-in-a-row · 1175 four-zeros across 41 states · 71 AAA-BBBB across 22 of 90 combinations
 
 ====================================================
 5 IN A ROW
@@ -254,7 +254,7 @@ Updated: 2026-10-16
     +1 425 944 4446   Clyde Hill, WA
     +1 425 944 4447   Clyde Hill, WA
 
---- 55555 — 43 numbers ---
+--- 55555 — 42 numbers ---
 
   FLORIDA (5)
     +1 352 755 5556   Mount Dora, FL
@@ -276,8 +276,7 @@ Updated: 2026-10-16
     +1 218 955 5556   Breckenridge, MN
     +1 218 955 5558   Breckenridge, MN
 
-  NEVADA (7)
-    +1 775 255 5550   Fernley, NV
+  NEVADA (6)
     +1 775 255 5551   Fernley, NV
     +1 775 255 5553   Fernley, NV
     +1 775 255 5554   Fernley, NV
@@ -317,7 +316,7 @@ Updated: 2026-10-16
     +1 509 955 5554   Yakima, WA
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 114 numbers ---
+--- 66666 — 115 numbers ---
 
   ALABAMA (16)
     +1 251 566 6663   Grove Hill, AL
@@ -467,7 +466,8 @@ Updated: 2026-10-16
     +1 541 866 6661   Glendale, OR
     +1 541 866 6662   Glendale, OR
 
-  TEXAS (3)
+  TEXAS (4)
+    +1 817 766 6661   Fort Worth, TX
     +1 817 766 6663   Fort Worth, TX
     +1 817 766 6664   Fort Worth, TX
     +1 817 766 6665   Fort Worth, TX
@@ -682,7 +682,7 @@ Updated: 2026-10-16
     +1 386 777 7760   Holly Hill, FL
     +1 386 777 7780   Holly Hill, FL
     +1 386 777 7790   Holly Hill, FL
-    +1 727 777 7226   New Port Richey, FL
+    +1 727 777 7256   New Port Richey, FL
 
   IOWA (1)
     +1 563 277 7776   Decorah, IA
@@ -735,7 +735,7 @@ Updated: 2026-10-16
     +1 509 677 7771   Lind, WA
     +1 509 677 7773   Lind, WA
 
---- 88888 — 468 numbers ---
+--- 88888 — 467 numbers ---
 
   ALABAMA (2)
     +1 938 888 8441   Killen, AL
@@ -904,7 +904,7 @@ Updated: 2026-10-16
     +1 858 888 8980   San Diego, CA
     +1 858 888 8991   San Diego, CA
 
-  GEORGIA (72)
+  GEORGIA (71)
     +1 478 888 8014   Sandersville, GA
     +1 478 888 8023   Sandersville, GA
     +1 478 888 8025   Sandersville, GA
@@ -930,7 +930,6 @@ Updated: 2026-10-16
     +1 478 888 8310   Sandersville, GA
     +1 478 888 8323   Sandersville, GA
     +1 478 888 8403   Sandersville, GA
-    +1 478 888 8412   Sandersville, GA
     +1 478 888 8435   Sandersville, GA
     +1 478 888 8441   Sandersville, GA
     +1 478 888 8455   Sandersville, GA
@@ -1384,7 +1383,7 @@ Updated: 2026-10-16
     +1 838 999 9902   Plattsburgh West, NY
 
 ====================================================
-4 ZEROS — 1182 numbers across 41 states
+4 ZEROS — 1175 numbers across 41 states
 ====================================================
 
   ALABAMA (31)
@@ -1420,12 +1419,11 @@ Updated: 2026-10-16
     +1 659 910 0008   Birmingham, AL
     +1 659 910 0009   Birmingham, AL
 
-  ARIZONA (6)
+  ARIZONA (5)
     +1 928 800 0024   Prescott, AZ
     +1 928 800 0056   Prescott, AZ
     +1 928 800 0067   Prescott, AZ
     +1 928 800 0079   Prescott, AZ
-    +1 928 900 0036   Central Heights-Midland City, AZ
     +1 928 900 0082   Central Heights-Midland City, AZ
 
   ARKANSAS (21)
@@ -1537,7 +1535,7 @@ Updated: 2026-10-16
     +1 970 900 0051   Fort Collins, CO
     +1 970 980 0009   Fort Collins, CO
 
-  CONNECTICUT (137)
+  CONNECTICUT (136)
     +1 475 340 0008   Stamford, CT
     +1 475 450 0007   Bridgeport, CT
     +1 475 470 0005   Norwalk, CT
@@ -1639,7 +1637,6 @@ Updated: 2026-10-16
     +1 959 600 0028   Plainfield Village, CT
     +1 959 600 0031   Plainfield Village, CT
     +1 959 600 0041   Plainfield Village, CT
-    +1 959 600 0051   Plainfield Village, CT
     +1 959 600 0053   Plainfield Village, CT
     +1 959 600 0054   Plainfield Village, CT
     +1 959 600 0056   Plainfield Village, CT
@@ -1683,7 +1680,7 @@ Updated: 2026-10-16
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (30)
+  FLORIDA (33)
     +1 239 800 0078   Cape Coral, FL
     +1 239 800 0083   Cape Coral, FL
     +1 352 830 0005   Ocala, FL
@@ -1701,6 +1698,9 @@ Updated: 2026-10-16
     +1 850 930 0005   Navarre Beach, FL
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0008   Ponce De Leon, FL
+    +1 904 300 0028   Jacksonville, FL
+    +1 904 300 0068   Jacksonville, FL
+    +1 904 300 0089   Jacksonville, FL
     +1 904 990 0003   Jacksonville, FL
     +1 941 900 0018   Bradenton, FL
     +1 941 900 0028   Bradenton, FL
@@ -1842,8 +1842,7 @@ Updated: 2026-10-16
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
 
-  IOWA (69)
-    +1 563 300 0012   Davenport, IA
+  IOWA (66)
     +1 563 300 0013   Davenport, IA
     +1 563 300 0015   Davenport, IA
     +1 563 300 0017   Davenport, IA
@@ -1878,8 +1877,6 @@ Updated: 2026-10-16
     +1 563 300 0054   Davenport, IA
     +1 563 300 0056   Davenport, IA
     +1 563 300 0057   Davenport, IA
-    +1 563 300 0058   Davenport, IA
-    +1 563 300 0059   Davenport, IA
     +1 563 300 0061   Davenport, IA
     +1 563 300 0062   Davenport, IA
     +1 563 300 0063   Davenport, IA
@@ -2034,10 +2031,8 @@ Updated: 2026-10-16
     +1 763 600 0092   Hilltop, MN
     +1 763 600 0098   Hilltop, MN
 
-  MISSISSIPPI (9)
+  MISSISSIPPI (7)
     +1 601 640 0006   Jackson, MS
-    +1 662 270 0006   Starkville, MS
-    +1 662 270 0008   Starkville, MS
     +1 662 350 0003   Tupelo, MS
     +1 662 350 0007   Tupelo, MS
     +1 662 740 0009   Iuka, MS
@@ -2101,7 +2096,7 @@ Updated: 2026-10-16
     +1 531 910 0007   Omaha, NE
     +1 531 910 0008   Omaha, NE
 
-  NEVADA (37)
+  NEVADA (36)
     +1 775 310 0006   Ely, NV
     +1 775 310 0008   Ely, NV
     +1 775 330 0004   Yerington, NV
@@ -2120,7 +2115,6 @@ Updated: 2026-10-16
     +1 775 600 0041   Carson City, NV
     +1 775 600 0042   Carson City, NV
     +1 775 600 0043   Carson City, NV
-    +1 775 600 0045   Carson City, NV
     +1 775 600 0046   Carson City, NV
     +1 775 600 0058   Carson City, NV
     +1 775 600 0062   Carson City, NV
@@ -2172,7 +2166,7 @@ Updated: 2026-10-16
     +1 575 800 0084   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (186)
+  NEW YORK (185)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 740 0005   Norwood, NY
@@ -2213,7 +2207,6 @@ Updated: 2026-10-16
     +1 518 760 0007   Glens Falls, NY
     +1 518 800 0046   Hudson Falls, NY
     +1 518 800 0049   Hudson Falls, NY
-    +1 518 800 0051   Hudson Falls, NY
     +1 518 800 0052   Hudson Falls, NY
     +1 518 800 0054   Hudson Falls, NY
     +1 518 800 0061   Hudson Falls, NY
@@ -2337,8 +2330,6 @@ Updated: 2026-10-16
     +1 845 930 0008   Walden, NY
     +1 845 960 0002   Poughkeepsie, NY
     +1 845 960 0003   Poughkeepsie, NY
-    +1 914 440 0003   Yorktown Heights, NY
-    +1 914 440 0005   Yorktown Heights, NY
     +1 914 440 0009   Yorktown Heights, NY
     +1 934 400 0014   Port Jefferson, NY
     +1 934 400 0024   Port Jefferson, NY
@@ -2353,6 +2344,8 @@ Updated: 2026-10-16
     +1 934 400 0038   Port Jefferson, NY
     +1 934 400 0042   Port Jefferson, NY
     +1 934 400 0043   Port Jefferson, NY
+    +1 934 400 0049   Port Jefferson, NY
+    +1 934 400 0052   Port Jefferson, NY
     +1 934 400 0069   Port Jefferson, NY
     +1 934 400 0072   Port Jefferson, NY
     +1 934 500 0012   North Bay Shore, NY
@@ -2360,7 +2353,7 @@ Updated: 2026-10-16
     +1 934 500 0018   North Bay Shore, NY
     +1 934 500 0024   North Bay Shore, NY
 
-  NORTH CAROLINA (45)
+  NORTH CAROLINA (44)
     +1 252 260 0002   Moyock, NC
     +1 252 260 0008   Moyock, NC
     +1 252 380 0002   Moyock, NC
@@ -2402,7 +2395,6 @@ Updated: 2026-10-16
     +1 828 900 0095   Black Mountain, NC
     +1 828 900 0096   Black Mountain, NC
     +1 828 900 0097   Black Mountain, NC
-    +1 910 460 0008   Newton Grove, NC
     +1 980 550 0002   Lowell, NC
     +1 980 550 0004   Lowell, NC
     +1 980 550 0006   Lowell, NC
@@ -2676,8 +2668,13 @@ Updated: 2026-10-16
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 73 numbers across 21 patterns
+AAA-BBBB — 71 numbers across 22 patterns
 ====================================================
+
+--- 222-1111 — 1 numbers ---
+
+  OKLAHOMA (1)
+    +1 572 221 1115   Bethany, OK
 
 --- 222-5555 — 1 numbers ---
 
@@ -2690,11 +2687,9 @@ AAA-BBBB — 73 numbers across 21 patterns
     +1 763 334 4441   Hilltop, MN
     +1 763 334 4442   Hilltop, MN
 
---- 444-0000 — 3 numbers ---
+--- 444-0000 — 1 numbers ---
 
-  NEW YORK (3)
-    +1 914 440 0003   Yorktown Heights, NY
-    +1 914 440 0005   Yorktown Heights, NY
+  NEW YORK (1)
     +1 914 440 0009   Yorktown Heights, NY
 
 --- 555-0000 — 1 numbers ---
@@ -2714,11 +2709,10 @@ AAA-BBBB — 73 numbers across 21 patterns
     +1 425 552 2228   Mill Creek, WA
     +1 425 552 2229   Mill Creek, WA
 
---- 555-3333 — 4 numbers ---
+--- 555-3333 — 3 numbers ---
 
-  NEW YORK (4)
+  NEW YORK (3)
     +1 585 553 3331   Batavia, NY
-    +1 585 553 3332   Batavia, NY
     +1 585 553 3336   Batavia, NY
     +1 585 553 3337   Batavia, NY
 
