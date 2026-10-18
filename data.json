@@ -1,9 +1,9 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 66,
+   "count": 67,
    "states": [
     {
      "state": "Colorado",
@@ -32,6 +32,16 @@
       {
        "number": "+1 970 722 2228",
        "location": "Fraser, CO"
+      }
+     ]
+    },
+    {
+     "state": "Connecticut",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 860 222 2294",
+       "location": "Hartford, CT"
       }
      ]
     },
@@ -1143,7 +1153,7 @@
   },
   {
    "pattern": "66666",
-   "count": 115,
+   "count": 114,
    "states": [
     {
      "state": "Alabama",
@@ -1701,12 +1711,8 @@
     },
     {
      "state": "Texas",
-     "count": 4,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 817 766 6661",
-       "location": "Fort Worth, TX"
-      },
       {
        "number": "+1 817 766 6663",
        "location": "Fort Worth, TX"
@@ -1735,7 +1741,7 @@
   },
   {
    "pattern": "77777",
-   "count": 236,
+   "count": 235,
    "states": [
     {
      "state": "California",
@@ -2527,7 +2533,7 @@
     },
     {
      "state": "Florida",
-     "count": 7,
+     "count": 6,
      "numbers": [
       {
        "number": "+1 386 777 7710",
@@ -2552,10 +2558,6 @@
       {
        "number": "+1 386 777 7790",
        "location": "Holly Hill, FL"
-      },
-      {
-       "number": "+1 727 777 7256",
-       "location": "New Port Richey, FL"
       }
      ]
     },
@@ -2751,7 +2753,7 @@
   },
   {
    "pattern": "88888",
-   "count": 467,
+   "count": 465,
    "states": [
     {
      "state": "Alabama",
@@ -3709,15 +3711,11 @@
     },
     {
      "state": "Minnesota",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 218 888 8477",
        "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 651 788 8881",
-       "location": "Hilltop, MN"
       },
       {
        "number": "+1 651 788 8886",
@@ -4017,7 +4015,7 @@
     },
     {
      "state": "Oregon",
-     "count": 159,
+     "count": 158,
      "numbers": [
       {
        "number": "+1 458 888 8002",
@@ -4648,10 +4646,6 @@
        "location": "Milton-Freewater, OR"
       },
       {
-       "number": "+1 971 888 8813",
-       "location": "West Haven-Sylvan, OR"
-      },
-      {
        "number": "+1 971 888 8875",
        "location": "West Haven-Sylvan, OR"
       }
@@ -4661,7 +4655,7 @@
   },
   {
    "pattern": "99999",
-   "count": 150,
+   "count": 149,
    "states": [
     {
      "state": "Alabama",
@@ -5229,12 +5223,8 @@
     },
     {
      "state": "Minnesota",
-     "count": 12,
+     "count": 11,
      "numbers": [
-      {
-       "number": "+1 612 999 9904",
-       "location": "Hilltop, MN"
-      },
       {
        "number": "+1 612 999 9918",
        "location": "Hilltop, MN"
@@ -5309,7 +5299,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 1175,
+  "total": 1161,
   "state_count": 41,
   "states": [
    {
@@ -6476,7 +6466,7 @@
    },
    {
     "state": "Florida",
-    "count": 33,
+    "count": 30,
     "numbers": [
      {
       "number": "+1 239 800 0078",
@@ -6547,18 +6537,6 @@
       "location": "Ponce De Leon, FL"
      },
      {
-      "number": "+1 904 300 0028",
-      "location": "Jacksonville, FL"
-     },
-     {
-      "number": "+1 904 300 0068",
-      "location": "Jacksonville, FL"
-     },
-     {
-      "number": "+1 904 300 0089",
-      "location": "Jacksonville, FL"
-     },
-     {
       "number": "+1 904 990 0003",
       "location": "Jacksonville, FL"
      },
@@ -6614,7 +6592,7 @@
    },
    {
     "state": "Georgia",
-    "count": 100,
+    "count": 88,
     "numbers": [
      {
       "number": "+1 229 350 0002",
@@ -6642,10 +6620,6 @@
      },
      {
       "number": "+1 470 800 0013",
-      "location": "Atlanta, GA"
-     },
-     {
-      "number": "+1 470 800 0028",
       "location": "Atlanta, GA"
      },
      {
@@ -6765,10 +6739,6 @@
       "location": "Macon, GA"
      },
      {
-      "number": "+1 478 910 0009",
-      "location": "Macon, GA"
-     },
-     {
       "number": "+1 706 770 0006",
       "location": "Young Harris, GA"
      },
@@ -6814,14 +6784,6 @@
      },
      {
       "number": "+1 762 300 0086",
-      "location": "Gay, GA"
-     },
-     {
-      "number": "+1 762 300 0094",
-      "location": "Gay, GA"
-     },
-     {
-      "number": "+1 762 300 0097",
       "location": "Gay, GA"
      },
      {
@@ -6901,22 +6863,6 @@
       "location": "Monticello, GA"
      },
      {
-      "number": "+1 762 600 0038",
-      "location": "Monticello, GA"
-     },
-     {
-      "number": "+1 762 600 0041",
-      "location": "Monticello, GA"
-     },
-     {
-      "number": "+1 762 600 0043",
-      "location": "Monticello, GA"
-     },
-     {
-      "number": "+1 762 600 0056",
-      "location": "Monticello, GA"
-     },
-     {
       "number": "+1 762 600 0062",
       "location": "Monticello, GA"
      },
@@ -6929,19 +6875,7 @@
       "location": "Monticello, GA"
      },
      {
-      "number": "+1 762 600 0082",
-      "location": "Monticello, GA"
-     },
-     {
-      "number": "+1 762 600 0092",
-      "location": "Monticello, GA"
-     },
-     {
       "number": "+1 762 600 0093",
-      "location": "Monticello, GA"
-     },
-     {
-      "number": "+1 762 600 0096",
       "location": "Monticello, GA"
      },
      {
@@ -6954,10 +6888,6 @@
      },
      {
       "number": "+1 762 770 0006",
-      "location": "Cleveland, GA"
-     },
-     {
-      "number": "+1 762 770 0009",
       "location": "Cleveland, GA"
      },
      {
@@ -7060,8 +6990,12 @@
    },
    {
     "state": "Indiana",
-    "count": 12,
+    "count": 13,
     "numbers": [
+     {
+      "number": "+1 574 200 0048",
+      "location": "Winamac, IN"
+     },
      {
       "number": "+1 765 400 0072",
       "location": "Anderson, IN"
@@ -7470,7 +7404,7 @@
    },
    {
     "state": "Maryland",
-    "count": 9,
+    "count": 10,
     "numbers": [
      {
       "number": "+1 227 260 0004",
@@ -7491,6 +7425,10 @@
      {
       "number": "+1 227 770 0009",
       "location": "Kensington, MD"
+     },
+     {
+      "number": "+1 410 260 0004",
+      "location": "Annapolis, MD"
      },
      {
       "number": "+1 667 260 0008",
@@ -7522,7 +7460,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 82,
+    "count": 81,
     "numbers": [
      {
       "number": "+1 218 480 0004",
@@ -7806,10 +7744,6 @@
      },
      {
       "number": "+1 763 600 0032",
-      "location": "Hilltop, MN"
-     },
-     {
-      "number": "+1 763 600 0046",
       "location": "Hilltop, MN"
      },
      {
@@ -9039,10 +8973,6 @@
       "location": "Poughkeepsie, NY"
      },
      {
-      "number": "+1 914 440 0009",
-      "location": "Yorktown Heights, NY"
-     },
-     {
       "number": "+1 934 400 0014",
       "location": "Port Jefferson, NY"
      },
@@ -9100,6 +9030,10 @@
      },
      {
       "number": "+1 934 400 0052",
+      "location": "Port Jefferson, NY"
+     },
+     {
+      "number": "+1 934 400 0054",
       "location": "Port Jefferson, NY"
      },
      {
@@ -9796,7 +9730,7 @@
    },
    {
     "state": "Tennessee",
-    "count": 7,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 731 400 0023",
@@ -9808,6 +9742,10 @@
      },
      {
       "number": "+1 731 400 0037",
+      "location": "Savannah, TN"
+     },
+     {
+      "number": "+1 731 400 0068",
       "location": "Savannah, TN"
      },
      {
@@ -9852,7 +9790,7 @@
    },
    {
     "state": "Utah",
-    "count": 26,
+    "count": 25,
     "numbers": [
      {
       "number": "+1 385 550 0007",
@@ -9953,10 +9891,6 @@
      {
       "number": "+1 435 800 0083",
       "location": "Park City, UT"
-     },
-     {
-      "number": "+1 801 880 0003",
-      "location": "Salt Lake City, UT"
      }
     ]
    },
@@ -10336,6 +10270,22 @@
    ]
   },
   {
+   "pattern": "2229999",
+   "count": 1,
+   "states": [
+    {
+     "state": "Wisconsin",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 262 229 9994",
+       "location": "Hubertus, WI"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "pattern": "3334444",
    "count": 2,
    "states": [
@@ -10350,22 +10300,6 @@
       {
        "number": "+1 763 334 4442",
        "location": "Hilltop, MN"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "pattern": "4440000",
-   "count": 1,
-   "states": [
-    {
-     "state": "New York",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 914 440 0009",
-       "location": "Yorktown Heights, NY"
       }
      ]
     }
@@ -10533,18 +10467,14 @@
   },
   {
    "pattern": "6667777",
-   "count": 5,
+   "count": 4,
    "states": [
     {
      "state": "Florida",
-     "count": 5,
+     "count": 4,
      "numbers": [
       {
        "number": "+1 386 667 7771",
-       "location": "Jennings, FL"
-      },
-      {
-       "number": "+1 386 667 7772",
        "location": "Jennings, FL"
       },
       {
@@ -10929,11 +10859,11 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1178,
+  "total_5_in_a_row": 1174,
   "patterns_with_results": 8,
-  "total_0000": 1175,
+  "total_0000": 1161,
   "state_count_0000": 41,
-  "total_aaa_bbbb": 71,
+  "total_aaa_bbbb": 70,
   "aaa_bbbb_patterns_searched": 90,
   "aaa_bbbb_patterns_with_results": 22
  }

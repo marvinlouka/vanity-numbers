@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-10-17
-1178 five-in-a-row · 1175 four-zeros across 41 states · 71 AAA-BBBB across 22 of 90 combinations
+Updated: 2026-10-18
+1174 five-in-a-row · 1161 four-zeros across 41 states · 70 AAA-BBBB across 22 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 66 numbers ---
+--- 22222 — 67 numbers ---
 
   COLORADO (6)
     +1 970 722 2221   Fraser, CO
@@ -15,6 +15,9 @@ Updated: 2026-10-17
     +1 970 722 2225   Fraser, CO
     +1 970 722 2226   Fraser, CO
     +1 970 722 2228   Fraser, CO
+
+  CONNECTICUT (1)
+    +1 860 222 2294   Hartford, CT
 
   GEORGIA (3)
     +1 229 222 2215   Ashburn, GA
@@ -316,7 +319,7 @@ Updated: 2026-10-17
     +1 509 955 5554   Yakima, WA
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 115 numbers ---
+--- 66666 — 114 numbers ---
 
   ALABAMA (16)
     +1 251 566 6663   Grove Hill, AL
@@ -466,8 +469,7 @@ Updated: 2026-10-17
     +1 541 866 6661   Glendale, OR
     +1 541 866 6662   Glendale, OR
 
-  TEXAS (4)
-    +1 817 766 6661   Fort Worth, TX
+  TEXAS (3)
     +1 817 766 6663   Fort Worth, TX
     +1 817 766 6664   Fort Worth, TX
     +1 817 766 6665   Fort Worth, TX
@@ -475,7 +477,7 @@ Updated: 2026-10-17
   UTAH (1)
     +1 385 666 6612   Provo, UT
 
---- 77777 — 236 numbers ---
+--- 77777 — 235 numbers ---
 
   CALIFORNIA (180)
     +1 657 777 7012   Buena Park, CA
@@ -675,14 +677,13 @@ Updated: 2026-10-17
     +1 959 777 7793   Hartford, CT
     +1 959 777 7794   Hartford, CT
 
-  FLORIDA (7)
+  FLORIDA (6)
     +1 386 777 7710   Holly Hill, FL
     +1 386 777 7740   Holly Hill, FL
     +1 386 777 7750   Holly Hill, FL
     +1 386 777 7760   Holly Hill, FL
     +1 386 777 7780   Holly Hill, FL
     +1 386 777 7790   Holly Hill, FL
-    +1 727 777 7256   New Port Richey, FL
 
   IOWA (1)
     +1 563 277 7776   Decorah, IA
@@ -735,7 +736,7 @@ Updated: 2026-10-17
     +1 509 677 7771   Lind, WA
     +1 509 677 7773   Lind, WA
 
---- 88888 — 467 numbers ---
+--- 88888 — 465 numbers ---
 
   ALABAMA (2)
     +1 938 888 8441   Killen, AL
@@ -977,9 +978,8 @@ Updated: 2026-10-17
     +1 478 888 8986   Sandersville, GA
     +1 478 888 8993   Sandersville, GA
 
-  MINNESOTA (3)
+  MINNESOTA (2)
     +1 218 888 8477   Bemidji, MN
-    +1 651 788 8881   Hilltop, MN
     +1 651 788 8886   Hilltop, MN
 
   NEBRASKA (71)
@@ -1055,7 +1055,7 @@ Updated: 2026-10-17
     +1 308 888 8991   Chappell, NE
     +1 308 888 8997   Chappell, NE
 
-  OREGON (159)
+  OREGON (158)
     +1 458 888 8002   Milton-Freewater, OR
     +1 458 888 8014   Milton-Freewater, OR
     +1 458 888 8016   Milton-Freewater, OR
@@ -1213,10 +1213,9 @@ Updated: 2026-10-17
     +1 458 888 8969   Milton-Freewater, OR
     +1 458 888 8974   Milton-Freewater, OR
     +1 458 888 8985   Milton-Freewater, OR
-    +1 971 888 8813   West Haven-Sylvan, OR
     +1 971 888 8875   West Haven-Sylvan, OR
 
---- 99999 — 150 numbers ---
+--- 99999 — 149 numbers ---
 
   ALABAMA (82)
     +1 251 999 9908   Mobile, AL
@@ -1361,8 +1360,7 @@ Updated: 2026-10-17
   GEORGIA (1)
     +1 478 699 9992   Byron, GA
 
-  MINNESOTA (12)
-    +1 612 999 9904   Hilltop, MN
+  MINNESOTA (11)
     +1 612 999 9918   Hilltop, MN
     +1 612 999 9921   Hilltop, MN
     +1 612 999 9932   Hilltop, MN
@@ -1383,7 +1381,7 @@ Updated: 2026-10-17
     +1 838 999 9902   Plattsburgh West, NY
 
 ====================================================
-4 ZEROS — 1175 numbers across 41 states
+4 ZEROS — 1161 numbers across 41 states
 ====================================================
 
   ALABAMA (31)
@@ -1680,7 +1678,7 @@ Updated: 2026-10-17
     +1 302 810 0005   Lewes, DE
     +1 302 810 0007   Lewes, DE
 
-  FLORIDA (33)
+  FLORIDA (30)
     +1 239 800 0078   Cape Coral, FL
     +1 239 800 0083   Cape Coral, FL
     +1 352 830 0005   Ocala, FL
@@ -1698,9 +1696,6 @@ Updated: 2026-10-17
     +1 850 930 0005   Navarre Beach, FL
     +1 850 930 0007   Navarre Beach, FL
     +1 850 940 0008   Ponce De Leon, FL
-    +1 904 300 0028   Jacksonville, FL
-    +1 904 300 0068   Jacksonville, FL
-    +1 904 300 0089   Jacksonville, FL
     +1 904 990 0003   Jacksonville, FL
     +1 941 900 0018   Bradenton, FL
     +1 941 900 0028   Bradenton, FL
@@ -1715,7 +1710,7 @@ Updated: 2026-10-17
     +1 941 900 0072   Bradenton, FL
     +1 941 900 0095   Bradenton, FL
 
-  GEORGIA (100)
+  GEORGIA (88)
     +1 229 350 0002   Sparks, GA
     +1 229 490 0004   Rebecca, GA
     +1 229 800 0045   Albany, GA
@@ -1723,7 +1718,6 @@ Updated: 2026-10-17
     +1 229 910 0003   Rebecca, GA
     +1 229 910 0004   Rebecca, GA
     +1 470 800 0013   Atlanta, GA
-    +1 470 800 0028   Atlanta, GA
     +1 470 800 0046   Atlanta, GA
     +1 470 800 0049   Atlanta, GA
     +1 470 800 0057   Atlanta, GA
@@ -1753,7 +1747,6 @@ Updated: 2026-10-17
     +1 478 480 0009   Wadley, GA
     +1 478 910 0007   Macon, GA
     +1 478 910 0008   Macon, GA
-    +1 478 910 0009   Macon, GA
     +1 706 770 0006   Young Harris, GA
     +1 706 770 0009   Young Harris, GA
     +1 762 300 0014   Gay, GA
@@ -1766,8 +1759,6 @@ Updated: 2026-10-17
     +1 762 300 0068   Gay, GA
     +1 762 300 0084   Gay, GA
     +1 762 300 0086   Gay, GA
-    +1 762 300 0094   Gay, GA
-    +1 762 300 0097   Gay, GA
     +1 762 330 0004   Monticello, GA
     +1 762 330 0005   Monticello, GA
     +1 762 330 0006   Monticello, GA
@@ -1787,21 +1778,13 @@ Updated: 2026-10-17
     +1 762 600 0023   Monticello, GA
     +1 762 600 0028   Monticello, GA
     +1 762 600 0032   Monticello, GA
-    +1 762 600 0038   Monticello, GA
-    +1 762 600 0041   Monticello, GA
-    +1 762 600 0043   Monticello, GA
-    +1 762 600 0056   Monticello, GA
     +1 762 600 0062   Monticello, GA
     +1 762 600 0078   Monticello, GA
     +1 762 600 0081   Monticello, GA
-    +1 762 600 0082   Monticello, GA
-    +1 762 600 0092   Monticello, GA
     +1 762 600 0093   Monticello, GA
-    +1 762 600 0096   Monticello, GA
     +1 762 760 0005   Tunnel Hill, GA
     +1 762 770 0005   Cleveland, GA
     +1 762 770 0006   Cleveland, GA
-    +1 762 770 0009   Cleveland, GA
     +1 762 800 0041   Augusta, GA
     +1 762 800 0063   Augusta, GA
     +1 762 900 0014   Pendergrass, GA
@@ -1828,7 +1811,8 @@ Updated: 2026-10-17
     +1 224 990 0008   Plato Center, IL
     +1 872 290 0004   Chicago, IL
 
-  INDIANA (12)
+  INDIANA (13)
+    +1 574 200 0048   Winamac, IN
     +1 765 400 0072   Anderson, IN
     +1 765 400 0097   Anderson, IN
     +1 765 410 0002   Paragon, IN
@@ -1933,12 +1917,13 @@ Updated: 2026-10-17
     +1 985 570 0006   Bogalusa, LA
     +1 985 570 0008   Bogalusa, LA
 
-  MARYLAND (9)
+  MARYLAND (10)
     +1 227 260 0004   Chesapeake Beach, MD
     +1 227 260 0005   Chesapeake Beach, MD
     +1 227 260 0009   Chesapeake Beach, MD
     +1 227 770 0004   Kensington, MD
     +1 227 770 0009   Kensington, MD
+    +1 410 260 0004   Annapolis, MD
     +1 667 260 0008   Baltimore, MD
     +1 667 400 0051   Baltimore, MD
     +1 667 480 0006   Fort Meade, MD
@@ -1947,7 +1932,7 @@ Updated: 2026-10-17
   MASSACHUSETTS (1)
     +1 978 680 0005   Concord, MA
 
-  MINNESOTA (82)
+  MINNESOTA (81)
     +1 218 480 0004   Stephen, MN
     +1 218 610 0004   Barnum, MN
     +1 218 610 0005   Barnum, MN
@@ -2019,7 +2004,6 @@ Updated: 2026-10-17
     +1 763 600 0025   Hilltop, MN
     +1 763 600 0031   Hilltop, MN
     +1 763 600 0032   Hilltop, MN
-    +1 763 600 0046   Hilltop, MN
     +1 763 600 0056   Hilltop, MN
     +1 763 600 0064   Hilltop, MN
     +1 763 600 0065   Hilltop, MN
@@ -2330,7 +2314,6 @@ Updated: 2026-10-17
     +1 845 930 0008   Walden, NY
     +1 845 960 0002   Poughkeepsie, NY
     +1 845 960 0003   Poughkeepsie, NY
-    +1 914 440 0009   Yorktown Heights, NY
     +1 934 400 0014   Port Jefferson, NY
     +1 934 400 0024   Port Jefferson, NY
     +1 934 400 0025   Port Jefferson, NY
@@ -2346,6 +2329,7 @@ Updated: 2026-10-17
     +1 934 400 0043   Port Jefferson, NY
     +1 934 400 0049   Port Jefferson, NY
     +1 934 400 0052   Port Jefferson, NY
+    +1 934 400 0054   Port Jefferson, NY
     +1 934 400 0069   Port Jefferson, NY
     +1 934 400 0072   Port Jefferson, NY
     +1 934 500 0012   North Bay Shore, NY
@@ -2523,10 +2507,11 @@ Updated: 2026-10-17
     +1 401 800 0086   Wakefield-Peacedale, RI
     +1 401 830 0006   North Providence, RI
 
-  TENNESSEE (7)
+  TENNESSEE (8)
     +1 731 400 0023   Savannah, TN
     +1 731 400 0032   Savannah, TN
     +1 731 400 0037   Savannah, TN
+    +1 731 400 0068   Savannah, TN
     +1 901 660 0004   Grand Junction, TN
     +1 901 660 0007   Grand Junction, TN
     +1 931 410 0002   Clarksville, TN
@@ -2538,7 +2523,7 @@ Updated: 2026-10-17
     +1 903 600 0078   Rice, TX
     +1 903 600 0092   Rice, TX
 
-  UTAH (26)
+  UTAH (25)
     +1 385 550 0007   Bountiful, UT
     +1 385 560 0009   Murray, UT
     +1 385 580 0006   Murray, UT
@@ -2564,7 +2549,6 @@ Updated: 2026-10-17
     +1 435 500 0095   Delta, UT
     +1 435 580 0004   Nephi, UT
     +1 435 800 0083   Park City, UT
-    +1 801 880 0003   Salt Lake City, UT
 
   VERMONT (19)
     +1 802 300 0013   Perkinsville, VT
@@ -2668,7 +2652,7 @@ Updated: 2026-10-17
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 71 numbers across 22 patterns
+AAA-BBBB — 70 numbers across 22 patterns
 ====================================================
 
 --- 222-1111 — 1 numbers ---
@@ -2681,16 +2665,16 @@ AAA-BBBB — 71 numbers across 22 patterns
   GEORGIA (1)
     +1 912 225 5554   Statesboro, GA
 
+--- 222-9999 — 1 numbers ---
+
+  WISCONSIN (1)
+    +1 262 229 9994   Hubertus, WI
+
 --- 333-4444 — 2 numbers ---
 
   MINNESOTA (2)
     +1 763 334 4441   Hilltop, MN
     +1 763 334 4442   Hilltop, MN
-
---- 444-0000 — 1 numbers ---
-
-  NEW YORK (1)
-    +1 914 440 0009   Yorktown Heights, NY
 
 --- 555-0000 — 1 numbers ---
 
@@ -2739,11 +2723,10 @@ AAA-BBBB — 71 numbers across 22 patterns
     +1 435 558 8887   Richfield, UT
     +1 435 558 8889   Richfield, UT
 
---- 666-7777 — 5 numbers ---
+--- 666-7777 — 4 numbers ---
 
-  FLORIDA (5)
+  FLORIDA (4)
     +1 386 667 7771   Jennings, FL
-    +1 386 667 7772   Jennings, FL
     +1 386 667 7773   Jennings, FL
     +1 386 667 7774   Jennings, FL
     +1 386 667 7776   Jennings, FL
