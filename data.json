@@ -1,5 +1,5 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "patterns_5": [
   {
    "pattern": "22222",
@@ -2681,7 +2681,7 @@
   },
   {
    "pattern": "88888",
-   "count": 461,
+   "count": 460,
    "states": [
     {
      "state": "Alabama",
@@ -3627,15 +3627,11 @@
     },
     {
      "state": "Minnesota",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 218 888 8477",
        "location": "Bemidji, MN"
-      },
-      {
-       "number": "+1 651 788 8886",
-       "location": "Hilltop, MN"
       }
      ]
     },
@@ -5193,7 +5189,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 1136,
+  "total": 1141,
   "state_count": 41,
   "states": [
    {
@@ -5440,7 +5436,7 @@
    },
    {
     "state": "California",
-    "count": 52,
+    "count": 55,
     "numbers": [
      {
       "number": "+1 562 580 0005",
@@ -5635,7 +5631,15 @@
       "location": "Napa, CA"
      },
      {
+      "number": "+1 820 280 0004",
+      "location": "Los Alamos, CA"
+     },
+     {
       "number": "+1 909 600 0018",
+      "location": "Fontana, CA"
+     },
+     {
+      "number": "+1 909 600 0029",
       "location": "Fontana, CA"
      },
      {
@@ -5644,6 +5648,10 @@
      },
      {
       "number": "+1 909 600 0072",
+      "location": "Fontana, CA"
+     },
+     {
+      "number": "+1 909 600 0075",
       "location": "Fontana, CA"
      },
      {
@@ -6340,7 +6348,7 @@
    },
    {
     "state": "Florida",
-    "count": 30,
+    "count": 31,
     "numbers": [
      {
       "number": "+1 239 800 0078",
@@ -6349,6 +6357,14 @@
      {
       "number": "+1 239 800 0083",
       "location": "Cape Coral, FL"
+     },
+     {
+      "number": "+1 352 600 0037",
+      "location": "Brooksville, FL"
+     },
+     {
+      "number": "+1 352 600 0089",
+      "location": "Brooksville, FL"
      },
      {
       "number": "+1 352 830 0005",
@@ -6385,10 +6401,6 @@
      {
       "number": "+1 656 650 0008",
       "location": "Plant City, FL"
-     },
-     {
-      "number": "+1 772 610 0007",
-      "location": "Vero Beach, FL"
      },
      {
       "number": "+1 786 840 0005",
@@ -6910,7 +6922,7 @@
    },
    {
     "state": "Iowa",
-    "count": 66,
+    "count": 65,
     "numbers": [
      {
       "number": "+1 563 300 0013",
@@ -6958,10 +6970,6 @@
      },
      {
       "number": "+1 563 300 0028",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0029",
       "location": "Davenport, IA"
      },
      {
@@ -7266,8 +7274,12 @@
    },
    {
     "state": "Maryland",
-    "count": 9,
+    "count": 10,
     "numbers": [
+     {
+      "number": "+1 227 240 0007",
+      "location": "Kensington, MD"
+     },
      {
       "number": "+1 227 260 0004",
       "location": "Chesapeake Beach, MD"
@@ -7318,7 +7330,7 @@
    },
    {
     "state": "Minnesota",
-    "count": 81,
+    "count": 82,
     "numbers": [
      {
       "number": "+1 218 480 0004",
@@ -7581,6 +7593,10 @@
       "location": "Jackson, MN"
      },
      {
+      "number": "+1 507 850 0005",
+      "location": "Northfield, MN"
+     },
+     {
       "number": "+1 507 850 0009",
       "location": "Northfield, MN"
      },
@@ -7648,7 +7664,7 @@
    },
    {
     "state": "Mississippi",
-    "count": 7,
+    "count": 8,
     "numbers": [
      {
       "number": "+1 601 640 0006",
@@ -7668,6 +7684,10 @@
      },
      {
       "number": "+1 769 240 0004",
+      "location": "Forest, MS"
+     },
+     {
+      "number": "+1 769 240 0006",
       "location": "Forest, MS"
      },
      {
@@ -8898,10 +8918,14 @@
    },
    {
     "state": "North Carolina",
-    "count": 44,
+    "count": 45,
     "numbers": [
      {
       "number": "+1 252 260 0002",
+      "location": "Moyock, NC"
+     },
+     {
+      "number": "+1 252 260 0004",
       "location": "Moyock, NC"
      },
      {
@@ -9126,15 +9150,11 @@
    },
    {
     "state": "Ohio",
-    "count": 52,
+    "count": 51,
     "numbers": [
      {
       "number": "+1 234 270 0008",
       "location": "Uniontown, OH"
-     },
-     {
-      "number": "+1 234 720 0003",
-      "location": "Atwater, OH"
      },
      {
       "number": "+1 234 770 0003",
@@ -9776,12 +9796,8 @@
    },
    {
     "state": "Virginia",
-    "count": 3,
+    "count": 2,
     "numbers": [
-     {
-      "number": "+1 540 360 0009",
-      "location": "Orange, VA"
-     },
      {
       "number": "+1 540 390 0006",
       "location": "Roanoke, VA"
@@ -10064,22 +10080,6 @@
    ]
   },
   {
-   "pattern": "2229999",
-   "count": 1,
-   "states": [
-    {
-     "state": "Wisconsin",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 262 229 9994",
-       "location": "Hubertus, WI"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "pattern": "3334444",
    "count": 2,
    "states": [
@@ -10101,7 +10101,7 @@
   },
   {
    "pattern": "5552222",
-   "count": 6,
+   "count": 5,
    "states": [
     {
      "state": "Utah",
@@ -10123,12 +10123,8 @@
     },
     {
      "state": "Washington",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 425 552 2221",
-       "location": "Mill Creek, WA"
-      },
       {
        "number": "+1 425 552 2228",
        "location": "Mill Creek, WA"
@@ -10637,12 +10633,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1152,
+  "total_5_in_a_row": 1151,
   "patterns_with_results": 8,
-  "total_0000": 1136,
+  "total_0000": 1141,
   "state_count_0000": 41,
-  "total_aaa_bbbb": 69,
+  "total_aaa_bbbb": 67,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 21
+  "aaa_bbbb_patterns_with_results": 20
  }
 }
