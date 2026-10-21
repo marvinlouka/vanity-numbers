@@ -1,9 +1,9 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 63,
+   "count": 61,
    "states": [
     {
      "state": "Colorado",
@@ -83,12 +83,8 @@
     },
     {
      "state": "Massachusetts",
-     "count": 4,
+     "count": 3,
      "numbers": [
-      {
-       "number": "+1 978 822 2223",
-       "location": "Shirley, MA"
-      },
       {
        "number": "+1 978 822 2224",
        "location": "Shirley, MA"
@@ -123,7 +119,7 @@
     },
     {
      "state": "Nebraska",
-     "count": 14,
+     "count": 13,
      "numbers": [
       {
        "number": "+1 308 422 2221",
@@ -151,10 +147,6 @@
       },
       {
        "number": "+1 531 222 2276",
-       "location": "Omaha, NE"
-      },
-      {
-       "number": "+1 531 222 2281",
        "location": "Omaha, NE"
       },
       {
@@ -345,7 +337,7 @@
   },
   {
    "pattern": "33333",
-   "count": 40,
+   "count": 39,
    "states": [
     {
      "state": "Alabama",
@@ -439,14 +431,10 @@
     },
     {
      "state": "Nebraska",
-     "count": 3,
+     "count": 2,
      "numbers": [
       {
        "number": "+1 402 433 3331",
-       "location": "Western, NE"
-      },
-      {
-       "number": "+1 402 433 3337",
        "location": "Western, NE"
       },
       {
@@ -577,7 +565,7 @@
   },
   {
    "pattern": "44444",
-   "count": 60,
+   "count": 61,
    "states": [
     {
      "state": "Alabama",
@@ -736,6 +724,16 @@
       {
        "number": "+1 541 644 4443",
        "location": "Harrisburg, OR"
+      }
+     ]
+    },
+    {
+     "state": "Texas",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 936 444 4427",
+       "location": "Conroe, TX"
       }
      ]
     },
@@ -1115,7 +1113,7 @@
   },
   {
    "pattern": "66666",
-   "count": 107,
+   "count": 106,
    "states": [
     {
      "state": "Alabama",
@@ -1649,12 +1647,8 @@
     },
     {
      "state": "Texas",
-     "count": 3,
+     "count": 2,
      "numbers": [
-      {
-       "number": "+1 817 766 6663",
-       "location": "Fort Worth, TX"
-      },
       {
        "number": "+1 817 766 6664",
        "location": "Fort Worth, TX"
@@ -2681,7 +2675,7 @@
   },
   {
    "pattern": "88888",
-   "count": 460,
+   "count": 453,
    "states": [
     {
      "state": "Alabama",
@@ -2699,7 +2693,7 @@
     },
     {
      "state": "California",
-     "count": 161,
+     "count": 160,
      "numbers": [
       {
        "number": "+1 858 888 8012",
@@ -3146,10 +3140,6 @@
        "location": "San Diego, CA"
       },
       {
-       "number": "+1 858 888 8582",
-       "location": "San Diego, CA"
-      },
-      {
        "number": "+1 858 888 8583",
        "location": "San Diego, CA"
       },
@@ -3349,7 +3339,7 @@
     },
     {
      "state": "Georgia",
-     "count": 68,
+     "count": 62,
      "numbers": [
       {
        "number": "+1 478 888 8014",
@@ -3369,10 +3359,6 @@
       },
       {
        "number": "+1 478 888 8056",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8066",
        "location": "Sandersville, GA"
       },
       {
@@ -3412,23 +3398,11 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8194",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8205",
        "location": "Sandersville, GA"
       },
       {
        "number": "+1 478 888 8225",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8257",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8260",
        "location": "Sandersville, GA"
       },
       {
@@ -3524,10 +3498,6 @@
        "location": "Sandersville, GA"
       },
       {
-       "number": "+1 478 888 8644",
-       "location": "Sandersville, GA"
-      },
-      {
        "number": "+1 478 888 8651",
        "location": "Sandersville, GA"
       },
@@ -3565,10 +3535,6 @@
       },
       {
        "number": "+1 478 888 8742",
-       "location": "Sandersville, GA"
-      },
-      {
-       "number": "+1 478 888 8747",
        "location": "Sandersville, GA"
       },
       {
@@ -3660,10 +3626,6 @@
        "location": "Chappell, NE"
       },
       {
-       "number": "+1 308 888 8031",
-       "location": "Chappell, NE"
-      },
-      {
        "number": "+1 308 888 8035",
        "location": "Chappell, NE"
       },
@@ -3717,6 +3679,10 @@
       },
       {
        "number": "+1 308 888 8067",
+       "location": "Chappell, NE"
+      },
+      {
+       "number": "+1 308 888 8072",
        "location": "Chappell, NE"
       },
       {
@@ -5189,7 +5155,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 1141,
+  "total": 1118,
   "state_count": 41,
   "states": [
    {
@@ -5324,7 +5290,7 @@
    },
    {
     "state": "Arizona",
-    "count": 5,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 928 800 0024",
@@ -5332,10 +5298,6 @@
      },
      {
       "number": "+1 928 800 0056",
-      "location": "Prescott, AZ"
-     },
-     {
-      "number": "+1 928 800 0067",
       "location": "Prescott, AZ"
      },
      {
@@ -5436,15 +5398,11 @@
    },
    {
     "state": "California",
-    "count": 55,
+    "count": 53,
     "numbers": [
      {
       "number": "+1 562 580 0005",
       "location": "Long Beach, CA"
-     },
-     {
-      "number": "+1 562 600 0054",
-      "location": "Whittier, CA"
      },
      {
       "number": "+1 562 740 0006",
@@ -5612,10 +5570,6 @@
      },
      {
       "number": "+1 707 520 0004",
-      "location": "Monte Rio, CA"
-     },
-     {
-      "number": "+1 707 520 0007",
       "location": "Monte Rio, CA"
      },
      {
@@ -5788,7 +5742,7 @@
    },
    {
     "state": "Connecticut",
-    "count": 132,
+    "count": 131,
     "numbers": [
      {
       "number": "+1 475 340 0008",
@@ -5849,10 +5803,6 @@
      {
       "number": "+1 860 600 0075",
       "location": "Litchfield, CT"
-     },
-     {
-      "number": "+1 860 960 0006",
-      "location": "Torrington, CT"
      },
      {
       "number": "+1 959 210 0004",
@@ -6348,7 +6298,7 @@
    },
    {
     "state": "Florida",
-    "count": 31,
+    "count": 28,
     "numbers": [
      {
       "number": "+1 239 800 0078",
@@ -6357,14 +6307,6 @@
      {
       "number": "+1 239 800 0083",
       "location": "Cape Coral, FL"
-     },
-     {
-      "number": "+1 352 600 0037",
-      "location": "Brooksville, FL"
-     },
-     {
-      "number": "+1 352 600 0089",
-      "location": "Brooksville, FL"
      },
      {
       "number": "+1 352 830 0005",
@@ -6401,10 +6343,6 @@
      {
       "number": "+1 656 650 0008",
       "location": "Plant City, FL"
-     },
-     {
-      "number": "+1 786 840 0005",
-      "location": "Miami, FL"
      },
      {
       "number": "+1 850 690 0006",
@@ -6922,18 +6860,10 @@
    },
    {
     "state": "Iowa",
-    "count": 65,
+    "count": 53,
     "numbers": [
      {
-      "number": "+1 563 300 0013",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0015",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0017",
       "location": "Davenport, IA"
      },
      {
@@ -6957,19 +6887,11 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0025",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0026",
       "location": "Davenport, IA"
      },
      {
       "number": "+1 563 300 0027",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0028",
       "location": "Davenport, IA"
      },
      {
@@ -7001,10 +6923,6 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0039",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0042",
       "location": "Davenport, IA"
      },
@@ -7014,10 +6932,6 @@
      },
      {
       "number": "+1 563 300 0045",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0046",
       "location": "Davenport, IA"
      },
      {
@@ -7041,10 +6955,6 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0053",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0054",
       "location": "Davenport, IA"
      },
@@ -7061,10 +6971,6 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0062",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0063",
       "location": "Davenport, IA"
      },
@@ -7077,10 +6983,6 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0067",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0068",
       "location": "Davenport, IA"
      },
@@ -7089,15 +6991,7 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0071",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0072",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0073",
       "location": "Davenport, IA"
      },
      {
@@ -7118,10 +7012,6 @@
      },
      {
       "number": "+1 563 300 0079",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0081",
       "location": "Davenport, IA"
      },
      {
@@ -7702,7 +7592,7 @@
    },
    {
     "state": "Missouri",
-    "count": 4,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 573 920 0004",
@@ -7715,10 +7605,6 @@
      {
       "number": "+1 573 920 0008",
       "location": "Eldon, MO"
-     },
-     {
-      "number": "+1 660 240 0009",
-      "location": "Chillicothe, MO"
      }
     ]
    },
@@ -7910,7 +7796,7 @@
    },
    {
     "state": "Nevada",
-    "count": 36,
+    "count": 35,
     "numbers": [
      {
       "number": "+1 775 310 0006",
@@ -7935,10 +7821,6 @@
      {
       "number": "+1 775 330 0008",
       "location": "Yerington, NV"
-     },
-     {
-      "number": "+1 775 600 0017",
-      "location": "Carson City, NV"
      },
      {
       "number": "+1 775 600 0024",
@@ -8150,7 +8032,7 @@
    },
    {
     "state": "New Mexico",
-    "count": 6,
+    "count": 5,
     "numbers": [
      {
       "number": "+1 575 500 0081",
@@ -8166,10 +8048,6 @@
      },
      {
       "number": "+1 575 800 0083",
-      "location": "Las Cruces, NM"
-     },
-     {
-      "number": "+1 575 800 0084",
       "location": "Las Cruces, NM"
      },
      {
@@ -8539,10 +8417,6 @@
       "location": "Freeville, NY"
      },
      {
-      "number": "+1 607 800 0052",
-      "location": "Freeville, NY"
-     },
-     {
       "number": "+1 607 800 0053",
       "location": "Freeville, NY"
      },
@@ -8729,6 +8603,10 @@
      {
       "number": "+1 631 900 0086",
       "location": "Northport, NY"
+     },
+     {
+      "number": "+1 680 230 0008",
+      "location": "Utica, NY"
      },
      {
       "number": "+1 680 780 0005",
@@ -9360,7 +9238,7 @@
    },
    {
     "state": "Oklahoma",
-    "count": 3,
+    "count": 4,
     "numbers": [
      {
       "number": "+1 405 970 0004",
@@ -9373,6 +9251,10 @@
      {
       "number": "+1 405 970 0008",
       "location": "Guthrie, OK"
+     },
+     {
+      "number": "+1 580 430 0002",
+      "location": "Alva, OK"
      }
     ]
    },
@@ -9462,7 +9344,7 @@
    },
    {
     "state": "Rhode Island",
-    "count": 25,
+    "count": 24,
     "numbers": [
      {
       "number": "+1 401 600 0035",
@@ -9553,10 +9435,6 @@
       "location": "Wakefield-Peacedale, RI"
      },
      {
-      "number": "+1 401 800 0084",
-      "location": "Wakefield-Peacedale, RI"
-     },
-     {
       "number": "+1 401 800 0086",
       "location": "Wakefield-Peacedale, RI"
      },
@@ -9620,14 +9498,10 @@
    },
    {
     "state": "Utah",
-    "count": 22,
+    "count": 21,
     "numbers": [
      {
       "number": "+1 385 560 0009",
-      "location": "Murray, UT"
-     },
-     {
-      "number": "+1 385 580 0006",
       "location": "Murray, UT"
      },
      {
@@ -10074,6 +9948,22 @@
       {
        "number": "+1 912 225 5554",
        "location": "Statesboro, GA"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "pattern": "2228888",
+   "count": 1,
+   "states": [
+    {
+     "state": "Indiana",
+     "count": 1,
+     "numbers": [
+      {
+       "number": "+1 812 228 8885",
+       "location": "Evansville, IN"
       }
      ]
     }
@@ -10633,12 +10523,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1151,
+  "total_5_in_a_row": 1141,
   "patterns_with_results": 8,
-  "total_0000": 1141,
+  "total_0000": 1118,
   "state_count_0000": 41,
-  "total_aaa_bbbb": 67,
+  "total_aaa_bbbb": 68,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 20
+  "aaa_bbbb_patterns_with_results": 21
  }
 }
