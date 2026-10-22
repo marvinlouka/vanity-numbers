@@ -1,9 +1,9 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "patterns_5": [
   {
    "pattern": "22222",
-   "count": 61,
+   "count": 60,
    "states": [
     {
      "state": "Colorado",
@@ -55,14 +55,10 @@
     },
     {
      "state": "Illinois",
-     "count": 2,
+     "count": 1,
      "numbers": [
       {
        "number": "+1 779 222 2247",
-       "location": "Sycamore, IL"
-      },
-      {
-       "number": "+1 779 222 2269",
        "location": "Sycamore, IL"
       }
      ]
@@ -337,7 +333,7 @@
   },
   {
    "pattern": "33333",
-   "count": 39,
+   "count": 38,
    "states": [
     {
      "state": "Alabama",
@@ -502,16 +498,6 @@
      ]
     },
     {
-     "state": "Tennessee",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 731 333 3319",
-       "location": "Paris, TN"
-      }
-     ]
-    },
-    {
      "state": "Wisconsin",
      "count": 11,
      "numbers": [
@@ -565,7 +551,7 @@
   },
   {
    "pattern": "44444",
-   "count": 61,
+   "count": 60,
    "states": [
     {
      "state": "Alabama",
@@ -724,16 +710,6 @@
       {
        "number": "+1 541 644 4443",
        "location": "Harrisburg, OR"
-      }
-     ]
-    },
-    {
-     "state": "Texas",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 936 444 4427",
-       "location": "Conroe, TX"
       }
      ]
     },
@@ -1113,7 +1089,7 @@
   },
   {
    "pattern": "66666",
-   "count": 106,
+   "count": 103,
    "states": [
     {
      "state": "Alabama",
@@ -1299,7 +1275,7 @@
     },
     {
      "state": "Georgia",
-     "count": 25,
+     "count": 22,
      "numbers": [
       {
        "number": "+1 229 466 6661",
@@ -1374,15 +1350,7 @@
        "location": "Watkinsville, GA"
       },
       {
-       "number": "+1 706 666 6753",
-       "location": "Watkinsville, GA"
-      },
-      {
        "number": "+1 706 666 6754",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6755",
        "location": "Watkinsville, GA"
       },
       {
@@ -1395,10 +1363,6 @@
       },
       {
        "number": "+1 706 666 6762",
-       "location": "Watkinsville, GA"
-      },
-      {
-       "number": "+1 706 666 6765",
        "location": "Watkinsville, GA"
       }
      ]
@@ -5155,7 +5119,7 @@
   }
  ],
  "pattern_0000": {
-  "total": 1118,
+  "total": 1111,
   "state_count": 41,
   "states": [
    {
@@ -5398,7 +5362,7 @@
    },
    {
     "state": "California",
-    "count": 53,
+    "count": 61,
     "numbers": [
      {
       "number": "+1 562 580 0005",
@@ -5557,6 +5521,42 @@
       "location": "Gilroy, CA"
      },
      {
+      "number": "+1 669 880 0001",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0002",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0003",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0004",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0005",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0006",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0007",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0008",
+      "location": "San Jose:north Da, CA"
+     },
+     {
+      "number": "+1 669 880 0009",
+      "location": "San Jose:north Da, CA"
+     },
+     {
       "number": "+1 707 390 0005",
       "location": "Scotia, CA"
      },
@@ -5587,10 +5587,6 @@
      {
       "number": "+1 820 280 0004",
       "location": "Los Alamos, CA"
-     },
-     {
-      "number": "+1 909 600 0018",
-      "location": "Fontana, CA"
      },
      {
       "number": "+1 909 600 0029",
@@ -6860,12 +6856,8 @@
    },
    {
     "state": "Iowa",
-    "count": 53,
+    "count": 45,
     "numbers": [
-     {
-      "number": "+1 563 300 0015",
-      "location": "Davenport, IA"
-     },
      {
       "number": "+1 563 300 0018",
       "location": "Davenport, IA"
@@ -6943,10 +6935,6 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0049",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0051",
       "location": "Davenport, IA"
      },
@@ -6968,10 +6956,6 @@
      },
      {
       "number": "+1 563 300 0061",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0063",
       "location": "Davenport, IA"
      },
      {
@@ -6999,15 +6983,7 @@
       "location": "Davenport, IA"
      },
      {
-      "number": "+1 563 300 0075",
-      "location": "Davenport, IA"
-     },
-     {
       "number": "+1 563 300 0076",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0078",
       "location": "Davenport, IA"
      },
      {
@@ -7020,10 +6996,6 @@
      },
      {
       "number": "+1 563 300 0084",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0085",
       "location": "Davenport, IA"
      },
      {
@@ -7040,10 +7012,6 @@
      },
      {
       "number": "+1 563 300 0091",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0092",
       "location": "Davenport, IA"
      },
      {
@@ -7064,10 +7032,6 @@
      },
      {
       "number": "+1 563 300 0097",
-      "location": "Davenport, IA"
-     },
-     {
-      "number": "+1 563 300 0098",
       "location": "Davenport, IA"
      },
      {
@@ -7102,7 +7066,7 @@
    },
    {
     "state": "Louisiana",
-    "count": 14,
+    "count": 12,
     "numbers": [
      {
       "number": "+1 225 430 0002",
@@ -7145,19 +7109,11 @@
       "location": "Bogalusa, LA"
      },
      {
-      "number": "+1 985 570 0004",
-      "location": "Bogalusa, LA"
-     },
-     {
       "number": "+1 985 570 0005",
       "location": "Bogalusa, LA"
      },
      {
       "number": "+1 985 570 0006",
-      "location": "Bogalusa, LA"
-     },
-     {
-      "number": "+1 985 570 0008",
       "location": "Bogalusa, LA"
      }
     ]
@@ -7220,15 +7176,11 @@
    },
    {
     "state": "Minnesota",
-    "count": 82,
+    "count": 80,
     "numbers": [
      {
       "number": "+1 218 480 0004",
       "location": "Stephen, MN"
-     },
-     {
-      "number": "+1 218 610 0004",
-      "location": "Barnum, MN"
      },
      {
       "number": "+1 218 610 0005",
@@ -7540,10 +7492,6 @@
      },
      {
       "number": "+1 763 600 0091",
-      "location": "Hilltop, MN"
-     },
-     {
-      "number": "+1 763 600 0092",
       "location": "Hilltop, MN"
      },
      {
@@ -8058,7 +8006,7 @@
    },
    {
     "state": "New York",
-    "count": 183,
+    "count": 184,
     "numbers": [
      {
       "number": "+1 315 710 0003",
@@ -8705,6 +8653,10 @@
       "location": "Poughkeepsie, NY"
      },
      {
+      "number": "+1 929 560 0004",
+      "location": "Manhattan, NY"
+     },
+     {
       "number": "+1 934 400 0014",
       "location": "Port Jefferson, NY"
      },
@@ -9310,12 +9262,8 @@
    },
    {
     "state": "Pennsylvania",
-    "count": 7,
+    "count": 6,
     "numbers": [
-     {
-      "number": "+1 484 290 0006",
-      "location": "Kutztown, PA"
-     },
      {
       "number": "+1 570 500 0027",
       "location": "Shamokin, PA"
@@ -9476,14 +9424,10 @@
    },
    {
     "state": "Texas",
-    "count": 4,
+    "count": 3,
     "numbers": [
      {
       "number": "+1 903 420 0007",
-      "location": "Corsicana, TX"
-     },
-     {
-      "number": "+1 903 420 0008",
       "location": "Corsicana, TX"
      },
      {
@@ -9588,7 +9532,7 @@
    },
    {
     "state": "Vermont",
-    "count": 19,
+    "count": 18,
     "numbers": [
      {
       "number": "+1 802 300 0013",
@@ -9659,10 +9603,6 @@
       "location": "Perkinsville, VT"
      },
      {
-      "number": "+1 802 520 0009",
-      "location": "Alburg, VT"
-     },
-     {
       "number": "+1 802 910 0005",
       "location": "South Burlington, VT"
      }
@@ -9684,7 +9624,7 @@
    },
    {
     "state": "Washington",
-    "count": 25,
+    "count": 24,
     "numbers": [
      {
       "number": "+1 253 270 0008",
@@ -9763,10 +9703,6 @@
       "location": "Clyde Hill, WA"
      },
      {
-      "number": "+1 509 320 0005",
-      "location": "Starbuck, WA"
-     },
-     {
       "number": "+1 509 600 0016",
       "location": "Bridgeport, WA"
      },
@@ -9835,6 +9771,10 @@
     "count": 10,
     "numbers": [
      {
+      "number": "+1 307 230 0004",
+      "location": "Casper, WY"
+     },
+     {
       "number": "+1 307 420 0003",
       "location": "Lingle, WY"
      },
@@ -9864,10 +9804,6 @@
      },
      {
       "number": "+1 307 800 0036",
-      "location": "Diamondville, WY"
-     },
-     {
-      "number": "+1 307 800 0087",
       "location": "Diamondville, WY"
      },
      {
@@ -9932,38 +9868,6 @@
       {
        "number": "+1 572 221 1115",
        "location": "Bethany, OK"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "pattern": "2225555",
-   "count": 1,
-   "states": [
-    {
-     "state": "Georgia",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 912 225 5554",
-       "location": "Statesboro, GA"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "pattern": "2228888",
-   "count": 1,
-   "states": [
-    {
-     "state": "Indiana",
-     "count": 1,
-     "numbers": [
-      {
-       "number": "+1 812 228 8885",
-       "location": "Evansville, IN"
       }
      ]
     }
@@ -10053,20 +9957,12 @@
   },
   {
    "pattern": "5556666",
-   "count": 3,
+   "count": 1,
    "states": [
     {
      "state": "New York",
-     "count": 3,
+     "count": 1,
      "numbers": [
-      {
-       "number": "+1 315 556 6662",
-       "location": "Little Falls, NY"
-      },
-      {
-       "number": "+1 315 556 6669",
-       "location": "Little Falls, NY"
-      },
       {
        "number": "+1 585 556 6669",
        "location": "Corfu, NY"
@@ -10523,12 +10419,12 @@
   }
  ],
  "summary": {
-  "total_5_in_a_row": 1141,
+  "total_5_in_a_row": 1135,
   "patterns_with_results": 8,
-  "total_0000": 1118,
+  "total_0000": 1111,
   "state_count_0000": 41,
-  "total_aaa_bbbb": 68,
+  "total_aaa_bbbb": 64,
   "aaa_bbbb_patterns_searched": 90,
-  "aaa_bbbb_patterns_with_results": 21
+  "aaa_bbbb_patterns_with_results": 19
  }
 }

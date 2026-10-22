@@ -1,12 +1,12 @@
 VANITY NUMBERS — US ONLY, NO TOLL FREE
-Updated: 2026-10-21
-1141 five-in-a-row · 1118 four-zeros across 41 states · 68 AAA-BBBB across 21 of 90 combinations
+Updated: 2026-10-22
+1135 five-in-a-row · 1111 four-zeros across 41 states · 64 AAA-BBBB across 19 of 90 combinations
 
 ====================================================
 5 IN A ROW
 ====================================================
 
---- 22222 — 61 numbers ---
+--- 22222 — 60 numbers ---
 
   COLORADO (6)
     +1 970 722 2221   Fraser, CO
@@ -21,9 +21,8 @@ Updated: 2026-10-21
     +1 229 222 2261   Ashburn, GA
     +1 762 422 2223   Mccaysville, GA
 
-  ILLINOIS (2)
+  ILLINOIS (1)
     +1 779 222 2247   Sycamore, IL
-    +1 779 222 2269   Sycamore, IL
 
   LOUISIANA (2)
     +1 225 522 2223   Clinton, LA
@@ -97,7 +96,7 @@ Updated: 2026-10-21
     +1 509 722 2226   Chewelah, WA
     +1 509 722 2229   Chewelah, WA
 
---- 33333 — 39 numbers ---
+--- 33333 — 38 numbers ---
 
   ALABAMA (1)
     +1 938 333 3358   Gurley, AL
@@ -144,9 +143,6 @@ Updated: 2026-10-21
   SOUTH DAKOTA (1)
     +1 605 633 3339   Egan, SD
 
-  TENNESSEE (1)
-    +1 731 333 3319   Paris, TN
-
   WISCONSIN (11)
     +1 920 333 3301   Sturgeon Bay, WI
     +1 920 333 3304   Sturgeon Bay, WI
@@ -160,7 +156,7 @@ Updated: 2026-10-21
     +1 920 333 3361   Sturgeon Bay, WI
     +1 920 333 3379   Sturgeon Bay, WI
 
---- 44444 — 61 numbers ---
+--- 44444 — 60 numbers ---
 
   ALABAMA (5)
     +1 659 444 4415   Trussville, AL
@@ -205,9 +201,6 @@ Updated: 2026-10-21
 
   OREGON (1)
     +1 541 644 4443   Harrisburg, OR
-
-  TEXAS (1)
-    +1 936 444 4427   Conroe, TX
 
   UTAH (1)
     +1 385 544 4447   Kaysville, UT
@@ -309,7 +302,7 @@ Updated: 2026-10-21
     +1 509 955 5554   Yakima, WA
     +1 509 955 5557   Yakima, WA
 
---- 66666 — 106 numbers ---
+--- 66666 — 103 numbers ---
 
   ALABAMA (14)
     +1 251 566 6663   Grove Hill, AL
@@ -359,7 +352,7 @@ Updated: 2026-10-21
     +1 863 466 6663   Okeechobee, FL
     +1 863 466 6665   Okeechobee, FL
 
-  GEORGIA (25)
+  GEORGIA (22)
     +1 229 466 6661   Fort Gaines, GA
     +1 478 666 6659   Centerville, GA
     +1 478 666 6698   Centerville, GA
@@ -378,13 +371,10 @@ Updated: 2026-10-21
     +1 706 666 6746   Watkinsville, GA
     +1 706 666 6749   Watkinsville, GA
     +1 706 666 6751   Watkinsville, GA
-    +1 706 666 6753   Watkinsville, GA
     +1 706 666 6754   Watkinsville, GA
-    +1 706 666 6755   Watkinsville, GA
     +1 706 666 6756   Watkinsville, GA
     +1 706 666 6757   Watkinsville, GA
     +1 706 666 6762   Watkinsville, GA
-    +1 706 666 6765   Watkinsville, GA
 
   IDAHO (1)
     +1 986 266 6661   Nampa, ID
@@ -1344,7 +1334,7 @@ Updated: 2026-10-21
     +1 838 999 9902   Plattsburgh West, NY
 
 ====================================================
-4 ZEROS — 1118 numbers across 41 states
+4 ZEROS — 1111 numbers across 41 states
 ====================================================
 
   ALABAMA (31)
@@ -1408,7 +1398,7 @@ Updated: 2026-10-21
     +1 870 900 0081   Viola, AR
     +1 870 900 0092   Viola, AR
 
-  CALIFORNIA (53)
+  CALIFORNIA (61)
     +1 562 580 0005   Long Beach, CA
     +1 562 740 0006   Long Beach, CA
     +1 661 320 0007   Lebec, CA
@@ -1448,6 +1438,15 @@ Updated: 2026-10-21
     +1 669 500 0093   Gilroy, CA
     +1 669 500 0094   Gilroy, CA
     +1 669 500 0097   Gilroy, CA
+    +1 669 880 0001   San Jose:north Da, CA
+    +1 669 880 0002   San Jose:north Da, CA
+    +1 669 880 0003   San Jose:north Da, CA
+    +1 669 880 0004   San Jose:north Da, CA
+    +1 669 880 0005   San Jose:north Da, CA
+    +1 669 880 0006   San Jose:north Da, CA
+    +1 669 880 0007   San Jose:north Da, CA
+    +1 669 880 0008   San Jose:north Da, CA
+    +1 669 880 0009   San Jose:north Da, CA
     +1 707 390 0005   Scotia, CA
     +1 707 390 0008   Scotia, CA
     +1 707 400 0081   Benicia, CA
@@ -1456,7 +1455,6 @@ Updated: 2026-10-21
     +1 707 690 0003   Napa, CA
     +1 707 690 0006   Napa, CA
     +1 820 280 0004   Los Alamos, CA
-    +1 909 600 0018   Fontana, CA
     +1 909 600 0029   Fontana, CA
     +1 909 600 0058   Fontana, CA
     +1 909 600 0072   Fontana, CA
@@ -1778,8 +1776,7 @@ Updated: 2026-10-21
     +1 765 710 0004   Eaton, IN
     +1 765 710 0005   Eaton, IN
 
-  IOWA (53)
-    +1 563 300 0015   Davenport, IA
+  IOWA (45)
     +1 563 300 0018   Davenport, IA
     +1 563 300 0019   Davenport, IA
     +1 563 300 0021   Davenport, IA
@@ -1799,38 +1796,31 @@ Updated: 2026-10-21
     +1 563 300 0045   Davenport, IA
     +1 563 300 0047   Davenport, IA
     +1 563 300 0048   Davenport, IA
-    +1 563 300 0049   Davenport, IA
     +1 563 300 0051   Davenport, IA
     +1 563 300 0052   Davenport, IA
     +1 563 300 0054   Davenport, IA
     +1 563 300 0056   Davenport, IA
     +1 563 300 0057   Davenport, IA
     +1 563 300 0061   Davenport, IA
-    +1 563 300 0063   Davenport, IA
     +1 563 300 0064   Davenport, IA
     +1 563 300 0065   Davenport, IA
     +1 563 300 0068   Davenport, IA
     +1 563 300 0069   Davenport, IA
     +1 563 300 0072   Davenport, IA
     +1 563 300 0074   Davenport, IA
-    +1 563 300 0075   Davenport, IA
     +1 563 300 0076   Davenport, IA
-    +1 563 300 0078   Davenport, IA
     +1 563 300 0079   Davenport, IA
     +1 563 300 0083   Davenport, IA
     +1 563 300 0084   Davenport, IA
-    +1 563 300 0085   Davenport, IA
     +1 563 300 0086   Davenport, IA
     +1 563 300 0087   Davenport, IA
     +1 563 300 0089   Davenport, IA
     +1 563 300 0091   Davenport, IA
-    +1 563 300 0092   Davenport, IA
     +1 563 300 0093   Davenport, IA
     +1 563 300 0094   Davenport, IA
     +1 563 300 0095   Davenport, IA
     +1 563 300 0096   Davenport, IA
     +1 563 300 0097   Davenport, IA
-    +1 563 300 0098   Davenport, IA
     +1 712 800 0076   Glenwood, IA
 
   KANSAS (1)
@@ -1840,7 +1830,7 @@ Updated: 2026-10-21
     +1 859 910 0006   Butler, KY
     +1 859 910 0007   Butler, KY
 
-  LOUISIANA (14)
+  LOUISIANA (12)
     +1 225 430 0002   Donaldsonville, LA
     +1 225 430 0005   Donaldsonville, LA
     +1 225 430 0007   Donaldsonville, LA
@@ -1851,10 +1841,8 @@ Updated: 2026-10-21
     +1 225 480 0006   Denham Springs, LA
     +1 225 480 0008   Denham Springs, LA
     +1 985 570 0003   Bogalusa, LA
-    +1 985 570 0004   Bogalusa, LA
     +1 985 570 0005   Bogalusa, LA
     +1 985 570 0006   Bogalusa, LA
-    +1 985 570 0008   Bogalusa, LA
 
   MARYLAND (10)
     +1 227 240 0007   Kensington, MD
@@ -1871,9 +1859,8 @@ Updated: 2026-10-21
   MASSACHUSETTS (1)
     +1 978 680 0005   Concord, MA
 
-  MINNESOTA (82)
+  MINNESOTA (80)
     +1 218 480 0004   Stephen, MN
-    +1 218 610 0004   Barnum, MN
     +1 218 610 0005   Barnum, MN
     +1 218 610 0006   Barnum, MN
     +1 218 610 0007   Barnum, MN
@@ -1952,7 +1939,6 @@ Updated: 2026-10-21
     +1 763 600 0079   Hilltop, MN
     +1 763 600 0083   Hilltop, MN
     +1 763 600 0091   Hilltop, MN
-    +1 763 600 0092   Hilltop, MN
     +1 763 600 0098   Hilltop, MN
 
   MISSISSIPPI (8)
@@ -2084,7 +2070,7 @@ Updated: 2026-10-21
     +1 575 800 0083   Las Cruces, NM
     +1 575 800 0093   Las Cruces, NM
 
-  NEW YORK (183)
+  NEW YORK (184)
     +1 315 710 0003   Kirkville, NY
     +1 315 710 0009   Kirkville, NY
     +1 315 740 0005   Norwood, NY
@@ -2246,6 +2232,7 @@ Updated: 2026-10-21
     +1 845 930 0008   Walden, NY
     +1 845 960 0002   Poughkeepsie, NY
     +1 845 960 0003   Poughkeepsie, NY
+    +1 929 560 0004   Manhattan, NY
     +1 934 400 0014   Port Jefferson, NY
     +1 934 400 0024   Port Jefferson, NY
     +1 934 400 0025   Port Jefferson, NY
@@ -2400,8 +2387,7 @@ Updated: 2026-10-21
     +1 971 600 0091   Salem, OR
     +1 971 800 0051   Mill City, OR
 
-  PENNSYLVANIA (7)
-    +1 484 290 0006   Kutztown, PA
+  PENNSYLVANIA (6)
     +1 570 500 0027   Shamokin, PA
     +1 570 500 0032   Shamokin, PA
     +1 570 520 0008   Berwick, PA
@@ -2443,9 +2429,8 @@ Updated: 2026-10-21
     +1 931 410 0002   Clarksville, TN
     +1 931 820 0006   Clarksville, TN
 
-  TEXAS (4)
+  TEXAS (3)
     +1 903 420 0007   Corsicana, TX
-    +1 903 420 0008   Corsicana, TX
     +1 903 600 0078   Rice, TX
     +1 903 600 0092   Rice, TX
 
@@ -2472,7 +2457,7 @@ Updated: 2026-10-21
     +1 435 580 0004   Nephi, UT
     +1 435 800 0083   Park City, UT
 
-  VERMONT (19)
+  VERMONT (18)
     +1 802 300 0013   Perkinsville, VT
     +1 802 300 0015   Perkinsville, VT
     +1 802 300 0017   Perkinsville, VT
@@ -2490,14 +2475,13 @@ Updated: 2026-10-21
     +1 802 300 0092   Perkinsville, VT
     +1 802 300 0095   Perkinsville, VT
     +1 802 300 0098   Perkinsville, VT
-    +1 802 520 0009   Alburg, VT
     +1 802 910 0005   South Burlington, VT
 
   VIRGINIA (2)
     +1 540 390 0006   Roanoke, VA
     +1 540 390 0008   Roanoke, VA
 
-  WASHINGTON (25)
+  WASHINGTON (24)
     +1 253 270 0008   Kent, WA
     +1 253 300 0098   Tacoma, WA
     +1 253 390 0007   Tacoma, WA
@@ -2517,7 +2501,6 @@ Updated: 2026-10-21
     +1 425 920 0004   Clyde Hill, WA
     +1 425 930 0002   Clyde Hill, WA
     +1 425 940 0005   Clyde Hill, WA
-    +1 509 320 0005   Starbuck, WA
     +1 509 600 0016   Bridgeport, WA
     +1 509 600 0019   Bridgeport, WA
     +1 509 600 0079   Bridgeport, WA
@@ -2536,6 +2519,7 @@ Updated: 2026-10-21
     +1 681 440 0009   Farmington, WV
 
   WYOMING (10)
+    +1 307 230 0004   Casper, WY
     +1 307 420 0003   Lingle, WY
     +1 307 420 0004   Lingle, WY
     +1 307 420 0006   Lingle, WY
@@ -2544,7 +2528,6 @@ Updated: 2026-10-21
     +1 307 800 0024   Diamondville, WY
     +1 307 800 0028   Diamondville, WY
     +1 307 800 0036   Diamondville, WY
-    +1 307 800 0087   Diamondville, WY
     +1 307 800 0096   Diamondville, WY
 
 ====================================================
@@ -2572,23 +2555,13 @@ Updated: 2026-10-21
 --- 000000 — No results ---
 
 ====================================================
-AAA-BBBB — 68 numbers across 21 patterns
+AAA-BBBB — 64 numbers across 19 patterns
 ====================================================
 
 --- 222-1111 — 1 numbers ---
 
   OKLAHOMA (1)
     +1 572 221 1115   Bethany, OK
-
---- 222-5555 — 1 numbers ---
-
-  GEORGIA (1)
-    +1 912 225 5554   Statesboro, GA
-
---- 222-8888 — 1 numbers ---
-
-  INDIANA (1)
-    +1 812 228 8885   Evansville, IN
 
 --- 333-4444 — 2 numbers ---
 
@@ -2614,11 +2587,9 @@ AAA-BBBB — 68 numbers across 21 patterns
     +1 585 553 3336   Batavia, NY
     +1 585 553 3337   Batavia, NY
 
---- 555-6666 — 3 numbers ---
+--- 555-6666 — 1 numbers ---
 
-  NEW YORK (3)
-    +1 315 556 6662   Little Falls, NY
-    +1 315 556 6669   Little Falls, NY
+  NEW YORK (1)
     +1 585 556 6669   Corfu, NY
 
 --- 555-7777 — 1 numbers ---
